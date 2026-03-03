@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+
+# uv
+.python-version
+
+# Node.js
+node_modules/
+.pnpm-store/
+
+# Next.js
+web/.next/
+web/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+
+# Playwright
+scraper/test-results/
+scraper/playwright-report/
+
+# Data (generated, but we want to track it)
+# data/schedules/ is tracked
+
+# Misc
+*.log
+tmp/
