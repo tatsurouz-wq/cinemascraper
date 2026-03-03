@@ -8,9 +8,10 @@ from datetime import date, timedelta
 
 from rich.console import Console
 
-from src.config import THEATERS_109, THEATERS_TOHO
+from src.config import THEATERS_109, THEATERS_TOHO, THEATERS_TJOY
 from src.scrapers.cinema109 import Cinema109Scraper
 from src.scrapers.toho import TohoScraper
+from src.scrapers.tjoy import TjoyScraper
 
 console = Console()
 
@@ -42,6 +43,15 @@ async def main(days: int = 3, chain: str = "all"):
         scraper_toho.save_schedules(schedules_toho)
         all_schedules.extend(schedules_toho)
         console.print(f"[green]✅ TOHOシネマズ完了: {len(schedules_toho)}件[/]")
+
+    # T-Joy系列
+    if chain in ("all", "tjoy"):
+        console.print(f"\n[bold cyan]📡 T-Joy系列 ({len(THEATERS_TJOY)}館)[/]")
+        scraper_tjoy = TjoyScraper(theaters=THEATERS_TJOY)
+        schedules_tjoy = await scraper_tjoy.scrape_all(target_dates)
+        scraper_tjoy.save_schedules(schedules_tjoy)
+        all_schedules.extend(schedules_tjoy)
+        console.print(f"[green]✅ T-Joy系列完了: {len(schedules_tjoy)}件[/]")
 
     console.print(f"\n[bold green]✅ 全取得完了: {len(all_schedules)}件のスケジュール[/]")
 

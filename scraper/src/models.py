@@ -12,6 +12,7 @@ class Chain(StrEnum):
     """映画館チェーン"""
     CINEMA109 = "109cinemas"
     TOHO = "toho"
+    TJOY = "tjoy"
     AEON = "aeon"
 
 

@@ -30,6 +30,7 @@ export const AREAS: Area[] = [
   { id: "toho-odawara", name: "小田原", prefecture: "神奈川県", theaters: [{ chain: "toho", area: "小田原", name: "TOHOシネマズ小田原" }] },
   { id: "toho-yokohama", name: "横浜", prefecture: "神奈川県", theaters: [{ chain: "toho", area: "横浜", name: "TOHOシネマズららぽーと横浜" }] },
   { id: "toho-kamiooka", name: "上大岡", prefecture: "神奈川県", theaters: [{ chain: "toho", area: "上大岡", name: "TOHOシネマズ上大岡" }] },
+  { id: "tjoy-minatomirai", name: "みなとみらい", prefecture: "神奈川県", theaters: [{ chain: "tjoy", area: "みなとみらい", name: "横浜ブルク13" }] },
   // 千葉県
   { id: "toho-funabashi", name: "船橋", prefecture: "千葉県", theaters: [{ chain: "toho", area: "船橋", name: "TOHOシネマズららぽーと船橋" }] },
   { id: "toho-ichikawa", name: "市川", prefecture: "千葉県", theaters: [{ chain: "toho", area: "市川", name: "TOHOシネマズ市川コルトンプラザ" }] },

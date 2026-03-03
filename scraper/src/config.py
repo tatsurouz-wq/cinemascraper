@@ -149,8 +149,19 @@ THEATERS_TOHO: list[Theater] = [
             url="https://www.tohotheater.jp/net/schedule/025/TNPI2000J01.do"),
 ]
 
+# T-Joy系列 関東エリア劇場
+THEATERS_TJOY: list[Theater] = [
+    Theater(
+        chain=Chain.TJOY,
+        name="横浜ブルク13",
+        area="みなとみらい",
+        prefecture="神奈川県",
+        url="https://tjoy.jp/yokohama_burg13",
+    ),
+]
+
 # 全劇場リスト
-ALL_THEATERS: list[Theater] = THEATERS_109 + THEATERS_TOHO
+ALL_THEATERS: list[Theater] = THEATERS_109 + THEATERS_TOHO + THEATERS_TJOY
 
 # TOHO劇場コード（URLから抽出）
 TOHO_THEATER_CODES: dict[str, str] = {
