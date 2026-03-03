@@ -19,28 +19,34 @@ from src.models import (
 from src.scrapers.base import BaseScraper
 from src.utils.browser import get_browser, get_page, rate_limit
 
-# 109シネマズ 劇場コード
+# 109シネマズ 劇場コード（109cinemas.net ログインフォームより）
 THEATER_CODES: dict[str, str] = {
+    "プレミアム新宿": "X1",
+    "木場": "20",
+    "二子玉川": "T1",
+    "グランベリーパーク": "G1",
     "川崎": "I1",
-    "二子玉川": "I7",
-    "港北": "I9",
-    "木場": "I2",
-    "グランベリーパーク": "IA",
-    "湘南": "I6",
-    "菖蒲": "I8",
-    "佐野": "IB",
+    "港北": "13",
+    "湘南": "R1",
+    "ムービル": "72",
+    "ゆめが丘": "Z1",
+    "佐野": "C1",
+    "菖蒲": "M1",
 }
 
 # 劇場スラッグ（URL用）
 THEATER_SLUGS: dict[str, str] = {
-    "川崎": "kawasaki",
-    "二子玉川": "futakotamagawa",
-    "港北": "kohoku",
+    "プレミアム新宿": "premiumshinjuku",
     "木場": "kiba",
+    "二子玉川": "futakotamagawa",
     "グランベリーパーク": "grandberrypark",
+    "川崎": "kawasaki",
+    "港北": "kohoku",
     "湘南": "shonan",
-    "菖蒲": "shobu",
+    "ムービル": "movil",
+    "ゆめが丘": "yumegaoka",
     "佐野": "sano",
+    "菖蒲": "shobu",
 }
 
 BASE_URL = "https://109cinemas.net"

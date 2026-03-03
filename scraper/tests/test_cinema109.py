@@ -82,7 +82,7 @@ class TestCinema109Scraper:
         )
         scraper = Cinema109Scraper(theaters=[theater])
         url = scraper._build_schedule_url(theater, date(2026, 3, 7))
-        assert url == "https://109cinemas.net/futakotamagawa/schedules/20260307.html?theater_code=I7"
+        assert url == "https://109cinemas.net/futakotamagawa/schedules/20260307.html?theater_code=T1"
 
     @pytest.mark.asyncio
     async def test_parse_schedule_from_fixture(self):

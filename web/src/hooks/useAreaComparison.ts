@@ -4,12 +4,12 @@ import { useMemo } from "react";
 import type { Movie, Schedule } from "@/lib/types";
 
 interface ComparisonResult {
-  /** 両方のエリアで上映中の映画タイトル */
+  /** 全エリアで共通の映画タイトル */
   commonMovies: string[];
-  /** 左エリアのみの映画 */
-  leftOnly: string[];
-  /** 右エリアのみの映画 */
-  rightOnly: string[];
+  /** エリアごとの固有映画 */
+  uniqueByArea: Map<number, string[]>;
+  /** 各エリアの映画タイトルSet */
+  titleSets: Set<string>[];
 }
 
 /** 正規化された映画タイトル（比較用） */
@@ -21,29 +21,48 @@ function normalizeTitle(title: string): string {
     .trim();
 }
 
-/** 2つのスケジュールを比較 */
+/** N個のスケジュールを比較 */
 export function useAreaComparison(
-  leftSchedule: Schedule | null,
-  rightSchedule: Schedule | null
+  schedules: (Schedule | null)[]
 ): ComparisonResult {
   return useMemo(() => {
-    if (!leftSchedule || !rightSchedule) {
-      return { commonMovies: [], leftOnly: [], rightOnly: [] };
+    const validSchedules = schedules.filter(
+      (s): s is Schedule => s !== null && s.movies.length > 0
+    );
+
+    if (validSchedules.length === 0) {
+      return { commonMovies: [], uniqueByArea: new Map(), titleSets: [] };
     }
 
-    const leftTitles = new Set(
-      leftSchedule.movies.map((m) => normalizeTitle(m.title))
-    );
-    const rightTitles = new Set(
-      rightSchedule.movies.map((m) => normalizeTitle(m.title))
+    const titleSets = schedules.map(
+      (s) =>
+        new Set(s ? s.movies.map((m) => normalizeTitle(m.title)) : [])
     );
 
-    const commonMovies = [...leftTitles].filter((t) => rightTitles.has(t));
-    const leftOnly = [...leftTitles].filter((t) => !rightTitles.has(t));
-    const rightOnly = [...rightTitles].filter((t) => !leftTitles.has(t));
+    // 全エリア共通
+    const allTitles = titleSets.filter((s) => s.size > 0);
+    let commonMovies: string[] = [];
+    if (allTitles.length > 0) {
+      commonMovies = [...allTitles[0]].filter((title) =>
+        allTitles.every((set) => set.has(title))
+      );
+    }
 
-    return { commonMovies, leftOnly, rightOnly };
-  }, [leftSchedule, rightSchedule]);
+    // 各エリア固有
+    const uniqueByArea = new Map<number, string[]>();
+    titleSets.forEach((set, idx) => {
+      const unique = [...set].filter((title) =>
+        titleSets.every((otherSet, otherIdx) =>
+          otherIdx === idx ? true : !otherSet.has(title)
+        )
+      );
+      if (unique.length > 0) {
+        uniqueByArea.set(idx, unique);
+      }
+    });
+
+    return { commonMovies, uniqueByArea, titleSets };
+  }, [schedules]);
 }
 
 /** 映画リストを時間順にソート */
