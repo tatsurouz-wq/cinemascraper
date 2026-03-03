@@ -142,7 +142,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -430,7 +430,7 @@
           "screen": "SCREEN6",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-03T11:57:37.410911"
+  "scraped_at": "2026-03-03T16:11:17.342731"
 }
