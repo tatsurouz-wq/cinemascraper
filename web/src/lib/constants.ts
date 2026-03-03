@@ -36,7 +36,7 @@ export const DEFAULT_PRESET = {
 
 /** データパス */
 export const DATA_BASE_PATH =
-  process.env.NEXT_PUBLIC_BASE_PATH || "";
+  process.env.NEXT_PUBLIC_BASE_PATH || "/cinemascraper";
 
 /** 空席状況ラベル */
 export const AVAILABILITY_LABELS: Record<string, string> = {
