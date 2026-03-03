@@ -1,0 +1,435 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-03-05",
+  "movies": [
+    {
+      "title": "レンタル・ファミリー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:35",
+          "end_time": "11:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "レンタル・ファミリー[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:45",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "嵐が丘[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "11:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "コードギアス 亡国のアキト 第2章",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:10",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ENHYPEN WALK THE LINE SUMMER…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ENHYPEN WALK THE…[SCREENX・字幕][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:40",
+          "end_time": "16:55",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ENHYPEN WALK THE LINE…[応援上映][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブーニン 天才ピアニストの沈黙と再生[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:25",
+          "end_time": "16:25",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "東方神起 20th…『IDENTITY』[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画「教場 Requiem」",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "12:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "鬼滅の刃 無限城編 第一章…[SCREENX]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "14:10",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:25",
+          "end_time": "20:10",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "23:25",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "クライム101[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブゴニア[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "17:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "FUKUYAMA MASAHARU LIVE FILM…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:50",
+          "end_time": "15:00",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "BE:the ONE -START…[SCREENX][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:00",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ガンダム 閃光のハサウェイ キルケ…[Dolby Atmos]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:15",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:55",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "クスノキの番人",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "20:55",
+          "end_time": "23:00",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "坂本龍一PERFORMANCE IN NEWYORK:async",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "18:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Tokyo Melody Ryuichi…[英語字幕[ENG SUB",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "10:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ズートピア2[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:00",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:15",
+          "end_time": "17:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版チェンソーマン レゼ篇[英語字幕[ENG SUB",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-03T17:46:17.252765"
+}

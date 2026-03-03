@@ -2,14 +2,14 @@ name: Scrape Movie Schedules
 
 on:
   schedule:
-    # 毎日 JST 5:00 (UTC 20:00) に実行
-    - cron: "0 20 * * *"
+    # 毎日6回更新 (JST 9:00, 12:00, 15:00, 18:00, 20:00, 24:00)
+    - cron: "0 0,3,6,9,11,15 * * *"
   workflow_dispatch:
     inputs:
       days:
         description: "取得する日数"
         required: false
-        default: "3"
+        default: "7"
 
 permissions:
   contents: write
@@ -40,7 +40,7 @@ jobs:
 
       - name: Run scraper
         working-directory: scraper
-        run: uv run python -m src.main ${{ github.event.inputs.days || '3' }}
+        run: uv run python -m src.main ${{ github.event.inputs.days || '7' }}
 
       - name: Copy data to web/public
         run: |
