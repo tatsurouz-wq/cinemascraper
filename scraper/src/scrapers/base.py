@@ -12,7 +12,7 @@ from rich.console import Console
 
 from src.config import OUTPUT_DIR, SCRAPING_CONFIG
 from src.models import Schedule, Theater
-from src.utils.browser import get_browser, get_page, rate_limit
+from src.utils.browser import rate_limit
 
 console = Console()
 
@@ -33,13 +33,12 @@ class BaseScraper(ABC):
         """全劇場・指定日のスケジュールを一括取得"""
         schedules: list[Schedule] = []
 
-        async with get_browser() as browser:
-            for theater in self.theaters:
-                for target_date in target_dates:
-                    schedule = await self._scrape_with_retry(theater, target_date)
-                    if schedule:
-                        schedules.append(schedule)
-                    await rate_limit()
+        for theater in self.theaters:
+            for target_date in target_dates:
+                schedule = await self._scrape_with_retry(theater, target_date)
+                if schedule:
+                    schedules.append(schedule)
+                await rate_limit()
 
         return schedules
 
@@ -75,7 +74,7 @@ class BaseScraper(ABC):
             chain_dir = output_base / schedule.theater.chain.value
             chain_dir.mkdir(parents=True, exist_ok=True)
 
-            area_slug = schedule.theater.area.lower().replace(" ", "_")
+            area_slug = schedule.theater.area.replace(" ", "_")
             filename = f"{area_slug}_{schedule.date.isoformat()}.json"
             filepath = chain_dir / filename
 

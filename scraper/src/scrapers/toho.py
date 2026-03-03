@@ -22,12 +22,6 @@ from src.utils.browser import get_browser, get_page
 BASE_URL = "https://www.tohotheater.jp"
 
 
-def _extract_theater_code(url: str) -> str:
-    """URLから劇場コード（3桁）を抽出"""
-    match = re.search(r"/schedule/(\d{3})/", url)
-    return match.group(1) if match else ""
-
-
 def _detect_format(text: str) -> ScreeningFormat:
     """フォーマットテキストからScreeningFormatを判定"""
     text_lower = text.lower()
@@ -53,14 +47,6 @@ def _detect_language(title: str) -> str:
     return "日本語"
 
 
-def _parse_time(text: str) -> str:
-    """時刻テキストをHH:MM形式に正規化"""
-    match = re.search(r"(\d{1,2}):(\d{2})", text)
-    if match:
-        return f"{int(match.group(1)):02d}:{match.group(2)}"
-    return text.strip()
-
-
 class TohoScraper(BaseScraper):
     """TOHOシネマズ スクレイパー"""
 
@@ -78,16 +64,15 @@ class TohoScraper(BaseScraper):
             async with get_page(browser) as page:
                 await page.goto(url, wait_until="domcontentloaded")
 
-                # TOHOは日付タブをクリックして該当日のスケジュールを表示
+                # 日付タブをクリック
                 await self._select_date(page, target_date)
 
-                # スケジュールコンテンツが動的に読み込まれるのを待つ
+                # スケジュールが動的に読み込まれるのを待つ
                 try:
                     await page.wait_for_selector(
-                        ".schedule-body-section", timeout=15000
+                        ".schedule-body-section-item", timeout=15000
                     )
                 except Exception:
-                    # スケジュールが表示されない場合は空を返す
                     return Schedule(
                         theater=theater,
                         date=target_date,
@@ -109,18 +94,18 @@ class TohoScraper(BaseScraper):
         date_str = target_date.strftime("%Y%m%d")
 
         # 日付タブを探してクリック
-        tabs = await page.query_selector_all(".schedule-tab-inner a")
+        tabs = await page.query_selector_all(".schedule-date a, .schedule-tab a")
         for tab in tabs:
             href = await tab.get_attribute("href") or ""
             data_date = await tab.get_attribute("data-date") or ""
-            text = await tab.inner_text()
+            onclick = await tab.get_attribute("onclick") or ""
 
-            if date_str in href or date_str in data_date:
+            if date_str in href or date_str in data_date or date_str in onclick:
                 await tab.click()
                 await page.wait_for_timeout(2000)
                 return
 
-        # 日付の月/日で探す
+        # 月/日で探す
         month_day = f"{target_date.month}/{target_date.day}"
         for tab in tabs:
             text = await tab.inner_text()
@@ -132,26 +117,21 @@ class TohoScraper(BaseScraper):
     async def _parse_schedule_page(self, page: Page) -> list[Movie]:
         """スケジュールページをパースして映画リストを返す"""
         movies: list[Movie] = []
+        items = await page.query_selector_all(".schedule-body-section-item")
 
-        # TOHOは .schedule-body-section 内に映画ごとのセクション
-        sections = await page.query_selector_all(".schedule-body-section")
-
-        for section in sections:
-            movie = await self._parse_movie_section(section)
+        for item in items:
+            movie = await self._parse_movie_item(item)
             if movie:
                 movies.append(movie)
 
         return movies
 
-    async def _parse_movie_section(self, section) -> Movie | None:
-        """1つの映画セクションから映画情報を抽出"""
+    async def _parse_movie_item(self, item) -> Movie | None:
+        """1つの映画アイテムから映画情報を抽出"""
         # タイトル取得
-        title_el = await section.query_selector(".schedule-body-title a")
-        if not title_el:
-            title_el = await section.query_selector(".schedule-body-title")
+        title_el = await item.query_selector(".schedule-body-title")
         if not title_el:
             return None
-
         title = (await title_el.inner_text()).strip()
         if not title:
             return None
@@ -160,92 +140,75 @@ class TohoScraper(BaseScraper):
 
         # 上映時間取得
         duration = None
-        time_el = await section.query_selector(".schedule-body-time")
+        time_el = await item.query_selector(".schedule-body-info .time")
         if time_el:
             time_text = await time_el.inner_text()
             match = re.search(r"(\d+)分", time_text)
             if match:
                 duration = int(match.group(1))
 
-        # 上映回を解析
-        screenings = await self._parse_screenings(section, language)
+        # スクリーンごとのセクション
+        screenings = await self._parse_screenings(item, language)
 
         return Movie(title=title, duration_min=duration, screenings=screenings)
 
-    async def _parse_screenings(self, section, language: str) -> list[Screening]:
+    async def _parse_screenings(self, item, language: str) -> list[Screening]:
         """上映回情報を抽出"""
         screenings: list[Screening] = []
 
-        # スクリーンごとのブロック
-        screen_blocks = await section.query_selector_all(".schedule-body-screen")
+        screen_sections = await item.query_selector_all(".schedule-screen")
 
-        for block in screen_blocks:
+        for section in screen_sections:
             # スクリーン名
             screen_name = ""
-            screen_el = await block.query_selector(".schedule-body-screenName")
-            if screen_el:
-                screen_name = (await screen_el.inner_text()).strip()
+            screen_title_el = await section.query_selector(".schedule-screen-title")
+            if screen_title_el:
+                screen_name = (await screen_title_el.inner_text()).strip()
 
-            # フォーマット検出
-            block_text = await block.inner_text()
-            fmt = _detect_format(block_text)
+            # フォーマット検出（スクリーンアイコンから）
+            icons_text = ""
+            icons_el = await section.query_selector(".schedule-screen-icons")
+            if icons_el:
+                icons_text = await icons_el.inner_text()
+            fmt = _detect_format(icons_text or screen_name)
 
-            # 上映時間リスト
-            time_items = await block.query_selector_all(".schedule-body-time-item")
-
-            for item in time_items:
-                screening = await self._parse_time_item(
-                    item, screen_name, fmt, language
-                )
-                if screening:
-                    screenings.append(screening)
-
-        # screen_blocks がない場合、フラットな構造を試す
-        if not screen_blocks:
-            time_items = await section.query_selector_all(
-                ".schedule-body-time-item, .schedule-time a"
-            )
-            for item in time_items:
-                screening = await self._parse_time_item(
-                    item, "", ScreeningFormat.STANDARD_2D, language
+            # 各上映回
+            sched_items = await section.query_selector_all(".schedule-item")
+            for si in sched_items:
+                screening = await self._parse_schedule_item(
+                    si, screen_name, fmt, language
                 )
                 if screening:
                     screenings.append(screening)
 
         return screenings
 
-    async def _parse_time_item(
+    async def _parse_schedule_item(
         self, item, screen: str, fmt: ScreeningFormat, language: str
     ) -> Screening | None:
         """1つの上映回要素からScreeningを生成"""
-        text = await item.inner_text()
+        start_el = await item.query_selector(".start")
+        end_el = await item.query_selector(".end")
 
-        # 時刻パターン: "10:00〜12:30" or "10:00 〜 12:30" or separate elements
-        time_match = re.search(
-            r"(\d{1,2}:\d{2})\s*[〜～\-―]\s*(\d{1,2}:\d{2})", text
-        )
+        if not start_el:
+            return None
 
-        if not time_match:
-            # 開始時刻のみのパターン
-            start_match = re.search(r"(\d{1,2}:\d{2})", text)
-            if not start_match:
-                return None
-            start_time = _parse_time(start_match.group(1))
-            end_time = ""
-        else:
-            start_time = _parse_time(time_match.group(1))
-            end_time = _parse_time(time_match.group(2))
+        start_time = (await start_el.inner_text()).strip()
+        end_time = (await end_el.inner_text()).strip() if end_el else ""
 
         # 空席状況
         class_attr = await item.get_attribute("class") or ""
-        availability = Availability.UNKNOWN
+        status_el = await item.query_selector(".status")
+        status_text = (await status_el.inner_text()).strip() if status_el else ""
 
-        if "is-purchase" in class_attr or "購入" in text:
+        if "販売中" in status_text:
             availability = Availability.AVAILABLE
-        elif "is-end" in class_attr or "販売終了" in text or "完売" in text:
-            availability = Availability.SOLD_OUT
-        elif "残りわずか" in text:
+        elif "残りわずか" in status_text:
             availability = Availability.FEW_LEFT
+        elif "販売終了" in status_text or "完売" in status_text:
+            availability = Availability.SOLD_OUT
+        else:
+            availability = Availability.UNKNOWN
 
         return Screening(
             start_time=start_time,

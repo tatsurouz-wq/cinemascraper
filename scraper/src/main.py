@@ -8,38 +8,51 @@ from datetime import date, timedelta
 
 from rich.console import Console
 
-from src.config import THEATERS_109
+from src.config import THEATERS_109, THEATERS_TOHO
 from src.scrapers.cinema109 import Cinema109Scraper
+from src.scrapers.toho import TohoScraper
 
 console = Console()
 
 
-async def main(days: int = 3):
+async def main(days: int = 3, chain: str = "all"):
     """メインスクレイピング処理"""
     today = date.today()
     target_dates = [today + timedelta(days=i) for i in range(days)]
 
     console.print(f"[bold blue]🎬 CineSync スクレイパー起動[/]")
     console.print(f"対象日: {target_dates[0]} ~ {target_dates[-1]}")
-    console.print(f"対象劇場: {len(THEATERS_109)}館")
-    console.print()
 
-    scraper = Cinema109Scraper(theaters=THEATERS_109)
-    schedules = await scraper.scrape_all(target_dates)
+    all_schedules = []
 
-    console.print()
-    console.print(f"[bold green]✅ 取得完了: {len(schedules)}件のスケジュール[/]")
+    # 109シネマズ
+    if chain in ("all", "109"):
+        console.print(f"\n[bold cyan]📡 109シネマズ ({len(THEATERS_109)}館)[/]")
+        scraper_109 = Cinema109Scraper(theaters=THEATERS_109)
+        schedules_109 = await scraper_109.scrape_all(target_dates)
+        scraper_109.save_schedules(schedules_109)
+        all_schedules.extend(schedules_109)
+        console.print(f"[green]✅ 109シネマズ完了: {len(schedules_109)}件[/]")
 
-    # JSON出力
-    scraper.save_schedules(schedules)
+    # TOHOシネマズ
+    if chain in ("all", "toho"):
+        console.print(f"\n[bold cyan]📡 TOHOシネマズ ({len(THEATERS_TOHO)}館)[/]")
+        scraper_toho = TohoScraper(theaters=THEATERS_TOHO)
+        schedules_toho = await scraper_toho.scrape_all(target_dates)
+        scraper_toho.save_schedules(schedules_toho)
+        all_schedules.extend(schedules_toho)
+        console.print(f"[green]✅ TOHOシネマズ完了: {len(schedules_toho)}件[/]")
 
-    total_movies = sum(len(s.movies) for s in schedules)
+    console.print(f"\n[bold green]✅ 全取得完了: {len(all_schedules)}件のスケジュール[/]")
+
+    total_movies = sum(len(s.movies) for s in all_schedules)
     total_screenings = sum(
-        sum(len(m.screenings) for m in s.movies) for s in schedules
+        sum(len(m.screenings) for m in s.movies) for s in all_schedules
     )
     console.print(f"[bold]📊 統計: {total_movies}本の映画, {total_screenings}回の上映[/]")
 
 
 if __name__ == "__main__":
     days = int(sys.argv[1]) if len(sys.argv) > 1 else 3
-    asyncio.run(main(days))
+    chain = sys.argv[2] if len(sys.argv) > 2 else "all"
+    asyncio.run(main(days, chain))
