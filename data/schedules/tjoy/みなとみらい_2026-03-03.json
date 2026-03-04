@@ -18,7 +18,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -94,7 +94,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -230,7 +230,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -352,7 +352,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -374,7 +374,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -420,7 +420,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         },
         {
           "start_time": "21:15",
@@ -496,7 +496,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -626,7 +626,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -670,7 +670,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -848,7 +848,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
         }
       ]
     },
@@ -867,8 +867,43 @@
       ]
     },
     {
-      "title": "【字幕】レンタル・ファミリー",
-      "duration_min": 110,
+      "title": "コードギアス 亡国のアキト 第2章「引き裂かれし翼竜」",
+      "duration_min": 60,
+      "screenings": []
+    },
+    {
+      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】超時空英雄伝エイリアノイド　PART２：終局決戦",
+      "duration_min": 123,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】ローリング・ストーンズ・アット・ザ・マックス　再上映",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "duration_min": 47,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 149,
       "screenings": []
     },
     {
@@ -877,13 +912,43 @@
       "screenings": []
     },
     {
-      "title": "【IMAX】新劇場版 銀魂 -吉原大炎上-(PG12)",
-      "duration_min": 125,
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】ズートピア２",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】クライム101",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】嵐が丘",
+      "duration_min": 136,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】レンタル・ファミリー",
+      "duration_min": 110,
       "screenings": []
     },
     {
       "title": "【SCREENX】ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
       "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 125,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 144,
       "screenings": []
     },
     {
@@ -925,5 +990,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-03T12:08:46.062356"
+  "scraped_at": "2026-03-03T18:57:27.818709"
 }
