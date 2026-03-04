@@ -67,7 +67,10 @@ class BaseScraper(ABC):
         return None
 
     def save_schedules(self, schedules: list[Schedule], base_dir: str | None = None):
-        """スケジュールをJSONファイルとして保存"""
+        """スケジュールをJSONファイルとして保存
+
+        movies が空のスケジュールは既存ファイルを保護するためスキップする。
+        """
         output_base = Path(base_dir or OUTPUT_DIR)
 
         for schedule in schedules:
@@ -77,6 +80,17 @@ class BaseScraper(ABC):
             area_slug = schedule.theater.area.replace(" ", "_")
             filename = f"{area_slug}_{schedule.date.isoformat()}.json"
             filepath = chain_dir / filename
+
+            if not schedule.movies:
+                if filepath.exists():
+                    console.print(
+                        f"[yellow]⏭️  スキップ（空データ・既存保護）: {filepath.name}[/]"
+                    )
+                else:
+                    console.print(
+                        f"[yellow]⏭️  スキップ（空データ）: {filepath.name}[/]"
+                    )
+                continue
 
             data = json.loads(schedule.model_dump_json())
             filepath.write_text(

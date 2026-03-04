@@ -8,10 +8,11 @@ from datetime import date, timedelta
 
 from rich.console import Console
 
-from src.config import THEATERS_109, THEATERS_TOHO, THEATERS_TJOY
+from src.config import THEATERS_109, THEATERS_TOHO, THEATERS_TJOY, THEATERS_HUMAX
 from src.scrapers.cinema109 import Cinema109Scraper
 from src.scrapers.toho import TohoScraper
 from src.scrapers.tjoy import TjoyScraper
+from src.scrapers.humax import HumaxScraper
 
 console = Console()
 
@@ -52,6 +53,15 @@ async def main(days: int = 3, chain: str = "all"):
         scraper_tjoy.save_schedules(schedules_tjoy)
         all_schedules.extend(schedules_tjoy)
         console.print(f"[green]✅ T-Joy系列完了: {len(schedules_tjoy)}件[/]")
+
+    # HUMAX系列
+    if chain in ("all", "humax"):
+        console.print(f"\n[bold cyan]📡 HUMAX系列 ({len(THEATERS_HUMAX)}館)[/]")
+        scraper_humax = HumaxScraper(theaters=THEATERS_HUMAX)
+        schedules_humax = await scraper_humax.scrape_all(target_dates)
+        scraper_humax.save_schedules(schedules_humax)
+        all_schedules.extend(schedules_humax)
+        console.print(f"[green]✅ HUMAX系列完了: {len(schedules_humax)}件[/]")
 
     console.print(f"\n[bold green]✅ 全取得完了: {len(all_schedules)}件のスケジュール[/]")
 

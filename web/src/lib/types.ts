@@ -1,5 +1,5 @@
 /** 映画館チェーン */
-export type Chain = "109cinemas" | "toho" | "tjoy" | "aeon";
+export type Chain = "109cinemas" | "toho" | "tjoy" | "humax" | "aeon";
 
 /** 上映フォーマット */
 export type ScreeningFormat =

@@ -13,6 +13,7 @@ class Chain(StrEnum):
     CINEMA109 = "109cinemas"
     TOHO = "toho"
     TJOY = "tjoy"
+    HUMAX = "humax"
     AEON = "aeon"
 
 

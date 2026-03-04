@@ -58,10 +58,12 @@ export function ComparisonView({
       );
     }
 
-    if (!panel.schedule) {
+    if (!panel.schedule || panel.schedule.movies.length === 0) {
       return (
         <div className="text-center py-8 text-gray-400">
-          <p className="text-sm">エリアを選択してください</p>
+          <p className="text-2xl mb-2">📅</p>
+          <p className="text-sm font-medium">スケジュール未公開</p>
+          <p className="text-xs mt-1">公開され次第表示されます</p>
         </div>
       );
     }

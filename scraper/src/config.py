@@ -158,10 +158,28 @@ THEATERS_TJOY: list[Theater] = [
         prefecture="神奈川県",
         url="https://tjoy.jp/yokohama_burg13",
     ),
+    Theater(
+        chain=Chain.TJOY,
+        name="T・ジョイ横浜",
+        area="横浜駅",
+        prefecture="神奈川県",
+        url="https://tjoy.jp/t-joy_yokohama",
+    ),
+]
+
+# HUMAX系列 関東エリア劇場
+THEATERS_HUMAX: list[Theater] = [
+    Theater(
+        chain=Chain.HUMAX,
+        name="横須賀HUMAXシネマズ",
+        area="横須賀",
+        prefecture="神奈川県",
+        url="https://cinema.humax-cinema.co.jp/cgi-bin/pc/site/det.cgi?tsc=33000",
+    ),
 ]
 
 # 全劇場リスト
-ALL_THEATERS: list[Theater] = THEATERS_109 + THEATERS_TOHO + THEATERS_TJOY
+ALL_THEATERS: list[Theater] = THEATERS_109 + THEATERS_TOHO + THEATERS_TJOY + THEATERS_HUMAX
 
 # TOHO劇場コード（URLから抽出）
 TOHO_THEATER_CODES: dict[str, str] = {

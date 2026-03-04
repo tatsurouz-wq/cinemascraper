@@ -6,6 +6,7 @@ import re
 from datetime import date, datetime
 
 from playwright.async_api import Page
+from rich.console import Console
 
 from src.models import (
     Availability,
@@ -19,6 +20,7 @@ from src.models import (
 from src.scrapers.base import BaseScraper
 from src.utils.browser import get_browser, get_page
 
+console = Console()
 BASE_URL = "https://www.tohotheater.jp"
 
 
@@ -63,6 +65,7 @@ class TohoScraper(BaseScraper):
         async with get_browser() as browser:
             async with get_page(browser) as page:
                 await page.goto(url, wait_until="domcontentloaded")
+                await page.wait_for_timeout(3000)
 
                 # 日付タブをクリック
                 await self._select_date(page, target_date)
@@ -73,6 +76,19 @@ class TohoScraper(BaseScraper):
                         ".schedule-body-section-item", timeout=15000
                     )
                 except Exception:
+                    return Schedule(
+                        theater=theater,
+                        date=target_date,
+                        movies=[],
+                        scraped_at=datetime.now(),
+                    )
+
+                # 日付切替が正しく行われたか検証
+                if not await self._verify_date(page, target_date):
+                    console.print(
+                        f"[yellow]⚠️ 日付切替未確認: {theater.name} ({target_date}) "
+                        f"- スケジュール未公開の可能性[/]"
+                    )
                     return Schedule(
                         theater=theater,
                         date=target_date,
@@ -93,26 +109,40 @@ class TohoScraper(BaseScraper):
         """日付タブをクリックして該当日のスケジュールを表示"""
         date_str = target_date.strftime("%Y%m%d")
 
-        # 日付タブを探してクリック
-        tabs = await page.query_selector_all(".schedule-date a, .schedule-tab a")
-        for tab in tabs:
-            href = await tab.get_attribute("href") or ""
-            data_date = await tab.get_attribute("data-date") or ""
-            onclick = await tab.get_attribute("onclick") or ""
+        # 日付タブは div.schedule-tab-item で id="YYYYMMDD"
+        # CSS セレクタで数字始まりの id は使えないので属性セレクタを使用
+        tab = await page.query_selector(f"div.schedule-tab-item[id='{date_str}']")
 
-            if date_str in href or date_str in data_date or date_str in onclick:
-                await tab.click()
-                await page.wait_for_timeout(2000)
+        if tab:
+            # すでに選択されている場合はスキップ
+            cls = await tab.get_attribute("class") or ""
+            if "is-selected" in cls:
                 return
+            await tab.click()
+            # スケジュールデータが更新されるのを待つ
+            await page.wait_for_timeout(3000)
 
-        # 月/日で探す
-        month_day = f"{target_date.month}/{target_date.day}"
-        for tab in tabs:
-            text = await tab.inner_text()
-            if month_day in text:
-                await tab.click()
-                await page.wait_for_timeout(2000)
-                return
+    async def _verify_date(self, page: Page, target_date: date) -> bool:
+        """日付切替が正しく行われたか検証"""
+        date_str = target_date.strftime("%Y%m%d")
+
+        # 選択中のタブの id が target_date と一致するか確認
+        selected = await page.query_selector("div.schedule-tab-item.is-selected")
+        if selected:
+            selected_id = await selected.get_attribute("id") or ""
+            if selected_id == date_str:
+                return True
+            console.print(
+                f"[yellow]  選択中タブ: {selected_id}, 期待: {date_str}[/]"
+            )
+            return False
+
+        # タブが見つからない場合（日付がタブに存在しない＝スケジュール未公開）
+        tab_exists = await page.query_selector(f"div.schedule-tab-item[id='{date_str}']")
+        if not tab_exists:
+            return False
+
+        return True
 
     async def _parse_schedule_page(self, page: Page) -> list[Movie]:
         """スケジュールページをパースして映画リストを返す"""
