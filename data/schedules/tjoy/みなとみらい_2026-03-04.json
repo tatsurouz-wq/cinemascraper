@@ -26,7 +26,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:40",
@@ -80,7 +80,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -126,7 +126,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -156,7 +156,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -216,7 +216,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:35",
@@ -318,7 +318,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -368,7 +368,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -406,7 +406,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -482,7 +482,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -518,7 +518,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -546,7 +546,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -612,7 +612,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -640,7 +640,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -722,7 +722,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -820,7 +820,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -848,7 +848,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -867,43 +867,38 @@
       ]
     },
     {
-      "title": "【公開記念舞台挨拶中継】東方神起 20th Anniversary Film『IDENTITY』",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「僕の心のヤバイやつ」",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
       "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
       "duration_min": 104,
       "screenings": []
     },
     {
-      "title": "劇場版「緊急取調室 THE FINAL」",
-      "duration_min": 121,
+      "title": "【IMAX】ローリング・ストーンズ・アット・ザ・マックス　再上映",
+      "duration_min": 87,
       "screenings": []
     },
     {
-      "title": "【字幕】おさるのベン[R15+]",
-      "duration_min": 89,
+      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "duration_min": 47,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】嵐が丘",
+      "duration_min": 136,
       "screenings": []
     },
     {
       "title": "【SCREENX with DolbyAtmos】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
       "duration_min": 155,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
       "screenings": []
     },
     {
@@ -917,43 +912,38 @@
       "screenings": []
     },
     {
-      "title": "ほどなく、お別れです",
+      "title": "【字幕】クライム101",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】レンタル・ファミリー",
+      "duration_min": 110,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 144,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】新劇場版 銀魂 -吉原大炎上-(PG12)",
       "duration_min": 125,
       "screenings": []
     },
     {
-      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
-      "duration_min": 127,
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ブゴニア(PG12)",
+      "title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI　月光 ずっとこの光につながっていたんだ",
       "duration_min": 119,
       "screenings": []
     },
     {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】超時空英雄伝エイリアノイド　PART２：終局決戦",
-      "duration_min": 123,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX】ローリング・ストーンズ・アット・ザ・マックス　再上映",
-      "duration_min": 87,
+      "title": "クスノキの番人",
+      "duration_min": 114,
       "screenings": []
     },
     {
@@ -966,7 +956,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -999,5 +989,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-04T07:26:44.768544"
+  "scraped_at": "2026-03-04T10:16:20.033318"
 }
