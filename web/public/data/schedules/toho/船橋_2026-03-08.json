@@ -9,6 +9,20 @@
   "date": "2026-03-08",
   "movies": [
     {
+      "title": "舞台『刀剣乱舞』禺伝　矛盾源氏物語～再演～　ライブビューイング",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド　永遠の約束（ＭＸ４Ｄ・字幕版）",
       "duration_min": 137,
       "screenings": [
@@ -172,7 +186,7 @@
     },
     {
       "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第３幕",
-      "duration_min": 72,
+      "duration_min": 77,
       "screenings": [
         {
           "start_time": "10:30",
@@ -605,5 +619,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-05T10:11:17.516052"
+  "scraped_at": "2026-03-05T12:01:03.852936"
 }

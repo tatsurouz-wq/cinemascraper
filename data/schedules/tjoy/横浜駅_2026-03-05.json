@@ -126,7 +126,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -210,7 +210,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -314,7 +314,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -434,7 +434,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -492,7 +492,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -581,41 +581,6 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 148,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
-      "duration_min": 126,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyAtmos】機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
-      "duration_min": 155,
-      "screenings": []
     },
     {
       "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
@@ -647,5 +612,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-05T10:34:57.762963"
+  "scraped_at": "2026-03-05T12:23:49.857398"
 }
