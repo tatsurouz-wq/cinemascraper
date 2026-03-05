@@ -26,7 +26,7 @@
           "screen": "SCREEN8",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:45",
@@ -172,7 +172,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:40",
@@ -180,7 +180,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:35",
@@ -218,7 +218,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:45",
@@ -226,7 +226,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:20",
@@ -262,7 +262,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:55",
@@ -270,7 +270,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:40",
@@ -308,7 +308,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:45",
@@ -346,7 +346,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:35",
@@ -354,7 +354,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:40",
@@ -384,7 +384,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -398,7 +398,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:25",
@@ -406,7 +406,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:55",
@@ -477,6 +477,20 @@
       ]
     },
     {
+      "title": "劇場版「進撃の巨人」完結編　ＴＨＥ　ＬＡＳＴ　ＡＴＴＡＣＫ（ＭＸ４Ｄ）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "19:45",
+          "end_time": "22:20",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "クライム１０１（吹替版）",
       "duration_min": 140,
       "screenings": [
@@ -486,7 +500,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -528,7 +542,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:35",
@@ -536,7 +550,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -564,7 +578,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }

@@ -13,8 +13,8 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "13:20",
-          "end_time": "15:50",
+          "start_time": "9:20",
+          "end_time": "11:55",
           "screen": "SCREEN4",
           "format": "IMAX",
           "language": "字幕",
@@ -137,10 +137,10 @@
           "availability": "available"
         },
         {
-          "start_time": "20:50",
-          "end_time": "23:20",
-          "screen": "SCREEN4",
-          "format": "IMAX",
+          "start_time": "21:00",
+          "end_time": "23:35",
+          "screen": "SCREEN1",
+          "format": "2D",
           "language": "字幕",
           "availability": "available"
         }
@@ -151,9 +151,9 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "9:20",
-          "end_time": "11:50",
-          "screen": "SCREEN1",
+          "start_time": "15:25",
+          "end_time": "18:00",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -203,33 +203,31 @@
           "availability": "unknown"
         },
         {
-          "start_time": "12:20",
-          "end_time": "14:50",
-          "screen": "SCREEN1",
+          "start_time": "18:55",
+          "end_time": "21:25",
+          "screen": "SCREEN7",
           "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:20",
-          "end_time": "17:50",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
           "availability": "unknown"
-        },
+        }
+      ]
+    },
+    {
+      "title": "韓国ミュージカル　ＯＮ　ＳＣＲＥＥＮ「モーツァルト！」（字幕版）",
+      "duration_min": 189,
+      "screenings": [
         {
-          "start_time": "18:20",
-          "end_time": "20:50",
-          "screen": "SCREEN1",
+          "start_time": "12:20",
+          "end_time": "15:40",
+          "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
         },
         {
-          "start_time": "21:20",
-          "end_time": "23:50",
-          "screen": "SCREEN1",
+          "start_time": "19:00",
+          "end_time": "22:20",
+          "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -241,43 +239,11 @@
       "duration_min": 139,
       "screenings": [
         {
-          "start_time": "9:15",
-          "end_time": "11:10",
+          "start_time": "11:30",
+          "end_time": "14:00",
           "screen": "SCREEN11",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "15:55",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "18:15",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:40",
-          "end_time": "20:35",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:00",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
           "availability": "available"
         },
         {
@@ -341,66 +307,20 @@
       "duration_min": 104,
       "screenings": [
         {
-          "start_time": "9:30",
-          "end_time": "11:25",
+          "start_time": "10:55",
+          "end_time": "12:50",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "11:55",
-          "end_time": "13:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:15",
-          "end_time": "16:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:40",
-          "end_time": "18:35",
+          "start_time": "21:15",
+          "end_time": "23:10",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "20:55",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "23:30",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "（赤ちゃん連れ限定）映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:35",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -409,46 +329,16 @@
       "duration_min": 110,
       "screenings": [
         {
-          "start_time": "11:50",
-          "end_time": "13:50",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:20",
-          "end_time": "16:20",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:20",
-          "end_time": "21:20",
-          "screen": "SCREEN5",
+          "start_time": "11:40",
+          "end_time": "13:45",
+          "screen": "SCREEN10",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
         },
         {
-          "start_time": "21:45",
-          "end_time": "23:45",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "レンタル・ファミリー（英語・日本語字幕版）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "16:30",
-          "end_time": "18:30",
+          "start_time": "19:30",
+          "end_time": "21:35",
           "screen": "SCREEN10",
           "format": "2D",
           "language": "字幕",
@@ -461,41 +351,71 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "11:30",
-          "end_time": "13:40",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "16:15",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:40",
-          "end_time": "18:50",
-          "screen": "SCREEN9",
+          "start_time": "13:15",
+          "end_time": "15:25",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "19:15",
-          "end_time": "21:25",
-          "screen": "SCREEN9",
+          "start_time": "18:40",
+          "end_time": "20:50",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "21:50",
-          "end_time": "24:00",
-          "screen": "SCREEN9",
+          "start_time": "9:40",
+          "end_time": "11:50",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:20",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:45",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:10",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:40",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -507,36 +427,20 @@
       "duration_min": 105,
       "screenings": [
         {
-          "start_time": "12:30",
-          "end_time": "14:25",
-          "screen": "SCREEN3",
+          "start_time": "9:00",
+          "end_time": "10:55",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "14:55",
-          "end_time": "16:50",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:35",
-          "end_time": "21:30",
-          "screen": "SCREEN3",
+          "start_time": "21:50",
+          "end_time": "23:45",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        },
-        {
-          "start_time": "9:10",
-          "end_time": "11:05",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -545,39 +449,17 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "11:15",
-          "end_time": "12:55",
-          "screen": "SCREEN4",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:45",
-          "end_time": "20:25",
-          "screen": "SCREEN4",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "Ｔｗｅｎｔｙ　Ｏｎｅ　Ｐｉｌｏｔｓ：　Ｍｏｒｅ　Ｔｈａｎ　Ｗｅ　Ｅｖｅｒ　Ｉｍａｇｉｎｅｄ（字幕版）",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "9:10",
-          "end_time": "11:20",
-          "screen": "SCREEN5",
+          "start_time": "12:55",
+          "end_time": "15:25",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "16:45",
-          "end_time": "18:55",
-          "screen": "SCREEN5",
+          "start_time": "18:35",
+          "end_time": "21:05",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -589,35 +471,11 @@
       "duration_min": 110,
       "screenings": [
         {
-          "start_time": "10:00",
-          "end_time": "12:45",
-          "screen": "SCREEN12（東京宝塚地下）",
+          "start_time": "15:40",
+          "end_time": "17:40",
+          "screen": "SCREEN10",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:15",
-          "end_time": "16:00",
-          "screen": "SCREEN12（東京宝塚地下）",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "19:15",
-          "screen": "SCREEN12（東京宝塚地下）",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:45",
-          "end_time": "22:30",
-          "screen": "SCREEN12（東京宝塚地下）",
-          "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -627,19 +485,41 @@
       "duration_min": 89,
       "screenings": [
         {
-          "start_time": "17:25",
-          "end_time": "19:10",
-          "screen": "SCREEN3",
+          "start_time": "21:20",
+          "end_time": "23:05",
+          "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "教場　Ｒｅｑｕｉｅｍ",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "14:50",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         },
         {
-          "start_time": "21:55",
-          "end_time": "23:40",
-          "screen": "SCREEN3",
+          "start_time": "14:45",
+          "end_time": "17:30",
+          "screen": "SCREEN9",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -649,50 +529,12 @@
       "duration_min": 135,
       "screenings": [
         {
-          "start_time": "9:15",
-          "end_time": "11:45",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:15",
-          "end_time": "14:45",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:15",
-          "end_time": "17:45",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:10",
-          "end_time": "20:40",
-          "screen": "SCREEN8",
+          "start_time": "12:45",
+          "end_time": "15:15",
+          "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "東方神起　２０ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｆｉｌｍ『ＩＤＥＮＴＩＴＹ』",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "12:55",
-          "end_time": "15:25",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -701,17 +543,9 @@
       "duration_min": 124,
       "screenings": [
         {
-          "start_time": "13:05",
-          "end_time": "15:20",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "23:15",
-          "screen": "SCREEN6",
+          "start_time": "8:50",
+          "end_time": "11:05",
+          "screen": "SCREEN11",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -723,17 +557,9 @@
       "duration_min": 140,
       "screenings": [
         {
-          "start_time": "15:15",
-          "end_time": "17:50",
-          "screen": "SCREEN13（東京宝塚地下）",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:45",
-          "end_time": "23:20",
-          "screen": "SCREEN13（東京宝塚地下）",
+          "start_time": "9:30",
+          "end_time": "12:05",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -745,42 +571,12 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "10:10",
-          "end_time": "12:25",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:50",
-          "end_time": "18:05",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:45",
-          "screen": "SCREEN7",
+          "start_time": "15:35",
+          "end_time": "17:50",
+          "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "トゥギャザー（字幕版）",
-      "duration_min": 101,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:40",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
         }
       ]
     },
@@ -789,42 +585,28 @@
       "duration_min": 125,
       "screenings": [
         {
-          "start_time": "18:40",
-          "end_time": "21:00",
-          "screen": "SCREEN7",
+          "start_time": "10:10",
+          "end_time": "12:30",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "11:05",
-          "end_time": "13:25",
-          "screen": "SCREEN10",
+          "start_time": "15:50",
+          "end_time": "18:10",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "13:45",
-          "end_time": "16:05",
-          "screen": "SCREEN10",
+          "start_time": "21:30",
+          "end_time": "23:50",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "射鵰英雄伝（字幕版）",
-      "duration_min": 147,
-      "screenings": [
-        {
-          "start_time": "9:20",
-          "end_time": "12:00",
-          "screen": "SCREEN13（東京宝塚地下）",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -833,33 +615,17 @@
       "duration_min": 46,
       "screenings": [
         {
-          "start_time": "11:40",
-          "end_time": "12:40",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:45",
-          "end_time": "16:45",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:35",
-          "end_time": "20:35",
-          "screen": "SCREEN6",
+          "start_time": "8:50",
+          "end_time": "9:50",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "8:50",
-          "end_time": "9:50",
-          "screen": "SCREEN7",
+          "start_time": "14:10",
+          "end_time": "15:10",
+          "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -887,31 +653,9 @@
       "duration_min": 108,
       "screenings": [
         {
-          "start_time": "8:45",
-          "end_time": "10:50",
-          "screen": "SCREEN4",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:15",
-          "end_time": "18:20",
-          "screen": "SCREEN4",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ランニング・マン（字幕版）",
-      "duration_min": 133,
-      "screenings": [
-        {
-          "start_time": "12:25",
-          "end_time": "14:50",
-          "screen": "SCREEN13（東京宝塚地下）",
+          "start_time": "21:25",
+          "end_time": "23:30",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -923,8 +667,8 @@
       "duration_min": 113,
       "screenings": [
         {
-          "start_time": "18:15",
-          "end_time": "20:20",
+          "start_time": "18:50",
+          "end_time": "20:55",
           "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
@@ -937,9 +681,9 @@
       "duration_min": 108,
       "screenings": [
         {
-          "start_time": "17:10",
-          "end_time": "19:10",
-          "screen": "SCREEN6",
+          "start_time": "9:15",
+          "end_time": "11:15",
+          "screen": "SCREEN10",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -965,9 +709,9 @@
       "duration_min": 100,
       "screenings": [
         {
-          "start_time": "21:50",
-          "end_time": "23:40",
-          "screen": "SCREEN10",
+          "start_time": "8:45",
+          "end_time": "10:35",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -979,9 +723,9 @@
       "duration_min": 155,
       "screenings": [
         {
-          "start_time": "21:10",
-          "end_time": "24:00",
-          "screen": "SCREEN8",
+          "start_time": "21:05",
+          "end_time": "23:55",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -993,40 +737,26 @@
       "duration_min": 175,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "12:05",
-          "screen": "SCREEN3",
+          "start_time": "9:20",
+          "end_time": "12:25",
+          "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
     {
-      "title": "栄光のバックホーム",
-      "duration_min": 135,
+      "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
+      "duration_min": 149,
       "screenings": [
         {
-          "start_time": "8:50",
-          "end_time": "11:15",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ボヘミアン・ラプソディ（字幕版）",
-      "duration_min": 135,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:25",
-          "screen": "SCREEN10",
+          "start_time": "18:10",
+          "end_time": "20:50",
+          "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -1035,32 +765,24 @@
       "duration_min": 100,
       "screenings": [
         {
-          "start_time": "9:20",
-          "end_time": "11:15",
+          "start_time": "11:20",
+          "end_time": "13:10",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
         },
         {
-          "start_time": "11:40",
-          "end_time": "13:35",
+          "start_time": "13:35",
+          "end_time": "15:25",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
         },
         {
-          "start_time": "17:25",
-          "end_time": "19:20",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:45",
-          "end_time": "21:40",
+          "start_time": "15:50",
+          "end_time": "17:40",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
@@ -1081,30 +803,8 @@
       "duration_min": 172,
       "screenings": [
         {
-          "start_time": "14:00",
-          "end_time": "17:00",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "国宝",
-      "duration_min": 175,
-      "screenings": [
-        {
-          "start_time": "15:25",
-          "end_time": "18:30",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "10:00",
-          "end_time": "13:05",
+          "start_time": "15:20",
+          "end_time": "18:20",
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
@@ -1117,16 +817,16 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "12:35",
-          "end_time": "15:00",
+          "start_time": "14:20",
+          "end_time": "16:45",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
         },
         {
-          "start_time": "18:30",
-          "end_time": "20:55",
+          "start_time": "18:55",
+          "end_time": "21:20",
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
@@ -1139,23 +839,9 @@
       "duration_min": 84,
       "screenings": [
         {
-          "start_time": "10:30",
-          "end_time": "12:05",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ウォーフェア　戦地最前線（字幕版）",
-      "duration_min": 95,
-      "screenings": [
-        {
-          "start_time": "18:55",
-          "end_time": "20:40",
-          "screen": "SCREEN2",
+          "start_time": "9:20",
+          "end_time": "10:55",
+          "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -1167,8 +853,8 @@
       "duration_min": 124,
       "screenings": [
         {
-          "start_time": "13:30",
-          "end_time": "15:45",
+          "start_time": "10:15",
+          "end_time": "12:30",
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
@@ -1181,15 +867,37 @@
       "duration_min": 106,
       "screenings": [
         {
-          "start_time": "16:15",
-          "end_time": "18:05",
+          "start_time": "17:10",
+          "end_time": "19:05",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:55",
+          "end_time": "14:50",
           "screen": "SCREEN3",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:55",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-03-05T07:02:15.320055"
+  "scraped_at": "2026-03-05T09:52:14.179929"
 }

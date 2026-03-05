@@ -13,44 +13,36 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "10:45",
-          "end_time": "13:25",
+          "start_time": "13:50",
+          "end_time": "16:20",
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:40",
-          "screen": "楽天地SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:15",
-          "end_time": "19:55",
-          "screen": "楽天地SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:50",
-          "end_time": "23:30",
-          "screen": "楽天地SCREEN9",
-          "format": "2D",
-          "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "9:10",
-          "end_time": "11:50",
-          "screen": "楽天地SCREEN12",
+          "start_time": "16:55",
+          "end_time": "19:25",
+          "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
+        },
+        {
+          "start_time": "20:00",
+          "end_time": "22:30",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:55",
+          "end_time": "11:25",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
@@ -64,7 +56,7 @@
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:35",
@@ -72,7 +64,7 @@
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -81,52 +73,44 @@
       "duration_min": 104,
       "screenings": [
         {
-          "start_time": "8:35",
-          "end_time": "10:30",
+          "start_time": "11:35",
+          "end_time": "13:30",
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "11:00",
-          "end_time": "12:55",
+          "start_time": "14:05",
+          "end_time": "16:00",
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "13:30",
-          "end_time": "15:25",
+          "start_time": "16:30",
+          "end_time": "18:25",
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "16:00",
-          "end_time": "17:55",
+          "start_time": "18:55",
+          "end_time": "20:50",
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "18:35",
-          "end_time": "20:30",
+          "start_time": "21:20",
+          "end_time": "23:15",
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:10",
-          "screen": "楽天地SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -135,40 +119,82 @@
       "duration_min": 125,
       "screenings": [
         {
-          "start_time": "8:55",
-          "end_time": "11:10",
+          "start_time": "17:45",
+          "end_time": "20:00",
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "14:40",
-          "end_time": "16:55",
+          "start_time": "20:30",
+          "end_time": "22:45",
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "20:05",
-          "end_time": "22:20",
-          "screen": "楽天地SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:20",
-          "end_time": "14:35",
+          "start_time": "9:25",
+          "end_time": "11:40",
           "screen": "楽天地SCREEN12",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
+          "start_time": "12:10",
+          "end_time": "14:25",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:25",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "クライム１０１（字幕版）",
+      "duration_min": 140,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "11:00",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブゴニア（字幕版）",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:55",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『チェンソーマン　レゼ篇』",
+      "duration_min": 100,
+      "screenings": [
+        {
           "start_time": "17:55",
-          "end_time": "20:10",
+          "end_time": "19:45",
           "screen": "楽天地SCREEN12",
           "format": "2D",
           "language": "日本語",
@@ -186,19 +212,11 @@
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:55",
           "end_time": "13:55",
-          "screen": "楽天地SCREEN11",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:30",
-          "end_time": "19:30",
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "吹替",
@@ -211,12 +229,44 @@
       "duration_min": 110,
       "screenings": [
         {
-          "start_time": "15:20",
-          "end_time": "17:10",
-          "screen": "楽天地SCREEN12",
+          "start_time": "9:10",
+          "end_time": "11:10",
+          "screen": "オリナスSCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
+        },
+        {
+          "start_time": "11:40",
+          "end_time": "13:40",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:10",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:45",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "screen": "オリナスSCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -225,12 +275,12 @@
       "duration_min": 124,
       "screenings": [
         {
-          "start_time": "20:35",
-          "end_time": "22:55",
-          "screen": "楽天地SCREEN12",
+          "start_time": "11:15",
+          "end_time": "13:30",
+          "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:30",
@@ -238,7 +288,7 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -252,7 +302,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -266,7 +316,7 @@
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:50",
@@ -274,7 +324,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:40",
@@ -282,7 +332,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:50",
@@ -290,21 +340,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "（赤ちゃん連れ限定）映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "10:10",
-          "end_time": "12:05",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -313,57 +349,49 @@
       "duration_min": 102,
       "screenings": [
         {
-          "start_time": "13:00",
-          "end_time": "14:55",
+          "start_time": "9:00",
+          "end_time": "10:55",
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "15:25",
-          "end_time": "17:20",
+          "start_time": "11:25",
+          "end_time": "13:20",
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "17:50",
-          "end_time": "19:45",
+          "start_time": "13:50",
+          "end_time": "15:45",
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "20:15",
-          "end_time": "22:10",
+          "start_time": "16:15",
+          "end_time": "18:10",
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "12:15",
-          "end_time": "14:10",
-          "screen": "オリナスSCREEN5",
+          "start_time": "18:50",
+          "end_time": "20:45",
+          "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
-          "start_time": "14:35",
-          "end_time": "16:30",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "20:50",
-          "screen": "オリナスSCREEN6",
+          "start_time": "15:15",
+          "end_time": "17:10",
+          "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -375,33 +403,17 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "11:10",
-          "screen": "オリナスSCREEN3",
+          "start_time": "12:15",
+          "end_time": "14:25",
+          "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:00",
-          "end_time": "15:10",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:40",
-          "end_time": "17:50",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:20",
           "end_time": "20:30",
-          "screen": "オリナスSCREEN3",
+          "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -409,146 +421,10 @@
         {
           "start_time": "20:55",
           "end_time": "23:05",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "レンタル・ファミリー（字幕版）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:45",
-          "screen": "オリナスSCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:00",
-          "screen": "オリナスSCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:25",
-          "end_time": "18:25",
-          "screen": "オリナスSCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:15",
-          "screen": "オリナスSCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "＃拡散",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "11:15",
-          "end_time": "13:10",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:10",
-          "end_time": "22:05",
           "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "嵐が丘（字幕版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "8:50",
-          "end_time": "11:20",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:45",
-          "end_time": "14:15",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:05",
-          "end_time": "18:35",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:25",
-          "end_time": "22:55",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "新劇場版　銀魂　－吉原大炎上－",
-      "duration_min": 124,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "11:00",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:55",
-          "end_time": "17:10",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:50",
-          "end_time": "20:05",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:55",
-          "end_time": "23:05",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         },
         {
           "start_time": "14:40",
@@ -556,7 +432,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -565,64 +441,12 @@
       "duration_min": 155,
       "screenings": [
         {
-          "start_time": "16:55",
-          "end_time": "19:40",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "銀河特急　ミルキー☆サブウェイ　各駅停車劇場行き",
-      "duration_min": 46,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "9:45",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "12:35",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:40",
-          "end_time": "15:40",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "20:00",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "東方神起　２０ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｆｉｌｍ『ＩＤＥＮＴＩＴＹ』",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "11:10",
-          "end_time": "13:35",
+          "start_time": "20:00",
+          "end_time": "22:45",
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -631,20 +455,20 @@
       "duration_min": 175,
       "screenings": [
         {
-          "start_time": "11:25",
-          "end_time": "14:30",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
           "start_time": "8:45",
           "end_time": "11:50",
           "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "17:55",
+          "screen": "オリナスSCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -655,40 +479,18 @@
         {
           "start_time": "8:45",
           "end_time": "10:45",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:10",
-          "end_time": "18:10",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:10",
-          "end_time": "23:10",
-          "screen": "オリナスSCREEN1",
+          "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "栄光のバックホーム",
-      "duration_min": 135,
-      "screenings": [
+        },
         {
-          "start_time": "15:20",
-          "end_time": "17:45",
-          "screen": "オリナスSCREEN7",
+          "start_time": "20:55",
+          "end_time": "22:55",
+          "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -697,23 +499,9 @@
       "duration_min": 102,
       "screenings": [
         {
-          "start_time": "13:35",
-          "end_time": "15:30",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 113,
-      "screenings": [
-        {
-          "start_time": "18:10",
-          "end_time": "20:15",
-          "screen": "オリナスSCREEN7",
+          "start_time": "21:10",
+          "end_time": "23:05",
+          "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -730,7 +518,7 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -739,12 +527,12 @@
       "duration_min": 110,
       "screenings": [
         {
-          "start_time": "20:45",
-          "end_time": "23:15",
-          "screen": "オリナスSCREEN7",
+          "start_time": "10:30",
+          "end_time": "12:30",
+          "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:40",
@@ -752,7 +540,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -761,12 +549,12 @@
       "duration_min": 46,
       "screenings": [
         {
-          "start_time": "20:30",
-          "end_time": "21:40",
-          "screen": "オリナスSCREEN4",
+          "start_time": "19:30",
+          "end_time": "20:30",
+          "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "9:05",
@@ -774,7 +562,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:00",
@@ -782,7 +570,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -791,12 +579,12 @@
       "duration_min": 139,
       "screenings": [
         {
-          "start_time": "18:35",
-          "end_time": "20:45",
-          "screen": "オリナスSCREEN1",
+          "start_time": "8:50",
+          "end_time": "11:20",
+          "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:15",
@@ -804,7 +592,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:10",
@@ -812,7 +600,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -826,7 +614,7 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -840,7 +628,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -854,7 +642,7 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -868,7 +656,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -882,10 +670,10 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-03-05T07:12:52.380283"
+  "scraped_at": "2026-03-05T10:09:28.297546"
 }
