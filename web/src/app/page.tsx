@@ -8,7 +8,7 @@ import TimeFilter from "@/components/TimeFilter";
 import { useMultiSchedule } from "@/hooks/useMultiSchedule";
 import { useAreaComparison } from "@/hooks/useAreaComparison";
 import { useTimeFilter } from "@/hooks/useTimeFilter";
-import { DEFAULT_SELECTED_AREAS, MAX_COMPARE_AREAS } from "@/lib/constants";
+import { AREAS, DEFAULT_SELECTED_AREAS, MAX_COMPARE_AREAS } from "@/lib/constants";
 
 function getToday(): string {
   return new Date().toISOString().split("T")[0];
@@ -55,7 +55,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 py-3">
           <h1 className="text-xl font-bold">🎬 CineSync</h1>
           <p className="text-xs text-gray-400 mt-0.5">
-            関東全域の映画スケジュールを比較（109シネマズ・TOHOシネマズ 38劇場）
+            関東全域の映画スケジュールを比較（{AREAS.length}劇場）
           </p>
         </div>
       </header>

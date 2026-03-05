@@ -1,13 +1,15 @@
 "use client";
 
-import type { Movie, Screening } from "@/lib/types";
+import type { Movie, Screening, Chain } from "@/lib/types";
 import { formatShareText, shareSchedule, buildLineShareUrl } from "@/lib/share";
+import { DiscountInfo } from "./DiscountInfo";
 
 interface ShareButtonProps {
   movie: Movie;
   screening: Screening;
   theaterName: string;
   date: string;
+  chain?: Chain;
   onClose: () => void;
 }
 
@@ -16,9 +18,10 @@ export function ShareButton({
   screening,
   theaterName,
   date,
+  chain,
   onClose,
 }: ShareButtonProps) {
-  const text = formatShareText(movie.title, theaterName, screening, date);
+  const text = formatShareText(movie.title, theaterName, screening, date, chain);
 
   const handleShare = async () => {
     await shareSchedule(text);
@@ -32,13 +35,19 @@ export function ShareButton({
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-end sm:items-center justify-center z-50 p-4">
-      <div className="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-sm overflow-hidden shadow-xl">
+      <div className="bg-white dark:bg-gray-800 rounded-2xl w-full max-w-sm overflow-hidden shadow-xl max-h-[85vh] flex flex-col">
         <div className="p-4 border-b dark:border-gray-700">
           <h3 className="font-bold text-sm">共有する</h3>
           <pre className="mt-2 text-xs text-gray-600 dark:text-gray-400 whitespace-pre-wrap font-sans">
             {text}
           </pre>
         </div>
+
+        {chain && (
+          <div className="p-4 border-b dark:border-gray-700 overflow-y-auto">
+            <DiscountInfo chain={chain} date={date} startTime={screening.start_time} />
+          </div>
+        )}
 
         <div className="p-2 space-y-1">
           <button

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Schedule, Movie, Screening } from "@/lib/types";
+import type { Schedule, Movie, Screening, Chain } from "@/lib/types";
 import { Timeline } from "./Timeline";
 import { ShareButton } from "./ShareButton";
 import { AREAS } from "@/lib/constants";
@@ -28,15 +28,17 @@ export function ComparisonView({
     screening: Screening;
     theaterName: string;
     date: string;
+    chain?: Chain;
   } | null>(null);
 
   const handleScreeningSelect = (
     movie: Movie,
     screening: Screening,
     theaterName: string,
-    date: string
+    date: string,
+    chain?: Chain
   ) => {
-    setShareData({ movie, screening, theaterName, date });
+    setShareData({ movie, screening, theaterName, date, chain });
   };
 
   const activePanels = panels.filter((p) => p.areaId);
@@ -77,7 +79,8 @@ export function ComparisonView({
             movie,
             screening,
             panel.schedule!.theater.name,
-            panel.schedule!.date
+            panel.schedule!.date,
+            panel.schedule!.theater.chain
           )
         }
       />
@@ -150,6 +153,7 @@ export function ComparisonView({
           screening={shareData.screening}
           theaterName={shareData.theaterName}
           date={shareData.date}
+          chain={shareData.chain}
           onClose={() => setShareData(null)}
         />
       )}

@@ -1,11 +1,13 @@
-import type { Screening } from "./types";
+import type { Chain, Screening } from "./types";
+import { formatDiscountText } from "./discounts";
 
 /** LINE共有用テキストを生成 */
 export function formatShareText(
   movieTitle: string,
   theaterName: string,
   screening: Screening,
-  date: string
+  date: string,
+  chain?: Chain
 ): string {
   const lines = [
     `🎬 ${movieTitle}`,
@@ -16,6 +18,13 @@ export function formatShareText(
 
   if (screening.format !== "2D") {
     lines.push(`🎥 ${screening.format}`);
+  }
+
+  if (chain) {
+    const discountText = formatDiscountText(chain, date, screening.start_time);
+    if (discountText) {
+      lines.push("", discountText);
+    }
   }
 
   lines.push("", "CineSyncで検索 🔍");
