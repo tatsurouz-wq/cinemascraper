@@ -869,16 +869,6 @@
       ]
     },
     {
-      "title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI　月光 ずっとこの光につながっていたんだ",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
       "title": "【公開記念舞台挨拶中継】スペシャルズ",
       "duration_min": 150,
       "screenings": [
@@ -905,7 +895,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "「舞台『刀剣乱舞』禺伝 矛盾源氏物語～再演～」ライブビューイング",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-05T12:23:41.915644"
+  "scraped_at": "2026-03-05T16:40:18.885314"
 }
