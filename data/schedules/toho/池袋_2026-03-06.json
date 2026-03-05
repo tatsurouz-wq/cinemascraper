@@ -9,7 +9,6 @@
   "date": "2026-03-06",
   "movies": [
     {
-<<<<<<< HEAD
       "title": "コードギアス２０周年記念復刻上映会　コードギアス　亡国のアキト　第２章",
       "duration_min": 60,
       "screenings": [
@@ -17,187 +16,6 @@
           "start_time": "17:50",
           "end_time": "19:00",
           "screen": "SCREEN9",
-=======
-      "title": "ウィキッド　永遠の約束（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "10:55",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:20",
-          "end_time": "13:55",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ウィキッド　永遠の約束（吹替版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:15",
-          "end_time": "14:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:15",
-          "end_time": "20:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ウィキッド　永遠の約束（字幕版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "15:15",
-          "end_time": "17:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "15:30",
-          "end_time": "18:15",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "21:26",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "21:50",
-          "end_time": "23:55",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "10:30",
-          "end_time": "12:35",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:00",
-          "end_time": "15:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "しあわせな選択（字幕版）",
-      "duration_min": 139,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:55",
-          "end_time": "23:25",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第３幕",
-      "duration_min": 72,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:55",
-          "end_time": "16:20",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:10",
-          "end_time": "20:35",
-          "screen": "SCREEN8",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -223,29 +41,17 @@
       "duration_min": 102,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "8:50",
           "end_time": "10:50",
           "screen": "SCREEN3",
-=======
-          "start_time": "8:45",
-          "end_time": "10:45",
-          "screen": "SCREEN4",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-<<<<<<< HEAD
           "start_time": "13:40",
           "end_time": "15:40",
           "screen": "SCREEN3",
-=======
-          "start_time": "11:10",
-          "end_time": "13:10",
-          "screen": "SCREEN4",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -259,29 +65,17 @@
           "availability": "available"
         },
         {
-<<<<<<< HEAD
           "start_time": "16:10",
           "end_time": "18:10",
           "screen": "SCREEN3",
-=======
-          "start_time": "16:00",
-          "end_time": "18:00",
-          "screen": "SCREEN4",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-<<<<<<< HEAD
           "start_time": "18:35",
           "end_time": "20:35",
           "screen": "SCREEN3",
-=======
-          "start_time": "18:30",
-          "end_time": "20:30",
-          "screen": "SCREEN4",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -305,7 +99,6 @@
           "end_time": "10:20",
           "screen": "SCREEN2",
           "format": "2D",
-<<<<<<< HEAD
           "language": "字幕",
           "availability": "unknown"
         },
@@ -354,21 +147,13 @@
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
-=======
-          "language": "日本語",
-          "availability": "available"
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
         },
         {
           "start_time": "13:00",
           "end_time": "15:00",
           "screen": "SCREEN2",
           "format": "2D",
-<<<<<<< HEAD
           "language": "字幕",
-=======
-          "language": "日本語",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "availability": "available"
         },
         {
@@ -386,7 +171,6 @@
       "duration_min": 104,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "9:15",
           "end_time": "11:15",
           "screen": "SCREEN6",
@@ -443,10 +227,6 @@
         {
           "start_time": "18:10",
           "end_time": "20:30",
-=======
-          "start_time": "16:45",
-          "end_time": "18:45",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
@@ -455,7 +235,6 @@
       ]
     },
     {
-<<<<<<< HEAD
       "title": "ＥＮＨＹＰＥＮ　［ＷＡＬＫ　ＴＨＥ　ＬＩＮＥ　ＳＵＭＭＥＲ　ＥＤＩＴＩＯＮ］　ＩＮ　ＣＩＮＥＭＡＳ",
       "duration_min": 123,
       "screenings": [
@@ -580,8 +359,6 @@
       ]
     },
     {
-=======
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
       "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
       "duration_min": 155,
       "screenings": [
@@ -630,7 +407,6 @@
       "duration_min": 125,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "9:10",
           "end_time": "11:30",
           "screen": "SCREEN4",
@@ -657,23 +433,14 @@
         {
           "start_time": "18:30",
           "end_time": "20:50",
-=======
-          "start_time": "12:05",
-          "end_time": "14:25",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-<<<<<<< HEAD
           "start_time": "21:15",
           "end_time": "23:35",
-=======
-          "start_time": "14:50",
-          "end_time": "17:10",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
@@ -762,7 +529,6 @@
       "duration_min": 46,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "11:35",
           "end_time": "12:35",
           "screen": "SCREEN9",
@@ -774,19 +540,6 @@
           "start_time": "21:40",
           "end_time": "22:40",
           "screen": "SCREEN9",
-=======
-          "start_time": "21:55",
-          "end_time": "22:55",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:35",
-          "end_time": "18:35",
-          "screen": "SCREEN5",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -834,15 +587,9 @@
       "duration_min": 108,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "15:30",
           "end_time": "17:30",
           "screen": "SCREEN9",
-=======
-          "start_time": "10:40",
-          "end_time": "12:40",
-          "screen": "SCREEN2",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -874,17 +621,7 @@
           "format": "2D",
           "language": "吹替",
           "availability": "available"
-<<<<<<< HEAD
         },
-=======
-        }
-      ]
-    },
-    {
-      "title": "レンタル・ファミリー（字幕版）",
-      "duration_min": 110,
-      "screenings": [
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
         {
           "start_time": "10:55",
           "end_time": "13:00",
@@ -914,15 +651,9 @@
       "duration_min": 137,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "8:45",
           "end_time": "10:55",
           "screen": "SCREEN1",
-=======
-          "start_time": "15:50",
-          "end_time": "18:20",
-          "screen": "SCREEN9",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -934,13 +665,8 @@
       "duration_min": 102,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "20:55",
           "end_time": "23:00",
-=======
-          "start_time": "9:10",
-          "end_time": "11:05",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
@@ -949,7 +675,6 @@
       ]
     },
     {
-<<<<<<< HEAD
       "title": "栄光のバックホーム",
       "duration_min": 135,
       "screenings": [
@@ -957,57 +682,6 @@
           "start_time": "9:45",
           "end_time": "12:10",
           "screen": "SCREEN8",
-=======
-      "title": "クライム１０１（字幕版）",
-      "duration_min": 140,
-      "screenings": [
-        {
-          "start_time": "11:05",
-          "end_time": "13:40",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "おさるのベン（字幕版）",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "21:50",
-          "end_time": "23:35",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ブゴニア（字幕版）",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "13:20",
-          "end_time": "15:30",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ヤマトよ永遠に　ＲＥＢＥＬ３１９９　第五章　白熱の銀河大戦",
-      "duration_min": 101,
-      "screenings": [
-        {
-          "start_time": "19:35",
-          "end_time": "21:30",
-          "screen": "SCREEN1",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -1047,13 +721,8 @@
       "duration_min": 175,
       "screenings": [
         {
-<<<<<<< HEAD
           "start_time": "9:20",
           "end_time": "12:30",
-=======
-          "start_time": "8:30",
-          "end_time": "11:40",
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
@@ -1062,9 +731,5 @@
       ]
     }
   ],
-<<<<<<< HEAD
   "scraped_at": "2026-03-05T07:04:20.851195"
-=======
-  "scraped_at": "2026-03-04T11:45:46.043025"
->>>>>>> ea6516c (data: スケジュールデータ更新（TOHO全館7日分・HUMAX・T-Joy横浜駅）)
 }
