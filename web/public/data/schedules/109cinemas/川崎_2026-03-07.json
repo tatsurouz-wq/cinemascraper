@@ -9,6 +9,20 @@
   "date": "2026-03-07",
   "movies": [
     {
+      "title": "2026 RIIZE CONCERT TOUR…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "Re:ゼロから始める異世界生活 4th…[ODS]",
       "duration_min": 90,
       "screenings": [
@@ -120,7 +134,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:50",
@@ -302,7 +316,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:40",
@@ -374,7 +388,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -527,5 +541,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T11:32:49.994571"
+  "scraped_at": "2026-03-06T15:41:25.618455"
 }

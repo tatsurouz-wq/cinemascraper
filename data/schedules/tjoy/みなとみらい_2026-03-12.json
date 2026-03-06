@@ -885,40 +885,6 @@
       ]
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】おさるのベン[R15+]",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "【公開記念舞台挨拶中継】スペシャルズ",
-      "duration_min": 150,
-      "screenings": [
-        {
-          "start_time": "18:55",
-          "end_time": "21:25",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
       "title": "TVアニメ「Re:ゼロから始める異世界生活」4th seasonジャパンプレミア全国同時生中継",
       "duration_min": 90,
       "screenings": [
@@ -926,6 +892,34 @@
           "start_time": "10:50",
           "end_time": "12:20",
           "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:00",
+          "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -945,7 +939,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-06T12:21:46.237563"
+  "scraped_at": "2026-03-06T16:30:02.254064"
 }

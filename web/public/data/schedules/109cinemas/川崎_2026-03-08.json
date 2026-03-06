@@ -9,6 +9,20 @@
   "date": "2026-03-08",
   "movies": [
     {
+      "title": "東和薬品 presents 羽生結弦…[0308][ODS]",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:00",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド 永遠の約束[字幕]",
       "duration_min": 137,
       "screenings": [
@@ -136,7 +150,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -515,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T11:32:58.257077"
+  "scraped_at": "2026-03-06T15:41:32.149731"
 }
