@@ -290,7 +290,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:05",
@@ -298,7 +298,7 @@
           "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -899,5 +899,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-05T16:00:47.038670"
+  "scraped_at": "2026-03-06T02:14:49.778246"
 }
