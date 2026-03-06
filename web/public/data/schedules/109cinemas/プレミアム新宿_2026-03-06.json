@@ -18,7 +18,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -63,20 +63,28 @@
       "duration_min": null,
       "screenings": [
         {
-          "start_time": "14:40",
-          "end_time": "17:10",
-          "screen": "シアター4",
+          "start_time": "10:55",
+          "end_time": "13:25",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "24:15",
+          "end_time": "26:45",
+          "screen": "シアター7",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
-        },
-        {
-          "start_time": "20:30",
-          "end_time": "23:00",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
         }
       ]
     },
@@ -136,7 +144,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:20",
@@ -167,6 +175,20 @@
           "format": "2D",
           "language": "日本語",
           "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "レンタル・ファミリー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:50",
+          "end_time": "23:50",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
@@ -264,7 +286,7 @@
           "screen": "シアター6",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "24:05",
@@ -370,7 +392,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -423,7 +445,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "劇場版チェンソーマン レゼ篇[英語字幕[ENG SUB",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:35",
+          "end_time": "21:25",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-06T04:42:53.698421"
+  "scraped_at": "2026-03-06T06:51:12.725805"
 }
