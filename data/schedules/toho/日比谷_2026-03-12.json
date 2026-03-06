@@ -127,8 +127,8 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "13:20",
-          "end_time": "15:55",
+          "start_time": "13:55",
+          "end_time": "16:30",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
@@ -275,16 +275,8 @@
       "duration_min": 104,
       "screenings": [
         {
-          "start_time": "11:00",
-          "end_time": "12:55",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:40",
-          "end_time": "23:35",
+          "start_time": "22:00",
+          "end_time": "23:55",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -319,16 +311,16 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "16:30",
-          "end_time": "18:40",
+          "start_time": "16:55",
+          "end_time": "19:05",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "19:05",
-          "end_time": "21:15",
+          "start_time": "19:30",
+          "end_time": "21:40",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -721,6 +713,20 @@
       ]
     },
     {
+      "title": "東方神起　２０ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｆｉｌｍ『ＩＤＥＮＴＩＴＹ』",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
       "duration_min": 149,
       "screenings": [
@@ -881,5 +887,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T07:00:32.574516"
+  "scraped_at": "2026-03-06T09:48:53.054463"
 }

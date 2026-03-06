@@ -9,6 +9,20 @@
   "date": "2026-03-07",
   "movies": [
     {
+      "title": "東和薬品　ｐｒｅｓｅｎｔｓ　羽生結弦　ｎｏｔｔｅ　ｓｔｅｌｌａｔａ　２０２６",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "Ｒｅ：ゼロから始める異世界生活　４ｔｈ　ｓｅａｓｏｎ　ジャパンプレミア＆全国同時生中継",
       "duration_min": 90,
       "screenings": [
@@ -493,5 +507,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T07:05:09.091886"
+  "scraped_at": "2026-03-06T09:53:32.757461"
 }
