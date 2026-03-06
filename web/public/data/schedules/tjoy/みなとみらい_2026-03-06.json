@@ -34,7 +34,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -242,7 +242,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -464,7 +464,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -516,7 +516,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -566,7 +566,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -610,7 +610,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -648,7 +648,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -754,7 +754,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -840,7 +840,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -857,56 +857,6 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
-      "duration_min": 101,
-      "screenings": []
-    },
-    {
-      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "duration_min": 47,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】ウィキッド 永遠の約束",
-      "duration_min": 140,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】超時空英雄伝エイリアノイド　PART２：終局決戦",
-      "duration_min": 123,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ザ・クロウ[R15+]",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
-      "screenings": []
-    },
-    {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 149,
-      "screenings": []
     },
     {
       "title": "ほどなく、お別れです",
@@ -971,5 +921,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T10:25:46.721263"
+  "scraped_at": "2026-03-06T12:20:44.448370"
 }

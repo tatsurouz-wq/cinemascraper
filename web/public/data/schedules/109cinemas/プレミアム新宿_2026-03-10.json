@@ -77,11 +77,25 @@
       "duration_min": null,
       "screenings": [
         {
+          "start_time": "14:40",
+          "end_time": "17:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド 永遠の約束[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
           "start_time": "13:35",
           "end_time": "16:05",
           "screen": "シアター7",
           "format": "2D",
-          "language": "字幕",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -437,5 +451,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-06T09:40:00.184085"
+  "scraped_at": "2026-03-06T11:30:00.137193"
 }
