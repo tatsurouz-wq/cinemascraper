@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ池袋",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/084/TNPI2000J01.do"
+  },
+  "date": "2026-03-13",
+  "movies": [
+    {
+      "title": "ＴＡＡＦ２０２６オープニング作品　ＡＲＣＯ／アルコ（字幕版）",
+      "duration_min": 88,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:35",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-07T02:11:06.719555"
+}
