@@ -9,84 +9,6 @@
   "date": "2026-03-14",
   "movies": [
     {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】超時空英雄伝エイリアノイド　PART２：終局決戦",
-      "duration_min": 123,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ザ・クロウ[R15+]",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
-      "screenings": []
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 149,
-      "screenings": []
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】おさるのベン[R15+]",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
-      "duration_min": 180,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "19:00",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "「舞台『刀剣乱舞』禺伝 矛盾源氏物語～再演～」ライブビューイング",
-      "duration_min": 240,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "22:00",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
       "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
       "duration_min": 180,
       "screenings": [
@@ -101,5 +23,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-08T12:06:12.771447"
+  "scraped_at": "2026-03-08T16:10:29.794175"
 }
