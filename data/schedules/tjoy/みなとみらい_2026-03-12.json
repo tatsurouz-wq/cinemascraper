@@ -409,36 +409,6 @@
       ]
     },
     {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "11:20",
-          "end_time": "13:15",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:55",
-          "end_time": "15:50",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:20",
-          "end_time": "21:15",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "【字幕】嵐が丘",
       "duration_min": 136,
       "screenings": [
@@ -534,6 +504,36 @@
           "start_time": "15:40",
           "end_time": "17:35",
           "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:15",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "15:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:15",
+          "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -885,31 +885,6 @@
       ]
     },
     {
-      "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
-      "duration_min": 101,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 76,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】ウィキッド 永遠の約束",
-      "duration_min": 140,
-      "screenings": []
-    },
-    {
-      "title": "国宝(PG12)",
-      "duration_min": 175,
-      "screenings": []
-    },
-    {
       "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
       "duration_min": 104,
       "screenings": []
@@ -925,13 +900,13 @@
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
       "screenings": []
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
+      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
       "screenings": []
     },
     {
@@ -1002,5 +977,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-08T10:16:48.439172"
+  "scraped_at": "2026-03-08T12:06:00.530620"
 }
