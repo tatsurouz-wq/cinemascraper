@@ -221,20 +221,6 @@
       ]
     },
     {
-      "title": "ENHYPEN…[応援上映][SCREENX・字幕][ODS]",
-      "duration_min": 123,
-      "screenings": [
-        {
-          "start_time": "12:05",
-          "end_time": "14:20",
-          "screen": "シアター1",
-          "format": "ScreenX",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画ドラえもん 新・のび太の海底鬼岩城",
       "duration_min": 102,
       "screenings": [
@@ -394,6 +380,20 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ENHYPEN…[応援上映][SCREENX・字幕][ODS]",
+      "duration_min": 123,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "14:20",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-09T02:12:00.571191"
+  "scraped_at": "2026-03-09T04:54:24.473036"
 }
