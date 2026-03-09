@@ -56,7 +56,7 @@
           "screen": "SCREEN4",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:20",
@@ -102,7 +102,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:45",
@@ -148,7 +148,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:00",
@@ -252,7 +252,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:25",
@@ -348,7 +348,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:40",
@@ -386,7 +386,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:40",
@@ -394,7 +394,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -408,7 +408,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -430,7 +430,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -596,7 +596,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:50",
@@ -640,7 +640,7 @@
           "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -738,7 +738,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -862,7 +862,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:50",
@@ -889,5 +889,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-09T07:09:50.675666"
+  "scraped_at": "2026-03-09T09:59:32.611880"
 }
