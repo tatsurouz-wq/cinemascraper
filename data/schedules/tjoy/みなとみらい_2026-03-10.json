@@ -899,39 +899,33 @@
       ]
     },
     {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】おさるのベン[R15+]",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "[ライブ・ビューイング]羽生結弦 notte stellata 2026",
-      "duration_min": 180,
+      "title": "【ツッコミ＆応援上映】新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
       "screenings": [
         {
-          "start_time": "16:00",
-          "end_time": "19:00",
+          "start_time": "19:00",
+          "end_time": "21:15",
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "TVアニメ「黄泉のツガイ」先行上映＆トークイベント ライブビューイング",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "15:55",
+          "end_time": "17:25",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-03-09T12:19:49.732941"
+  "scraped_at": "2026-03-09T16:43:58.237507"
 }

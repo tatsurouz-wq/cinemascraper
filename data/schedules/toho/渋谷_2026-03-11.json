@@ -131,74 +131,6 @@
       ]
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": [
-        {
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:55",
-          "end_time": "15:10",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:35",
-          "end_time": "17:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:15",
-          "end_time": "20:30",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "教場　Ｒｅｑｕｉｅｍ",
-      "duration_min": 149,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:55",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:10",
-          "end_time": "17:50",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "劇場版　転生したらスライムだった件　蒼海の涙編",
       "duration_min": 104,
       "screenings": [
@@ -289,6 +221,74 @@
       ]
     },
     {
+      "title": "教場　Ｒｅｑｕｉｅｍ",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:55",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:50",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:55",
+          "end_time": "15:10",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:35",
+          "end_time": "17:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
       "duration_min": 108,
       "screenings": [
@@ -345,5 +345,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-09T11:51:09.320913"
+  "scraped_at": "2026-03-09T16:14:58.052101"
 }
