@@ -9,6 +9,20 @@
   "date": "2026-03-11",
   "movies": [
     {
+      "title": "東和薬品　ｐｒｅｓｅｎｔｓ　羽生結弦　ｎｏｔｔｅ　ｓｔｅｌｌａｔａ　２０２６",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド　永遠の約束（ＩＭＡＸレーザー・字幕版）",
       "duration_min": 137,
       "screenings": [
@@ -597,5 +611,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T07:32:34.351682"
+  "scraped_at": "2026-03-10T10:28:52.076977"
 }
