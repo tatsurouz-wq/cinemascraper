@@ -32,7 +32,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:25",
@@ -62,7 +62,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -76,7 +76,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:05",
@@ -106,7 +106,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -136,7 +136,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -174,7 +174,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:20",
@@ -204,7 +204,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -256,7 +256,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:10",
@@ -316,7 +316,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:25",
@@ -338,7 +338,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -352,7 +352,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:05",
@@ -402,7 +402,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:15",
@@ -410,7 +410,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:25",
@@ -454,7 +454,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:40",
@@ -492,7 +492,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -542,7 +542,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:55",
@@ -586,7 +586,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:25",
@@ -630,7 +630,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -716,7 +716,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:50",
@@ -738,7 +738,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -766,7 +766,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -794,7 +794,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -808,7 +808,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:35",
@@ -866,7 +866,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -899,6 +899,81 @@
       ]
     },
     {
+      "title": "【字幕】ザ・クロウ[R15+]",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "花緑青が明ける日に",
+      "duration_min": 76,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】『人狼 JIN-ROH』4Kリマスター(PG12)",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕",
+      "duration_min": 79,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 144,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
+      "screenings": []
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 149,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ザ・クロウ[R15+]",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】ウィキッド 永遠の約束",
+      "duration_min": 140,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】韓国ミュージカル ON SCREEN「モーツァルト！」",
+      "duration_min": 189,
+      "screenings": []
+    },
+    {
       "title": "【ツッコミ＆応援上映】新劇場版 銀魂 -吉原大炎上-(PG12)",
       "duration_min": 124,
       "screenings": [
@@ -927,5 +1002,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-09T16:43:58.237507"
+  "scraped_at": "2026-03-10T02:46:39.667090"
 }
