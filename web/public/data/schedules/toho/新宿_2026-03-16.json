@@ -445,6 +445,44 @@
       ]
     },
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "21:15",
+          "end_time": "23:20",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "17:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:05",
+          "screen": "SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "8:55",
+          "end_time": "11:00",
+          "screen": "SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ほどなく、お別れです",
       "duration_min": 125,
       "screenings": [
@@ -527,44 +565,6 @@
         {
           "start_time": "17:25",
           "end_time": "18:25",
-          "screen": "SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "21:15",
-          "end_time": "23:20",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "17:05",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "21:05",
-          "screen": "SCREEN11",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "8:55",
-          "end_time": "11:00",
           "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
@@ -735,5 +735,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:55:45.879304"
+  "scraped_at": "2026-03-10T11:45:06.233058"
 }

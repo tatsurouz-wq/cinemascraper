@@ -9,20 +9,6 @@
   "date": "2026-03-13",
   "movies": [
     {
-      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "18:30",
-          "end_time": "22:00",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
       "duration_min": 149,
       "screenings": [
@@ -57,16 +43,16 @@
       "duration_min": 99,
       "screenings": [
         {
-          "start_time": "11:25",
-          "end_time": "13:15",
+          "start_time": "11:05",
+          "end_time": "12:55",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "13:40",
-          "end_time": "15:30",
+          "start_time": "13:15",
+          "end_time": "15:05",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
@@ -172,7 +158,7 @@
       "screenings": [
         {
           "start_time": "9:00",
-          "end_time": "11:00",
+          "end_time": "10:55",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -180,7 +166,7 @@
         },
         {
           "start_time": "11:30",
-          "end_time": "13:30",
+          "end_time": "13:25",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -188,7 +174,7 @@
         },
         {
           "start_time": "14:00",
-          "end_time": "16:00",
+          "end_time": "15:55",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -196,7 +182,7 @@
         },
         {
           "start_time": "16:30",
-          "end_time": "18:30",
+          "end_time": "18:25",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -204,7 +190,7 @@
         },
         {
           "start_time": "19:00",
-          "end_time": "21:00",
+          "end_time": "20:55",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -212,7 +198,7 @@
         },
         {
           "start_time": "21:30",
-          "end_time": "23:30",
+          "end_time": "23:25",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -479,8 +465,8 @@
       "duration_min": 125,
       "screenings": [
         {
-          "start_time": "8:45",
-          "end_time": "11:00",
+          "start_time": "8:30",
+          "end_time": "10:45",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -501,8 +487,8 @@
       "duration_min": 110,
       "screenings": [
         {
-          "start_time": "15:55",
-          "end_time": "17:55",
+          "start_time": "15:25",
+          "end_time": "17:25",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
@@ -581,5 +567,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T07:30:13.436511"
+  "scraped_at": "2026-03-10T12:15:56.050091"
 }

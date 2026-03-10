@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来（発声ＯＫ）",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:50",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（ＩＭＡＸレーザー）",
       "duration_min": 122,
       "screenings": [
@@ -84,20 +98,6 @@
           "start_time": "14:50",
           "end_time": "17:10",
           "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来（発声ＯＫ）",
-      "duration_min": 155,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:50",
-          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -451,6 +451,36 @@
       ]
     },
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "9:05",
+          "end_time": "11:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:15",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:05",
+          "screen": "SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ほどなく、お別れです",
       "duration_min": 125,
       "screenings": [
@@ -533,36 +563,6 @@
         {
           "start_time": "15:00",
           "end_time": "16:00",
-          "screen": "SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "9:05",
-          "end_time": "11:10",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:10",
-          "end_time": "17:15",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "21:05",
           "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
@@ -719,5 +719,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:55:18.611436"
+  "scraped_at": "2026-03-10T11:44:38.643508"
 }

@@ -9,6 +9,20 @@
   "date": "2026-03-11",
   "movies": [
     {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:58",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "東和薬品　ｐｒｅｓｅｎｔｓ　羽生結弦　ｎｏｔｔｅ　ｓｔｅｌｌａｔａ　２０２６",
       "duration_min": 180,
       "screenings": [
@@ -905,5 +919,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:53:14.375498"
+  "scraped_at": "2026-03-10T11:42:17.192536"
 }

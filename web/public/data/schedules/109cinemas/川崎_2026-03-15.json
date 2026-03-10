@@ -9,15 +9,97 @@
   "date": "2026-03-15",
   "movies": [
     {
-      "title": "アイカツ!10th STORY 未来へのSTARWAY[応援上映",
-      "duration_min": 72,
+      "title": "ゴールデンカムイ 網走監獄襲撃編",
+      "duration_min": 122,
       "screenings": [
         {
-          "start_time": "19:55",
-          "end_time": "21:20",
-          "screen": "シアター9",
+          "start_time": "09:00",
+          "end_time": "11:15",
+          "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:35",
+          "end_time": "16:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[IMAXレーザー]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:35",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:35",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:25",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[吹替]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[字幕]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "23:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -108,102 +190,6 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "私がビーバーになる時[吹替]",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "09:10",
-          "end_time": "11:05",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:30",
-          "end_time": "13:25",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:10",
-          "end_time": "18:05",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "私がビーバーになる時[字幕]",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "21:25",
-          "end_time": "23:20",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "11:15",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:35",
-          "end_time": "16:50",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[IMAXレーザー]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "09:15",
-          "end_time": "11:35",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:15",
-          "end_time": "20:35",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:25",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -304,6 +290,20 @@
           "start_time": "12:35",
           "end_time": "15:55",
           "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アイカツ!10th STORY 未来へのSTARWAY[応援上映",
+      "duration_min": 72,
+      "screenings": [
+        {
+          "start_time": "19:55",
+          "end_time": "21:20",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -547,5 +547,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:48:07.839560"
+  "scraped_at": "2026-03-10T11:37:14.814634"
 }

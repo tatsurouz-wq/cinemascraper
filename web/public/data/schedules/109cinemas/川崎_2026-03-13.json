@@ -9,6 +9,126 @@
   "date": "2026-03-13",
   "movies": [
     {
+      "title": "ゴールデンカムイ 網走監獄襲撃編",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:45",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:15",
+          "end_time": "14:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:25",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:10",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:55",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[IMAXレーザー]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:20",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "17:15",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:25",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[吹替]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:45",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "15:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:10",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[字幕]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "21:50",
+          "end_time": "23:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -94,126 +214,6 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "私がビーバーになる時[吹替]",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "08:50",
-          "end_time": "10:45",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:55",
-          "end_time": "15:50",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:15",
-          "end_time": "18:10",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "私がビーバーになる時[字幕]",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "21:50",
-          "end_time": "23:45",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "09:30",
-          "end_time": "11:45",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:15",
-          "end_time": "14:30",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:10",
-          "end_time": "17:25",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:55",
-          "end_time": "20:10",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:40",
-          "end_time": "22:55",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[IMAXレーザー]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "11:20",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:55",
-          "end_time": "17:15",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:25",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -571,5 +571,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:47:54.876225"
+  "scraped_at": "2026-03-10T11:37:01.458456"
 }

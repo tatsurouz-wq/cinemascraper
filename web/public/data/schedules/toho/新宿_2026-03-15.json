@@ -9,6 +9,20 @@
   "date": "2026-03-15",
   "movies": [
     {
+      "title": "ＴＶアニメ「Ｄｒ．ＳＴＯＮＥ」最終シーズン第３クール直前！！第２クール振り返り限定上映会",
+      "duration_min": 93,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "17:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（ＩＭＡＸレーザー）",
       "duration_min": 122,
       "screenings": [
@@ -25,20 +39,6 @@
           "end_time": "17:30",
           "screen": "SCREEN10",
           "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＴＶアニメ「Ｄｒ．ＳＴＯＮＥ」最終シーズン第３クール直前！！第２クール振り返り限定上映会",
-      "duration_min": 93,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "17:35",
-          "screen": "SCREEN3",
-          "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -459,6 +459,36 @@
       ]
     },
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "18:40",
+          "end_time": "20:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "8:40",
+          "end_time": "10:45",
+          "screen": "SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ほどなく、お別れです",
       "duration_min": 125,
       "screenings": [
@@ -541,36 +571,6 @@
         {
           "start_time": "17:15",
           "end_time": "18:15",
-          "screen": "SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "18:40",
-          "end_time": "20:45",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:25",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "8:40",
-          "end_time": "10:45",
           "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
@@ -735,5 +735,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T09:55:32.652447"
+  "scraped_at": "2026-03-10T11:44:52.830562"
 }
