@@ -9,6 +9,20 @@
   "date": "2026-03-15",
   "movies": [
     {
+      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（発声ＯＫ）",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:04",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（Ｄｏｌｂｙ－ＡＴＭＯＳ）",
       "duration_min": 122,
       "screenings": [
@@ -623,5 +637,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T04:54:48.296849"
+  "scraped_at": "2026-03-10T07:03:46.035223"
 }

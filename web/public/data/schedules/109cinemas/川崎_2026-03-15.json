@@ -9,6 +9,20 @@
   "date": "2026-03-15",
   "movies": [
     {
+      "title": "アイカツ!10th STORY 未来へのSTARWAY[応援上映",
+      "duration_min": 72,
+      "screenings": [
+        {
+          "start_time": "19:55",
+          "end_time": "21:20",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -533,5 +547,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T04:46:01.399604"
+  "scraped_at": "2026-03-10T06:55:21.499818"
 }
