@@ -9,29 +9,18 @@
   "date": "2026-03-16",
   "movies": [
     {
-      "title": "スペシャルズ",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "クスノキの番人",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 76,
-      "screenings": []
+      "title": "[ディレイ・ビューイング]羽生結弦 notte stellata 2026",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "【ツッコミ＆応援上映】新劇場版 銀魂 -吉原大炎上-(PG12)",
@@ -62,5 +51,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T12:23:23.910010"
+  "scraped_at": "2026-03-10T16:51:17.132517"
 }

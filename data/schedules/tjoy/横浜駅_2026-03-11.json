@@ -9,44 +9,6 @@
   "date": "2026-03-11",
   "movies": [
     {
-      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
-      "screenings": [
-        {
-          "start_time": "10:00",
-          "end_time": "12:30",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:50",
-          "end_time": "15:20",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:40",
-          "end_time": "18:10",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:45",
-          "end_time": "23:15",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【字幕】ウィキッド 永遠の約束",
       "duration_min": 138,
       "screenings": [
@@ -103,6 +65,44 @@
           "end_time": "22:25",
           "screen": "シアター６",
           "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:30",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "15:20",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "18:10",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:15",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
           "language": "字幕",
           "availability": "available"
         }
@@ -587,32 +587,7 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "ヒプノシスマイク -Division Rap Battle-",
-      "duration_min": 110,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
     }
   ],
-  "scraped_at": "2026-03-10T12:23:38.587110"
+  "scraped_at": "2026-03-10T16:52:22.505261"
 }
