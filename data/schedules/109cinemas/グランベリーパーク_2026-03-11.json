@@ -48,7 +48,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -106,7 +106,7 @@
           "screen": "シアター9",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -403,5 +403,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-11T06:57:36.549742"
+  "scraped_at": "2026-03-11T09:45:41.408007"
 }
