@@ -333,7 +333,7 @@
       ]
     },
     {
-      "title": "新劇場版　銀魂　－吉原大炎上－",
+      "title": "新劇場版　銀魂　－吉原大炎上－（日本語字幕付き）",
       "duration_min": 124,
       "screenings": [
         {
@@ -341,9 +341,15 @@
           "end_time": "13:20",
           "screen": "オリナスSCREEN1",
           "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
           "availability": "unknown"
-        },
+        }
+      ]
+    },
+    {
+      "title": "新劇場版　銀魂　－吉原大炎上－",
+      "duration_min": 124,
+      "screenings": [
         {
           "start_time": "17:05",
           "end_time": "19:20",
@@ -663,5 +669,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-11T12:00:29.244228"
+  "scraped_at": "2026-03-11T16:15:53.028778"
 }

@@ -613,30 +613,19 @@
       ]
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "ヒプノシスマイク -Division Rap Battle-",
-      "duration_min": 110,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
+      "title": "【「鬼」応援上映】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
+      "duration_min": 157,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-11T12:25:10.837455"
+  "scraped_at": "2026-03-11T16:41:56.247467"
 }

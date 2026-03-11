@@ -110,7 +110,7 @@
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "screen": "オリナスSCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -302,7 +302,7 @@
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:10",
@@ -683,5 +683,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-11T11:59:21.081314"
+  "scraped_at": "2026-03-11T16:14:47.163191"
 }
