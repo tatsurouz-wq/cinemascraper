@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "ＴＶアニメ『薬屋のひとりごと』第１期振り返り限定上映会",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:02",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（ＩＭＡＸレーザー）",
       "duration_min": 122,
       "screenings": [
@@ -895,5 +909,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-11T02:11:01.998729"
+  "scraped_at": "2026-03-11T04:52:22.896267"
 }
