@@ -9,6 +9,20 @@
   "date": "2026-03-15",
   "movies": [
     {
+      "title": "ＴＶアニメ「Ｄｒ．ＳＴＯＮＥ」最終シーズン第３クール直前！！第２クール振り返り限定上映会",
+      "duration_min": 93,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "17:33",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（ＩＭＡＸレーザー）",
       "duration_min": 122,
       "screenings": [
@@ -751,20 +765,6 @@
       ]
     },
     {
-      "title": "ＴＶアニメ「Ｄｒ．ＳＴＯＮＥ」最終シーズン第３クール直前！！第２クール振り返り限定上映会",
-      "duration_min": 93,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "17:33",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "東方神起　２０ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　Ｆｉｌｍ『ＩＤＥＮＴＩＴＹ』",
       "duration_min": 134,
       "screenings": [
@@ -923,5 +923,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-10T16:10:19.067202"
+  "scraped_at": "2026-03-11T02:11:16.942420"
 }
