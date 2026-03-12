@@ -9,6 +9,20 @@
   "date": "2026-03-13",
   "movies": [
     {
+      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ＴＡＡＦ２０２６オープニング作品　ＡＲＣＯ／アルコ（字幕版）",
       "duration_min": 88,
       "screenings": [
@@ -629,5 +643,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T07:08:26.023925"
+  "scraped_at": "2026-03-12T09:56:09.877017"
 }

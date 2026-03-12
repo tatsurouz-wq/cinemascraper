@@ -9,6 +9,20 @@
   "date": "2026-03-16",
   "movies": [
     {
+      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（Ｄｏｌｂｙ－ＡＴＭＯＳ）",
       "duration_min": 122,
       "screenings": [
@@ -573,5 +587,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T07:09:03.761293"
+  "scraped_at": "2026-03-12T09:56:51.880299"
 }

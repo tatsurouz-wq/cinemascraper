@@ -9,6 +9,20 @@
   "date": "2026-03-13",
   "movies": [
     {
+      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -183,6 +197,80 @@
       ]
     },
     {
+      "title": "レンタル・ファミリー（字幕版）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "19:25",
+          "end_time": "21:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:05",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "20:55",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城（ＭＸ４Ｄ）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:40",
+          "screen": "SCREEN9",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:00",
+          "screen": "SCREEN9",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド　永遠の約束（字幕版）",
       "duration_min": 137,
       "screenings": [
@@ -249,66 +337,6 @@
       ]
     },
     {
-      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:40",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "16:05",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "18:30",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "20:55",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "映画ドラえもん　新・のび太の海底鬼岩城（ＭＸ４Ｄ）",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:40",
-          "screen": "SCREEN9",
-          "format": "MX4D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:05",
-          "end_time": "13:00",
-          "screen": "SCREEN9",
-          "format": "MX4D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "スペシャルズ",
       "duration_min": 110,
       "screenings": [
@@ -368,20 +396,6 @@
           "start_time": "21:25",
           "end_time": "23:55",
           "screen": "SCREEN3",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "レンタル・ファミリー（字幕版）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "19:25",
-          "end_time": "21:25",
-          "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -553,5 +567,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T07:33:39.706023"
+  "scraped_at": "2026-03-12T10:24:01.080009"
 }

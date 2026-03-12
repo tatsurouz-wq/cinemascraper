@@ -9,6 +9,20 @@
   "date": "2026-03-16",
   "movies": [
     {
+      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
       "duration_min": 149,
       "screenings": [
@@ -567,5 +581,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T07:37:11.179456"
+  "scraped_at": "2026-03-12T10:27:58.207030"
 }
