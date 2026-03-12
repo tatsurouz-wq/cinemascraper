@@ -9,6 +9,20 @@
   "date": "2026-03-12",
   "movies": [
     {
+      "title": "劇場版『チェンソーマン　レゼ篇』",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "17:55",
+          "end_time": "19:45",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド　永遠の約束（字幕版）",
       "duration_min": 137,
       "screenings": [
@@ -61,13 +75,21 @@
       ]
     },
     {
-      "title": "（赤ちゃん連れ限定）ウィキッド　永遠の約束（吹替版）",
-      "duration_min": 137,
+      "title": "ズートピア２（吹替版）",
+      "duration_min": 108,
       "screenings": [
         {
-          "start_time": "10:45",
-          "end_time": "13:15",
+          "start_time": "8:15",
+          "end_time": "10:15",
           "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:55",
+          "end_time": "13:55",
+          "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -116,7 +138,7 @@
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -195,257 +217,15 @@
       ]
     },
     {
-      "title": "劇場版『チェンソーマン　レゼ篇』",
-      "duration_min": 100,
+      "title": "（赤ちゃん連れ限定）ウィキッド　永遠の約束（吹替版）",
+      "duration_min": 137,
       "screenings": [
         {
-          "start_time": "17:55",
-          "end_time": "19:45",
-          "screen": "楽天地SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ズートピア２（吹替版）",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:15",
+          "start_time": "10:45",
+          "end_time": "13:15",
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:55",
-          "end_time": "13:55",
-          "screen": "楽天地SCREEN11",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "9:00",
-          "end_time": "11:00",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:25",
-          "end_time": "13:25",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:50",
-          "end_time": "15:50",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "18:20",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:50",
-          "end_time": "20:50",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:15",
-          "screen": "オリナスSCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "新劇場版　銀魂　－吉原大炎上－（発声ＯＫ）",
-      "duration_min": 124,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:15",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "新劇場版　銀魂　－吉原大炎上－",
-      "duration_min": 124,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "13:45",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "教場　Ｒｅｑｕｉｅｍ",
-      "duration_min": 149,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "11:25",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:50",
-          "end_time": "14:30",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:40",
-          "end_time": "20:20",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:50",
-          "end_time": "23:30",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:10",
-          "end_time": "16:50",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "15:20",
-          "end_time": "17:15",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "9:00",
-          "end_time": "10:55",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:20",
-          "end_time": "13:15",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:40",
-          "end_time": "15:35",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "17:55",
-          "screen": "オリナスSCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:10",
-          "end_time": "20:05",
-          "screen": "オリナスSCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "14:25",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:20",
-          "end_time": "20:30",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:55",
-          "end_time": "23:05",
-          "screen": "オリナスSCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:40",
-          "end_time": "16:50",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -518,7 +298,7 @@
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -551,6 +331,66 @@
       ]
     },
     {
+      "title": "新劇場版　銀魂　－吉原大炎上－",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:45",
+          "screen": "オリナスSCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "教場　Ｒｅｑｕｉｅｍ",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "11:25",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:50",
+          "end_time": "14:30",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "20:20",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:30",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:50",
+          "screen": "オリナスSCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "レンタル・ファミリー（字幕版）",
       "duration_min": 110,
       "screenings": [
@@ -568,6 +408,152 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:00",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:25",
+          "end_time": "13:25",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "15:50",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:20",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:50",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:15",
+          "screen": "オリナスSCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "14:25",
+          "screen": "オリナスSCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:30",
+          "screen": "オリナスSCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "23:05",
+          "screen": "オリナスSCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "16:50",
+          "screen": "オリナスSCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "15:20",
+          "end_time": "17:15",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:00",
+          "end_time": "10:55",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:20",
+          "end_time": "13:15",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:35",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "17:55",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:05",
+          "screen": "オリナスSCREEN7",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -687,7 +673,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "新劇場版　銀魂　－吉原大炎上－（発声ＯＫ）",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:15",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-12T11:57:32.954865"
+  "scraped_at": "2026-03-12T16:26:51.243683"
 }

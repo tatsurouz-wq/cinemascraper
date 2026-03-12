@@ -9,15 +9,43 @@
   "date": "2026-03-12",
   "movies": [
     {
-      "title": "（赤ちゃん連れ限定）ウィキッド　永遠の約束（吹替版）",
-      "duration_min": 137,
+      "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来",
+      "duration_min": 155,
       "screenings": [
         {
-          "start_time": "9:30",
-          "end_time": "12:05",
-          "screen": "SCREEN5",
+          "start_time": "17:35",
+          "end_time": "20:25",
+          "screen": "PREMIER",
           "format": "2D",
-          "language": "吹替",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "9:35",
+          "end_time": "12:45",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『チェンソーマン　レゼ篇』",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:15",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -75,151 +103,41 @@
       ]
     },
     {
-      "title": "スペシャルズ",
-      "duration_min": 110,
+      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
+      "duration_min": 108,
       "screenings": [
         {
-          "start_time": "20:20",
-          "end_time": "22:25",
+          "start_time": "15:10",
+          "end_time": "17:10",
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "9:00",
-          "end_time": "11:05",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:30",
-          "end_time": "13:35",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:05",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "18:35",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
     {
-      "title": "しあわせな選択（字幕版）",
-      "duration_min": 139,
+      "title": "ズートピア２（吹替版）",
+      "duration_min": 108,
       "screenings": [
         {
-          "start_time": "12:15",
-          "end_time": "14:45",
+          "start_time": "9:40",
+          "end_time": "11:45",
           "screen": "SCREEN8",
           "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:30",
-          "end_time": "23:00",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:40",
-          "end_time": "17:10",
-          "screen": "PREMIER",
-          "format": "2D",
-          "language": "字幕",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
     },
     {
-      "title": "銀河特急　ミルキー☆サブウェイ　各駅停車劇場行き",
-      "duration_min": 46,
+      "title": "新劇場版　銀魂　－吉原大炎上－",
+      "duration_min": 124,
       "screenings": [
         {
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:10",
-          "end_time": "14:10",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "20:00",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:10",
+          "start_time": "17:15",
+          "end_time": "19:35",
           "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "10:10",
-          "end_time": "12:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "13:30",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "15:55",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:25",
-          "end_time": "18:20",
-          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -265,29 +183,37 @@
       ]
     },
     {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
       "screenings": [
         {
-          "start_time": "9:50",
-          "end_time": "12:00",
-          "screen": "SCREEN7",
+          "start_time": "12:35",
+          "end_time": "14:55",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "12:30",
-          "end_time": "14:40",
-          "screen": "SCREEN7",
+          "start_time": "15:20",
+          "end_time": "17:40",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "17:45",
-          "end_time": "19:55",
-          "screen": "SCREEN7",
+          "start_time": "20:35",
+          "end_time": "22:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:50",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -355,39 +281,197 @@
       ]
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
+      "title": "スペシャルズ",
+      "duration_min": 110,
       "screenings": [
         {
-          "start_time": "12:35",
-          "end_time": "14:55",
+          "start_time": "20:20",
+          "end_time": "22:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:00",
+          "end_time": "11:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:35",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:35",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "9:50",
+          "end_time": "12:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:30",
+          "end_time": "14:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:45",
+          "end_time": "19:55",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:10",
+          "end_time": "12:05",
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "15:20",
-          "end_time": "17:40",
-          "screen": "SCREEN3",
+          "start_time": "11:35",
+          "end_time": "13:30",
+          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "20:35",
-          "end_time": "22:55",
-          "screen": "SCREEN3",
+          "start_time": "14:00",
+          "end_time": "15:55",
+          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "17:30",
-          "end_time": "19:50",
+          "start_time": "16:25",
+          "end_time": "18:20",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "銀河特急　ミルキー☆サブウェイ　各駅停車劇場行き",
+      "duration_min": 46,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "14:10",
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "しあわせな選択（字幕版）",
+      "duration_min": 139,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "14:45",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "23:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "17:10",
+          "screen": "PREMIER",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ブゴニア（字幕版）",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "22:50",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -429,103 +513,19 @@
       ]
     },
     {
-      "title": "新劇場版　銀魂　－吉原大炎上－",
-      "duration_min": 124,
+      "title": "（赤ちゃん連れ限定）ウィキッド　永遠の約束（吹替版）",
+      "duration_min": 137,
       "screenings": [
         {
-          "start_time": "17:15",
-          "end_time": "19:35",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ブゴニア（字幕版）",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "20:40",
-          "end_time": "22:50",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "15:10",
-          "end_time": "17:10",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ズートピア２（吹替版）",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "9:40",
-          "end_time": "11:45",
-          "screen": "SCREEN8",
+          "start_time": "9:30",
+          "end_time": "12:05",
+          "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         }
       ]
-    },
-    {
-      "title": "劇場版『チェンソーマン　レゼ篇』",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "18:20",
-          "end_time": "20:15",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来",
-      "duration_min": 155,
-      "screenings": [
-        {
-          "start_time": "17:35",
-          "end_time": "20:25",
-          "screen": "PREMIER",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "国宝",
-      "duration_min": 175,
-      "screenings": [
-        {
-          "start_time": "9:35",
-          "end_time": "12:45",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-03-12T12:03:32.670204"
+  "scraped_at": "2026-03-12T16:32:54.634663"
 }
