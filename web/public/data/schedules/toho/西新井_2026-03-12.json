@@ -116,7 +116,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "22:00",
@@ -540,7 +540,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -587,5 +587,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T10:03:34.022845"
+  "scraped_at": "2026-03-12T11:51:40.326810"
 }

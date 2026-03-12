@@ -34,7 +34,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -146,7 +146,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -550,7 +550,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -632,7 +632,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -674,7 +674,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -738,7 +738,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -880,59 +880,9 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "【IMAX・字幕】ウィキッド 永遠の約束",
-      "duration_min": 140,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】おさるのベン[R15+]",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "国宝(PG12)",
-      "duration_min": 175,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】クライム101",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】超時空英雄伝エイリアノイド　PART２：終局決戦",
-      "duration_min": 123,
-      "screenings": []
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ザ・クロウ[R15+]",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 149,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 76,
-      "screenings": []
     },
     {
       "title": "ほどなく、お別れです",
@@ -942,6 +892,11 @@
     {
       "title": "木挽町のあだ討ち",
       "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "花緑青が明ける日に",
+      "duration_min": 76,
       "screenings": []
     },
     {
@@ -978,5 +933,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-12T10:34:40.705243"
+  "scraped_at": "2026-03-12T12:21:35.374247"
 }
