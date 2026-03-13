@@ -40,7 +40,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:20",
@@ -102,7 +102,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:10",
@@ -132,7 +132,7 @@
           "screen": "SCREEN9",
           "format": "MX4D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -176,7 +176,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:10",
@@ -184,7 +184,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:45",
@@ -228,7 +228,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:30",
@@ -310,7 +310,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:20",
@@ -346,7 +346,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:00",
@@ -384,7 +384,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -567,5 +567,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T02:45:29.536628"
+  "scraped_at": "2026-03-13T05:23:35.334456"
 }
