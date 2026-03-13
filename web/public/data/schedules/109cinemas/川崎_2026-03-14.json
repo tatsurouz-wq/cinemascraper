@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "2026 ZEROBASEONE WORLD TOUR…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ 網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -102,7 +116,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:10",
@@ -402,7 +416,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -472,7 +486,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -519,5 +533,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T11:35:34.959147"
+  "scraped_at": "2026-03-13T15:45:59.765477"
 }

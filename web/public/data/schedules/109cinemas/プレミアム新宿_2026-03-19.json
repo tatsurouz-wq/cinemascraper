@@ -169,6 +169,14 @@
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
+        },
+        {
+          "start_time": "24:30",
+          "end_time": "27:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
         }
       ]
     },
@@ -365,6 +373,14 @@
           "format": "ScreenX",
           "language": "日本語",
           "availability": "unknown"
+        },
+        {
+          "start_time": "24:20",
+          "end_time": "27:05",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -439,5 +455,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T11:33:03.653725"
+  "scraped_at": "2026-03-13T15:43:32.480200"
 }

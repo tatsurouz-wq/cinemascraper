@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "2026 ZEROBASEONE WORLD TOUR…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -92,7 +106,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -250,7 +264,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:00",
@@ -272,7 +286,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -432,7 +446,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -535,5 +549,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T11:34:00.459593"
+  "scraped_at": "2026-03-13T15:44:27.193361"
 }

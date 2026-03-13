@@ -901,24 +901,18 @@
       ]
     },
     {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "【ScreenX】劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
+      "title": "『2026 ZEROBASEONE WORLD TOUR [HERE&NOW] ENCORE IN SEOUL』LV",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "TVアニメ「黄泉のツガイ」先行上映＆トークイベント ライブビューイング",
@@ -935,5 +929,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T12:23:28.957990"
+  "scraped_at": "2026-03-13T16:34:58.767937"
 }
