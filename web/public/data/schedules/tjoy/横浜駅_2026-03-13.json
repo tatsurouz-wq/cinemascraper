@@ -66,7 +66,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:40",
@@ -210,7 +210,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -256,7 +256,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -424,7 +424,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -542,7 +542,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -603,31 +603,6 @@
       ]
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "超かぐや姫！",
-      "duration_min": 143,
-      "screenings": []
-    },
-    {
       "title": "【吹替】私がビーバーになる時",
       "duration_min": 104,
       "screenings": []
@@ -667,5 +642,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T10:33:43.531142"
+  "scraped_at": "2026-03-13T12:24:14.498850"
 }

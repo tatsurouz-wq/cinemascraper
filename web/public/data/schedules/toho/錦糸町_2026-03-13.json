@@ -66,7 +66,7 @@
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -104,7 +104,7 @@
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -350,7 +350,7 @@
           "screen": "オリナスSCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -388,7 +388,7 @@
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:25",
@@ -464,7 +464,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -486,7 +486,7 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:30",
@@ -522,7 +522,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -669,5 +669,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T10:07:32.272654"
+  "scraped_at": "2026-03-13T11:58:02.546221"
 }
