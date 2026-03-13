@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "２０２６　ＺＥＲＯＢＡＳＥＯＮＥ　ＷＯＲＬＤ　ＴＯＵＲ　［ＨＥＲＥ＆ＮＯＷ］　ＥＮＣＯＲＥ（発声ＯＫ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来（発声ＯＫ）",
       "duration_min": 155,
       "screenings": [
@@ -719,5 +733,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T04:55:25.920255"
+  "scraped_at": "2026-03-13T09:52:17.670077"
 }

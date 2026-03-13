@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "2026 ZEROBASEONE WORLD TOUR…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -539,5 +553,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T04:52:01.071987"
+  "scraped_at": "2026-03-13T09:48:50.751476"
 }

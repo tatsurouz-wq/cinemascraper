@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "２０２６　ＺＥＲＯＢＡＳＥＯＮＥ　ＷＯＲＬＤ　ＴＯＵＲ　［ＨＥＲＥ＆ＮＯＷ］　ＥＮＣＯＲＥ（発声ＯＫ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "私がビーバーになる時（吹替版）",
       "duration_min": 104,
       "screenings": [
@@ -63,6 +77,44 @@
       ]
     },
     {
+      "title": "パリに咲くエトワール",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:45",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:40",
+          "end_time": "10:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "16:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -102,44 +154,6 @@
           "start_time": "20:35",
           "end_time": "22:55",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:10",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "23:45",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "8:40",
-          "end_time": "10:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:30",
-          "end_time": "16:40",
-          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -525,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T05:22:21.433463"
+  "scraped_at": "2026-03-13T10:20:27.443716"
 }

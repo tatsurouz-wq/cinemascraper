@@ -9,6 +9,20 @@
   "date": "2026-03-14",
   "movies": [
     {
+      "title": "２０２６　ＺＥＲＯＢＡＳＥＯＮＥ　ＷＯＲＬＤ　ＴＯＵＲ　［ＨＥＲＥ＆ＮＯＷ］　ＥＮＣＯＲＥ（発声ＯＫ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（Ｄｏｌｂｙ－ＡＴＭＯＳ）",
       "duration_min": 122,
       "screenings": [
@@ -533,5 +547,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-13T05:01:35.184266"
+  "scraped_at": "2026-03-13T09:58:30.456051"
 }

@@ -733,7 +733,63 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・吹替版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・ＩＭＡＸレーザー・字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・ＭＸ４Ｄ・字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN2",
+          "format": "MX4D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-13T04:56:34.618842"
+  "scraped_at": "2026-03-13T09:53:28.605274"
 }
