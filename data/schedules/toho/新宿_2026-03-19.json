@@ -9,34 +9,6 @@
   "date": "2026-03-19",
   "movies": [
     {
-      "title": "プロジェクト・ヘイル・メアリー（最速上映・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
-      "duration_min": 156,
-      "screenings": [
-        {
-          "start_time": "24:00",
-          "end_time": "26:55",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "プロジェクト・ヘイル・メアリー（最速上映・吹替版）",
-      "duration_min": 156,
-      "screenings": [
-        {
-          "start_time": "24:00",
-          "end_time": "26:55",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "プロジェクト・ヘイル・メアリー（最速上映・ＩＭＡＸレーザー・字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -60,6 +32,34 @@
           "screen": "SCREEN2",
           "format": "MX4D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（最速上映・吹替版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:55",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -140,6 +140,20 @@
           "start_time": "18:50",
           "end_time": "21:10",
           "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:45",
+          "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -665,20 +679,6 @@
       ]
     },
     {
-      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "新劇場版　銀魂　－吉原大炎上－",
       "duration_min": 124,
       "screenings": [
@@ -791,5 +791,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-14T04:53:55.420909"
+  "scraped_at": "2026-03-14T06:58:22.442833"
 }
