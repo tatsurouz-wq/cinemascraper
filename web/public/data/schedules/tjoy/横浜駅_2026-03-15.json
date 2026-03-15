@@ -66,7 +66,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -142,7 +142,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "22:00",
@@ -300,7 +300,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -506,7 +506,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -613,26 +613,6 @@
       ]
     },
     {
-      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
-      "duration_min": 124,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕",
-      "duration_min": 77,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
       "title": "超かぐや姫！",
       "duration_min": 143,
       "screenings": []
@@ -673,5 +653,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-03-15T10:20:39.406487"
+  "scraped_at": "2026-03-15T12:11:37.609115"
 }
