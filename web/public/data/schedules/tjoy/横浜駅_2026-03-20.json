@@ -9,8 +9,8 @@
   "date": "2026-03-20",
   "movies": [
     {
-      "title": "【字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
       "screenings": []
     },
     {
@@ -19,18 +19,18 @@
       "screenings": []
     },
     {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
       "title": "パリに咲くエトワール",
       "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "【DolbyCinema】機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-      "duration_min": 108,
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 148,
       "screenings": []
     },
     {
@@ -39,29 +39,40 @@
       "screenings": []
     },
     {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 99,
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
       "screenings": []
     },
     {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
       "screenings": []
     },
     {
-      "title": "【「鬼」応援上映】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
-      "duration_min": 157,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:45",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-03-14T12:14:20.254872"
+  "scraped_at": "2026-03-15T03:16:06.274656"
 }
