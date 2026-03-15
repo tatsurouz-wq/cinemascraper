@@ -26,7 +26,7 @@
           "screen": "シネマ１(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:50",
@@ -80,7 +80,7 @@
           "screen": "シネマ３(横須賀)",
           "format": "2D",
           "language": "吹替",
-          "availability": "few_left"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:55",
@@ -88,7 +88,7 @@
           "screen": "シネマ３(横須賀)",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "few_left"
         },
         {
           "start_time": "18:05",
@@ -156,7 +156,7 @@
           "screen": "シネマ８(横須賀)",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:15",
@@ -254,7 +254,7 @@
           "screen": "シネマ２(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -306,7 +306,7 @@
           "screen": "シネマ６(横須賀)",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:35",
@@ -344,7 +344,7 @@
           "screen": "シネマ５(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "few_left"
         },
         {
           "start_time": "20:15",
@@ -438,7 +438,7 @@
           "screen": "シネマ１０(横須賀)",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:30",
@@ -496,7 +496,7 @@
           "screen": "シネマ４(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:45",
@@ -526,7 +526,7 @@
           "screen": "シネマ９(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -540,7 +540,7 @@
           "screen": "シネマ７(横須賀)",
           "format": "2D",
           "language": "吹替",
-          "availability": "few_left"
+          "availability": "sold_out"
         }
       ]
     },
@@ -582,7 +582,7 @@
           "screen": "シネマ１０(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -601,5 +601,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-15T03:16:20.146895"
+  "scraped_at": "2026-03-15T05:53:52.892760"
 }
