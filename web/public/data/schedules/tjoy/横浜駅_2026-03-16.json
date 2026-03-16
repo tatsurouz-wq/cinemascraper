@@ -34,7 +34,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:50",
@@ -80,7 +80,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:35",
@@ -126,7 +126,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -178,7 +178,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -216,7 +216,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:40",
@@ -262,7 +262,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:05",
@@ -356,7 +356,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:00",
@@ -364,7 +364,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:05",
@@ -394,7 +394,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:10",
@@ -466,7 +466,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:40",
@@ -532,7 +532,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:05",
@@ -614,23 +614,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
       "title": "【字幕】ウィキッド 永遠の約束",
       "duration_min": 138,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "超かぐや姫！",
-      "duration_min": 143,
       "screenings": []
     },
     {
@@ -639,18 +624,8 @@
       "screenings": []
     },
     {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 148,
-      "screenings": []
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "title": "劇場版「僕の心のヤバイやつ」",
       "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
       "screenings": []
     },
     {
@@ -659,10 +634,30 @@
       "screenings": []
     },
     {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・吹替】私がビーバーになる時",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
       "title": "映画ドラえもん 新・のび太の海底鬼岩城",
       "duration_min": 102,
       "screenings": []
+    },
+    {
+      "title": "【吹替】ズートピア２",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "花緑青が明ける日に",
+      "duration_min": 75,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-03-16T03:14:45.643728"
+  "scraped_at": "2026-03-16T06:04:11.214984"
 }
