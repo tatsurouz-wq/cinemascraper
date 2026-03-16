@@ -1,0 +1,35 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ川崎",
+    "area": "TOHO川崎",
+    "prefecture": "神奈川県",
+    "url": "https://www.tohotheater.jp/net/schedule/010/TNPI2000J01.do"
+  },
+  "date": "2026-03-21",
+  "movies": [
+    {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-16T10:41:57.572664"
+}

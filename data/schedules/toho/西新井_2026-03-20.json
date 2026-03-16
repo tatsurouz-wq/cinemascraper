@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ西新井",
+    "area": "西新井",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/040/TNPI2000J01.do"
+  },
+  "date": "2026-03-20",
+  "movies": [
+    {
+      "title": "君が最後に遺した歌（舞台挨拶中継）",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "16:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-16T10:24:10.804268"
+}
