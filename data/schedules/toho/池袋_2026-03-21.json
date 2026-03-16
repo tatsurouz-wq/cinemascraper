@@ -1,10 +1,10 @@
 {
   "theater": {
     "chain": "toho",
-    "name": "TOHOシネマズ川崎",
-    "area": "TOHO川崎",
-    "prefecture": "神奈川県",
-    "url": "https://www.tohotheater.jp/net/schedule/010/TNPI2000J01.do"
+    "name": "TOHOシネマズ池袋",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/084/TNPI2000J01.do"
   },
   "date": "2026-03-21",
   "movies": [
@@ -14,7 +14,7 @@
       "screenings": [
         {
           "start_time": "13:50",
-          "end_time": "16:20",
+          "end_time": "16:21",
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
@@ -37,5 +37,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-16T16:42:41.095052"
+  "scraped_at": "2026-03-16T16:17:38.703866"
 }
