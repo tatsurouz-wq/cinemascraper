@@ -559,7 +559,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "ライブビューイング　ミュージカル『刀剣乱舞』　髭切　単騎出陣　～夢幻泡影～（発声ＯＫ）",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-17T05:04:25.450337"
+  "scraped_at": "2026-03-17T07:19:02.075254"
 }

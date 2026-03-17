@@ -275,6 +275,28 @@
       ]
     },
     {
+      "title": "スペシャルズ[舞台挨拶中継]",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "13:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ウィキッド 永遠の約束[字幕]",
       "duration_min": 137,
       "screenings": [
@@ -511,5 +533,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T04:54:43.394954"
+  "scraped_at": "2026-03-17T07:08:39.323550"
 }
