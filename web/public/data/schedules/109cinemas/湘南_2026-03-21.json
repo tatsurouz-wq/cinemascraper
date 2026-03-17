@@ -155,6 +155,34 @@
       ]
     },
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "20:15",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ みんなでオドロウゼ![応援[中継",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -241,34 +269,6 @@
           "end_time": "11:15",
           "screen": "シアター10",
           "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "18:15",
-          "end_time": "20:15",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ[舞台挨拶中継]",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:20",
-          "screen": "シアター3",
-          "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -545,5 +545,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:10:55.476973"
+  "scraped_at": "2026-03-17T10:01:25.761265"
 }

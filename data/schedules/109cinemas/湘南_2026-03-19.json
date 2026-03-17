@@ -9,6 +9,36 @@
   "date": "2026-03-19",
   "movies": [
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:40",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -211,36 +241,6 @@
           "end_time": "20:45",
           "screen": "シアター10",
           "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "13:30",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:35",
-          "end_time": "18:35",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:40",
-          "end_time": "23:40",
-          "screen": "シアター5",
-          "format": "2D",
           "language": "日本語",
           "availability": "available"
         }
@@ -641,5 +641,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:10:42.497187"
+  "scraped_at": "2026-03-17T10:01:13.320731"
 }

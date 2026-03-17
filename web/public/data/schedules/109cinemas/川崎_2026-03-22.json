@@ -9,20 +9,6 @@
   "date": "2026-03-22",
   "movies": [
     {
-      "title": "転生したらスライムだった件・・・[日本語字幕",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "15:10",
-          "end_time": "17:05",
-          "screen": "シアター10",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "君が最後に遺した歌",
       "duration_min": 116,
       "screenings": [
@@ -63,80 +49,6 @@
           "end_time": "23:45",
           "screen": "シアター4",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "13:00",
-          "end_time": "14:35",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "16:35",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "22:35",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー[ODS]",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "08:40",
-          "end_time": "09:55",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "10:25",
-          "end_time": "11:40",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[SCREENX]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "15:20",
-          "end_time": "17:30",
-          "screen": "シアター1",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:00",
-          "end_time": "20:10",
-          "screen": "シアター1",
-          "format": "ScreenX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -209,6 +121,58 @@
       ]
     },
     {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "14:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "16:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "22:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー[ODS]",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "09:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:25",
+          "end_time": "11:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゲキ×シネ『紅鬼物語』[ODS]",
       "duration_min": 200,
       "screenings": [
@@ -217,6 +181,28 @@
           "end_time": "20:20",
           "screen": "シアター8",
           "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[SCREENX]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:20",
+          "end_time": "17:30",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:10",
+          "screen": "シアター1",
+          "format": "ScreenX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -455,6 +441,20 @@
       ]
     },
     {
+      "title": "転生したらスライムだった件・・・[日本語字幕",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "15:10",
+          "end_time": "17:05",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "レンタル・ファミリー[字幕]",
       "duration_min": 110,
       "screenings": [
@@ -581,5 +581,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:09:31.439235"
+  "scraped_at": "2026-03-17T10:00:05.835731"
 }

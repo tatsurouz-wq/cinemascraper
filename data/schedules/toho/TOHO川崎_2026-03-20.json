@@ -145,14 +145,6 @@
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
-        },
-        {
-          "start_time": "15:15",
-          "end_time": "16:45",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
         }
       ]
     },
@@ -531,20 +523,6 @@
       ]
     },
     {
-      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "21:30",
-          "end_time": "23:35",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "劇場版『チェンソーマン　レゼ篇』",
       "duration_min": 100,
       "screenings": [
@@ -573,5 +551,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:44:58.294861"
+  "scraped_at": "2026-03-17T10:34:18.176073"
 }

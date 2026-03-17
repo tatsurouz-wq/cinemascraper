@@ -18,7 +18,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:40",
@@ -78,7 +78,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -144,7 +144,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:00",
@@ -250,7 +250,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -310,7 +310,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -393,6 +393,20 @@
       ]
     },
     {
+      "title": "嵐が丘（字幕版）",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "レンタル・ファミリー（字幕版）",
       "duration_min": 110,
       "screenings": [
@@ -407,16 +421,16 @@
       ]
     },
     {
-      "title": "嵐が丘（字幕版）",
-      "duration_min": 137,
+      "title": "国宝",
+      "duration_min": 175,
       "screenings": [
         {
-          "start_time": "21:10",
-          "end_time": "23:40",
-          "screen": "SCREEN9",
+          "start_time": "8:30",
+          "end_time": "11:40",
+          "screen": "SCREEN2",
           "format": "2D",
-          "language": "字幕",
-          "availability": "available"
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -438,34 +452,12 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:30",
           "end_time": "22:35",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:50",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:40",
-          "end_time": "19:50",
-          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -495,6 +487,28 @@
       ]
     },
     {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "8:40",
+          "end_time": "10:50",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "19:50",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ほどなく、お別れです",
       "duration_min": 125,
       "screenings": [
@@ -510,20 +524,6 @@
           "start_time": "15:40",
           "end_time": "18:00",
           "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "国宝",
-      "duration_min": 175,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "11:40",
-          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -562,34 +562,6 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　僕の心のヤバイやつ",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:15",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "銀河特急　ミルキー☆サブウェイ　各駅停車劇場行き",
-      "duration_min": 46,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "9:20",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -609,20 +581,6 @@
       ]
     },
     {
-      "title": "ヤマトよ永遠に　ＲＥＢＥＬ３１９９　第五章　白熱の銀河大戦",
-      "duration_min": 101,
-      "screenings": [
-        {
-          "start_time": "8:10",
-          "end_time": "10:05",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女（ＭＸ４Ｄ）",
       "duration_min": 108,
       "screenings": [
@@ -632,7 +590,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -663,7 +621,49 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "銀河特急　ミルキー☆サブウェイ　各駅停車劇場行き",
+      "duration_min": 46,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "9:20",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　僕の心のヤバイやつ",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:15",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ヤマトよ永遠に　ＲＥＢＥＬ３１９９　第五章　白熱の銀河大戦",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "8:10",
+          "end_time": "10:05",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-17T07:32:09.021269"
+  "scraped_at": "2026-03-17T10:22:13.115935"
 }

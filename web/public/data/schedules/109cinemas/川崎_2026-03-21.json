@@ -53,86 +53,6 @@
       ]
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:05",
-          "screen": "シアター9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:05",
-          "end_time": "16:40",
-          "screen": "シアター9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー[ODS]",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "08:40",
-          "end_time": "09:55",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "10:25",
-          "end_time": "11:40",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』[舞台挨拶中継]",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:55",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[SCREENX]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "15:20",
-          "end_time": "17:30",
-          "screen": "シアター1",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:00",
-          "end_time": "20:10",
-          "screen": "シアター1",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "プロジェクト・ヘイル・メアリー[字幕]",
       "duration_min": 156,
       "screenings": [
@@ -199,6 +119,50 @@
       ]
     },
     {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:05",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "16:40",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー[ODS]",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "09:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:25",
+          "end_time": "11:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゲキ×シネ『紅鬼物語』[舞台挨拶中継][ODS]",
       "duration_min": 200,
       "screenings": [
@@ -207,6 +171,28 @@
           "end_time": "17:50",
           "screen": "シアター2",
           "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[SCREENX]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:20",
+          "end_time": "17:30",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:10",
+          "screen": "シアター1",
+          "format": "ScreenX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -557,6 +543,20 @@
       ]
     },
     {
+      "title": "劇場版『チェンソーマン レゼ篇』[舞台挨拶中継]",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "国宝",
       "duration_min": 175,
       "screenings": [
@@ -571,5 +571,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:09:24.874696"
+  "scraped_at": "2026-03-17T09:59:59.679619"
 }

@@ -23,6 +23,20 @@
       ]
     },
     {
+      "title": "「スペシャルズ」みんなでオドロウゼ![応援上映]",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌",
       "duration_min": 116,
       "screenings": [
@@ -285,14 +299,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "13:50",
-          "end_time": "16:15",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -533,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:08:39.323550"
+  "scraped_at": "2026-03-17T09:59:15.644135"
 }

@@ -149,6 +149,20 @@
       ]
     },
     {
+      "title": "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ　４Ｋ　ＵＬＴＲＡ　ＨＤ　ｖｅｒ．",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "18:25",
+          "end_time": "20:30",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画ドラえもん　新・のび太の海底鬼岩城",
       "duration_min": 102,
       "screenings": [
@@ -285,9 +299,9 @@
           "availability": "unknown"
         },
         {
-          "start_time": "18:30",
-          "end_time": "20:30",
-          "screen": "SCREEN3",
+          "start_time": "19:15",
+          "end_time": "21:15",
+          "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -593,5 +607,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:30:04.014188"
+  "scraped_at": "2026-03-17T10:20:09.513974"
 }

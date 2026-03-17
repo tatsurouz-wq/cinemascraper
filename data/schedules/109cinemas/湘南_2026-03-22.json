@@ -123,6 +123,20 @@
       ]
     },
     {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
       "duration_min": 149,
       "screenings": [
@@ -209,20 +223,6 @@
           "end_time": "11:15",
           "screen": "シアター10",
           "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "13:30",
-          "screen": "シアター6",
-          "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -491,5 +491,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:11:01.823474"
+  "scraped_at": "2026-03-17T10:01:33.849189"
 }

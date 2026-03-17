@@ -9,20 +9,6 @@
   "date": "2026-03-22",
   "movies": [
     {
-      "title": "うたの☆プリンスさまっ♪　ＡＬＬ　ＳＴＡＲ　ＳＴＡＧＥ　－Ｈａｐｐｙ　Ｃｅｌｅｂｒａｔｉｏｎ－　ＬＶ",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "14:00",
-          "end_time": "16:00",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -559,5 +545,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:50:23.408670"
+  "scraped_at": "2026-03-17T10:39:35.865154"
 }

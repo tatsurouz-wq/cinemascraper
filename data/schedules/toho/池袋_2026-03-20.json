@@ -23,6 +23,44 @@
       ]
     },
     {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "10:45",
+          "end_time": "13:00",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "18:05",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:50",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:30",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プロジェクト・ヘイル・メアリー（ＳｃｒｅｅｎＸ・字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -104,44 +142,6 @@
           "start_time": "18:40",
           "end_time": "21:20",
           "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "10:45",
-          "end_time": "13:00",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:50",
-          "end_time": "18:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:35",
-          "end_time": "20:50",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:30",
-          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -653,5 +653,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T07:17:57.045321"
+  "scraped_at": "2026-03-17T10:08:38.544966"
 }
