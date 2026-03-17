@@ -9,6 +9,20 @@
   "date": "2026-03-18",
   "movies": [
     {
+      "title": "ライブビューイング　ミュージカル『刀剣乱舞』　髭切　単騎出陣　～夢幻泡影～（発声ＯＫ）",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:30",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -663,5 +677,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T02:30:14.133249"
+  "scraped_at": "2026-03-17T05:15:49.066398"
 }

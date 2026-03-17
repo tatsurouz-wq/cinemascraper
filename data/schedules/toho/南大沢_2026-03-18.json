@@ -9,6 +9,20 @@
   "date": "2026-03-18",
   "movies": [
     {
+      "title": "ライブビューイング　ミュージカル『刀剣乱舞』　髭切　単騎出陣　～夢幻泡影～（発声ＯＫ）",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:30",
+          "screen": "PREMIER",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
       "duration_min": 149,
       "screenings": [
@@ -525,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T02:26:11.769999"
+  "scraped_at": "2026-03-17T05:11:31.099250"
 }
