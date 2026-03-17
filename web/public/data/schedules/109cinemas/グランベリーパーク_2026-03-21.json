@@ -9,13 +9,13 @@
   "date": "2026-03-21",
   "movies": [
     {
-      "title": "超かぐや姫![全国発声可能上映][ODS]",
-      "duration_min": 142,
+      "title": "スペシャルズ みんなでオドロウゼ![応援[中継",
+      "duration_min": 110,
       "screenings": [
         {
-          "start_time": "18:20",
-          "end_time": "20:55",
-          "screen": "シアター3",
+          "start_time": "13:50",
+          "end_time": "16:15",
+          "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -23,13 +23,13 @@
       ]
     },
     {
-      "title": "「スペシャルズ」みんなでオドロウゼ![応援上映]",
-      "duration_min": 110,
+      "title": "超かぐや姫![全国発声可能上映][ODS]",
+      "duration_min": 142,
       "screenings": [
         {
-          "start_time": "13:50",
-          "end_time": "16:15",
-          "screen": "シアター2",
+          "start_time": "18:20",
+          "end_time": "20:55",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -95,28 +95,6 @@
           "end_time": "21:15",
           "screen": "シアター4",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[4DX2D]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "15:25",
-          "end_time": "17:40",
-          "screen": "シアター8",
-          "format": "4DX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "23:40",
-          "screen": "シアター8",
-          "format": "4DX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -283,6 +261,28 @@
           "end_time": "11:15",
           "screen": "シアター9",
           "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[ULTRA4DX]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "17:40",
+          "screen": "シアター8",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:40",
+          "screen": "シアター8",
+          "format": "4DX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -539,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T09:59:15.644135"
+  "scraped_at": "2026-03-17T11:46:17.643332"
 }

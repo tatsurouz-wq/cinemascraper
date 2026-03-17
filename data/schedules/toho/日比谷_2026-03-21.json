@@ -143,6 +143,28 @@
       ]
     },
     {
+      "title": "ゲキ×シネ「紅鬼物語」（舞台挨拶中継・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
+      "duration_min": 200,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "13:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "17:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "チェッカーズ　１９８８　ＳＣＲＥＷ　ＴＯＵＲ　ａｔ　東京ドーム（発声ＯＫ・４Ｋ）",
       "duration_min": 148,
       "screenings": [
@@ -857,5 +879,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T10:05:47.592662"
+  "scraped_at": "2026-03-17T11:53:03.235897"
 }

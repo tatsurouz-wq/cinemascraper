@@ -9,6 +9,20 @@
   "date": "2026-03-23",
   "movies": [
     {
+      "title": "私がビーバーになる時[吹替][イベント付上映]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "17:05",
+          "end_time": "19:20",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌",
       "duration_min": 116,
       "screenings": [
@@ -595,5 +609,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T10:00:12.914339"
+  "scraped_at": "2026-03-17T11:47:16.302613"
 }

@@ -93,28 +93,6 @@
       ]
     },
     {
-      "title": "ゴールデンカムイ 網走監獄襲撃編[4DX2D]",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "15:25",
-          "end_time": "17:40",
-          "screen": "シアター8",
-          "format": "4DX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "23:40",
-          "screen": "シアター8",
-          "format": "4DX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "プロジェクト・ヘイル・メアリー[字幕]",
       "duration_min": 156,
       "screenings": [
@@ -283,6 +261,28 @@
           "end_time": "11:15",
           "screen": "シアター9",
           "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編[ULTRA4DX]",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "17:40",
+          "screen": "シアター8",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:40",
+          "screen": "シアター8",
+          "format": "4DX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -539,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T09:59:09.453288"
+  "scraped_at": "2026-03-17T11:46:11.285778"
 }

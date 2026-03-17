@@ -86,7 +86,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -274,7 +274,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -492,7 +492,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -584,7 +584,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -642,7 +642,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -708,7 +708,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -722,7 +722,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -814,7 +814,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -892,7 +892,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -906,68 +906,18 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "【発声可能上映】超かぐや姫！",
-      "duration_min": 144,
-      "screenings": []
-    },
-    {
-      "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
-      "duration_min": 101,
-      "screenings": []
-    },
-    {
-      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ブゴニア(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "国宝(PG12)",
-      "duration_min": 175,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】ウィキッド 永遠の約束",
-      "duration_min": 140,
-      "screenings": []
-    },
-    {
-      "title": "RIP SLYME THE MOVIE - 25th ANNIVERSARY GREATEST MEMORY -",
-      "duration_min": 81,
+      "title": "【ScreenX】劇場版『チェンソーマン レゼ篇』(PG12)",
+      "duration_min": 100,
       "screenings": []
     },
     {
       "title": "パリに咲くエトワール",
       "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【ScreenX】劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
       "screenings": []
     },
     {
@@ -990,5 +940,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T10:44:13.155292"
+  "scraped_at": "2026-03-17T12:35:09.324488"
 }
