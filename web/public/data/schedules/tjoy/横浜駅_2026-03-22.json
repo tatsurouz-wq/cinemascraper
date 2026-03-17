@@ -9,25 +9,55 @@
   "date": "2026-03-22",
   "movies": [
     {
-      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
-      "duration_min": 123,
-      "screenings": []
+      "title": "【初日舞台挨拶全国同時生中継】君が最後に遺した歌",
+      "duration_min": 162,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "16:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
-      "screenings": []
+      "title": "【初日舞台挨拶中継】劇場版「暗殺教室」みんなの時間",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "18:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:52",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【DolbyCinema】機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
+      "title": "【全国一斉ポスト上映】超かぐや姫！",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:53",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-17T12:36:28.528928"
+  "scraped_at": "2026-03-17T17:00:39.411347"
 }

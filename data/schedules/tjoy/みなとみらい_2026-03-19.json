@@ -905,19 +905,18 @@
       ]
     },
     {
-      "title": "【ScreenX】劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
+      "title": "ライブビューイング ミュージカル『刀剣乱舞』 髭切 単騎出陣 ～夢幻泡影～",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:30",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "TVアニメ「黄泉のツガイ」先行上映＆トークイベント ライブビューイング",
@@ -934,5 +933,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T12:35:26.474408"
+  "scraped_at": "2026-03-17T16:58:39.754956"
 }

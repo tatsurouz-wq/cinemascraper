@@ -9,6 +9,20 @@
   "date": "2026-03-18",
   "movies": [
     {
+      "title": "『刀剣乱舞』 髭切 単騎出陣…[ODS]",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ 網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -547,5 +561,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T11:46:43.786117"
+  "scraped_at": "2026-03-17T16:10:19.714109"
 }

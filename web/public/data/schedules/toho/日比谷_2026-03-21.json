@@ -9,6 +9,34 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ（舞台挨拶中継）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ナショナル・シアター・ライヴ『フィフス・ステップ』",
       "duration_min": 83,
       "screenings": [
@@ -449,34 +477,6 @@
       ]
     },
     {
-      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:10",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:20",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "マーティ・シュプリーム　世界をつかめ（字幕版）",
       "duration_min": 149,
       "screenings": [
@@ -879,5 +879,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T11:53:03.235897"
+  "scraped_at": "2026-03-17T16:16:44.280180"
 }

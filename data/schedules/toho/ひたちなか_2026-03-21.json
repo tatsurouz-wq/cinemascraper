@@ -55,6 +55,20 @@
       ]
     },
     {
+      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:55",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プロジェクト・ヘイル・メアリー（字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -191,20 +205,6 @@
       ]
     },
     {
-      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:55",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
       "duration_min": 110,
       "screenings": [
@@ -214,7 +214,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -587,5 +587,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T12:33:05.769011"
+  "scraped_at": "2026-03-17T16:55:27.771659"
 }

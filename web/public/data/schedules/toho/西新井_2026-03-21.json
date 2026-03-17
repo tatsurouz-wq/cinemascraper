@@ -18,7 +18,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -47,6 +47,20 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＡＭＰＴＡＫ海賊団ｘレインボーロード中８８％　ライブ・ビューイング（発声ＯＫ）",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "16:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -617,5 +631,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T12:03:36.433958"
+  "scraped_at": "2026-03-17T16:27:15.773025"
 }

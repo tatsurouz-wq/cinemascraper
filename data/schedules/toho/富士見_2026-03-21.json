@@ -9,6 +9,34 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "スペシャルズ（舞台挨拶中継）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:21",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -309,34 +337,6 @@
       ]
     },
     {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:21",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第３幕",
       "duration_min": 77,
       "screenings": [
@@ -535,5 +535,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T12:30:02.295533"
+  "scraped_at": "2026-03-17T16:52:21.578347"
 }

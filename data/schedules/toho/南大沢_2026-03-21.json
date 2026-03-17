@@ -9,6 +9,48 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "スペシャルズ（舞台挨拶中継）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -210,34 +252,6 @@
           "start_time": "20:25",
           "end_time": "22:40",
           "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:10",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:25",
-          "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -509,20 +523,6 @@
       ]
     },
     {
-      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:55",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来",
       "duration_min": 155,
       "screenings": [
@@ -551,5 +551,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T10:17:17.993867"
+  "scraped_at": "2026-03-17T16:28:47.809075"
 }
