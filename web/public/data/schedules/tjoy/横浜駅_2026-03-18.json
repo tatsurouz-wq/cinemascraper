@@ -42,7 +42,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -80,7 +80,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:50",
@@ -140,7 +140,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -178,7 +178,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:45",
@@ -290,7 +290,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -326,7 +326,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -386,7 +386,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -416,7 +416,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -510,7 +510,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -548,7 +548,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -562,7 +562,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -609,23 +609,8 @@
       ]
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】ズートピア２",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 119,
+      "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
+      "duration_min": 155,
       "screenings": []
     },
     {
@@ -644,13 +629,13 @@
       "screenings": []
     },
     {
-      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
+      "title": "【字幕】嵐が丘",
+      "duration_min": 136,
       "screenings": []
     },
     {
-      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
-      "duration_min": 124,
+      "title": "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS",
+      "duration_min": 123,
       "screenings": []
     },
     {
@@ -659,13 +644,13 @@
       "screenings": []
     },
     {
-      "title": "パリに咲くエトワール",
-      "duration_min": 120,
+      "title": "【DolbyCinema】機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 108,
       "screenings": []
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
       "screenings": []
     },
     {
@@ -719,5 +704,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T07:55:03.815388"
+  "scraped_at": "2026-03-18T10:45:37.723858"
 }

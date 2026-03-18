@@ -9,6 +9,20 @@
   "date": "2026-03-23",
   "movies": [
     {
+      "title": "スペシャルズ（舞台挨拶・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:50",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スペシャルズ",
       "duration_min": 110,
       "screenings": [
@@ -743,5 +757,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T07:14:49.495499"
+  "scraped_at": "2026-03-18T10:07:42.913333"
 }

@@ -9,6 +9,28 @@
   "date": "2026-03-22",
   "movies": [
     {
+      "title": "うたの☆プリンスさまっ♪　ＡＬＬ　ＳＴＡＲ　ＳＴＡＧＥ　－Ｈａｐｐｙ　Ｃｅｌｅｂｒａｔｉｏｎ－　ＬＶ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "アメリと雨の物語（吹替版）",
       "duration_min": 77,
       "screenings": [
@@ -469,5 +491,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T07:53:24.837103"
+  "scraped_at": "2026-03-18T10:43:54.833616"
 }

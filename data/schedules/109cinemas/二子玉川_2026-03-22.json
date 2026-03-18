@@ -83,16 +83,24 @@
       "duration_min": 156,
       "screenings": [
         {
-          "start_time": "11:40",
-          "end_time": "14:30",
+          "start_time": "08:35",
+          "end_time": "11:25",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "20:35",
-          "end_time": "23:25",
+          "start_time": "11:50",
+          "end_time": "14:40",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "23:30",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
@@ -221,8 +229,8 @@
       "duration_min": 122,
       "screenings": [
         {
-          "start_time": "17:55",
-          "end_time": "20:10",
+          "start_time": "18:00",
+          "end_time": "20:15",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
@@ -313,16 +321,8 @@
       "duration_min": 137,
       "screenings": [
         {
-          "start_time": "08:45",
-          "end_time": "11:15",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "17:30",
+          "start_time": "15:05",
+          "end_time": "17:35",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
@@ -509,5 +509,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T07:05:07.528889"
+  "scraped_at": "2026-03-18T09:58:35.960630"
 }
