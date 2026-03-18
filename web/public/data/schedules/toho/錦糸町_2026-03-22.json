@@ -431,6 +431,20 @@
       ]
     },
     {
+      "title": "スペシャルズ（発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:40",
+          "screen": "オリナスSCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "木挽町のあだ討ち",
       "duration_min": 120,
       "screenings": [
@@ -607,20 +621,6 @@
       ]
     },
     {
-      "title": "スペシャルズ（発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:40",
-          "screen": "オリナスSCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
       "duration_min": 108,
       "screenings": [
@@ -677,5 +677,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T05:22:29.641182"
+  "scraped_at": "2026-03-18T07:29:50.948433"
 }

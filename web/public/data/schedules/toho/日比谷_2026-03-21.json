@@ -91,22 +91,6 @@
       "duration_min": 156,
       "screenings": [
         {
-          "start_time": "9:30",
-          "end_time": "12:20",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:50",
-          "end_time": "15:40",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "21:05",
           "end_time": "23:55",
           "screen": "SCREEN12（東京宝塚地下）",
@@ -121,48 +105,16 @@
       "duration_min": 117,
       "screenings": [
         {
-          "start_time": "8:25",
-          "end_time": "10:35",
+          "start_time": "18:55",
+          "end_time": "21:05",
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "11:00",
-          "end_time": "13:10",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:35",
-          "end_time": "15:45",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:10",
-          "end_time": "18:20",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:45",
-          "end_time": "20:55",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:30",
+          "start_time": "21:35",
+          "end_time": "23:45",
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
@@ -197,8 +149,8 @@
       "duration_min": 148,
       "screenings": [
         {
-          "start_time": "18:55",
-          "end_time": "21:35",
+          "start_time": "18:50",
+          "end_time": "21:30",
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
@@ -268,20 +220,6 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ラストレター",
-      "duration_min": 121,
-      "screenings": [
-        {
-          "start_time": "16:10",
-          "end_time": "18:25",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -879,5 +817,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T05:06:08.971212"
+  "scraped_at": "2026-03-18T07:12:40.974610"
 }
