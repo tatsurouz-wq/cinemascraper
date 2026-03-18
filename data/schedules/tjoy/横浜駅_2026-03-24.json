@@ -1,0 +1,118 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "T・ジョイ横浜",
+    "area": "横浜駅",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/t-joy_yokohama"
+  },
+  "date": "2026-03-24",
+  "movies": [
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】私がビーバーになる時",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 143,
+      "screenings": []
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
+      "screenings": []
+    },
+    {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
+      "screenings": []
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【初日舞台挨拶全国同時生中継】君が最後に遺した歌",
+      "duration_min": 162,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "16:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【初日舞台挨拶中継】劇場版「暗殺教室」みんなの時間",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "18:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:52",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【全国一斉ポスト上映】超かぐや姫！",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:53",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-18T03:02:42.236881"
+}

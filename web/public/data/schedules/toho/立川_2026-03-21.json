@@ -9,6 +9,48 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ（舞台挨拶中継）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プロジェクト・ヘイル・メアリー（ＩＭＡＸ・字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -201,34 +243,6 @@
       ]
     },
     {
-      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:10",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:20",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "スペシャルズ",
       "duration_min": 110,
       "screenings": [
@@ -236,20 +250,6 @@
           "start_time": "21:25",
           "end_time": "23:25",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:55",
-          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -607,5 +607,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T16:31:49.907321"
+  "scraped_at": "2026-03-18T02:36:10.984960"
 }

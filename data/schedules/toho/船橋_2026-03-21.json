@@ -23,6 +23,34 @@
       ]
     },
     {
+      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:10",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ（舞台挨拶中継）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:21",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -445,34 +473,6 @@
       ]
     },
     {
-      "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:10",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ（舞台挨拶中継）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "13:50",
-          "end_time": "16:21",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "国宝",
       "duration_min": 175,
       "screenings": [
@@ -657,5 +657,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T16:34:56.623471"
+  "scraped_at": "2026-03-18T02:39:09.754380"
 }

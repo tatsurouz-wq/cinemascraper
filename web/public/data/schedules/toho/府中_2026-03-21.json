@@ -9,6 +9,20 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:55",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スペシャルズ（舞台挨拶中継・発声ＯＫ）",
       "duration_min": 110,
       "screenings": [
@@ -33,20 +47,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版『チェンソーマン　レゼ篇』（舞台挨拶中継）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:55",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -551,5 +551,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-17T16:30:18.103605"
+  "scraped_at": "2026-03-18T02:34:42.969202"
 }
