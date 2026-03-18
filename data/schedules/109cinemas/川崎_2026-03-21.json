@@ -71,14 +71,6 @@
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "23:50",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
         }
       ]
     },
@@ -95,8 +87,16 @@
           "availability": "unknown"
         },
         {
-          "start_time": "18:00",
-          "end_time": "20:50",
+          "start_time": "17:50",
+          "end_time": "20:40",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:55",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
@@ -327,14 +327,6 @@
         {
           "start_time": "14:55",
           "end_time": "17:25",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:50",
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
@@ -571,5 +563,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T10:00:00.965348"
+  "scraped_at": "2026-03-18T11:50:18.194932"
 }

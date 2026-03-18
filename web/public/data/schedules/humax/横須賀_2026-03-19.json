@@ -252,7 +252,7 @@
           "screen": "シネマ４(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "few_left"
         },
         {
           "start_time": "12:15",
@@ -260,7 +260,7 @@
           "screen": "シネマ６(横須賀)",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "few_left"
         },
         {
           "start_time": "15:30",
@@ -577,5 +577,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T10:46:40.672904"
+  "scraped_at": "2026-03-18T12:40:23.850759"
 }
