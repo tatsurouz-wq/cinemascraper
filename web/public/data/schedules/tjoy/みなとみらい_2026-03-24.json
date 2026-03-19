@@ -921,26 +921,6 @@
       ]
     },
     {
-      "title": "RIP SLYME THE MOVIE - 25th ANNIVERSARY GREATEST MEMORY -",
-      "duration_min": 81,
-      "screenings": []
-    },
-    {
-      "title": "【ScreenX】劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
       "title": "【初日舞台挨拶全国同時生中継】君が最後に遺した歌",
       "duration_min": 162,
       "screenings": [
@@ -997,6 +977,34 @@
       ]
     },
     {
+      "title": "NCT DREAM TOUR <THE DREAM SHOW 4 : FUTURE THE DREAM> FINALE",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "『ドロヘドロSeason2』全世界最速上映会",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "15:50",
+          "end_time": "18:00",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "TVアニメ「黄泉のツガイ」先行上映＆トークイベント ライブビューイング",
       "duration_min": 90,
       "screenings": [
@@ -1009,7 +1017,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "RIP SLYME 25th Anniversary GREATEST LIVE Final Three Nights",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-19T12:27:47.200083"
+  "scraped_at": "2026-03-19T16:46:27.433255"
 }

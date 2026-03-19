@@ -9,20 +9,6 @@
   "date": "2026-03-24",
   "movies": [
     {
-      "title": "スペシャルズ（発声ＯＫ）",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "19:25",
-          "end_time": "21:30",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -427,6 +413,20 @@
       ]
     },
     {
+      "title": "スペシャルズ（発声ＯＫ）",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "19:25",
+          "end_time": "21:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スペシャルズ",
       "duration_min": 110,
       "screenings": [
@@ -677,5 +677,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T12:23:32.135595"
+  "scraped_at": "2026-03-19T16:41:35.062751"
 }
