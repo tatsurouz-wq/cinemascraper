@@ -921,8 +921,48 @@
       ]
     },
     {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "「映画ひみつのアイプリ　まんかいバズリウムライブ！」声出しOK！参加型ライブ上映",
+      "duration_min": 68,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】レンタル・ファミリー",
+      "duration_min": 110,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "クスノキの番人",
+      "duration_min": 114,
       "screenings": []
     },
     {
@@ -931,16 +971,78 @@
       "screenings": []
     },
     {
-      "title": "ライブビューイング ミュージカル『刀剣乱舞』 髭切 単騎出陣 ～夢幻泡影～",
-      "duration_min": 150,
+      "title": "【吹替】ギャビーのドールハウス ザ・ムービー",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 144,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
+      "screenings": []
+    },
+    {
+      "title": "「映画ひみつのアイプリ　まんかいバズリウムライブ！」声出しOK！参加型ライブ上映",
+      "duration_min": 68,
+      "screenings": []
+    },
+    {
+      "title": "【初日舞台挨拶全国同時生中継】君が最後に遺した歌",
+      "duration_min": 162,
       "screenings": [
         {
-          "start_time": "18:00",
-          "end_time": "20:30",
-          "screen": "シアター５",
+          "start_time": "13:45",
+          "end_time": "16:40",
+          "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【舞台挨拶中継】劇場版『チェンソーマン レゼ篇』(PG12)",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【公開御礼舞台挨拶生中継】スペシャルズ",
+      "duration_min": 151,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "13:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【公開御礼舞台挨拶生中継・みんなでオドロウゼ！応援上映】スペシャルズ",
+      "duration_min": 141,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -959,5 +1061,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T12:38:59.383279"
+  "scraped_at": "2026-03-19T03:01:52.202406"
 }

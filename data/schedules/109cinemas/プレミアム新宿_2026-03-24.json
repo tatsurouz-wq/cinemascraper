@@ -87,20 +87,6 @@
       ]
     },
     {
-      "title": "Ryuichi Sakamoto Playing the…2014",
-      "duration_min": null,
-      "screenings": [
-        {
-          "start_time": "12:25",
-          "end_time": "14:35",
-          "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "アメリと雨の物語[字幕]",
       "duration_min": null,
       "screenings": [
@@ -168,6 +154,20 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ryuichi Sakamoto Playing the…2014",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:25",
+          "end_time": "14:35",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -495,5 +495,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-18T11:47:33.638859"
+  "scraped_at": "2026-03-19T02:13:46.832241"
 }
