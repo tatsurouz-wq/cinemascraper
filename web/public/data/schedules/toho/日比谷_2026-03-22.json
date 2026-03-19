@@ -9,6 +9,42 @@
   "date": "2026-03-22",
   "movies": [
     {
+      "title": "うたの☆プリンスさまっ♪　ＡＬＬ　ＳＴＡＲ　ＳＴＡＧＥ　－Ｈａｐｐｙ　Ｃｅｌｅｂｒａｔｉｏｎ－　ＬＶ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:00",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＲＩＰ　ＳＬＹＭＥ　２５ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＧＲＥＡＴＥＳＴ　ＬＩＶＥ（発声ＯＫ）",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ナショナル・シアター・ライヴ『フィフス・ステップ』",
       "duration_min": 83,
       "screenings": [
@@ -909,5 +945,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T07:08:26.402046"
+  "scraped_at": "2026-03-19T09:53:01.976478"
 }

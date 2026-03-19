@@ -9,6 +9,20 @@
   "date": "2026-03-22",
   "movies": [
     {
+      "title": "ＲＩＰ　ＳＬＹＭＥ　２５ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　ＧＲＥＡＴＥＳＴ　ＬＩＶＥ（発声ＯＫ）",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版「暗殺教室」みんなの時間",
       "duration_min": 87,
       "screenings": [
@@ -699,5 +713,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T07:24:05.758877"
+  "scraped_at": "2026-03-19T10:08:47.802625"
 }

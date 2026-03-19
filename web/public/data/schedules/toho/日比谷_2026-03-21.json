@@ -37,6 +37,42 @@
       ]
     },
     {
+      "title": "ＷＥ　ＡＲＥ　Ｐｅｒｆｕｍｅ　ＷＯＲＬＤ　ＴＯＵＲ　３ｒｄ　ＤＯＣＵＭＥＮＴ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:40",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:40",
+          "screen": "SCREEN13（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "２０２６　ＮＣＴ　ＤＲＥＡＭ　ＴＯＵＲ　＜ＴＨＥ　ＤＲＥＡＭ　ＳＨＯＷ　４　：　ＦＵＴＵＲＥ　ＴＨＥ",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ナショナル・シアター・ライヴ『フィフス・ステップ』",
       "duration_min": 83,
       "screenings": [
@@ -879,5 +915,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T07:08:13.145125"
+  "scraped_at": "2026-03-19T09:52:47.697382"
 }

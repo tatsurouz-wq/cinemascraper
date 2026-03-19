@@ -9,6 +9,20 @@
   "date": "2026-03-22",
   "movies": [
     {
+      "title": "RIP SLYME 25th Anniversary…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "転生したらスライムだった件 蒼海の涙編[4DX2D]",
       "duration_min": 104,
       "screenings": [
@@ -571,5 +585,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T07:06:29.455317"
+  "scraped_at": "2026-03-19T09:50:58.422863"
 }
