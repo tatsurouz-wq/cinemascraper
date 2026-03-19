@@ -9,6 +9,20 @@
   "date": "2026-03-21",
   "movies": [
     {
+      "title": "２０２６　ＮＣＴ　ＤＲＥＡＭ　ＴＯＵＲ　＜ＴＨＥ　ＤＲＥＡＭ　ＳＨＯＷ　４　：　ＦＵＴＵＲＥ　ＴＨＥ",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ＡＭＰＴＡＫ海賊団ｘレインボーロード中８８％　ライブ・ビューイング（発声ＯＫ）",
       "duration_min": 180,
       "screenings": [
@@ -771,5 +785,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T10:22:59.832616"
+  "scraped_at": "2026-03-19T12:18:09.383895"
 }
