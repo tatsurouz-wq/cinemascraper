@@ -9,6 +9,20 @@
   "date": "2026-03-20",
   "movies": [
     {
+      "title": "宝塚歌劇　宙組博多座公演『愛するには短すぎる』『ＶＩＶＡ！ＦＥＳＴＡ！２０２６　ｉｎ　ＨＡＫＡＴＡ』",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "15:30",
+          "end_time": "19:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "君が最後に遺した歌（舞台挨拶中継）",
       "duration_min": 117,
       "screenings": [
@@ -163,6 +177,42 @@
       ]
     },
     {
+      "title": "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ　４Ｋ　ＵＬＴＲＡ　ＨＤ　ｖｅｒ．",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "18:35",
+          "end_time": "20:45",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "17:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:45",
+          "end_time": "12:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編（ＩＭＡＸレーザー）",
       "duration_min": 122,
       "screenings": [
@@ -303,20 +353,6 @@
       ]
     },
     {
-      "title": "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ　４Ｋ　ＵＬＴＲＡ　ＨＤ　ｖｅｒ．",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "18:35",
-          "end_time": "20:45",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "パリに咲くエトワール",
       "duration_min": 119,
       "screenings": [
@@ -324,28 +360,6 @@
           "start_time": "8:50",
           "end_time": "11:05",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "15:45",
-          "end_time": "17:05",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "10:45",
-          "end_time": "12:05",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -653,5 +667,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T02:57:05.718746"
+  "scraped_at": "2026-03-19T05:38:09.784435"
 }

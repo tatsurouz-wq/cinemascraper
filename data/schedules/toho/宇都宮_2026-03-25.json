@@ -163,6 +163,36 @@
       ]
     },
     {
+      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "17:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:45",
+          "end_time": "12:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:35",
+          "end_time": "18:55",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "アメリと雨の物語（吹替版）",
       "duration_min": 77,
       "screenings": [
@@ -354,36 +384,6 @@
           "start_time": "8:40",
           "end_time": "10:55",
           "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "15:45",
-          "end_time": "17:05",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "10:45",
-          "end_time": "12:05",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:35",
-          "end_time": "18:55",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -663,5 +663,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-19T02:58:11.729811"
+  "scraped_at": "2026-03-19T05:39:15.136780"
 }
