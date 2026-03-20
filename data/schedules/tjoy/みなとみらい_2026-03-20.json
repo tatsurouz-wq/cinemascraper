@@ -34,7 +34,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -78,7 +78,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:05",
@@ -136,7 +136,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -196,7 +196,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -218,7 +218,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:25",
@@ -272,7 +272,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:15",
@@ -402,7 +402,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:05",
@@ -432,7 +432,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:10",
@@ -548,7 +548,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -668,7 +668,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:55",
@@ -704,7 +704,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -818,7 +818,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:20",
@@ -854,7 +854,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -901,28 +901,13 @@
       ]
     },
     {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
+      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
+      "duration_min": 100,
       "screenings": []
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
+      "title": "【SCREENX with DolbyAtmos】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -931,13 +916,13 @@
       "screenings": []
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
+      "title": "【字幕】私がビーバーになる時",
+      "duration_min": 105,
       "screenings": []
     },
     {
-      "title": "【初日舞台挨拶全国同時生中継】君が最後に遺した歌",
-      "duration_min": 162,
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
       "screenings": []
     },
     {
@@ -946,23 +931,53 @@
       "screenings": []
     },
     {
-      "title": "ゲキ×シネ『紅鬼物語』",
-      "duration_min": 201,
+      "title": "【初日舞台挨拶中継】劇場版「暗殺教室」みんなの時間",
+      "duration_min": 122,
       "screenings": []
     },
     {
-      "title": "【字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
+      "title": "【字幕】マーティ・シュプリーム 世界をつかめ",
+      "duration_min": 150,
       "screenings": []
     },
     {
-      "title": "【IMAX・字幕】プロジェクト・ヘイル・メアリー",
+      "title": "【字幕】韓国ミュージカル ON SCREEN「モーツァルト！」",
+      "duration_min": 189,
+      "screenings": []
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "「映画ひみつのアイプリ　まんかいバズリウムライブ！」声出しOK！参加型ライブ上映",
+      "duration_min": 68,
+      "screenings": []
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "duration_min": 65,
+      "screenings": []
+    },
+    {
+      "title": "【みんなでオドロウゼ！応援上映】スペシャルズ",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "duration_min": 47,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】プロジェクト・ヘイル・メアリー",
       "duration_min": 158,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
       "screenings": []
     },
     {
@@ -975,7 +990,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -1078,5 +1093,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-20T02:53:50.177996"
+  "scraped_at": "2026-03-20T05:36:49.880491"
 }
