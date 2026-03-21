@@ -9,66 +9,6 @@
   "date": "2026-03-27",
   "movies": [
     {
-      "title": "映画「教場 Requiem」(PG12)",
-      "duration_min": 149,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 158,
-      "screenings": []
-    },
-    {
-      "title": "【発声可能上映】超かぐや姫！",
-      "duration_min": 144,
-      "screenings": []
-    },
-    {
-      "title": "「映画ひみつのアイプリ　まんかいバズリウムライブ！」声出しOK！参加型ライブ上映",
-      "duration_min": 68,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "【舞台挨拶中継】ゲキ×シネ『紅鬼物語』",
-      "duration_min": 236,
-      "screenings": []
-    },
-    {
-      "title": "【公開御礼舞台挨拶生中継・みんなでオドロウゼ！応援上映】スペシャルズ",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
-      "duration_min": 65,
-      "screenings": []
-    },
-    {
       "title": "【IMAX・字幕】プロジェクト・ヘイル・メアリー",
       "duration_min": 158,
       "screenings": []
@@ -81,6 +21,61 @@
     {
       "title": "ほどなく、お別れです",
       "duration_min": 125,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
+      "screenings": []
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "duration_min": 65,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】私がビーバーになる時",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】マーティ・シュプリーム 世界をつかめ",
+      "duration_min": 150,
+      "screenings": []
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】全知的な読者の視点から",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】アメリと雨の物語",
+      "duration_min": 78,
       "screenings": []
     },
     {
@@ -121,7 +116,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -182,5 +177,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-21T02:50:24.490294"
+  "scraped_at": "2026-03-21T05:16:32.842668"
 }
