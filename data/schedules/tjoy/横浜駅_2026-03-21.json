@@ -126,7 +126,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -176,7 +176,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -266,7 +266,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -362,7 +362,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -426,7 +426,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -440,7 +440,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -594,7 +594,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -639,41 +639,6 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】ゲキ×シネ『紅鬼物語』",
-      "duration_min": 202,
-      "screenings": []
-    },
-    {
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕",
-      "duration_min": 77,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
     },
     {
       "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
@@ -761,5 +726,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-21T10:21:04.073126"
+  "scraped_at": "2026-03-21T12:09:36.012782"
 }

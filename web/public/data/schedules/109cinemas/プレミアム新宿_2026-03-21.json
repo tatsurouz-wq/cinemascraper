@@ -84,7 +84,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -320,7 +320,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -503,5 +503,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-21T09:32:59.790885"
+  "scraped_at": "2026-03-21T11:24:13.146672"
 }
