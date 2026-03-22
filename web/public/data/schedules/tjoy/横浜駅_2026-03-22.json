@@ -26,7 +26,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:40",
@@ -72,7 +72,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:40",
@@ -190,7 +190,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:50",
@@ -242,7 +242,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -272,7 +272,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:40",
@@ -310,7 +310,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -346,7 +346,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -476,7 +476,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:45",
@@ -506,7 +506,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -633,8 +633,18 @@
       ]
     },
     {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -643,18 +653,8 @@
       "screenings": []
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
       "title": "【字幕】ウィキッド 永遠の約束",
       "duration_min": 138,
-      "screenings": []
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
       "screenings": []
     },
     {
@@ -663,25 +663,30 @@
       "screenings": []
     },
     {
-      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
-      "duration_min": 138,
+      "title": "【吹替】私がビーバーになる時",
+      "duration_min": 104,
       "screenings": []
     },
     {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
-      "duration_min": 64,
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
       "screenings": []
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
+      "title": "【字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
       "screenings": []
     },
     {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": []
+    },
+    {
+      "title": "【DolbyCinema】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-03-22T02:59:17.794710"
+  "scraped_at": "2026-03-22T05:37:48.111623"
 }
