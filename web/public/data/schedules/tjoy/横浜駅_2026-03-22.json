@@ -126,7 +126,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -220,7 +220,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -362,7 +362,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -432,7 +432,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -520,7 +520,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -633,46 +633,6 @@
       ]
     },
     {
-      "title": "超かぐや姫！",
-      "duration_min": 143,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】ゲキ×シネ『紅鬼物語』",
-      "duration_min": 202,
-      "screenings": []
-    },
-    {
-      "title": "花緑青が明ける日に",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
       "title": "劇場版「暗殺教室」みんなの時間",
       "duration_min": 87,
       "screenings": []
@@ -703,5 +663,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-03-22T10:20:50.490476"
+  "scraped_at": "2026-03-22T12:09:07.165838"
 }

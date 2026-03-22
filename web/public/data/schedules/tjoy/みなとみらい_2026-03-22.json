@@ -51,6 +51,20 @@
       ]
     },
     {
+      "title": "【字幕】全知的な読者の視点から",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "17:50",
+          "end_time": "19:55",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
       "title": "劇場版「暗殺教室」みんなの時間",
       "duration_min": 87,
       "screenings": [
@@ -122,7 +136,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -172,6 +186,64 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【IMAX】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:05",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:45",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:15",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:30",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
           "availability": "sold_out"
         }
       ]
@@ -256,7 +328,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -294,7 +366,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -309,78 +381,6 @@
           "format": "2D",
           "language": "吹替",
           "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】全知的な読者の視点から",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "17:50",
-          "end_time": "19:55",
-          "screen": "シアター１３",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos】ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "15:00",
-          "end_time": "17:15",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "【IMAX】ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "08:50",
-          "end_time": "11:05",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "17:30",
-          "end_time": "19:45",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "11:15",
-          "end_time": "13:30",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "20:30",
-          "end_time": "22:45",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
         }
       ]
     },
@@ -540,7 +540,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -682,7 +682,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -704,7 +704,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -732,7 +732,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -858,7 +858,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -875,51 +875,6 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
-      "duration_min": 65,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 158,
-      "screenings": []
-    },
-    {
-      "title": "ゲキ×シネ『紅鬼物語』",
-      "duration_min": 201,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 100,
-      "screenings": []
     },
     {
       "title": "君が最後に遺した歌",
@@ -984,5 +939,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-22T10:19:49.248674"
+  "scraped_at": "2026-03-22T12:08:10.354806"
 }
