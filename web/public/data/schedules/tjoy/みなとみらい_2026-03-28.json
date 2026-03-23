@@ -9,10 +9,33 @@
   "date": "2026-03-28",
   "movies": [
     {
-      "title": "【字幕】ザ・クロウ[R15+]",
-      "duration_min": 111,
-      "screenings": []
+      "title": "【大ヒット御礼舞台挨拶生中継】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ちゃんみな「AREA OF DIAMOND 4」 LIVE VIEWING",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-23T12:31:34.631710"
+  "scraped_at": "2026-03-23T16:44:50.514798"
 }

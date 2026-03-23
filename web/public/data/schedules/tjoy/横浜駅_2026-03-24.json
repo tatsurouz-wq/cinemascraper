@@ -647,35 +647,33 @@
       ]
     },
     {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
+      "title": "【大ヒット御礼舞台挨拶生中継】ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 162,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:12",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』(PG12)",
-      "duration_min": 99,
-      "screenings": []
+      "title": "ちゃんみな「AREA OF DIAMOND 4」 LIVE VIEWING",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-03-23T12:31:55.730272"
+  "scraped_at": "2026-03-23T16:46:01.200469"
 }
