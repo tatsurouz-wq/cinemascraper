@@ -140,7 +140,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -206,7 +206,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -520,7 +520,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -647,21 +647,6 @@
       ]
     },
     {
-      "title": "【DolbyCinema・字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
-      "duration_min": 64,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】嵐が丘",
-      "duration_min": 136,
-      "screenings": []
-    },
-    {
       "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
       "duration_min": 121,
       "screenings": []
@@ -692,5 +677,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-03-23T10:48:17.832394"
+  "scraped_at": "2026-03-23T12:31:47.195719"
 }

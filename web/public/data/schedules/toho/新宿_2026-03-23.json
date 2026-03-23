@@ -100,7 +100,7 @@
           "screen": "SCREEN10",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -180,7 +180,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -757,5 +757,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-23T10:12:23.088735"
+  "scraped_at": "2026-03-23T11:52:27.122903"
 }
