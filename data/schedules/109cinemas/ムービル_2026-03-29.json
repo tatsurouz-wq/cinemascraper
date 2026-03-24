@@ -1,0 +1,289 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-03-29",
+  "movies": [
+    {
+      "title": "90メートル",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "11:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:45",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私たちの話し方[字幕]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "(LOVE SONG)[タイ映画特集]",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "18:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "2gether THE MOVIE[字幕][タイ映画特集]",
+      "duration_min": 112,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "おばあちゃんと僕の約束[字幕][タイ映画特集]",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:15",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "女神の継承[字幕][タイ映画特集]",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "全知的な読者の視点から[字幕]",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "16:45",
+          "end_time": "18:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "放送禁止 ぼくの3人の妻",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "16:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[吹替]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:15",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド 永遠の約束[字幕]",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "13:10",
+          "end_time": "15:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:30",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画「教場 Requiem」",
+      "duration_min": 148,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "16:55",
+          "end_time": "18:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "鬼滅の刃 無限城編　第一章　猗窩座再来",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:45",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "12:50",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-24T04:59:30.889197"
+}
