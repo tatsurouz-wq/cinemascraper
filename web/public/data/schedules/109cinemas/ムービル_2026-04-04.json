@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-04-04",
+  "movies": [
+    {
+      "title": "チェイン・リアクションズ[字幕][トーク付上映]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザッケン![舞台挨拶]",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "13:05",
+          "end_time": "15:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-29T07:09:53.646729"
+}

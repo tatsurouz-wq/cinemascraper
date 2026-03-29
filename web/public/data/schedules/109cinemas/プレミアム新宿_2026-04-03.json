@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-04-03",
+  "movies": [
+    {
+      "title": "Kiramune Music Festival2025上映…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:15",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Chage Live Tour 2025 Mr.November…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-29T07:05:08.120236"
+}

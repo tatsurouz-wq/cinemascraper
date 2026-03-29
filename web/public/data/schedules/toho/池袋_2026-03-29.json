@@ -9,6 +9,20 @@
   "date": "2026-03-29",
   "movies": [
     {
+      "title": "宝塚歌劇　花組宝塚大劇場公演『蒼月抄（そうげつしょう）』『ＥＬ　ＤＥＳＥＯ（エル・デセーオ）』千秋楽",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画　えんとつ町のプペル　～約束の時計台～",
       "duration_min": 99,
       "screenings": [
@@ -18,12 +32,12 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "8:30",
           "end_time": "10:25",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -31,7 +45,7 @@
         {
           "start_time": "10:50",
           "end_time": "12:45",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -39,7 +53,7 @@
         {
           "start_time": "13:10",
           "end_time": "15:05",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -47,7 +61,7 @@
         {
           "start_time": "15:30",
           "end_time": "17:25",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -55,10 +69,10 @@
         {
           "start_time": "17:50",
           "end_time": "19:45",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -72,7 +86,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:20",
@@ -80,7 +94,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:50",
@@ -101,7 +115,7 @@
         {
           "start_time": "8:45",
           "end_time": "11:00",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -118,7 +132,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -132,7 +146,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:15",
@@ -162,7 +176,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "8:15",
@@ -181,18 +195,18 @@
         {
           "start_time": "18:45",
           "end_time": "21:00",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:25",
           "end_time": "23:40",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -258,7 +272,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -280,7 +294,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -308,7 +322,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "12:45",
@@ -344,7 +358,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -366,7 +380,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -388,7 +402,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -407,7 +421,7 @@
         {
           "start_time": "11:25",
           "end_time": "13:25",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -415,7 +429,7 @@
         {
           "start_time": "13:50",
           "end_time": "15:50",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -423,10 +437,10 @@
         {
           "start_time": "16:20",
           "end_time": "18:20",
-          "screen": "SCREEN8",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -440,7 +454,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -454,7 +468,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -468,7 +482,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -524,7 +538,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -549,10 +563,10 @@
         {
           "start_time": "20:15",
           "end_time": "21:15",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -594,7 +608,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -622,7 +636,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -661,13 +675,13 @@
         {
           "start_time": "21:40",
           "end_time": "23:10",
-          "screen": "SCREEN7",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-03-24T05:05:57.321970"
+  "scraped_at": "2026-03-29T07:15:11.421213"
 }
