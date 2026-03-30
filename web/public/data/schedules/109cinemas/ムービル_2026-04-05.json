@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-04-05",
+  "movies": [
+    {
+      "title": "女神の継承[字幕][トーク付き][タイ映画特集]",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-30T02:37:50.373116"
+}

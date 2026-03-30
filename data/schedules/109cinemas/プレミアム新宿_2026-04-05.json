@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-04-05",
+  "movies": [
+    {
+      "title": "映画『北斎漫画』上映[トーク付][35mm]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Chage Live Tour 2025 Mr.November…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:10",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-30T02:33:15.719609"
+}
