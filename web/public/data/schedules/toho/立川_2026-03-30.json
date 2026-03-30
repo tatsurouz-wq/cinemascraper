@@ -134,7 +134,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -232,7 +232,7 @@
           "screen": "SCREEN1",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -476,7 +476,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -593,5 +593,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-03-30T10:38:53.444614"
+  "scraped_at": "2026-03-30T12:16:36.886842"
 }
