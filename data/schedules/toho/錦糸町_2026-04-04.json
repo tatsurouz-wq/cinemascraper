@@ -1,0 +1,227 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ錦糸町",
+    "area": "錦糸町",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/029/TNPI2000J01.do"
+  },
+  "date": "2026-04-04",
+  "movies": [
+    {
+      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "17:05",
+          "end_time": "19:55",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:25",
+          "end_time": "23:15",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:55",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（吹替版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "9:45",
+          "end_time": "12:35",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド　永遠の約束（字幕版）",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "13:35",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:35",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "19:00",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "22:00",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "12:15",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:45",
+          "end_time": "14:35",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "16:55",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:45",
+          "end_time": "19:35",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ　網走監獄襲撃編",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "14:20",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:30",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "教場　Ｒｅｑｕｉｅｍ",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:30",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:05",
+          "end_time": "20:45",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:30",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:20",
+          "end_time": "17:35",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　転生したらスライムだった件　蒼海の涙編",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "22:35",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "9:45",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-03-31T02:49:59.168049"
+}
