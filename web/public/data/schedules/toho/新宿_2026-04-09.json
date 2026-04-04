@@ -9,6 +9,36 @@
   "date": "2026-04-09",
   "movies": [
     {
+      "title": "名探偵コナン　ハイウェイの堕天使（最速上映）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:10",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "24:00",
+          "end_time": "26:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "24:00",
+          "end_time": "26:10",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "俺たちのアナコンダ（字幕版）",
       "duration_min": 99,
       "screenings": [
@@ -745,5 +775,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-04T02:20:50.839513"
+  "scraped_at": "2026-04-04T09:49:44.942124"
 }

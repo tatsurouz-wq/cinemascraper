@@ -9,6 +9,20 @@
   "date": "2026-04-09",
   "movies": [
     {
+      "title": "名探偵コナン　ハイウェイの堕天使（最速上映）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "黄金泥棒",
       "duration_min": 112,
       "screenings": [
@@ -603,5 +617,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-04T02:46:55.318062"
+  "scraped_at": "2026-04-04T10:15:55.765555"
 }
