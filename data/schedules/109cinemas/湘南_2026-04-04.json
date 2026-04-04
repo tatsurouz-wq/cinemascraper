@@ -1,0 +1,643 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ湘南",
+    "area": "湘南",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/shonan/"
+  },
+  "date": "2026-04-04",
+  "movies": [
+    {
+      "title": "ザ・ブライド![字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "11:45",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "18:10",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・ブライド![IMAXレーザー・字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:40",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:50",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "アメリと雨の物語[吹替]",
+      "duration_min": 77,
+      "screenings": [
+        {
+          "start_time": "19:35",
+          "end_time": "21:05",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "津田寛治に撮休はない",
+      "duration_min": 114,
+      "screenings": [
+        {
+          "start_time": "18:25",
+          "end_time": "20:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "鬼の花嫁",
+      "duration_min": 121,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:55",
+          "end_time": "19:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "90メートル",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "19:10",
+          "end_time": "21:15",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画 えんとつ町のプペル ～約束の時計台～",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "11:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "19:35",
+          "end_time": "21:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Ryuichi Sakamoto Trio Tour 2012",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "23:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "2025 INI LIVE LIVE FILM[ODS]",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:20",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:05",
+          "end_time": "21:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ 呪われた海賊と…[吹替]",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "20:45",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:25",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "11:50",
+          "end_time": "14:00",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:00",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "13:45",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:00",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "全知的な読者の視点から[字幕]",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "23:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー[字幕]",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "24:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー[IMAXレーザー・字幕]",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:50",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "18:00",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ゲキ×シネ『紅鬼物語』[ODS]",
+      "duration_min": 200,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "20:25",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "16:40",
+          "end_time": "18:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "マーティ・シュプリーム 世界をつかめ[字幕]",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "20:55",
+          "end_time": "23:35",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ギャビーのドールハウス ザ・ムービー[吹替]",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "10:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫![ODS]",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "18:35",
+          "end_time": "21:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[吹替]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:25",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "15:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:25",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:35",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:45",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド 永遠の約束[字幕]",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "14:20",
+          "end_time": "16:50",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド 永遠の約束[IMAXレーザー・字幕]",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:00",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "11:35",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "11:15",
+          "end_time": "13:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画「教場 Requiem」",
+      "duration_min": 148,
+      "screenings": [
+        {
+          "start_time": "15:15",
+          "end_time": "17:55",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "21:40",
+          "end_time": "23:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "11:35",
+          "end_time": "13:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "21:50",
+          "end_time": "23:50",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "12:10",
+          "end_time": "15:15",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "鬼滅の刃 無限城編　第一章　猗窩座再来",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:45",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-04T02:14:38.147518"
+}
