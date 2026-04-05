@@ -9,24 +9,618 @@
   "date": "2026-04-06",
   "movies": [
     {
-      "title": "ゲキ×シネ『紅鬼物語』",
-      "duration_min": 202,
-      "screenings": []
+      "title": "【字幕】ザ・ブライド！(PG12)",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:45",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:25",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:35",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "18:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "22:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】私がビーバーになる時",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:10",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:20",
+          "end_time": "15:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "18:10",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "21:05",
+          "end_time": "23:50",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "2025 INI LIVE [XQUARE - MASTERPIECE] - LIVE FILM",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "17:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画 えんとつ町のプペル ～約束の時計台～",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:15",
+          "end_time": "14:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:00",
+          "end_time": "23:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:40",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:10",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:35",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:20",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "15:35",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:15",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "【字幕】プロジェクト・ヘイル・メアリー",
       "duration_min": 157,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:45",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "18:30",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ゲキ×シネ『紅鬼物語』",
+      "duration_min": 202,
+      "screenings": [
+        {
+          "start_time": "20:30",
+          "end_time": "23:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】ゲキ×シネ『紅鬼物語』",
+      "duration_min": 202,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "12:30",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "13:10",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【応援上映】ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "17:15",
+          "end_time": "18:25",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "18:40",
+          "end_time": "20:50",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:25",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:35",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
       "duration_min": 138,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "15:10",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:25",
+          "end_time": "20:50",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【字幕】ザ・ブライド！(PG12)",
-      "duration_min": 126,
-      "screenings": []
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "19:10",
+          "end_time": "21:05",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "19:15",
+          "end_time": "21:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "21:40",
+          "end_time": "23:30",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:50",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "14:55",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:00",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:30",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 148,
+      "screenings": [
+        {
+          "start_time": "18:50",
+          "end_time": "21:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「僕の心のヤバイやつ」",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:55",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "19:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:50",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "国宝(PG12)",
+      "duration_min": 174,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "超かぐや姫！",
@@ -34,13 +628,13 @@
       "screenings": []
     },
     {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
       "screenings": []
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
+      "title": "鬼の花嫁",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -68,5 +662,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-05T10:26:23.837806"
+  "scraped_at": "2026-04-05T12:14:21.550920"
 }
