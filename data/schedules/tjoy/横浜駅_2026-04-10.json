@@ -9,6 +9,20 @@
   "date": "2026-04-10",
   "movies": [
     {
+      "title": "【初日最速上映】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:53",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ゲキ×シネ『紅鬼物語』",
       "duration_min": 202,
       "screenings": []
@@ -54,7 +68,7 @@
       "screenings": []
     },
     {
-      "title": "【「鬼」応援上映】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
+      "title": "【「鬼殺隊」応援上映】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
       "duration_min": 155,
       "screenings": [
         {
@@ -66,21 +80,7 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "【「鬼殺隊」応援上映】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
-      "duration_min": 155,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "20:45",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-04-04T10:26:26.305447"
+  "scraped_at": "2026-04-05T10:26:56.689374"
 }

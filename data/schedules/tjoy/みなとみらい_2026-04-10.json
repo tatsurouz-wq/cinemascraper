@@ -9,6 +9,20 @@
   "date": "2026-04-10",
   "movies": [
     {
+      "title": "【初日最速上映】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:53",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
       "duration_min": 104,
       "screenings": []
@@ -41,6 +55,11 @@
     {
       "title": "【吹替】プロジェクト・ヘイル・メアリー",
       "duration_min": 157,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 145,
       "screenings": []
     },
     {
@@ -88,40 +107,12 @@
       "duration_min": 121,
       "screenings": [
         {
-          "start_time": "11:45",
-          "end_time": "13:55",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "SUPER JUNIOR 20th Anniversary TOUR<SUPER SHOW 10> SJ-CORE",
-      "duration_min": 240,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "22:00",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
-    },
-    {
-      "title": "【応援上映】ゾンビランドサガ ゆめぎんがパラダイス",
-      "duration_min": 121,
-      "screenings": [
-        {
           "start_time": "09:20",
           "end_time": "11:30",
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -129,7 +120,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -148,5 +139,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-04T10:25:30.505319"
+  "scraped_at": "2026-04-05T10:26:01.611543"
 }
