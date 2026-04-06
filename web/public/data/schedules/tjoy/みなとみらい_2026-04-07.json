@@ -797,18 +797,18 @@
       ]
     },
     {
-      "title": "90メートル",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "Ryuichi Sakamoto Trio Tour 2012",
+      "title": "【吹替】私がビーバーになる時",
       "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【応援上映】ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
+      "duration_min": 65,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！",
+      "duration_min": 96,
       "screenings": []
     },
     {
@@ -817,8 +817,43 @@
       "screenings": []
     },
     {
-      "title": "パリに咲くエトワール",
-      "duration_min": 125,
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】PILOT -人生のリフライト-",
+      "duration_min": 112,
+      "screenings": []
+    },
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】ザ・ブライド！(PG12)",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 158,
       "screenings": []
     },
     {
@@ -827,26 +862,24 @@
       "screenings": []
     },
     {
-      "title": "【応援上映】ゾンビランドサガ ゆめぎんがパラダイス",
-      "duration_min": 121,
-      "screenings": [
-        {
-          "start_time": "09:20",
-          "end_time": "11:30",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "20:40",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【字幕】OCHI！-オチ-",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "ゲキ×シネ『紅鬼物語』",
+      "duration_min": 201,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！",
+      "duration_min": 96,
+      "screenings": []
     },
     {
       "title": "槇原敬之35周年アニバーサリーコンサート“TREASUarenaTOUR” Blu-ray＆DVD発売記念上映会",
@@ -858,10 +891,24 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【初日最速上映】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:53",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-05T12:13:35.269974"
+  "scraped_at": "2026-04-06T03:18:38.073413"
 }
