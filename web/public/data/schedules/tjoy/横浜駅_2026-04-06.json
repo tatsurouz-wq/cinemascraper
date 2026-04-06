@@ -34,7 +34,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -64,7 +64,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:20",
@@ -72,7 +72,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -124,7 +124,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -190,7 +190,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "22:00",
@@ -228,7 +228,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -280,7 +280,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -350,7 +350,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -510,7 +510,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -596,7 +596,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:40",
@@ -623,43 +623,18 @@
       ]
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
       "screenings": []
     },
     {
-      "title": "【DolbyCinema】劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来(PG12)",
-      "duration_min": 155,
+      "title": "【DolbyCinema・字幕】ウィキッド 永遠の約束",
+      "duration_min": 138,
       "screenings": []
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "2025 INI LIVE [XQUARE - MASTERPIECE] - LIVE FILM",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "映画 えんとつ町のプペル ～約束の時計台～",
-      "duration_min": 98,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ザ・ブライド！(PG12)",
-      "duration_min": 126,
+      "title": "パリに咲くエトワール",
+      "duration_min": 124,
       "screenings": []
     },
     {
@@ -668,13 +643,28 @@
       "screenings": []
     },
     {
-      "title": "【応援上映】ナンバーワン戦隊ゴジュウジャーVSブンブンジャー",
-      "duration_min": 64,
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
       "screenings": []
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】私がビーバーになる時",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 143,
       "screenings": []
     },
     {
@@ -692,5 +682,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-06T06:08:25.470009"
+  "scraped_at": "2026-04-06T08:29:30.941556"
 }
