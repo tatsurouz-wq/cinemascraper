@@ -1,0 +1,561 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズららぽーと富士見",
+    "area": "富士見",
+    "prefecture": "埼玉県",
+    "url": "https://www.tohotheater.jp/net/schedule/075/TNPI2000J01.do"
+  },
+  "date": "2026-04-15",
+  "movies": [
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "9:30",
+          "end_time": "11:43",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:10",
+          "end_time": "14:23",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "17:03",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:43",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:10",
+          "end_time": "22:23",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:00",
+          "end_time": "11:13",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:40",
+          "end_time": "13:53",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:33",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:13",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:40",
+          "end_time": "21:53",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:00",
+          "end_time": "12:13",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:53",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:20",
+          "end_time": "17:33",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:13",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:53",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第４幕",
+      "duration_min": 76,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "10:37",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:12",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:02",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハムネット（字幕版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "16:05",
+          "end_time": "18:21",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "8:50",
+          "end_time": "11:06",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:51",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:05",
+          "end_time": "22:21",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "黄金泥棒",
+      "duration_min": 112,
+      "screenings": [
+        {
+          "start_time": "18:05",
+          "end_time": "20:08",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・ブライド！（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:05",
+          "end_time": "16:23",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:53",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＡＫＩＲＡ　アキラ（４Ｋ）",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:05",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "俺たちのアナコンダ（字幕版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:19",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:39",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:19",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画　えんとつ町のプペル　～約束の時計台～",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "17:36",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:36",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ストリート・キングダム　自分の音を鳴らせ。",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "14:15",
+          "end_time": "16:36",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:03",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:43",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "２０２５　ＩＮＩ　ＬＩＶＥ　［ＸＱＵＡＲＥ－ＭＡＳＴＥＲＰＩＥＣＥ］－ＬＩＶＥ　ＦＩＬＭ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:57",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キング・オブ・キングス（吹替版）",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "12:56",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "18:10",
+          "end_time": "20:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "19:50",
+          "end_time": "22:39",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "13:20",
+          "end_time": "15:33",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゴールデンカムイ　網走監獄襲撃編",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:36",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時（吹替版）",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:22",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:42",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド　永遠の約束（字幕版）",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "19:18",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "23:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "11:10",
+          "end_time": "13:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "教場　Ｒｅｑｕｉｅｍ",
+      "duration_min": 149,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:41",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版　銀魂　－吉原大炎上－",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "16:05",
+          "end_time": "18:19",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "20:30",
+          "end_time": "22:47",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:44",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-10T03:16:13.143090"
+}
