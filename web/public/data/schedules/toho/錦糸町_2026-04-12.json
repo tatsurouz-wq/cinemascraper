@@ -499,6 +499,20 @@
       ]
     },
     {
+      "title": "宝塚歌劇　星組東京宝塚劇場公演『恋する天動説』『ＤＹＮＡＭＩＣ　ＮＯＶＡ』千秋楽　ライブ中継",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "17:30",
+          "screen": "オリナスSCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画ドラえもん　新・のび太の海底鬼岩城",
       "duration_min": 102,
       "screenings": [
@@ -691,5 +705,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:58:47.334536"
+  "scraped_at": "2026-04-11T02:36:49.345758"
 }

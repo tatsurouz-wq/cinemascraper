@@ -9,6 +9,20 @@
   "date": "2026-04-12",
   "movies": [
     {
+      "title": "Ｙｕｚｕｒｕ　Ｈａｎｙｕ　“ＲＥＡＬＩＶＥ”　ａｎ　ＩＣＥ　ＳＴＯＲＹ　ｐｒｏｊｅｃｔ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "18:55",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使",
       "duration_min": 109,
       "screenings": [
@@ -547,5 +561,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T03:07:09.548521"
+  "scraped_at": "2026-04-11T02:45:05.665618"
 }

@@ -9,6 +9,20 @@
   "date": "2026-04-12",
   "movies": [
     {
+      "title": "宝塚歌劇　星組東京宝塚劇場公演『恋する天動説』『ＤＹＮＡＭＩＣ　ＮＯＶＡ』千秋楽　ライブ中継",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "17:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使（ＩＭＡＸレーザー）",
       "duration_min": 109,
       "screenings": [
@@ -80,7 +94,7 @@
           "screen": "SCREEN2",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:50",
@@ -375,28 +389,6 @@
       ]
     },
     {
-      "title": "私がビーバーになる時（吹替版）",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "10:35",
-          "end_time": "12:35",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:40",
-          "end_time": "18:40",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "プロジェクト・ヘイル・メアリー（字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -406,7 +398,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:10",
@@ -436,6 +428,28 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時（吹替版）",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "10:35",
+          "end_time": "12:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "吹替",
           "availability": "available"
         }
       ]
@@ -507,20 +521,6 @@
       ]
     },
     {
-      "title": "炎かがよへ",
-      "duration_min": 113,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "10:25",
-          "screen": "SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画　えんとつ町のプペル　～約束の時計台～",
       "duration_min": 99,
       "screenings": [
@@ -536,6 +536,42 @@
           "start_time": "21:35",
           "end_time": "23:30",
           "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "21:15",
+          "end_time": "23:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:15",
+          "end_time": "10:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "10:25",
+          "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -571,28 +607,6 @@
       ]
     },
     {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "21:15",
-          "end_time": "23:05",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "8:15",
-          "end_time": "10:05",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "君が最後に遺した歌",
       "duration_min": 117,
       "screenings": [
@@ -602,7 +616,7 @@
           "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -686,10 +700,10 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:45:02.084286"
+  "scraped_at": "2026-04-11T02:23:07.010856"
 }

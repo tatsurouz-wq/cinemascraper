@@ -9,6 +9,20 @@
   "date": "2026-04-11",
   "movies": [
     {
+      "title": "BTS WORLD TOUR ARIRANG…[0411][ODS]",
+      "duration_min": 205,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "かもめ食堂",
       "duration_min": 102,
       "screenings": [
@@ -32,7 +46,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:50",
@@ -162,7 +176,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -176,7 +190,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -204,7 +218,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -251,5 +265,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:40:23.552521"
+  "scraped_at": "2026-04-11T02:18:34.800235"
 }

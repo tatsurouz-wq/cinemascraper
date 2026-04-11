@@ -9,6 +9,20 @@
   "date": "2026-04-11",
   "movies": [
     {
+      "title": "BTS WORLD TOUR ARIRANG…[0411][ODS]",
+      "duration_min": 205,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "シネマ歌舞伎「曽根崎心中」[ODS]",
       "duration_min": 99,
       "screenings": [
@@ -40,7 +54,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:50",
@@ -122,7 +136,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -228,7 +242,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:15",
@@ -250,7 +264,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -278,7 +292,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -333,5 +347,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:39:01.068452"
+  "scraped_at": "2026-04-11T02:17:16.571563"
 }

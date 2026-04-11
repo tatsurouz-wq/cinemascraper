@@ -9,6 +9,20 @@
   "date": "2026-04-14",
   "movies": [
     {
+      "title": "Ｙｕｚｕｒｕ　Ｈａｎｙｕ　“ＲＥＡＬＩＶＥ”　ａｎ　ＩＣＥ　ＳＴＯＲＹ　ｐｒｏｊｅｃｔ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使（ＩＭＡＸレーザー）",
       "duration_min": 109,
       "screenings": [
@@ -319,36 +333,6 @@
       ]
     },
     {
-      "title": "私がビーバーになる時（吹替版）",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "14:05",
-          "end_time": "16:05",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:20",
-          "end_time": "21:20",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "8:50",
-          "end_time": "10:50",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "プロジェクト・ヘイル・メアリー（字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -404,6 +388,36 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時（吹替版）",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "14:05",
+          "end_time": "16:05",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:20",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "8:50",
+          "end_time": "10:50",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -475,20 +489,6 @@
       ]
     },
     {
-      "title": "炎かがよへ",
-      "duration_min": 113,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "10:25",
-          "screen": "SCREEN12",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "映画　えんとつ町のプペル　～約束の時計台～",
       "duration_min": 99,
       "screenings": [
@@ -504,6 +504,42 @@
           "start_time": "19:15",
           "end_time": "21:10",
           "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:20",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:35",
+          "end_time": "15:25",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "10:25",
+          "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -534,28 +570,6 @@
           "screen": "SCREEN12",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "10:20",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:35",
-          "end_time": "15:25",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -709,5 +723,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:45:27.640021"
+  "scraped_at": "2026-04-11T02:23:33.000330"
 }

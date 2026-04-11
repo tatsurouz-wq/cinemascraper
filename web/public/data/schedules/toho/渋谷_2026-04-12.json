@@ -183,6 +183,34 @@
       ]
     },
     {
+      "title": "宝塚歌劇　星組東京宝塚劇場公演『恋する天動説』『ＤＹＮＡＭＩＣ　ＮＯＶＡ』千秋楽　ライブ中継",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "17:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・ブライド！（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "12:55",
+          "end_time": "15:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
       "duration_min": 97,
       "screenings": [
@@ -242,6 +270,20 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "23:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -339,5 +381,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:51:55.665244"
+  "scraped_at": "2026-04-11T02:30:00.290670"
 }

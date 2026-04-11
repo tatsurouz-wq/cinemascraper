@@ -9,6 +9,20 @@
   "date": "2026-04-11",
   "movies": [
     {
+      "title": "BTS WORLD TOUR ARIRANG…[0411][ODS]",
+      "duration_min": 205,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:25",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
       "duration_min": 109,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:15",
@@ -26,7 +40,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:45",
@@ -34,7 +48,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -48,7 +62,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:45",
@@ -102,7 +116,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:05",
@@ -202,7 +216,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:45",
@@ -252,7 +266,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -280,7 +294,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -294,7 +308,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:40",
@@ -358,7 +372,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:25",
@@ -380,7 +394,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -394,7 +408,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:25",
@@ -424,7 +438,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -443,5 +457,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:38:17.342392"
+  "scraped_at": "2026-04-11T02:16:35.210667"
 }

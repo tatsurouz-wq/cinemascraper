@@ -292,7 +292,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -306,7 +306,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:10",
@@ -549,7 +549,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "宝塚歌劇　星組東京宝塚劇場公演『恋する天動説』『ＤＹＮＡＭＩＣ　ＮＯＶＡ』千秋楽　ライブ中継",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "17:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-04-10T02:47:52.844884"
+  "scraped_at": "2026-04-11T02:25:56.988932"
 }

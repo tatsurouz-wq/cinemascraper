@@ -9,6 +9,20 @@
   "date": "2026-04-11",
   "movies": [
     {
+      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＧＯＹＡＮＧ　ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "プロジェクト・ヘイル・メアリー（字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:25",
@@ -48,7 +62,7 @@
           "screen": "楽天地SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -62,7 +76,7 @@
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:35",
@@ -92,7 +106,7 @@
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:25",
@@ -114,7 +128,7 @@
           "screen": "楽天地SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -136,7 +150,7 @@
           "screen": "楽天地SCREEN12",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:30",
@@ -242,7 +256,7 @@
           "screen": "楽天地SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -256,7 +270,7 @@
           "screen": "オリナスSCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:25",
@@ -264,7 +278,7 @@
           "screen": "オリナスSCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:00",
@@ -304,7 +318,7 @@
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:40",
@@ -312,7 +326,7 @@
           "screen": "オリナスSCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:15",
@@ -336,7 +350,7 @@
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:20",
@@ -376,7 +390,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:10",
@@ -384,7 +398,7 @@
           "screen": "オリナスSCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:45",
@@ -408,7 +422,7 @@
           "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:55",
@@ -416,7 +430,7 @@
           "screen": "オリナスSCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -493,6 +507,28 @@
       ]
     },
     {
+      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＧＯＹＡＮＧ　ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "オリナスSCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "オリナスSCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画ドラえもん　新・のび太の海底鬼岩城",
       "duration_min": 102,
       "screenings": [
@@ -502,7 +538,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:50",
@@ -560,7 +596,7 @@
           "screen": "オリナスSCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -630,7 +666,7 @@
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -644,7 +680,7 @@
           "screen": "オリナスSCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -658,10 +694,10 @@
           "screen": "オリナスSCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:58:34.992091"
+  "scraped_at": "2026-04-11T02:36:36.370190"
 }

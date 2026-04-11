@@ -891,6 +891,16 @@
       ]
     },
     {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
       "title": "鬼の花嫁",
       "duration_min": 122,
       "screenings": []
@@ -961,19 +971,57 @@
       "screenings": []
     },
     {
-      "title": "【初日最速上映】名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "『BTS WORLD TOUR 'ARIRANG' IN GOYANG』ライブビューイング",
+      "duration_min": 210,
       "screenings": [
         {
-          "start_time": "00:00",
-          "end_time": "01:53",
+          "start_time": "19:00",
+          "end_time": "22:30",
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[ディレイ・ビューイング]Yuzuru Hanyu “REALIVE” an ICE STORY project",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-10T03:21:36.654678"
+  "scraped_at": "2026-04-11T02:59:30.917634"
 }

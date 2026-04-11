@@ -143,6 +143,20 @@
       ]
     },
     {
+      "title": "ザ・ブライド！（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "17:55",
+          "end_time": "20:15",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
       "duration_min": 97,
       "screenings": [
@@ -214,6 +228,14 @@
           "start_time": "9:20",
           "end_time": "12:10",
           "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "23:30",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -321,5 +343,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:52:29.899086"
+  "scraped_at": "2026-04-11T02:30:35.346370"
 }

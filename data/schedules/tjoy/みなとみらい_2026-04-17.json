@@ -1,0 +1,145 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-04-17",
+  "movies": [
+    {
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第4幕",
+      "duration_min": 77,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "炎上(PG12)",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】俺たちのアナコンダ",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】私がビーバーになる時",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "『BTS WORLD TOUR 'ARIRANG' IN GOYANG』ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:30",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[ディレイ・ビューイング]Yuzuru Hanyu “REALIVE” an ICE STORY project",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-11T02:59:37.118487"
+}

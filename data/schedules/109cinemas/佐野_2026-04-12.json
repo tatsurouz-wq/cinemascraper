@@ -9,6 +9,20 @@
   "date": "2026-04-12",
   "movies": [
     {
+      "title": "Yuzuru Hanyu REALIVE an ICE …[0412[ODS",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "19:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "炎上",
       "duration_min": 103,
       "screenings": [
@@ -461,5 +475,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:41:48.688228"
+  "scraped_at": "2026-04-11T02:20:00.284314"
 }

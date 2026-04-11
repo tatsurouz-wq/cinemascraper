@@ -9,6 +9,20 @@
   "date": "2026-04-12",
   "movies": [
     {
+      "title": "宝塚歌劇　星組東京宝塚劇場公演『恋する天動説』『ＤＹＮＡＭＩＣ　ＮＯＶＡ』千秋楽　ライブ中継",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "17:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使（ＩＭＡＸレーザー）",
       "duration_min": 109,
       "screenings": [
@@ -406,7 +420,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:20",
@@ -436,7 +450,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "22:00",
@@ -869,5 +883,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-10T02:43:33.333004"
+  "scraped_at": "2026-04-11T02:21:38.709308"
 }
