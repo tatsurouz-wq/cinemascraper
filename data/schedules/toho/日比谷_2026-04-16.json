@@ -9,6 +9,20 @@
   "date": "2026-04-16",
   "movies": [
     {
+      "title": "ＴＯＨＯシネマズ・ピックアップシネマＶｏｌ．１２　俳優・蒼戸虹子",
+      "duration_min": 61,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:45",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使（ＩＭＡＸレーザー）",
       "duration_min": 109,
       "screenings": [
@@ -891,5 +905,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-11T02:22:33.667893"
+  "scraped_at": "2026-04-12T02:44:50.920263"
 }

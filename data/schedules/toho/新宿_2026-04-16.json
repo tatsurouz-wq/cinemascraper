@@ -9,6 +9,20 @@
   "date": "2026-04-16",
   "movies": [
     {
+      "title": "新劇場版　銀魂　－吉原大炎上－　スタッフトークショー付き",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:15",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使（ＩＭＡＸレーザー）",
       "duration_min": 109,
       "screenings": [
@@ -703,5 +717,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-11T02:23:59.491517"
+  "scraped_at": "2026-04-12T02:46:14.854033"
 }
