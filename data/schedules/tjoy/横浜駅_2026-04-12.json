@@ -376,7 +376,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -384,7 +384,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -392,7 +392,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -430,7 +430,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -494,7 +494,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -536,7 +536,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -606,7 +606,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -639,41 +639,6 @@
       ]
     },
     {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第4幕",
-      "duration_min": 77,
-      "screenings": []
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
       "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
@@ -699,5 +664,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-04-12T10:32:01.243429"
+  "scraped_at": "2026-04-12T12:19:45.210037"
 }

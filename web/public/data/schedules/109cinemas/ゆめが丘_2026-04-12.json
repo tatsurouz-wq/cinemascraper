@@ -34,7 +34,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -491,5 +491,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-12T09:50:54.273478"
+  "scraped_at": "2026-04-12T11:39:35.378469"
 }
