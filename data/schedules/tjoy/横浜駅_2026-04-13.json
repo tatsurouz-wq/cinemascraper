@@ -50,7 +50,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -256,7 +256,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -264,7 +264,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:50",
@@ -358,7 +358,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -450,7 +450,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -464,7 +464,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -610,36 +610,6 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "パリに咲くエトワール",
-      "duration_min": 124,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
       "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
       "duration_min": 108,
       "screenings": []
@@ -659,5 +629,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T11:28:43.196546"
+  "scraped_at": "2026-04-13T12:46:00.159853"
 }

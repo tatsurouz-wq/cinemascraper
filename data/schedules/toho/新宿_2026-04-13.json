@@ -198,7 +198,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:25",
@@ -344,7 +344,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:25",
@@ -382,7 +382,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -717,5 +717,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T10:54:14.110598"
+  "scraped_at": "2026-04-13T12:11:33.840535"
 }

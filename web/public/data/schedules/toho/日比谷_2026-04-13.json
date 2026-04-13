@@ -152,7 +152,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:45",
@@ -192,7 +192,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -620,7 +620,7 @@
           "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -887,5 +887,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T10:52:52.061613"
+  "scraped_at": "2026-04-13T12:10:14.083774"
 }
