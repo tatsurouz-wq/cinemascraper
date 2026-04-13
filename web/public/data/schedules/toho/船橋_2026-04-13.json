@@ -50,7 +50,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -96,7 +96,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:40",
@@ -136,7 +136,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:40",
@@ -160,7 +160,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "7:55",
@@ -200,7 +200,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:10",
@@ -238,7 +238,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -317,28 +317,6 @@
       ]
     },
     {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:00",
-          "end_time": "9:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "17:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "劇場版「暗殺教室」みんなの時間",
       "duration_min": 87,
       "screenings": [
@@ -356,6 +334,28 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:00",
+          "end_time": "9:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "17:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -397,20 +397,6 @@
       ]
     },
     {
-      "title": "炎かがよへ",
-      "duration_min": 113,
-      "screenings": [
-        {
-          "start_time": "21:55",
-          "end_time": "24:00",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "鬼の花嫁",
       "duration_min": 122,
       "screenings": [
@@ -425,34 +411,6 @@
         {
           "start_time": "18:40",
           "end_time": "20:55",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ストリート・キングダム　自分の音を鳴らせ。（日本語字幕付き）",
-      "duration_min": 130,
-      "screenings": [
-        {
-          "start_time": "21:10",
-          "end_time": "23:35",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "２０２５　ＩＮＩ　ＬＩＶＥ　［ＸＱＵＡＲＥ－ＭＡＳＴＥＲＰＩＥＣＥ］－ＬＩＶＥ　ＦＩＬＭ",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "18:15",
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
@@ -484,21 +442,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スペシャルズ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "20:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -527,6 +471,62 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ストリート・キングダム　自分の音を鳴らせ。（日本語字幕付き）",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:35",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スペシャルズ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:05",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "21:55",
+          "end_time": "24:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "２０２５　ＩＮＩ　ＬＩＶＥ　［ＸＱＵＡＲＥ－ＭＡＳＴＥＲＰＩＥＣＥ］－ＬＩＶＥ　ＦＩＬＭ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:15",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -576,7 +576,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -637,5 +637,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T08:28:25.889249"
+  "scraped_at": "2026-04-13T11:08:30.377244"
 }

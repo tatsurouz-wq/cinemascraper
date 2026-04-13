@@ -42,7 +42,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -208,7 +208,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:40",
@@ -216,7 +216,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:10",
@@ -224,7 +224,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -232,7 +232,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:40",
@@ -240,7 +240,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:10",
@@ -248,7 +248,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:40",
@@ -380,7 +380,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -486,7 +486,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -615,8 +615,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 104,
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 121,
       "screenings": []
     },
     {
@@ -625,8 +625,13 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 124,
       "screenings": []
     },
     {
@@ -635,23 +640,8 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "duration_min": 108,
       "screenings": []
     },
     {
@@ -669,5 +659,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T08:51:05.219008"
+  "scraped_at": "2026-04-13T11:28:43.196546"
 }

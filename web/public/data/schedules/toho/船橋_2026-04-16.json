@@ -329,28 +329,6 @@
       ]
     },
     {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:00",
-          "end_time": "9:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "17:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "劇場版「暗殺教室」みんなの時間",
       "duration_min": 87,
       "screenings": [
@@ -368,6 +346,28 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:00",
+          "end_time": "9:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "17:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -423,20 +423,6 @@
       ]
     },
     {
-      "title": "炎かがよへ",
-      "duration_min": 113,
-      "screenings": [
-        {
-          "start_time": "21:20",
-          "end_time": "23:25",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "鬼の花嫁",
       "duration_min": 122,
       "screenings": [
@@ -451,34 +437,6 @@
         {
           "start_time": "10:40",
           "end_time": "12:55",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ストリート・キングダム　自分の音を鳴らせ。",
-      "duration_min": 130,
-      "screenings": [
-        {
-          "start_time": "21:10",
-          "end_time": "23:35",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "２０２５　ＩＮＩ　ＬＩＶＥ　［ＸＱＵＡＲＥ－ＭＡＳＴＥＲＰＩＥＣＥ］－ＬＩＶＥ　ＦＩＬＭ",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "18:15",
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
@@ -536,6 +494,48 @@
           "start_time": "20:40",
           "end_time": "23:25",
           "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ストリート・キングダム　自分の音を鳴らせ。",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:35",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "炎かがよへ",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "23:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "２０２５　ＩＮＩ　ＬＩＶＥ　［ＸＱＵＡＲＥ－ＭＡＳＴＥＲＰＩＥＣＥ］－ＬＩＶＥ　ＦＩＬＭ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:15",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -649,5 +649,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-13T08:29:05.495370"
+  "scraped_at": "2026-04-13T11:09:08.571574"
 }
