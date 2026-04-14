@@ -9,20 +9,6 @@
   "date": "2026-04-18",
   "movies": [
     {
-      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＪＡＰＡＮ　ライブビューイング",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "15:00",
-          "end_time": "18:30",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -595,5 +581,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T05:48:03.550969"
+  "scraped_at": "2026-04-14T12:22:51.757885"
 }

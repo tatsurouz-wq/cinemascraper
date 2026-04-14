@@ -419,14 +419,6 @@
       "duration_min": 156,
       "screenings": [
         {
-          "start_time": "8:40",
-          "end_time": "11:30",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "14:25",
           "end_time": "17:15",
           "screen": "SCREEN5",
@@ -725,5 +717,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T05:59:57.626795"
+  "scraped_at": "2026-04-14T12:35:28.546057"
 }

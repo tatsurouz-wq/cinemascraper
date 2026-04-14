@@ -9,20 +9,6 @@
   "date": "2026-04-18",
   "movies": [
     {
-      "title": "かもめ食堂",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "13:45",
-          "end_time": "15:35",
-          "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ONE OK ROCK DETOX JAPAN TOUR …[ODS]",
       "duration_min": 118,
       "screenings": [
@@ -66,6 +52,20 @@
           "start_time": "08:50",
           "end_time": "11:05",
           "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "かもめ食堂",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "15:35",
+          "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -375,5 +375,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T05:27:08.809988"
+  "scraped_at": "2026-04-14T12:00:25.168491"
 }
