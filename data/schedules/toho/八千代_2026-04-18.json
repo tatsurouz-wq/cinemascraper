@@ -9,20 +9,6 @@
   "date": "2026-04-18",
   "movies": [
     {
-      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＪＡＰＡＮ　ライブビューイング",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "15:00",
-          "end_time": "18:30",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "名探偵コナン　ハイウェイの堕天使",
       "duration_min": 109,
       "screenings": [
@@ -513,5 +499,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T03:04:27.238462"
+  "scraped_at": "2026-04-14T05:52:03.989452"
 }

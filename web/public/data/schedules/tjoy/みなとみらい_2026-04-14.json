@@ -40,7 +40,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:15",
@@ -142,7 +142,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:15",
@@ -150,7 +150,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -158,7 +158,7 @@
           "screen": "シアター１２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:45",
@@ -166,7 +166,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:15",
@@ -174,7 +174,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -336,7 +336,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:45",
@@ -358,7 +358,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -486,7 +486,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -556,7 +556,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -742,7 +742,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -784,7 +784,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -806,7 +806,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -856,7 +856,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -903,13 +903,13 @@
       ]
     },
     {
-      "title": "新劇場版 銀魂 -吉原大炎上-(PG12)",
-      "duration_min": 124,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
+      "title": "映画「教場 Requiem」(PG12)",
+      "duration_min": 149,
       "screenings": []
     },
     {
@@ -918,13 +918,18 @@
       "screenings": []
     },
     {
-      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第4幕",
-      "duration_min": 77,
+      "title": "【字幕】PILOT -人生のリフライト-",
+      "duration_min": 112,
       "screenings": []
     },
     {
-      "title": "【字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "シネマ歌舞伎「曽根崎心中」",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -938,18 +943,18 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "炎上(PG12)",
+      "title": "【字幕】ダーティ・エンジェルズ[R15+]",
       "duration_min": 104,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "スペシャルズ",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "パリに咲くエトワール",
+      "duration_min": 124,
       "screenings": []
     },
     {
@@ -958,23 +963,8 @@
       "screenings": []
     },
     {
-      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】俺たちのアナコンダ",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】私がビーバーになる時",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "超かぐや姫！",
-      "duration_min": 145,
+      "title": "ストリート・キングダム 自分の音を鳴らせ。",
+      "duration_min": 131,
       "screenings": []
     },
     {
@@ -1006,5 +996,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T03:20:30.066290"
+  "scraped_at": "2026-04-14T06:07:11.592377"
 }
