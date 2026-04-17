@@ -9,6 +9,50 @@
   "date": "2026-04-17",
   "movies": [
     {
+      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＪＡＰＡＮ　ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "22:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "22:00",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "22:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "爆笑問題ｗｉｔｈタイタンシネマライブ＃１０１",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:45",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -250,7 +294,7 @@
           "screen": "SCREEN8",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -278,7 +322,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -451,5 +495,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T12:12:56.577336"
+  "scraped_at": "2026-04-17T12:08:13.984306"
 }

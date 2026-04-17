@@ -9,6 +9,28 @@
   "date": "2026-04-17",
   "movies": [
     {
+      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＪＡＰＡＮ　ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "22:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "22:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -194,7 +216,7 @@
           "screen": "SCREEN3",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -280,7 +302,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "10:35",
@@ -419,6 +441,14 @@
       "duration_min": 156,
       "screenings": [
         {
+          "start_time": "8:40",
+          "end_time": "11:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "14:25",
           "end_time": "17:15",
           "screen": "SCREEN5",
@@ -508,7 +538,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -614,7 +644,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -717,5 +747,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-14T12:35:28.546057"
+  "scraped_at": "2026-04-17T12:30:32.195599"
 }
