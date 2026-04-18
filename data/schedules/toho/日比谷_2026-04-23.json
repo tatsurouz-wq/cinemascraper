@@ -9,6 +9,20 @@
   "date": "2026-04-23",
   "movies": [
     {
+      "title": "脛擦りの森　ティーチイン上映",
+      "duration_min": 61,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:45",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -915,5 +929,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-18T07:17:24.575479"
+  "scraped_at": "2026-04-18T09:58:49.723702"
 }
