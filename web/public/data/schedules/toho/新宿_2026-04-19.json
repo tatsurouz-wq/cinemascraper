@@ -18,7 +18,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "screen": "SCREEN2",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:20",
@@ -737,5 +737,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-17T12:03:03.626990"
+  "scraped_at": "2026-04-18T07:17:59.369098"
 }

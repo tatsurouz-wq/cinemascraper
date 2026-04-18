@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-04-24",
+  "movies": [
+    {
+      "title": "ＡＲＣＯ／アルコ（舞台挨拶・吹替版）",
+      "duration_min": 88,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:33",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-18T07:17:35.084601"
+}

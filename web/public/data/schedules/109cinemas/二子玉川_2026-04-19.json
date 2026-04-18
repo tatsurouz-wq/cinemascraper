@@ -9,6 +9,20 @@
   "date": "2026-04-19",
   "movies": [
     {
+      "title": "Hi-STANDARD Screaming Newborn Baby…[ODS",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ソング・サング・ブルー[字幕]",
       "duration_min": 133,
       "screenings": [
@@ -98,7 +112,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -374,7 +388,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -388,7 +402,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -416,7 +430,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:55",
@@ -457,5 +471,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-17T11:54:39.380918"
+  "scraped_at": "2026-04-18T07:10:11.008073"
 }

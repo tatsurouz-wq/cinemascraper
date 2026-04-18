@@ -9,6 +9,20 @@
   "date": "2026-04-19",
   "movies": [
     {
+      "title": "Ｈｉ－ＳＴＡＮＤＡＲＤ　“Ｓｃｒｅａｍｉｎｇ　Ｎｅｗｂｏｒｎ　Ｂａｂｙ　Ｔｏｕｒ”　ＬＶ（発声ＯＫ）",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -643,5 +657,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-17T12:26:41.157109"
+  "scraped_at": "2026-04-18T07:41:52.009500"
 }

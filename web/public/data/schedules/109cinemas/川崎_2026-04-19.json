@@ -9,6 +9,20 @@
   "date": "2026-04-19",
   "movies": [
     {
+      "title": "Hi-STANDARD Screaming Newborn Baby…[ODS",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ONE OK ROCK DETOX JAPAN TOUR …[ODS]",
       "duration_min": 118,
       "screenings": [
@@ -410,7 +424,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -424,7 +438,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -471,5 +485,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-17T11:56:06.430704"
+  "scraped_at": "2026-04-18T07:11:30.691280"
 }

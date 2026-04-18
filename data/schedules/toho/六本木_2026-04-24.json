@@ -1,0 +1,51 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ六本木ヒルズ",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/009/TNPI2000J01.do"
+  },
+  "date": "2026-04-24",
+  "movies": [
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（スーパーマリオシアター・日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "16:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "19:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-18T07:24:39.865198"
+}
