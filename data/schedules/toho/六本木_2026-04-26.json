@@ -1,0 +1,73 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ六本木ヒルズ",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/009/TNPI2000J01.do"
+  },
+  "date": "2026-04-26",
+  "movies": [
+    {
+      "title": "映画　えんとつ町のプペル　～約束の時計台～（舞台挨拶・発声ＯＫ）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:04",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（スーパーマリオシアター・日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "14:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "16:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "19:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-20T05:57:40.644935"
+}
