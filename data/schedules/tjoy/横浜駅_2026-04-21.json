@@ -26,7 +26,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:00",
@@ -96,7 +96,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:50",
@@ -104,7 +104,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -112,7 +112,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:20",
@@ -120,7 +120,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:50",
@@ -222,7 +222,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:40",
@@ -268,7 +268,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -362,7 +362,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -536,7 +536,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -569,8 +569,8 @@
       ]
     },
     {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 89,
+      "title": "超かぐや姫！",
+      "duration_min": 146,
       "screenings": []
     },
     {
@@ -579,8 +579,8 @@
       "screenings": []
     },
     {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 119,
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
       "screenings": []
     },
     {
@@ -589,18 +589,18 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 121,
+      "title": "【字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
       "screenings": []
     },
     {
       "title": "ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
       "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 121,
       "screenings": []
     },
     {
@@ -614,10 +614,15 @@
       "screenings": []
     },
     {
-      "title": "超かぐや姫！",
-      "duration_min": 146,
+      "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第4幕",
+      "duration_min": 77,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-04-21T03:23:01.138258"
+  "scraped_at": "2026-04-21T06:14:37.343579"
 }

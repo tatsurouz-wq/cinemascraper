@@ -34,7 +34,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:30",
@@ -72,7 +72,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -126,7 +126,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:30",
@@ -172,7 +172,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:20",
@@ -212,7 +212,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:00",
@@ -292,7 +292,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:10",
@@ -350,7 +350,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -372,20 +372,6 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:25",
-          "end_time": "10:15",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -405,40 +391,12 @@
       ]
     },
     {
-      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:00",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "鬼の花嫁",
       "duration_min": 122,
       "screenings": [
         {
           "start_time": "18:50",
           "end_time": "21:05",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "13:40",
-          "end_time": "15:50",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -485,6 +443,20 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "13:40",
+          "end_time": "15:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -587,6 +559,20 @@
       ]
     },
     {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:25",
+          "end_time": "10:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "新劇場版　銀魂　－吉原大炎上－",
       "duration_min": 124,
       "screenings": [
@@ -596,7 +582,21 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "8:40",
+          "end_time": "10:00",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -615,5 +615,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-21T03:01:14.150311"
+  "scraped_at": "2026-04-21T05:52:58.654252"
 }

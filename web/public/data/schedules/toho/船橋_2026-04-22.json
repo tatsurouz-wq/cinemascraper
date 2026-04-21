@@ -377,20 +377,6 @@
       ]
     },
     {
-      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:25",
-          "end_time": "10:15",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画　えんとつ町のプペル　～約束の時計台～",
       "duration_min": 99,
       "screenings": [
@@ -405,40 +391,12 @@
       ]
     },
     {
-      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
-      "duration_min": 64,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:00",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "鬼の花嫁",
       "duration_min": 122,
       "screenings": [
         {
           "start_time": "18:50",
           "end_time": "21:05",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "君が最後に遺した歌",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "13:40",
-          "end_time": "15:50",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -482,6 +440,20 @@
           "start_time": "20:50",
           "end_time": "23:35",
           "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君が最後に遺した歌",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "13:40",
+          "end_time": "15:50",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -587,6 +559,20 @@
       ]
     },
     {
+      "title": "劇場版スポンジ・ボブ　呪われた海賊と大冒険だワワワワワ！（吹替版）",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "8:25",
+          "end_time": "10:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "新劇場版　銀魂　－吉原大炎上－",
       "duration_min": 124,
       "screenings": [
@@ -594,6 +580,20 @@
           "start_time": "14:00",
           "end_time": "16:15",
           "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ナンバーワン戦隊ゴジュウジャーＶＳブンブンジャー",
+      "duration_min": 64,
+      "screenings": [
+        {
+          "start_time": "8:40",
+          "end_time": "10:00",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -615,5 +615,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-21T03:01:27.459219"
+  "scraped_at": "2026-04-21T05:53:11.955848"
 }
