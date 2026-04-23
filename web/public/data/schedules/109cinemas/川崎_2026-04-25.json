@@ -9,34 +9,6 @@
   "date": "2026-04-25",
   "movies": [
     {
-      "title": "最終楽章 響け!ユーフォニアム 前編",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:30",
-          "screen": "シアター9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "MET LV ワーグナー トリスタンとイゾルデ[ODS]",
-      "duration_min": 310,
-      "screenings": [
-        {
-          "start_time": "12:00",
-          "end_time": "17:20",
-          "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
       "duration_min": 99,
       "screenings": [
@@ -46,7 +18,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:25",
@@ -54,7 +26,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:50",
@@ -62,7 +34,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:15",
@@ -70,7 +42,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:45",
@@ -78,7 +50,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:05",
@@ -86,7 +58,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -100,7 +72,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:45",
@@ -108,7 +80,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:10",
@@ -116,7 +88,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:10",
@@ -124,7 +96,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -138,7 +110,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:10",
@@ -146,7 +118,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:00",
@@ -154,7 +126,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:55",
@@ -162,7 +134,57 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け!ユーフォニアム 前編[舞台挨拶中継]",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "12:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "15:50",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け!ユーフォニアム 前編",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:30",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "MET LV ワーグナー トリスタンとイゾルデ[ODS]",
+      "duration_min": 310,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "17:20",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -176,7 +198,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -190,7 +212,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:20",
@@ -198,7 +220,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -212,7 +234,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:35",
@@ -220,7 +242,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -234,7 +256,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:45",
@@ -242,7 +264,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:15",
@@ -250,7 +272,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:05",
@@ -258,7 +280,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -272,7 +294,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:35",
@@ -280,7 +302,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -294,7 +316,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -308,7 +330,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -322,7 +344,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -336,7 +358,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -350,7 +372,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -364,7 +386,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -378,7 +400,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -392,7 +414,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -406,7 +428,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -420,7 +442,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -434,7 +456,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -448,10 +470,10 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-21T05:30:56.680664"
+  "scraped_at": "2026-04-23T16:31:12.179683"
 }

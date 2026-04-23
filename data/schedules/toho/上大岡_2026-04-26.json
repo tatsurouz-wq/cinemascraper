@@ -9,264 +9,16 @@
   "date": "2026-04-26",
   "movies": [
     {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 122,
+      "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
+      "duration_min": 210,
       "screenings": [
-        {
-          "start_time": "10:40",
-          "end_time": "12:55",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:25",
-          "end_time": "15:40",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:10",
-          "end_time": "18:25",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ソング・サング・ブルー（字幕版）",
-      "duration_min": 133,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "10:55",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＯＮＥ　ＯＫ　ＲＯＣＫ　ＤＥＴＯＸ　ＪＡＰＡＮ　ＴＯＵＲ　２０２５　ＡＴ　ＮＩＳＳＡＮ　ＳＴＡＤＩＵ",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "12:55",
-          "end_time": "15:05",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:35",
-          "end_time": "20:45",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "名探偵コナン　ハイウェイの堕天使",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "10:35",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:05",
-          "end_time": "13:10",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:40",
-          "end_time": "15:45",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:15",
-          "end_time": "18:20",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:50",
-          "end_time": "20:55",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:25",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "9:05",
-          "end_time": "11:10",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "13:40",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "16:10",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:40",
-          "end_time": "18:45",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:15",
-          "end_time": "21:20",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:45",
-          "end_time": "23:50",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ハムネット（字幕版）",
-      "duration_min": 126,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:30",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:15",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "最終楽章　響け！ユーフォニアム　前編",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "10:50",
-          "end_time": "13:00",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:25",
-          "end_time": "15:35",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
         {
           "start_time": "16:00",
-          "end_time": "18:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:10",
-          "end_time": "23:20",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": [
-        {
-          "start_time": "18:50",
-          "end_time": "21:05",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:10",
+          "end_time": "19:30",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -280,7 +32,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "12:00",
@@ -288,7 +40,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:30",
@@ -296,7 +48,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:00",
@@ -304,7 +56,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:25",
@@ -312,7 +64,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:50",
@@ -320,7 +72,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "8:35",
@@ -328,7 +80,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:00",
@@ -336,7 +88,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:30",
@@ -344,7 +96,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:00",
@@ -352,7 +104,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:30",
@@ -360,7 +112,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:00",
@@ -368,7 +120,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:50",
@@ -376,7 +128,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "10:40",
@@ -384,7 +136,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:05",
@@ -392,7 +144,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:30",
@@ -400,7 +152,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:00",
@@ -408,7 +160,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:30",
@@ -416,7 +168,241 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章　響け！ユーフォニアム　前編",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:35",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:10",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:20",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:45",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:20",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:25",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "9:05",
+          "end_time": "11:10",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:10",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:45",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:20",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:50",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "10:40",
+          "end_time": "12:55",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ＯＮＥ　ＯＫ　ＲＯＣＫ　ＤＥＴＯＸ　ＪＡＰＡＮ　ＴＯＵＲ　２０２５　ＡＴ　ＮＩＳＳＡＮ　ＳＴＡＤＩＵ",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "12:55",
+          "end_time": "15:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:45",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "8:40",
+          "end_time": "10:15",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "18:50",
+          "end_time": "21:05",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -430,7 +416,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -444,7 +430,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -458,7 +444,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -472,7 +458,21 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ハムネット（字幕版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:30",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
@@ -486,7 +486,21 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ソング・サング・ブルー（字幕版）",
+      "duration_min": 133,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:55",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
@@ -500,7 +514,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -514,7 +528,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -528,10 +542,10 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-04-21T06:07:41.057826"
+  "scraped_at": "2026-04-23T17:05:59.920164"
 }

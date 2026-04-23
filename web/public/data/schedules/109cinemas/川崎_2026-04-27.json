@@ -9,50 +9,6 @@
   "date": "2026-04-27",
   "movies": [
     {
-      "title": "最終楽章 響け!ユーフォニアム 前編",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "08:55",
-          "end_time": "11:05",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:35",
-          "end_time": "18:45",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:45",
-          "end_time": "23:55",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "MET LV ワーグナー トリスタンとイゾルデ[ODS]",
-      "duration_min": 310,
-      "screenings": [
-        {
-          "start_time": "12:00",
-          "end_time": "17:20",
-          "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
       "duration_min": 99,
       "screenings": [
@@ -177,6 +133,50 @@
           "end_time": "22:45",
           "screen": "シアター1",
           "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け!ユーフォニアム 前編",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:05",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:45",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "MET LV ワーグナー トリスタンとイゾルデ[ODS]",
+      "duration_min": 310,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "17:20",
+          "screen": "シアター8",
+          "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -499,5 +499,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-21T05:31:09.831191"
+  "scraped_at": "2026-04-23T16:31:22.974298"
 }
