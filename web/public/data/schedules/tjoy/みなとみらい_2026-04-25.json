@@ -62,7 +62,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:30",
@@ -100,7 +100,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -146,7 +146,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -216,7 +216,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:05",
@@ -262,7 +262,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -328,7 +328,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -394,7 +394,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -494,7 +494,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -502,7 +502,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -510,7 +510,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:25",
@@ -518,7 +518,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -526,7 +526,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -795,11 +795,6 @@
       ]
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
       "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
@@ -810,28 +805,33 @@
       "screenings": []
     },
     {
-      "title": "【IMAX・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
+      "title": "[大阪公演]あんさんぶるスターズ！！DREAM LIVE Tour 10th xALL STARS!!ライブビューイング",
+      "duration_min": 210,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
+      "title": "【字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 120,
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -845,13 +845,18 @@
       "screenings": []
     },
     {
-      "title": "【字幕】白い車に乗った女",
-      "duration_min": 108,
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 145,
       "screenings": []
     },
     {
@@ -1065,5 +1070,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-25T05:56:54.655215"
+  "scraped_at": "2026-04-25T08:01:17.670426"
 }
