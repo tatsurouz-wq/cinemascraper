@@ -51,32 +51,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "14:35",
-          "end_time": "16:35",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:05",
-          "end_time": "19:05",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
           "start_time": "19:30",
           "end_time": "21:30",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:55",
-          "end_time": "23:55",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
@@ -156,6 +132,30 @@
       "title": "ザ・スーパーマリオギャラクシー・ムービー（字幕版）",
       "duration_min": 99,
       "screenings": [
+        {
+          "start_time": "14:35",
+          "end_time": "16:35",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "19:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
         {
           "start_time": "8:50",
           "end_time": "10:50",
@@ -949,5 +949,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:36:43.515630"
+  "scraped_at": "2026-04-25T02:37:46.084169"
 }

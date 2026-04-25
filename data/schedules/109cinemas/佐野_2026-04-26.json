@@ -9,6 +9,20 @@
   "date": "2026-04-26",
   "movies": [
     {
+      "title": "TWICE WORLD TOUR IN JAPAN…[0426][ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "最終楽章 響け!ユーフォニアム 前編",
       "duration_min": 120,
       "screenings": [
@@ -447,5 +461,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:34:23.164875"
+  "scraped_at": "2026-04-25T02:35:29.899655"
 }

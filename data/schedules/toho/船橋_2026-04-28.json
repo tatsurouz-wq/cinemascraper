@@ -9,6 +9,20 @@
   "date": "2026-04-28",
   "movies": [
     {
+      "title": "ＴＷＩＣＥ　＜ＴＨＩＳ　ＩＳ　ＦＯＲ＞　ＷＯＲＬＤ　ＴＯＵＲ　ＩＮ　ＪＡＰＡＮ　ＬＶ（発声ＯＫ）",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:15",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ザ・スーパーマリオギャラクシー・ムービー（ＭＸ４Ｄ・３Ｄ・日本語版※日本語吹替版）",
       "duration_min": 99,
       "screenings": [
@@ -585,5 +599,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:52:46.377411"
+  "scraped_at": "2026-04-25T02:54:18.714877"
 }

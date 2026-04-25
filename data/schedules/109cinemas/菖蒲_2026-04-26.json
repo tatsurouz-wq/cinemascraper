@@ -9,6 +9,20 @@
   "date": "2026-04-26",
   "movies": [
     {
+      "title": "TWICE WORLD TOUR IN JAPAN…[0426][ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ARCO/アルコ[吹替]",
       "duration_min": 88,
       "screenings": [
@@ -499,5 +513,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:35:00.248580"
+  "scraped_at": "2026-04-25T02:36:09.771792"
 }

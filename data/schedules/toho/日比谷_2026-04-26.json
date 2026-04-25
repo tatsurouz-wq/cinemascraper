@@ -18,7 +18,35 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "宝塚歌劇　雪組梅田芸術劇場メインホール公演『波うららかに、めおと日和』ライブ中継",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "15:30",
+          "end_time": "19:00",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＴＷＩＣＥ　＜ＴＨＩＳ　ＩＳ　ＦＯＲ＞　ＷＯＲＬＤ　ＴＯＵＲ　ＩＮ　ＪＡＰＡＮ　ＬＶ（発声ＯＫ）",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -418,7 +446,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:20",
@@ -923,5 +951,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:36:05.122791"
+  "scraped_at": "2026-04-25T02:37:04.084842"
 }

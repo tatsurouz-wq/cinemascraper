@@ -9,6 +9,28 @@
   "date": "2026-04-29",
   "movies": [
     {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ（舞台挨拶中継・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:54",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
       "duration_min": 129,
       "screenings": [
@@ -525,29 +547,7 @@
           "availability": "unknown"
         }
       ]
-    },
-    {
-      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ（舞台挨拶中継・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "10:25",
-          "end_time": "13:30",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:10",
-          "end_time": "16:54",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-04-23T16:43:33.332911"
+  "scraped_at": "2026-04-25T02:44:51.175441"
 }

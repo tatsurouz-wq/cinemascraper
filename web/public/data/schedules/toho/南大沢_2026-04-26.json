@@ -9,6 +9,20 @@
   "date": "2026-04-26",
   "movies": [
     {
+      "title": "宝塚歌劇　雪組梅田芸術劇場メインホール公演『波うららかに、めおと日和』ライブ中継",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "15:30",
+          "end_time": "19:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
       "duration_min": 99,
       "screenings": [
@@ -553,5 +567,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:46:57.087981"
+  "scraped_at": "2026-04-25T02:48:21.948102"
 }

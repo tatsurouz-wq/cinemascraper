@@ -9,6 +9,20 @@
   "date": "2026-04-26",
   "movies": [
     {
+      "title": "ＴＷＩＣＥ　＜ＴＨＩＳ　ＩＳ　ＦＯＲ＞　ＷＯＲＬＤ　ＴＯＵＲ　ＩＮ　ＪＡＰＡＮ　ＬＶ（発声ＯＫ）",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "PREMIER",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "あんさんぶるスターズ！！ＤＲＥＡＭ　ＬＩＶＥ　Ｔｏｕｒ　１０ｔｈ　ＡＬＬ　ＳＴＡＲＳ！！　ＬＶ",
       "duration_min": 210,
       "screenings": [
@@ -527,5 +541,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-23T16:56:22.008187"
+  "scraped_at": "2026-04-25T02:58:01.190125"
 }
