@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ流山おおたかの森",
+    "area": "流山",
+    "prefecture": "千葉県",
+    "url": "https://www.tohotheater.jp/net/schedule/035/TNPI2000J01.do"
+  },
+  "date": "2026-05-02",
+  "movies": [
+    {
+      "title": "五等分の花嫁　ＳＰＥＣＩＡＬ　ＥＶＥＮＴ　２０２６　ｉｎ　ＴＯＹＯＴＡ　ＡＲＥＮＡ　ＴＯＫＹＯ　ＬＶ",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-26T03:16:20.436027"
+}

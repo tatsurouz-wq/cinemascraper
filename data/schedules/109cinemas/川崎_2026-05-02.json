@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ川崎",
+    "area": "川崎",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/kawasaki/"
+  },
+  "date": "2026-05-02",
+  "movies": [
+    {
+      "title": "五等分の花嫁 SPECIAL EVENT 2026 …[ODS]",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-04-26T02:48:34.470171"
+}
