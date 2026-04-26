@@ -301,6 +301,62 @@
       ]
     },
     {
+      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "21:05",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド　永遠の約束（字幕版）",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "18:25",
+          "end_time": "21:00",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:25",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "17:40",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -376,48 +432,6 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
-      "duration_min": 156,
-      "screenings": [
-        {
-          "start_time": "18:15",
-          "end_time": "21:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ウィキッド　永遠の約束（字幕版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "18:25",
-          "end_time": "21:00",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "14:10",
-          "end_time": "16:25",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -521,20 +535,6 @@
       ]
     },
     {
-      "title": "国宝",
-      "duration_min": 175,
-      "screenings": [
-        {
-          "start_time": "14:30",
-          "end_time": "17:40",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ＴＷＩＣＥ　＜ＴＨＩＳ　ＩＳ　ＦＯＲ＞　ＷＯＲＬＤ　ＴＯＵＲ　ＩＮ　ＪＡＰＡＮ　ＬＶ（発声ＯＫ）",
       "duration_min": 195,
       "screenings": [
@@ -549,5 +549,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-26T10:06:02.098502"
+  "scraped_at": "2026-04-26T15:53:34.315264"
 }

@@ -371,6 +371,62 @@
       ]
     },
     {
+      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "21:05",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド　永遠の約束（字幕版）",
+      "duration_min": 137,
+      "screenings": [
+        {
+          "start_time": "18:55",
+          "end_time": "21:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "木挽町のあだ討ち",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "13:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -438,48 +494,6 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "プロジェクト・ヘイル・メアリー（字幕版）",
-      "duration_min": 156,
-      "screenings": [
-        {
-          "start_time": "18:15",
-          "end_time": "21:05",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ウィキッド　永遠の約束（字幕版）",
-      "duration_min": 137,
-      "screenings": [
-        {
-          "start_time": "18:55",
-          "end_time": "21:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "木挽町のあだ討ち",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "13:00",
-          "end_time": "15:15",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -581,21 +595,7 @@
           "availability": "unknown"
         }
       ]
-    },
-    {
-      "title": "国宝",
-      "duration_min": 175,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "13:40",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-04-26T10:06:27.262030"
+  "scraped_at": "2026-04-26T15:53:59.646776"
 }
