@@ -13,14 +13,6 @@
       "duration_min": 99,
       "screenings": [
         {
-          "start_time": "17:40",
-          "end_time": "19:40",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
           "start_time": "10:35",
           "end_time": "12:35",
           "screen": "SCREEN3",
@@ -189,8 +181,8 @@
       "duration_min": 129,
       "screenings": [
         {
-          "start_time": "20:10",
-          "end_time": "22:35",
+          "start_time": "20:45",
+          "end_time": "23:10",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
@@ -279,8 +271,8 @@
       "duration_min": 88,
       "screenings": [
         {
-          "start_time": "10:15",
-          "end_time": "12:00",
+          "start_time": "10:10",
+          "end_time": "11:55",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "吹替",
@@ -301,16 +293,16 @@
       "duration_min": 109,
       "screenings": [
         {
-          "start_time": "12:25",
-          "end_time": "14:35",
+          "start_time": "12:15",
+          "end_time": "14:25",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "15:00",
-          "end_time": "17:10",
+          "start_time": "14:45",
+          "end_time": "16:55",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
@@ -387,8 +379,8 @@
       "duration_min": 122,
       "screenings": [
         {
-          "start_time": "7:35",
-          "end_time": "9:55",
+          "start_time": "7:30",
+          "end_time": "9:50",
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
@@ -581,6 +573,20 @@
       ]
     },
     {
+      "title": "国宝",
+      "duration_min": 175,
+      "screenings": [
+        {
+          "start_time": "17:15",
+          "end_time": "20:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プロジェクト・ヘイル・メアリー（Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
       "duration_min": 156,
       "screenings": [
@@ -595,5 +601,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-26T07:52:27.065773"
+  "scraped_at": "2026-04-26T10:06:14.442674"
 }
