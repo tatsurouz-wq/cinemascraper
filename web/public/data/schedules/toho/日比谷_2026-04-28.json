@@ -9,6 +9,28 @@
   "date": "2026-04-28",
   "movies": [
     {
+      "title": "Ｒｅｆｒａｍｅ　ＴＨＥＡＴＥＲ　ＥＸＰＥＲＩＥＮＣＥ　ｗｉｔｈ　ｙｏｕ",
+      "duration_min": 85,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:10",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:10",
+          "screen": "SCREEN13（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ＴＷＩＣＥ　＜ＴＨＩＳ　ＩＳ　ＦＯＲ＞　ＷＯＲＬＤ　ＴＯＵＲ　ＩＮ　ＪＡＰＡＮ　ＬＶ（発声ＯＫ）",
       "duration_min": 195,
       "screenings": [
@@ -929,5 +951,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T08:33:39.412768"
+  "scraped_at": "2026-04-27T11:12:25.336734"
 }
