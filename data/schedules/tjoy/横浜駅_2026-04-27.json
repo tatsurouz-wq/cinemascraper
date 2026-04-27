@@ -50,7 +50,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:35",
@@ -58,7 +58,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:00",
@@ -66,7 +66,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -74,7 +74,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:35",
@@ -168,7 +168,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -214,7 +214,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:55",
@@ -222,7 +222,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:10",
@@ -230,7 +230,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -238,7 +238,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:20",
@@ -246,7 +246,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:00",
@@ -360,7 +360,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:25",
@@ -368,7 +368,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:15",
@@ -406,7 +406,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -520,7 +520,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -534,7 +534,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -623,17 +623,7 @@
       ]
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "title": "【DolbyCinema・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
     },
@@ -643,8 +633,8 @@
       "screenings": []
     },
     {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 121,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
@@ -653,48 +643,33 @@
       "screenings": []
     },
     {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 121,
+      "screenings": []
+    },
+    {
+      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画 えんとつ町のプペル ～約束の時計台～",
+      "duration_min": 98,
       "screenings": []
     },
     {
       "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 121,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 121,
       "screenings": []
     },
     {
@@ -756,5 +731,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T03:30:34.681165"
+  "scraped_at": "2026-04-27T06:40:06.065412"
 }

@@ -70,7 +70,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:30",
@@ -78,7 +78,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:30",
@@ -493,5 +493,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T03:00:22.889227"
+  "scraped_at": "2026-04-27T06:08:22.681014"
 }
