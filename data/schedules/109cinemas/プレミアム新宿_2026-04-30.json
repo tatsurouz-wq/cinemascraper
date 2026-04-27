@@ -9,6 +9,20 @@
   "date": "2026-04-30",
   "movies": [
     {
+      "title": "プラダを着た悪魔2[字幕[Dolby Atmos[前夜祭",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:50",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "SAKAMOTO DAYS[舞台挨拶中継][Dolby Atmos]",
       "duration_min": null,
       "screenings": [
@@ -419,5 +433,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T05:55:32.564009"
+  "scraped_at": "2026-04-27T08:26:43.227620"
 }
