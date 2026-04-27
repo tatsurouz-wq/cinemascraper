@@ -114,7 +114,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:05",
@@ -166,7 +166,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:05",
@@ -501,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T11:07:55.141582"
+  "scraped_at": "2026-04-27T16:29:12.916479"
 }
