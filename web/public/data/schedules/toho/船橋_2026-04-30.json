@@ -475,20 +475,6 @@
       ]
     },
     {
-      "title": "映画　えんとつ町のプペル　～約束の時計台～",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "19:20",
-          "end_time": "21:15",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第４幕",
       "duration_min": 76,
       "screenings": [
@@ -496,6 +482,20 @@
           "start_time": "7:55",
           "end_time": "9:25",
           "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画　えんとつ町のプペル　～約束の時計台～",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:20",
+          "end_time": "21:15",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -526,20 +526,6 @@
           "start_time": "21:30",
           "end_time": "23:50",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "17:50",
-          "end_time": "20:05",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -589,6 +575,20 @@
       ]
     },
     {
+      "title": "鬼の花嫁",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "17:50",
+          "end_time": "20:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ハムネット（字幕版）",
       "duration_min": 126,
       "screenings": [
@@ -631,5 +631,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-27T16:49:39.890833"
+  "scraped_at": "2026-04-28T03:17:53.089170"
 }
