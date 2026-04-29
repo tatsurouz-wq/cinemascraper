@@ -9,6 +9,20 @@
   "date": "2026-04-30",
   "movies": [
     {
+      "title": "DxS [SERENADE] ON STAGE-JAPAN…[ODS]",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:00",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "SAKAMOTO DAYS[舞台挨拶中継]",
       "duration_min": 129,
       "screenings": [
@@ -312,7 +326,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -515,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-28T02:56:31.425149"
+  "scraped_at": "2026-04-29T08:21:52.501731"
 }
