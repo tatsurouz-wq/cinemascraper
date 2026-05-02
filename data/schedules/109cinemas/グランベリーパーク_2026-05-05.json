@@ -9,6 +9,28 @@
   "date": "2026-05-05",
   "movies": [
     {
+      "title": "SAKAMOTO DAYS[SCREENX]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:15",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:40",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "サンキュー、チャック[字幕]",
       "duration_min": 111,
       "screenings": [
@@ -209,6 +231,28 @@
       ]
     },
     {
+      "title": "ザ・スーパーマリオギャラクシー…[ULTRA 4DX[日本語版",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:35",
+          "screen": "シアター8",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "15:55",
+          "screen": "シアター8",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ONE OK ROCK DETOX JAPAN TOUR …[ODS]",
       "duration_min": 118,
       "screenings": [
@@ -217,6 +261,20 @@
           "end_time": "15:55",
           "screen": "シアター4",
           "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ONE OK ROCK DETOX JAPAN…[ULTRA4DX[ODS",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "19:05",
+          "end_time": "21:15",
+          "screen": "シアター8",
+          "format": "4DX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -291,6 +349,20 @@
           "end_time": "13:35",
           "screen": "シアター9",
           "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『名探偵コナン ハイウェイの堕天使』[4DX2D]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "21:40",
+          "end_time": "23:50",
+          "screen": "シアター8",
+          "format": "4DX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -437,5 +509,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-04-29T10:59:37.313197"
+  "scraped_at": "2026-05-02T02:45:34.154209"
 }
