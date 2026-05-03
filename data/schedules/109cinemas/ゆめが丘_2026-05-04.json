@@ -32,7 +32,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:05",
@@ -48,7 +48,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:15",
@@ -334,7 +334,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:00",
@@ -511,5 +511,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-03T06:11:49.696019"
+  "scraped_at": "2026-05-03T10:09:53.040944"
 }
