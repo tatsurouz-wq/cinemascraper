@@ -290,7 +290,7 @@
           "screen": "シアター3",
           "format": "4DX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:30",
@@ -298,7 +298,7 @@
           "screen": "シアター3",
           "format": "4DX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:45",
@@ -563,5 +563,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-02T10:05:20.896508"
+  "scraped_at": "2026-05-03T03:02:08.325855"
 }

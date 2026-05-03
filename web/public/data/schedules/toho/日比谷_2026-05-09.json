@@ -1,0 +1,65 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-05-09",
+  "movies": [
+    {
+      "title": "ビリー・アイリッシュ　ＨＩＴ　ＭＥ　ＨＡＲＤ　ＡＮＤ　ＳＯＦＴ　：　ＴＨＥ　ＴＯＵＲ（字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "16:35",
+          "end_time": "18:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:35",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ビリー・アイリッシュ　ＨＩＴ　ＭＥ　ＨＡＲＤ　ＡＮＤ　ＳＯＦＴ　：　ＴＨＥ　ＴＯＵＲ（３Ｄ・字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:35",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "21:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-03T03:04:06.210906"
+}
