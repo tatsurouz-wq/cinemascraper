@@ -40,7 +40,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -78,7 +78,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:35",
@@ -86,7 +86,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:05",
@@ -124,7 +124,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -154,7 +154,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -214,7 +214,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -252,7 +252,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -362,7 +362,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:35",
@@ -408,7 +408,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:45",
@@ -416,7 +416,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -462,7 +462,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -520,7 +520,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -602,7 +602,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -610,7 +610,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -618,7 +618,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -626,7 +626,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -839,33 +839,13 @@
       ]
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
+      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
     },
     {
       "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX】SAKAMOTO DAYS",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 122,
       "screenings": []
     },
     {
@@ -874,18 +854,13 @@
       "screenings": []
     },
     {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
+      "title": "【字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【字幕】サンキュー、チャック",
+      "duration_min": 111,
       "screenings": []
     },
     {
@@ -894,13 +869,23 @@
       "screenings": []
     },
     {
-      "title": "ラプソディ・ラプソディ",
-      "duration_min": 106,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 120,
+      "title": "【SCREENX with DolbyAtmos】SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【応援上映】『カラオケ行こ！』大感謝祭2026",
+      "duration_min": 107,
+      "screenings": []
+    },
+    {
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
       "screenings": []
     },
     {
@@ -911,6 +896,26 @@
     {
       "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 145,
       "screenings": []
     },
     {
@@ -942,5 +947,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-04T03:34:07.946775"
+  "scraped_at": "2026-05-04T06:55:12.713343"
 }

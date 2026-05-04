@@ -9,28 +9,6 @@
   "date": "2026-05-09",
   "movies": [
     {
-      "title": "ビリー・アイリッシュ　ＨＩＴ　ＭＥ　ＨＡＲＤ　ＡＮＤ　ＳＯＦＴ　：　ＴＨＥ　ＴＯＵＲ（３Ｄ・字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "13:20",
-          "end_time": "15:30",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:40",
-          "end_time": "20:50",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ビリー・アイリッシュ　ＨＩＴ　ＭＥ　ＨＡＲＤ　ＡＮＤ　ＳＯＦＴ　：　ＴＨＥ　ＴＯＵＲ（字幕版）",
       "duration_min": 115,
       "screenings": [
@@ -51,7 +29,29 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "ビリー・アイリッシュ　ＨＩＴ　ＭＥ　ＨＡＲＤ　ＡＮＤ　ＳＯＦＴ　：　ＴＨＥ　ＴＯＵＲ（３Ｄ・字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "13:20",
+          "end_time": "15:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:50",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-04T03:02:58.682801"
+  "scraped_at": "2026-05-04T06:24:14.320726"
 }
