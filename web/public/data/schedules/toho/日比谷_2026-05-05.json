@@ -352,7 +352,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -758,7 +758,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -917,5 +917,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-03T11:49:59.884486"
+  "scraped_at": "2026-05-04T02:59:31.947878"
 }
