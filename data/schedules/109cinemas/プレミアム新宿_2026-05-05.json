@@ -80,7 +80,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -168,7 +168,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -455,5 +455,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-05T02:44:52.254619"
+  "scraped_at": "2026-05-05T04:07:18.697183"
 }

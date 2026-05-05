@@ -88,7 +88,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:30",
@@ -396,7 +396,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:25",
@@ -501,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-05T02:56:40.747020"
+  "scraped_at": "2026-05-05T04:20:12.243564"
 }
