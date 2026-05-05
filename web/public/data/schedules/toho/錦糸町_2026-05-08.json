@@ -1,0 +1,219 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ錦糸町",
+    "area": "錦糸町",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/029/TNPI2000J01.do"
+  },
+  "date": "2026-05-08",
+  "movies": [
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:45",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:25",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:10",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "18:55",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "22:50",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "8:15",
+          "end_time": "10:10",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "17:45",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:10",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "20:00",
+          "end_time": "22:15",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:15",
+          "end_time": "11:30",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "14:15",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "17:00",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "19:55",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（吹替版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "18:35",
+          "end_time": "20:50",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:20",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:55",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "10:30",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:10",
+          "end_time": "13:05",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:40",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:05",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:15",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時（吹替版）",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "10:40",
+          "end_time": "12:40",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-05T03:06:30.668651"
+}

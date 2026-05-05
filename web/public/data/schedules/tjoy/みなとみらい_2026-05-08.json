@@ -61,8 +61,18 @@
       ]
     },
     {
-      "title": "【字幕】サンキュー、チャック",
-      "duration_min": 111,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -71,13 +81,23 @@
       "screenings": []
     },
     {
-      "title": "ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
-      "duration_min": 117,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "ラプソディ・ラプソディ",
-      "duration_min": 106,
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -91,38 +111,24 @@
       "screenings": []
     },
     {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
       "screenings": []
     },
     {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
+      "title": "ラプソディ・ラプソディ",
+      "duration_min": 106,
       "screenings": []
     },
     {
-      "title": "鬼の花嫁",
-      "duration_min": 122,
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "映画 えんとつ町のプペル ～約束の時計台～",
+      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
-    },
-    {
-      "title": "【応援上映】『カラオケ行こ！』大感謝祭2026",
-      "duration_min": 107,
-      "screenings": [
-        {
-          "start_time": "17:00",
-          "end_time": "18:55",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
     },
     {
       "title": "【応援上映】『カラオケ行こ！』大感謝祭2026",
@@ -137,7 +143,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "【限界突破(リミットブレイク)応援上映!】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:05",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-04T11:51:51.033197"
+  "scraped_at": "2026-05-05T03:27:18.129908"
 }
