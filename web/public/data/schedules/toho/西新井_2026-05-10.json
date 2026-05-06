@@ -1,0 +1,641 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ西新井",
+    "area": "西新井",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/040/TNPI2000J01.do"
+  },
+  "date": "2026-05-10",
+  "movies": [
+    {
+      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "7:55",
+          "end_time": "9:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:15",
+          "end_time": "12:10",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:45",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:05",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "グランド・イリュージョン／ダイヤモンド・ミッション（字幕版）",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "7:50",
+          "end_time": "9:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ　Ｂｌｏｏｍ　Ｇａｒｄｅｎ　Ｐａｒｔｙ",
+      "duration_min": 75,
+      "screenings": [
+        {
+          "start_time": "20:00",
+          "end_time": "21:25",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:35",
+          "end_time": "14:00",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "7:45",
+          "end_time": "9:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:15",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ひつじ探偵団（字幕版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "8:10",
+          "end_time": "10:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:20",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ひつじ探偵団（吹替版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "10:40",
+          "end_time": "12:45",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:15",
+          "end_time": "15:20",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "17:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "未来",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "7:45",
+          "end_time": "10:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "15:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:50",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "23:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ゼイ・ウィル・キル・ユー（字幕版）",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:15",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:20",
+          "end_time": "17:05",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "23:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "8:25",
+          "end_time": "10:40",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "16:00",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:05",
+          "end_time": "21:20",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "24:00",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（吹替版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "13:20",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:40",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ（ＭＸ４Ｄ）",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:25",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "17:15",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:10",
+          "end_time": "12:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:55",
+          "end_time": "18:20",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "21:10",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "24:00",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（ＭＸ４Ｄ・３Ｄ・日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:15",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:25",
+          "end_time": "13:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "20:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使（舞台挨拶中継）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "13:20",
+          "end_time": "16:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使（ＭＸ４Ｄ）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:10",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "8:00",
+          "end_time": "10:10",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:35",
+          "end_time": "12:45",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "18:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "24:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アギト－超能力戦争－",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "9:35",
+          "end_time": "11:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:50",
+          "end_time": "13:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章　響け！ユーフォニアム　前編",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "20:55",
+          "end_time": "23:05",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか（日本語字幕付き）",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "23:15",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＯＮＥ　ＯＫ　ＲＯＣＫ　ＤＥＴＯＸ　ＪＡＰＡＮ　ＴＯＵＲ　２０２５（日本語字幕付き）",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:30",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "7:50",
+          "end_time": "9:45",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-06T04:36:21.928172"
+}

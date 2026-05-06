@@ -9,19 +9,610 @@
   "date": "2026-05-08",
   "movies": [
     {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "09:20",
+          "end_time": "11:25",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:40",
+          "end_time": "13:45",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:25",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:25",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:45",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "23:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:35",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:10",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】プラダを着た悪魔２",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:25",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "17:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:40",
+          "end_time": "21:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:00",
+          "end_time": "24:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:20",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:40",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "17:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:55",
+          "end_time": "17:55",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:15",
+          "end_time": "19:15",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:30",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:00",
+          "end_time": "22:00",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:05",
+          "end_time": "22:05",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:05",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "09:50",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:30",
+          "end_time": "12:20",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:30",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "16:35",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:40",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:50",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ゼイ・ウィル・キル・ユー[R15+]",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "09:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:05",
+          "end_time": "13:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "15:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "19:50",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:20",
+          "end_time": "24:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:55",
+          "end_time": "21:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "13:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "15:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "17:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "19:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "08:20",
+          "end_time": "10:10",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "SAKAMOTO DAYS",
       "duration_min": 129,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "09:55",
+          "end_time": "12:10",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "14:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "17:10",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:25",
+          "end_time": "19:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "24:10",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "10:05",
+          "end_time": "11:50",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:15",
+          "end_time": "24:00",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 121,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:05",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 121,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "16:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:05",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "09:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
       "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
@@ -64,13 +655,13 @@
       "screenings": []
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
       "screenings": []
     },
     {
@@ -84,5 +675,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-05-05T04:53:19.291810"
+  "scraped_at": "2026-05-06T05:03:33.504139"
 }

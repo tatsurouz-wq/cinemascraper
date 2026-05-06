@@ -441,20 +441,6 @@
       ]
     },
     {
-      "title": "私がビーバーになる時（吹替版）",
-      "duration_min": 104,
-      "screenings": [
-        {
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "最終楽章　響け！ユーフォニアム　前編",
       "duration_min": 120,
       "screenings": [
@@ -470,34 +456,6 @@
           "start_time": "21:45",
           "end_time": "24:00",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版「暗殺教室」みんなの時間",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "8:10",
-          "end_time": "9:50",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第４幕",
-      "duration_min": 76,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "9:50",
-          "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -535,6 +493,20 @@
       ]
     },
     {
+      "title": "ＯＮＥ　ＯＫ　ＲＯＣＫ　ＤＥＴＯＸ　ＪＡＰＡＮ　ＴＯＵＲ　２０２５　ＡＴ　ＮＩＳＳＡＮ　ＳＴＡＤＩＵ",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:10",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ゴールデンカムイ　網走監獄襲撃編",
       "duration_min": 122,
       "screenings": [
@@ -556,20 +528,6 @@
           "start_time": "8:40",
           "end_time": "11:00",
           "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ＯＮＥ　ＯＫ　ＲＯＣＫ　ＤＥＴＯＸ　ＪＡＰＡＮ　ＴＯＵＲ　２０２５　ＡＴ　ＮＩＳＳＡＮ　ＳＴＡＤＩＵ",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "18:10",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -603,7 +561,49 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "劇場版「暗殺教室」みんなの時間",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "8:10",
+          "end_time": "9:50",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第４幕",
+      "duration_min": 76,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "9:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時（吹替版）",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-05T04:31:56.869361"
+  "scraped_at": "2026-05-06T04:42:29.423886"
 }

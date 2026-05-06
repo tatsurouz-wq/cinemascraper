@@ -18,7 +18,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -26,7 +26,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -48,7 +48,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:35",
@@ -56,7 +56,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:05",
@@ -64,7 +64,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:35",
@@ -110,7 +110,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -132,7 +132,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:45",
@@ -140,7 +140,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:30",
@@ -162,7 +162,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:10",
@@ -192,7 +192,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:20",
@@ -229,28 +229,6 @@
       ]
     },
     {
-      "title": "【IMAX】SAKAMOTO DAYS",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "13:20",
-          "end_time": "15:40",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:50",
-          "end_time": "23:10",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【SCREENX with DolbyAtmos】SAKAMOTO DAYS",
       "duration_min": 128,
       "screenings": [
@@ -260,13 +238,35 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
           "end_time": "18:50",
           "screen": "シアター１２",
           "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【IMAX】SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "13:20",
+          "end_time": "15:40",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:10",
+          "screen": "シアター７",
+          "format": "IMAX",
           "language": "日本語",
           "availability": "available"
         }
@@ -282,7 +282,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:05",
@@ -290,35 +290,13 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
           "end_time": "20:50",
           "screen": "シアター１０",
           "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【IMAX・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "11:00",
-          "end_time": "12:55",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "20:25",
-          "screen": "シアター７",
-          "format": "IMAX",
           "language": "日本語",
           "availability": "available"
         }
@@ -339,6 +317,28 @@
       ]
     },
     {
+      "title": "【IMAX・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:55",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:25",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": [
@@ -348,7 +348,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -386,7 +386,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:30",
@@ -394,7 +394,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:00",
@@ -402,7 +402,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:45",
@@ -410,7 +410,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -440,7 +440,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:20",
@@ -448,7 +448,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -478,7 +478,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -492,7 +492,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -506,7 +506,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:40",
@@ -514,7 +514,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -550,7 +550,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -572,7 +572,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:00",
@@ -580,7 +580,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:30",
@@ -588,7 +588,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:00",
@@ -596,7 +596,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -604,7 +604,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -612,7 +612,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:30",
@@ -674,7 +674,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -730,7 +730,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:10",
@@ -766,21 +766,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】ウィキッド 永遠の約束",
-      "duration_min": 139,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "14:00",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -794,7 +780,21 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ウィキッド 永遠の約束",
+      "duration_min": 139,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "14:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
         }
       ]
     },
@@ -806,6 +806,20 @@
           "start_time": "08:50",
           "end_time": "11:00",
           "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "21:30",
+          "end_time": "23:45",
+          "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -825,30 +839,6 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": [
-        {
-          "start_time": "21:30",
-          "end_time": "23:45",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
     },
     {
       "title": "アギトー超能力戦争ー(PG12)",
@@ -881,8 +871,8 @@
       "screenings": []
     },
     {
-      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -891,8 +881,8 @@
       "screenings": []
     },
     {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
+      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
@@ -903,6 +893,11 @@
     {
       "title": "【字幕】サンキュー、チャック",
       "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
@@ -921,20 +916,6 @@
       "screenings": []
     },
     {
-      "title": "【応援上映】『カラオケ行こ！』大感謝祭2026",
-      "duration_min": 107,
-      "screenings": [
-        {
-          "start_time": "17:00",
-          "end_time": "18:55",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【限界突破(リミットブレイク)応援上映!】名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": [
@@ -947,7 +928,43 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "【初日舞台挨拶中継】映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "16:45",
+          "end_time": "18:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:40",
+          "end_time": "21:35",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【発声可能上映】ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-05T04:52:10.774952"
+  "scraped_at": "2026-05-06T05:02:23.093558"
 }

@@ -9,36 +9,6 @@
   "date": "2026-05-06",
   "movies": [
     {
-      "title": "【DolbyCinema・字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "09:30",
-          "end_time": "11:40",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:40",
-          "end_time": "18:50",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:40",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【字幕】プラダを着た悪魔２",
       "duration_min": 119,
       "screenings": [
@@ -48,7 +18,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "09:10",
@@ -56,7 +26,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:15",
@@ -64,7 +34,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:35",
@@ -72,7 +42,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:40",
@@ -80,7 +50,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -88,7 +58,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:25",
@@ -125,6 +95,36 @@
       ]
     },
     {
+      "title": "【DolbyCinema・字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:50",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【吹替】プラダを着た悪魔２",
       "duration_min": 120,
       "screenings": [
@@ -134,7 +134,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:05",
@@ -156,7 +156,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "09:25",
@@ -164,7 +164,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:45",
@@ -172,7 +172,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:40",
@@ -180,7 +180,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:20",
@@ -188,7 +188,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:00",
@@ -196,7 +196,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:55",
@@ -204,7 +204,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -298,7 +298,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:10",
@@ -319,122 +319,6 @@
       ]
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "06:30",
-          "end_time": "08:45",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "08:50",
-          "end_time": "11:05",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "09:00",
-          "end_time": "11:15",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:30",
-          "end_time": "13:45",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:15",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:40",
-          "end_time": "17:55",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "18:45",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "21:15",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:45",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "アギトー超能力戦争ー(PG12)",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "06:25",
-          "end_time": "08:05",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:40",
-          "end_time": "15:25",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:35",
-          "end_time": "20:20",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:30",
-          "end_time": "22:15",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": [
@@ -444,7 +328,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -458,7 +342,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:20",
@@ -466,7 +350,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:30",
@@ -474,7 +358,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:30",
@@ -482,7 +366,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:30",
@@ -536,6 +420,122 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "06:30",
+          "end_time": "08:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "08:50",
+          "end_time": "11:05",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "09:00",
+          "end_time": "11:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "17:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "06:25",
+          "end_time": "08:05",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:25",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:20",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:15",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -550,7 +550,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:10",
@@ -580,7 +580,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:20",
@@ -588,7 +588,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "22:55",
@@ -624,7 +624,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -652,7 +652,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -666,7 +666,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -683,21 +683,6 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
     },
     {
       "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
@@ -740,13 +725,13 @@
       "screenings": []
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
       "screenings": []
     },
     {
@@ -760,5 +745,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-05-05T04:53:04.593659"
+  "scraped_at": "2026-05-06T05:03:19.703457"
 }
