@@ -9,6 +9,20 @@
   "date": "2026-05-07",
   "movies": [
     {
+      "title": "Ｐｅｒｆｕｍｅ“コールドスリープ”－２５　ｙｅａｒｓ　Ｄｏｃｕｍｅｎｔ－先行上映",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:35",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プラダを着た悪魔２（Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
       "duration_min": 119,
       "screenings": [
@@ -923,5 +937,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-06T04:26:16.279776"
+  "scraped_at": "2026-05-06T11:45:33.261731"
 }

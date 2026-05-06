@@ -9,30 +9,38 @@
   "date": "2026-05-08",
   "movies": [
     {
-      "title": "『名探偵コナン ハイウェイの堕天使』[SCREENX]",
-      "duration_min": 109,
+      "title": "劇場版 魔法科高校の劣等生 四葉継承編",
+      "duration_min": 103,
       "screenings": [
         {
-          "start_time": "09:00",
-          "end_time": "11:00",
-          "screen": "シアター1",
-          "format": "ScreenX",
+          "start_time": "08:45",
+          "end_time": "10:40",
+          "screen": "シアター5",
+          "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "11:30",
-          "end_time": "13:30",
-          "screen": "シアター1",
-          "format": "ScreenX",
+          "start_time": "13:45",
+          "end_time": "15:40",
+          "screen": "シアター5",
+          "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "19:00",
-          "end_time": "21:00",
-          "screen": "シアター1",
-          "format": "ScreenX",
+          "start_time": "18:40",
+          "end_time": "20:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "22:55",
+          "screen": "シアター5",
+          "format": "2D",
           "language": "日本語",
           "availability": "available"
         }
@@ -120,44 +128,6 @@
           "start_time": "21:55",
           "end_time": "23:50",
           "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版 魔法科高校の劣等生 四葉継承編",
-      "duration_min": 103,
-      "screenings": [
-        {
-          "start_time": "08:45",
-          "end_time": "10:40",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:45",
-          "end_time": "15:40",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:40",
-          "end_time": "20:35",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "22:55",
-          "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -429,6 +399,36 @@
       ]
     },
     {
+      "title": "『名探偵コナン ハイウェイの堕天使』[SCREENX]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:00",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
       "duration_min": 109,
       "screenings": [
@@ -515,5 +515,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-06T04:21:38.964385"
+  "scraped_at": "2026-05-06T11:40:39.625401"
 }
