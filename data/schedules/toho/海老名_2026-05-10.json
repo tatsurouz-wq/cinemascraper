@@ -119,14 +119,6 @@
           "availability": "available"
         },
         {
-          "start_time": "21:10",
-          "end_time": "23:35",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
           "start_time": "15:55",
           "end_time": "18:20",
           "screen": "SCREEN8",
@@ -403,14 +395,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
-        },
-        {
-          "start_time": "8:35",
-          "end_time": "10:25",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
         }
       ]
     },
@@ -523,9 +507,9 @@
       "duration_min": 122,
       "screenings": [
         {
-          "start_time": "18:45",
-          "end_time": "21:00",
-          "screen": "SCREEN6",
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "SCREEN7",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -621,7 +605,29 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "18:45",
+          "end_time": "20:40",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:30",
+          "end_time": "10:25",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-09T01:19:23.525166"
+  "scraped_at": "2026-05-09T04:45:22.679896"
 }

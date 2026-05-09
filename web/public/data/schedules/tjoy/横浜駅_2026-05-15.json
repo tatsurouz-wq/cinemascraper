@@ -9,23 +9,43 @@
   "date": "2026-05-15",
   "movies": [
     {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
       "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
       "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【吹替】プラダを着た悪魔２",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ゼイ・ウィル・キル・ユー[R15+]",
+      "duration_min": 95,
       "screenings": []
     },
     {
@@ -39,38 +59,13 @@
       "screenings": []
     },
     {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
       "title": "【DolbyCinema・字幕】プラダを着た悪魔２",
       "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "[公開記念舞台挨拶中継]劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
       "screenings": []
     },
     {
@@ -83,7 +78,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -102,5 +97,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-09T01:33:30.549035"
+  "scraped_at": "2026-05-09T04:59:40.388378"
 }

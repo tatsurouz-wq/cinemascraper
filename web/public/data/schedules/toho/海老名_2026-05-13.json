@@ -97,14 +97,6 @@
       "duration_min": 130,
       "screenings": [
         {
-          "start_time": "8:25",
-          "end_time": "10:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
           "start_time": "11:15",
           "end_time": "13:40",
           "screen": "SCREEN6",
@@ -611,7 +603,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:55",
+          "end_time": "10:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-09T01:20:03.361218"
+  "scraped_at": "2026-05-09T04:46:00.928770"
 }
