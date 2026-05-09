@@ -70,7 +70,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:05",
@@ -100,7 +100,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:25",
@@ -403,5 +403,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-09T04:12:35.851261"
+  "scraped_at": "2026-05-09T09:34:48.558430"
 }
