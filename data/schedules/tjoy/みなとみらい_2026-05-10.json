@@ -64,7 +64,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:15",
@@ -102,7 +102,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:15",
@@ -140,7 +140,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:30",
@@ -170,7 +170,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:40",
@@ -244,7 +244,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:20",
@@ -326,7 +326,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -422,7 +422,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:40",
@@ -444,7 +444,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:05",
@@ -518,7 +518,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:50",
@@ -562,7 +562,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -642,7 +642,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -670,7 +670,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -726,7 +726,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:00",
@@ -800,7 +800,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -833,32 +833,7 @@
       ]
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "ほどなく、お別れです",
-      "duration_min": 125,
-      "screenings": []
-    },
-    {
-      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
+      "title": "【吹替】プラダを着た悪魔２",
       "duration_min": 119,
       "screenings": []
     },
@@ -868,13 +843,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】ひつじ探偵団",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
-      "title": "アギトー超能力戦争ー(PG12)",
-      "duration_min": 97,
+      "title": "幕末ヒポクラテスたち",
+      "duration_min": 103,
       "screenings": []
     },
     {
@@ -883,43 +853,69 @@
       "screenings": []
     },
     {
-      "title": "【日本語字幕付】ONE OK ROCK DETOX JAPAN TOUR 2025 IN CINEMAS",
-      "duration_min": 117,
+      "title": "【字幕】プロジェクト・ヘイル・メアリー",
+      "duration_min": 157,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "title": "ラプソディ・ラプソディ",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
       "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【IMAX】SAKAMOTO DAYS",
-      "duration_min": 128,
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
       "screenings": []
     },
     {
-      "title": "【字幕】グランド・イリュージョン／ダイヤモンド・ミッション",
-      "duration_min": 113,
+      "title": "【吹替】ひつじ探偵団",
+      "duration_min": 109,
       "screenings": []
     },
     {
-      "title": "幕末ヒポクラテスたち",
+      "title": "【字幕】デンジャラス・アニマルズ 絶望海域(PG12)",
+      "duration_min": 98,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
       "duration_min": 103,
       "screenings": []
     },
     {
-      "title": "[公開記念舞台挨拶中継]劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "14:50",
-          "screen": "シアター１１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+      "duration_min": 75,
+      "screenings": []
+    },
+    {
+      "title": "未来(PG12)",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "【2D】ビリー・アイリッシュ - HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
     },
     {
       "title": "『僕のヒーローアカデミア』キャラクターマッチアップ名エピソード上映【麗日お茶子×トガヒミコ】",
@@ -936,5 +932,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-09T10:17:00.325000"
+  "scraped_at": "2026-05-10T01:32:15.631698"
 }
