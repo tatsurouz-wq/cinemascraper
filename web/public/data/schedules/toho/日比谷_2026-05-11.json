@@ -320,7 +320,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -612,7 +612,7 @@
           "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -654,7 +654,7 @@
           "screen": "SCREEN4",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -798,7 +798,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -905,5 +905,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-11T10:26:05.910826"
+  "scraped_at": "2026-05-11T12:11:02.875247"
 }
