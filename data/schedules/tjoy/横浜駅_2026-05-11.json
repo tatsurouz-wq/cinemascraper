@@ -42,7 +42,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:00",
@@ -50,7 +50,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:20",
@@ -96,7 +96,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -164,7 +164,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:00",
@@ -240,7 +240,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:40",
@@ -278,7 +278,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:55",
@@ -346,7 +346,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:20",
@@ -428,7 +428,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -510,7 +510,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:20",
@@ -587,18 +587,13 @@
       ]
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
+      "title": "超かぐや姫！",
+      "duration_min": 143,
       "screenings": []
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ゼイ・ウィル・キル・ユー[R15+]",
-      "duration_min": 95,
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 121,
       "screenings": []
     },
     {
@@ -607,8 +602,8 @@
       "screenings": []
     },
     {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 121,
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
       "screenings": []
     },
     {
@@ -622,25 +617,40 @@
       "screenings": []
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】プラダを着た悪魔２",
+      "title": "【字幕】プラダを着た悪魔２",
       "duration_min": 119,
       "screenings": []
     },
     {
-      "title": "【吹替】プラダを着た悪魔２",
-      "duration_min": 120,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "超かぐや姫！",
-      "duration_min": 143,
+      "title": "【DolbyCinema】SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 121,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ゼイ・ウィル・キル・ユー[R15+]",
+      "duration_min": 95,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-05-11T05:14:58.343300"
+  "scraped_at": "2026-05-11T08:04:01.581008"
 }
