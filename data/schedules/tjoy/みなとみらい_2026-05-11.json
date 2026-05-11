@@ -42,7 +42,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:40",
@@ -80,7 +80,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -186,7 +186,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -260,7 +260,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -312,7 +312,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -372,7 +372,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:05",
@@ -468,7 +468,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -490,7 +490,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -542,7 +542,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -584,7 +584,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -628,7 +628,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -750,7 +750,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -802,7 +802,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -872,48 +872,28 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "duration_min": 75,
+      "title": "幕末ヒポクラテスたち",
+      "duration_min": 103,
       "screenings": []
     },
     {
-      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
+      "title": "ほどなく、お別れです",
+      "duration_min": 125,
       "screenings": []
     },
     {
-      "title": "未来(PG12)",
-      "duration_min": 130,
+      "title": "【字幕】グランド・イリュージョン／ダイヤモンド・ミッション",
+      "duration_min": 113,
       "screenings": []
     },
     {
-      "title": "【字幕】プロジェクト・ヘイル・メアリー",
-      "duration_min": 157,
-      "screenings": []
-    },
-    {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "超かぐや姫！",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】レッド・ソニア／反逆の剣(PG12)",
-      "duration_min": 110,
-      "screenings": []
-    },
-    {
-      "title": "【2D】ビリー・アイリッシュ - HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D",
-      "duration_min": 117,
+      "title": "ゴールデンカムイ 網走監獄襲撃編(PG12)",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -922,23 +902,38 @@
       "screenings": []
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 120,
+      "title": "【3D】ビリー・アイリッシュ - HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D",
+      "duration_min": 117,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos】SAKAMOTO DAYS",
-      "duration_min": 128,
+      "title": "【吹替】ひつじ探偵団",
+      "duration_min": 109,
       "screenings": []
     },
     {
-      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
+      "title": "名探偵コナン ハイウェイの堕天使",
       "duration_min": 113,
       "screenings": []
     },
     {
       "title": "アギトー超能力戦争ー(PG12)",
       "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+      "duration_min": 75,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -961,5 +956,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-11T08:03:06.028172"
+  "scraped_at": "2026-05-11T11:03:53.434294"
 }
