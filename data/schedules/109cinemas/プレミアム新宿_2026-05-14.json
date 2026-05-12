@@ -9,6 +9,20 @@
   "date": "2026-05-14",
   "movies": [
     {
+      "title": "SEVENTEEN 2026 JAPAN…[0514[ODS",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "トップガン[字幕]",
       "duration_min": null,
       "screenings": [
@@ -379,5 +393,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-12T04:19:35.823428"
+  "scraped_at": "2026-05-12T11:40:53.306635"
 }
