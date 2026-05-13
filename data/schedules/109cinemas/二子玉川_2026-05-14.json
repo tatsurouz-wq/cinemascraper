@@ -9,6 +9,20 @@
   "date": "2026-05-14",
   "movies": [
     {
+      "title": "SEVENTEEN 2026 JAPAN…[0514[ODS",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ゼイ・ウィル・キル・ユー[字幕]",
       "duration_min": 94,
       "screenings": [
@@ -501,5 +515,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-12T11:42:21.747218"
+  "scraped_at": "2026-05-13T00:50:45.726291"
 }

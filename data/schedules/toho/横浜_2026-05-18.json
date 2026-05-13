@@ -541,16 +541,16 @@
       "duration_min": 129,
       "screenings": [
         {
-          "start_time": "12:35",
-          "end_time": "15:00",
+          "start_time": "15:30",
+          "end_time": "17:55",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "15:30",
-          "end_time": "17:55",
+          "start_time": "18:25",
+          "end_time": "20:50",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
@@ -656,14 +656,6 @@
       "title": "未来",
       "duration_min": 130,
       "screenings": [
-        {
-          "start_time": "18:25",
-          "end_time": "20:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
         {
           "start_time": "12:20",
           "end_time": "14:45",
@@ -813,7 +805,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "映画ドラえもん　新・のび太の海底鬼岩城",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "14:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-12T12:19:28.276939"
+  "scraped_at": "2026-05-13T01:25:32.564780"
 }
