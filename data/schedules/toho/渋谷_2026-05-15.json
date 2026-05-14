@@ -9,6 +9,20 @@
   "date": "2026-05-15",
   "movies": [
     {
+      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（発声ＯＫ）",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "9:20",
+          "end_time": "11:20",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画『正直不動産』",
       "duration_min": 119,
       "screenings": [
@@ -335,21 +349,7 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（発声ＯＫ）",
-      "duration_min": 106,
-      "screenings": [
-        {
-          "start_time": "9:20",
-          "end_time": "11:20",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-05-13T01:04:58.822990"
+  "scraped_at": "2026-05-14T11:53:30.468681"
 }
