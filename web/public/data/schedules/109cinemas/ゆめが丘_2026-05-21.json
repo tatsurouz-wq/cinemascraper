@@ -1,0 +1,503 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズゆめが丘",
+    "area": "ゆめが丘",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/yumegaoka/"
+  },
+  "date": "2026-05-21",
+  "movies": [
+    {
+      "title": "Stray Kids:The dominATE Experience[ODS]",
+      "duration_min": 146,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "12:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "17:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Stray Kids:The dominATE …[SCREENX[ODS",
+      "duration_min": 146,
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "15:15",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:05",
+          "end_time": "20:40",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "11:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スマッシング・マシーン[字幕]",
+      "duration_min": 123,
+      "screenings": [
+        {
+          "start_time": "12:25",
+          "end_time": "14:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "EPiC/エピック エルヴィス…[IMAXレーザー・字幕[ODS",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "19:50",
+          "screen": "シアター1",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ひつじ探偵団[字幕]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "16:40",
+          "end_time": "18:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ひつじ探偵団[吹替]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "11:55",
+          "end_time": "13:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "シンプル・アクシデント/偶然[字幕]",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:05",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "未来",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トップガン[IMAXレーザー・字幕]",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "14:45",
+          "screen": "シアター1",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トップガン マーヴェリック[IMAXレーザー・字幕]",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "15:15",
+          "end_time": "17:35",
+          "screen": "シアター1",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トップガン マーヴェリック[SCREENX・字幕]",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "21:05",
+          "end_time": "23:25",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "サンキュー、チャック[字幕]",
+      "duration_min": 111,
+      "screenings": [
+        {
+          "start_time": "21:55",
+          "end_time": "23:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔2[字幕]",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:00",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:40",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:20",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:55",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:30",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:40",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:10",
+          "end_time": "22:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS[IMAXレーザー]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:20",
+          "screen": "シアター1",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:05",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーマリオギャラクシー…[KIDS CINEMA[日本語版",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "12:35",
+          "end_time": "14:25",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "16:50",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "14:05",
+          "end_time": "16:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:20",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:20",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "18:45",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "『名探偵コナン ハイウェイの堕天使』[IMAXレーザー]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "20:15",
+          "end_time": "22:20",
+          "screen": "シアター1",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "『名探偵コナン ハイウェイの堕天使』[SCREENX]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "10:15",
+          "end_time": "12:15",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "17:40",
+          "screen": "シアター8",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "『名探偵コナン ハイウェイの堕天使』[KIDS CINEMA]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画きかんしゃトーマス いっしょに歌おう!・・・",
+      "duration_min": 63,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "10:30",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー[字幕]",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "18:05",
+          "end_time": "20:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "私がビーバーになる時[吹替][KIDS CINEMA]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "17:25",
+          "end_time": "19:20",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-16T00:51:28.221366"
+}

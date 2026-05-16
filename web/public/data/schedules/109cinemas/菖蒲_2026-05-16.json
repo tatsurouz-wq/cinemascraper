@@ -62,7 +62,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:30",
@@ -108,7 +108,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:15",
@@ -184,6 +184,20 @@
           "screen": "シアター11",
           "format": "IMAX",
           "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "RE:IWAROMAN LIVE VIEWING[ODS]",
+      "duration_min": 165,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "20:15",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -370,7 +384,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -486,7 +500,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:55",
@@ -560,7 +574,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -574,10 +588,10 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     }
   ],
-  "scraped_at": "2026-05-14T11:44:33.795441"
+  "scraped_at": "2026-05-16T00:52:21.704187"
 }

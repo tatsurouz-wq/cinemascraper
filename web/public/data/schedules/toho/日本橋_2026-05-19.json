@@ -297,14 +297,6 @@
       "duration_min": 103,
       "screenings": [
         {
-          "start_time": "8:50",
-          "end_time": "10:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
           "start_time": "16:25",
           "end_time": "18:25",
           "screen": "SCREEN2",
@@ -418,6 +410,20 @@
           "start_time": "17:55",
           "end_time": "20:20",
           "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アギト－超能力戦争－",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "10:50",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -549,5 +555,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-14T11:50:20.937677"
+  "scraped_at": "2026-05-16T00:58:15.866184"
 }
