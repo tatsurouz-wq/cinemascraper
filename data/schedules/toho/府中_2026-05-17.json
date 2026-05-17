@@ -48,7 +48,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:40",
@@ -56,7 +56,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:20",
@@ -94,7 +94,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:55",
@@ -102,7 +102,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:35",
@@ -140,7 +140,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:15",
@@ -170,7 +170,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:50",
@@ -178,7 +178,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:50",
@@ -200,7 +200,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:20",
@@ -250,7 +250,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -302,7 +302,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -360,7 +360,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:00",
@@ -406,7 +406,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:10",
@@ -414,7 +414,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:30",
@@ -422,7 +422,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -452,7 +452,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:50",
@@ -490,7 +490,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:25",
@@ -559,5 +559,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-17T04:48:06.446516"
+  "scraped_at": "2026-05-17T09:57:36.341618"
 }
