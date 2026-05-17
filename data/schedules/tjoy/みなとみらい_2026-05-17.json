@@ -108,7 +108,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -420,7 +420,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -442,7 +442,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -686,7 +686,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -780,7 +780,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -794,7 +794,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -866,7 +866,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -885,63 +885,13 @@
       ]
     },
     {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
-      "screenings": []
-    },
-    {
-      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX】SAKAMOTO DAYS",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "映画『正直不動産』",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 120,
+      "title": "【字幕】レッド・ソニア／反逆の剣(PG12)",
+      "duration_min": 110,
       "screenings": []
     },
     {
       "title": "君のクイズ",
       "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】レッド・ソニア／反逆の剣(PG12)",
-      "duration_min": 110,
       "screenings": []
     },
     {
@@ -960,5 +910,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-05-17T10:22:25.375396"
+  "scraped_at": "2026-05-17T12:11:10.704822"
 }
