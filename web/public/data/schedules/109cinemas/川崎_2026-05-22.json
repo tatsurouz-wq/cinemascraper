@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ川崎",
+    "area": "川崎",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/kawasaki/"
+  },
+  "date": "2026-05-22",
+  "movies": [
+    {
+      "title": "SUPER BEAVER LIVE …[舞台挨拶中継[ODS",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "15:45",
+          "end_time": "18:30",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-18T10:36:39.992341"
+}
