@@ -65,14 +65,6 @@
           "availability": "unknown"
         },
         {
-          "start_time": "12:30",
-          "end_time": "14:55",
-          "screen": "シアター10",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "15:30",
           "end_time": "17:55",
           "screen": "シアター10",
@@ -81,16 +73,30 @@
           "availability": "unknown"
         },
         {
-          "start_time": "18:30",
-          "end_time": "20:55",
+          "start_time": "21:30",
+          "end_time": "23:55",
+          "screen": "シアター10",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン…[IMAXレーザー3D・字幕]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "14:55",
           "screen": "シアター10",
           "format": "IMAX",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "21:30",
-          "end_time": "23:55",
+          "start_time": "18:30",
+          "end_time": "20:55",
           "screen": "シアター10",
           "format": "IMAX",
           "language": "字幕",
@@ -505,5 +511,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-19T04:32:54.488878"
+  "scraped_at": "2026-05-19T10:24:56.861541"
 }

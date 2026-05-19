@@ -307,50 +307,6 @@
       ]
     },
     {
-      "title": "ザ・スーパーマリオギャラクシー・ムービー（字幕版）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "16:50",
-          "end_time": "18:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:55",
-          "end_time": "23:50",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "12:10",
-          "end_time": "14:05",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:30",
-          "end_time": "16:25",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "劇場版『名探偵コナンハイウェイの堕天使』限界突破応援上映！（自動制御ペンライト演出付き）（発声ＯＫ）",
       "duration_min": 109,
       "screenings": [
@@ -398,6 +354,50 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（字幕版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "18:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:50",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "12:10",
+          "end_time": "14:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "16:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -711,5 +711,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-19T04:37:40.419769"
+  "scraped_at": "2026-05-19T10:30:15.883978"
 }
