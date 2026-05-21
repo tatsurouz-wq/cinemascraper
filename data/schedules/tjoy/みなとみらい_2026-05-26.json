@@ -1,0 +1,976 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-05-26",
+  "movies": [
+    {
+      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:15",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:55",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【IMAX3D・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "13:35",
+          "end_time": "16:00",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "21:10",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:25",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "19:30",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:25",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:00",
+          "end_time": "22:25",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "19:15",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
+      "duration_min": 123,
+      "screenings": [
+        {
+          "start_time": "11:10",
+          "end_time": "13:25",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【発声OK応援上映】HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
+      "duration_min": 123,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "20:30",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ミステリー・アリーナ",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:25",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:25",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:25",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:25",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:15",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:20",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版総集編メイドインアビス【前編】旅立ちの夜明け リバイバル上映",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:40",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "コードギアス 奪還のロゼ 第2幕",
+      "duration_min": 76,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:25",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【2D字幕】EPiC／エピック エルヴィス・プレスリー・イン・コンサート",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "18:20",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX】Stray Kids : The dominATE Experience",
+      "duration_min": 146,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:45",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Stray Kids : The dominATE Experience",
+      "duration_min": 146,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "24:00",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:00",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:55",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:30",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "チェイサーゲームW 水魚の交わり",
+      "duration_min": 85,
+      "screenings": [
+        {
+          "start_time": "19:15",
+          "end_time": "20:50",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:10",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:15",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ママと神さまとシルヴィ・バルタン(PG12)",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:20",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Perfume“コールドスリープ”-25 years Document-",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "11:35",
+          "end_time": "13:40",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】スマッシング・マシーン",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:15",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "16:15",
+          "end_time": "18:40",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:35",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "機動警察パトレイバー EZY File 1",
+      "duration_min": 72,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "12:45",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:35",
+          "end_time": "17:00",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:50",
+          "end_time": "21:15",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】トップガン マーヴェリック",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "19:50",
+          "end_time": "22:10",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "14:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【日本語字幕付】劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:25",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+      "duration_min": 75,
+      "screenings": [
+        {
+          "start_time": "17:45",
+          "end_time": "19:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】グランド・イリュージョン／ダイヤモンド・ミッション",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:25",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】ひつじ探偵団",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:30",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "17:05",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】レッド・ソニア／反逆の剣(PG12)",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "23:45",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "幕末ヒポクラテスたち",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "17:55",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "未来(PG12)",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:10",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【3D】ビリー・アイリッシュ - HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "17:25",
+          "end_time": "19:35",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:35",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "16:05",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "21:05",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "16:25",
+          "end_time": "18:35",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラプソディ・ラプソディ",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "15:40",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】サンキュー、チャック",
+      "duration_min": 111,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:50",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:55",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:35",
+          "end_time": "21:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:00",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "15:15",
+          "end_time": "17:25",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:50",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:25",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "15:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:50",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "20:50",
+          "end_time": "23:25",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "機動警察パトレイバー EZY File 1",
+      "duration_min": 72,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ママと神さまとシルヴィ・バルタン(PG12)",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
+      "duration_min": 135,
+      "screenings": []
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】トップガン",
+      "duration_min": 110,
+      "screenings": []
+    },
+    {
+      "title": "【2D字幕】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "機動警察パトレイバー EZY File 1",
+      "duration_min": 72,
+      "screenings": []
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX】名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "ラプソディ・ラプソディ",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "幕末ヒポクラテスたち",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "未来(PG12)",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "【舞台挨拶】プリンセス プリンセス　ライヴ・フィルム『解散から30周年記念-tvkスペシャル-』劇場版5.1chデジタル",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:25",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Juice=Juice Concert 2026 UP TO 11 MORE！ MORE！ライブビューイング",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-21T05:19:48.852821"
+}

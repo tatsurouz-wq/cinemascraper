@@ -59,14 +59,6 @@
           "availability": "unknown"
         },
         {
-          "start_time": "14:40",
-          "end_time": "17:10",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "17:35",
           "end_time": "20:05",
           "screen": "SCREEN1",
@@ -88,6 +80,14 @@
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（吹替版）",
       "duration_min": 132,
       "screenings": [
+        {
+          "start_time": "14:40",
+          "end_time": "17:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
         {
           "start_time": "9:25",
           "end_time": "11:55",
@@ -487,5 +487,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-19T11:06:05.848602"
+  "scraped_at": "2026-05-21T05:18:32.738119"
 }
