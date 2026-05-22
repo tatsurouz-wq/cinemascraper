@@ -9,6 +9,20 @@
   "date": "2026-05-27",
   "movies": [
     {
+      "title": "ＺＡＲＤ　ＬＩＶＥ　２００４「Ｗｈａｔ　ａ　ｂｅａｕｔｉｆｕｌ　ｍｏｍｅｎｔ　Ｔｏｕｒ」Ｆｕｌｌ　Ｈ",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:15",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（ＭＸ４Ｄ・３Ｄ・字幕版）",
       "duration_min": 132,
       "screenings": [
@@ -116,20 +130,6 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＺＡＲＤ　ＬＩＶＥ　２００４「Ｗｈａｔ　ａ　ｂｅａｕｔｉｆｕｌ　ｍｏｍｅｎｔ　Ｔｏｕｒ」Ｆｕｌｌ　Ｈ",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:15",
-          "screen": "SCREEN7",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -555,5 +555,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-21T05:10:28.379124"
+  "scraped_at": "2026-05-22T12:32:58.118662"
 }

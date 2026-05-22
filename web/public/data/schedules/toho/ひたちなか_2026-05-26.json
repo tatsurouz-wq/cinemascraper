@@ -9,6 +9,20 @@
   "date": "2026-05-26",
   "movies": [
     {
+      "title": "ＨＹＤＥ　Ｏｒｃｈｅｓｔｒａ　Ｔｏｕｒ　２０２６　ＪＥＫＹＬＬ　ｉｎ　Ｗｉｅｎ",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
       "duration_min": 132,
       "screenings": [
@@ -549,5 +563,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-21T05:17:23.023878"
+  "scraped_at": "2026-05-22T12:39:41.931710"
 }
