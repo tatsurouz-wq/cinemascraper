@@ -573,13 +573,13 @@
       ]
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
+      "title": "ミステリー・アリーナ",
+      "duration_min": 117,
       "screenings": []
     },
     {
-      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
-      "duration_min": 118,
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -588,8 +588,8 @@
       "screenings": []
     },
     {
-      "title": "ミステリー・アリーナ",
-      "duration_min": 117,
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
+      "duration_min": 118,
       "screenings": []
     },
     {
@@ -598,18 +598,9 @@
       "screenings": []
     },
     {
-      "title": "【発声OK!! STAY Party♪応援上映】Stray Kids : The dominATE Experience",
-      "duration_min": 146,
-      "screenings": [
-        {
-          "start_time": "08:00",
-          "end_time": "10:35",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
+      "screenings": []
     },
     {
       "title": "【発声OK!! STAY Party♪応援上映】Stray Kids : The dominATE Experience",
@@ -624,7 +615,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "『2026 TXT MOA CON IN JAPAN』ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:30",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-05-22T12:43:08.649077"
+  "scraped_at": "2026-05-23T12:15:12.453020"
 }

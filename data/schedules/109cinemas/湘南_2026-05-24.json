@@ -168,7 +168,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:20",
@@ -229,6 +229,20 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "『2026 TXT MOA CON IN JAPAN』…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -545,5 +559,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-22T12:01:26.375690"
+  "scraped_at": "2026-05-23T11:33:13.710617"
 }
