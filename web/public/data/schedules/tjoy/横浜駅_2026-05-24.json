@@ -64,7 +64,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -170,7 +170,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:40",
@@ -214,7 +214,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -412,7 +412,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -508,7 +508,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -623,36 +623,6 @@
       ]
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
-      "duration_min": 118,
-      "screenings": []
-    },
-    {
-      "title": "【発声OK応援上映】HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
       "title": "ミステリー・アリーナ",
       "duration_min": 117,
       "screenings": []
@@ -663,13 +633,13 @@
       "screenings": []
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
+      "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
-      "duration_min": 118,
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -716,5 +686,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-24T10:27:28.848923"
+  "scraped_at": "2026-05-24T12:16:04.675842"
 }
