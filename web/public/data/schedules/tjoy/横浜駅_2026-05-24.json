@@ -56,7 +56,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -110,7 +110,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:40",
@@ -140,7 +140,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -244,7 +244,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -306,7 +306,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -314,7 +314,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:40",
@@ -404,7 +404,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:00",
@@ -434,7 +434,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:55",
@@ -544,7 +544,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:35",
@@ -623,18 +623,18 @@
       ]
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
       "screenings": []
     },
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "君のクイズ",
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
       "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【発声OK応援上映】HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -653,13 +653,13 @@
       "screenings": []
     },
     {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
+      "title": "ミステリー・アリーナ",
+      "duration_min": 117,
       "screenings": []
     },
     {
-      "title": "ミステリー・アリーナ",
-      "duration_min": 117,
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
       "screenings": []
     },
     {
@@ -668,18 +668,23 @@
       "screenings": []
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "【発声OK応援上映】HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
       "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
       "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "アギトー超能力戦争ー(PG12)",
+      "duration_min": 97,
       "screenings": []
     },
     {
@@ -711,5 +716,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-24T07:55:50.728497"
+  "scraped_at": "2026-05-24T10:27:28.848923"
 }

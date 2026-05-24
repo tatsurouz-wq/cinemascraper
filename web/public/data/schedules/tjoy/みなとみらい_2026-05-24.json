@@ -70,7 +70,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -92,7 +92,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -210,7 +210,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -342,7 +342,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -356,7 +356,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -386,7 +386,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:05",
@@ -458,7 +458,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -552,7 +552,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -654,7 +654,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -862,7 +862,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -889,63 +889,13 @@
       ]
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "【3D】ビリー・アイリッシュ - HIT ME HARD AND SOFT : THE TOUR (LIVE IN 3D",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "君のクイズ",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX3D・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "映画『正直不動産』",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "ミステリー・アリーナ",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "チェイサーゲームW 水魚の交わり",
-      "duration_min": 85,
-      "screenings": []
-    },
-    {
       "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
       "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "機動警察パトレイバー EZY File 1",
+      "duration_min": 72,
       "screenings": []
     },
     {
@@ -954,8 +904,58 @@
       "screenings": []
     },
     {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
+      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【日本語字幕付】未来(PG12)",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【日本語字幕付】劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "ミステリー・アリーナ",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "【発声OK!! STAY Party♪応援上映】Stray Kids : The dominATE Experience",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -1057,5 +1057,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-24T07:54:51.215466"
+  "scraped_at": "2026-05-24T10:26:29.016924"
 }
