@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ立川立飛",
+    "area": "立川",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/085/TNPI2000J01.do"
+  },
+  "date": "2026-05-30",
+  "movies": [
+    {
+      "title": "アニメ「怪獣８号」放送２周年記念　第１期＆第２期振り返り上映作戦（舞台挨拶中継）",
+      "duration_min": 73,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-05-24T01:15:23.591588"
+}
