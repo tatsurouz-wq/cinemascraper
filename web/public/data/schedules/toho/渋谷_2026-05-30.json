@@ -9,6 +9,74 @@
   "date": "2026-05-30",
   "movies": [
     {
+      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（舞台挨拶中継・発声ＯＫ）",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:25",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:16",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "10:45",
+          "end_time": "13:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:15",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
       "duration_min": 132,
       "screenings": [
@@ -99,6 +167,78 @@
       ]
     },
     {
+      "title": "映画『正直不動産』",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "21:35",
+          "end_time": "23:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "16:05",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ｐｅｒｆｕｍｅ“コールドスリープ”－２５　ｙｅａｒｓ　Ｄｏｃｕｍｅｎｔ－",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:25",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "21:30",
+          "end_time": "23:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プラダを着た悪魔２（字幕版）",
       "duration_min": 119,
       "screenings": [
@@ -145,29 +285,21 @@
       ]
     },
     {
-      "title": "名探偵コナン　ハイウェイの堕天使",
-      "duration_min": 109,
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
       "screenings": [
         {
-          "start_time": "8:20",
-          "end_time": "10:25",
+          "start_time": "18:45",
+          "end_time": "21:10",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "11:50",
-          "end_time": "13:55",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:35",
-          "end_time": "20:40",
-          "screen": "SCREEN6",
+          "start_time": "8:30",
+          "end_time": "10:55",
+          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -197,100 +329,6 @@
       ]
     },
     {
-      "title": "君のクイズ",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "21:30",
-          "end_time": "23:40",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "18:40",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画『正直不動産』",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "21:35",
-          "end_time": "23:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:55",
-          "end_time": "16:05",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "18:45",
-          "end_time": "21:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "8:30",
-          "end_time": "10:55",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "Ｐｅｒｆｕｍｅ“コールドスリープ”－２５　ｙｅａｒｓ　Ｄｏｃｕｍｅｎｔ－",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:25",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
-      "duration_min": 103,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:10",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "人はなぜラブレターを書くのか",
       "duration_min": 122,
       "screenings": [
@@ -305,67 +343,29 @@
       ]
     },
     {
-      "title": "箱の中の羊",
-      "duration_min": 125,
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
       "screenings": [
         {
-          "start_time": "10:45",
-          "end_time": "13:00",
-          "screen": "SCREEN1",
+          "start_time": "8:20",
+          "end_time": "10:25",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "13:30",
-          "end_time": "15:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:15",
-          "end_time": "18:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "21:15",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:20",
+          "start_time": "11:50",
+          "end_time": "13:55",
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（舞台挨拶中継・発声ＯＫ）",
-      "duration_min": 106,
-      "screenings": [
-        {
-          "start_time": "13:00",
-          "end_time": "15:25",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         },
         {
-          "start_time": "16:00",
-          "end_time": "18:16",
-          "screen": "SCREEN2",
+          "start_time": "18:35",
+          "end_time": "20:40",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -373,5 +373,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-25T07:56:40.593524"
+  "scraped_at": "2026-05-25T10:52:54.632881"
 }

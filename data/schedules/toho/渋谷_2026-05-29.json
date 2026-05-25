@@ -9,6 +9,52 @@
   "date": "2026-05-29",
   "movies": [
     {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "10:15",
+          "end_time": "12:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "18:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
       "duration_min": 132,
       "screenings": [
@@ -99,6 +145,94 @@
       ]
     },
     {
+      "title": "映画『正直不動産』",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "9:25",
+          "end_time": "11:35",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "17:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ｐｅｒｆｕｍｅ“コールドスリープ”－２５　ｙｅａｒｓ　Ｄｏｃｕｍｅｎｔ－",
+      "duration_min": 117,
+      "screenings": [
+        {
+          "start_time": "9:45",
+          "end_time": "11:55",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:25",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:15",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "プラダを着た悪魔２（字幕版）",
       "duration_min": 119,
       "screenings": [
@@ -137,102 +271,6 @@
       ]
     },
     {
-      "title": "名探偵コナン　ハイウェイの堕天使",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:25",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "9:15",
-          "end_time": "11:20",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "13:55",
-          "end_time": "15:50",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "君のクイズ",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:25",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:25",
-          "end_time": "18:35",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:15",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画『正直不動産』",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "9:25",
-          "end_time": "11:35",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:50",
-          "end_time": "17:00",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:50",
-          "end_time": "23:00",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
       "duration_min": 129,
       "screenings": [
@@ -255,29 +293,15 @@
       ]
     },
     {
-      "title": "Ｐｅｒｆｕｍｅ“コールドスリープ”－２５　ｙｅａｒｓ　Ｄｏｃｕｍｅｎｔ－",
-      "duration_min": 117,
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
       "screenings": [
         {
-          "start_time": "9:45",
-          "end_time": "11:55",
-          "screen": "SCREEN6",
+          "start_time": "13:55",
+          "end_time": "15:50",
+          "screen": "SCREEN2",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
-      "duration_min": 103,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:35",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -297,45 +321,21 @@
       ]
     },
     {
-      "title": "箱の中の羊",
-      "duration_min": 125,
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
       "screenings": [
         {
-          "start_time": "10:15",
-          "end_time": "12:30",
-          "screen": "SCREEN5",
+          "start_time": "16:20",
+          "end_time": "18:25",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "13:00",
-          "end_time": "15:15",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:45",
-          "end_time": "18:00",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "20:45",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:30",
-          "screen": "SCREEN5",
+          "start_time": "9:15",
+          "end_time": "11:20",
+          "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -343,5 +343,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-25T07:56:28.792944"
+  "scraped_at": "2026-05-25T10:52:42.658821"
 }
