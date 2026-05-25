@@ -79,14 +79,6 @@
       "duration_min": 132,
       "screenings": [
         {
-          "start_time": "18:15",
-          "end_time": "20:45",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "10:20",
           "end_time": "12:50",
           "screen": "SCREEN7",
@@ -98,6 +90,20 @@
           "start_time": "13:15",
           "end_time": "15:45",
           "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "（轟音上映）スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "20:45",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -643,5 +649,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-25T04:44:31.742611"
+  "scraped_at": "2026-05-25T07:51:08.133537"
 }
