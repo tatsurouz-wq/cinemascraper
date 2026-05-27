@@ -9,6 +9,28 @@
   "date": "2026-06-01",
   "movies": [
     {
+      "title": "名探偵コナン ハイウェイの堕天使[4DX2D[超限界突破",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "14:40",
+          "screen": "シアター10",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:25",
+          "end_time": "22:25",
+          "screen": "シアター10",
+          "format": "4DX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "箱の中の羊",
       "duration_min": 125,
       "screenings": [
@@ -479,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-26T04:35:52.982748"
+  "scraped_at": "2026-05-27T07:39:56.915716"
 }

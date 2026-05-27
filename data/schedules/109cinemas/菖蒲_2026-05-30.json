@@ -401,6 +401,20 @@
       ]
     },
     {
+      "title": "スマッシング・マシーン[字幕]",
+      "duration_min": 123,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ひつじ探偵団[吹替]",
       "duration_min": 109,
       "screenings": [
@@ -581,5 +595,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-26T04:36:25.947026"
+  "scraped_at": "2026-05-27T07:40:28.793080"
 }

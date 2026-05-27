@@ -9,15 +9,31 @@
   "date": "2026-05-30",
   "movies": [
     {
-      "title": "EPiC/エピック エルヴィス・プレスリー…[字幕][ODS]",
-      "duration_min": 97,
+      "title": "TOKYO BURST-犯罪都市-",
+      "duration_min": 116,
       "screenings": [
         {
-          "start_time": "16:40",
-          "end_time": "18:25",
+          "start_time": "09:05",
+          "end_time": "11:10",
           "screen": "シアター3",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:15",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -69,31 +85,15 @@
       ]
     },
     {
-      "title": "TOKYO BURST-犯罪都市-",
-      "duration_min": 116,
+      "title": "EPiC/エピック エルヴィス・プレスリー…[字幕][ODS]",
+      "duration_min": 97,
       "screenings": [
         {
-          "start_time": "09:05",
-          "end_time": "11:10",
+          "start_time": "16:40",
+          "end_time": "18:25",
           "screen": "シアター3",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:10",
-          "end_time": "16:15",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:20",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -593,5 +593,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-26T04:32:17.853576"
+  "scraped_at": "2026-05-27T07:36:12.972848"
 }

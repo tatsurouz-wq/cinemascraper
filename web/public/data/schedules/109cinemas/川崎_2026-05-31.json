@@ -9,20 +9,6 @@
   "date": "2026-05-31",
   "movies": [
     {
-      "title": "EPiC/エピック エルヴィス・プレスリー…[字幕][ODS]",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "19:40",
-          "end_time": "21:25",
-          "screen": "シアター6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "シナぷしゅ THE MOVIE…[ごあいさつ上映]",
       "duration_min": 46,
       "screenings": [
@@ -38,6 +24,28 @@
           "start_time": "11:00",
           "end_time": "12:00",
           "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "TOKYO BURST-犯罪都市-",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "10:50",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:50",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -91,23 +99,15 @@
       ]
     },
     {
-      "title": "TOKYO BURST-犯罪都市-",
-      "duration_min": 116,
+      "title": "EPiC/エピック エルヴィス・プレスリー…[字幕][ODS]",
+      "duration_min": 97,
       "screenings": [
         {
-          "start_time": "08:45",
-          "end_time": "10:50",
-          "screen": "シアター3",
+          "start_time": "19:40",
+          "end_time": "21:25",
+          "screen": "シアター6",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:45",
-          "end_time": "23:50",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -569,5 +569,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-26T04:32:24.543380"
+  "scraped_at": "2026-05-27T07:36:19.724571"
 }
