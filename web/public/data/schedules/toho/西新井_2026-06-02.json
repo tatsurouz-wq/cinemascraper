@@ -277,9 +277,25 @@
           "availability": "unknown"
         },
         {
+          "start_time": "9:00",
+          "end_time": "10:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "19:25",
           "end_time": "21:00",
           "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:00",
+          "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -351,14 +367,6 @@
         {
           "start_time": "9:15",
           "end_time": "11:15",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:10",
-          "end_time": "16:10",
           "screen": "SCREEN9",
           "format": "2D",
           "language": "吹替",
@@ -617,20 +625,6 @@
       ]
     },
     {
-      "title": "アギト－超能力戦争－",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:35",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "最終楽章　響け！ユーフォニアム　前編",
       "duration_min": 120,
       "screenings": [
@@ -659,5 +653,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-27T07:52:10.322744"
+  "scraped_at": "2026-05-30T04:43:16.481664"
 }
