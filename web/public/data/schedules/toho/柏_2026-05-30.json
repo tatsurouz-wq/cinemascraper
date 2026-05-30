@@ -126,7 +126,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -156,7 +156,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -262,7 +262,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -551,5 +551,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-30T11:58:55.962122"
+  "scraped_at": "2026-05-30T15:53:32.006160"
 }
