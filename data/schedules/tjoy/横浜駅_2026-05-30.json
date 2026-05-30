@@ -166,7 +166,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -264,7 +264,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -310,7 +310,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -480,7 +480,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -623,31 +623,6 @@
       ]
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "君のクイズ",
-      "duration_min": 118,
-      "screenings": []
-    },
-    {
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "duration_min": 87,
-      "screenings": []
-    },
-    {
-      "title": "箱の中の羊",
-      "duration_min": 126,
-      "screenings": []
-    },
-    {
-      "title": "ヒプノシスマイク -Division Rap Battle-",
-      "duration_min": 110,
-      "screenings": []
-    },
-    {
       "title": "SAKAMOTO DAYS",
       "duration_min": 129,
       "screenings": []
@@ -705,5 +680,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-30T10:25:54.916539"
+  "scraped_at": "2026-05-30T12:17:09.836190"
 }

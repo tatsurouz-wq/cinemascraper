@@ -42,7 +42,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -88,7 +88,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -266,7 +266,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -448,7 +448,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -554,7 +554,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -598,7 +598,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -830,7 +830,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -899,36 +899,6 @@
       ]
     },
     {
-      "title": "【2D字幕】EPiC／エピック エルヴィス・プレスリー・イン・コンサート",
-      "duration_min": 97,
-      "screenings": []
-    },
-    {
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "duration_min": 88,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】トップガン マーヴェリック",
-      "duration_min": 131,
-      "screenings": []
-    },
-    {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 122,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
       "title": "箱の中の羊",
       "duration_min": 126,
       "screenings": []
@@ -949,18 +919,18 @@
       "screenings": []
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
       "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
       "duration_min": 132,
       "screenings": []
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 120,
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "機動警察パトレイバー EZY File 1",
+      "duration_min": 72,
       "screenings": []
     },
     {
@@ -969,8 +939,8 @@
       "screenings": []
     },
     {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
+      "title": "最終楽章 響け！ユーフォニアム　前編",
+      "duration_min": 120,
       "screenings": []
     },
     {
@@ -1030,5 +1000,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-30T10:24:52.684385"
+  "scraped_at": "2026-05-30T12:16:13.962789"
 }
