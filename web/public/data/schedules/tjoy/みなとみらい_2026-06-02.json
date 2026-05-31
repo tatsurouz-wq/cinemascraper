@@ -249,6 +249,20 @@
       ]
     },
     {
+      "title": "劇場版総集編メイドインアビス【前編】旅立ちの夜明け リバイバル上映",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:30",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
       "duration_min": 134,
       "screenings": [
@@ -418,20 +432,6 @@
           "start_time": "17:00",
           "end_time": "19:10",
           "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版総集編メイドインアビス【前編】旅立ちの夜明け リバイバル上映",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:30",
-          "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -891,48 +891,13 @@
       ]
     },
     {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】トップガン マーヴェリック",
-      "duration_min": 131,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "【2D字幕】EPiC／エピック エルヴィス・プレスリー・イン・コンサート",
-      "duration_min": 97,
-      "screenings": []
-    },
-    {
-      "title": "箱の中の羊",
-      "duration_min": 126,
-      "screenings": []
-    },
-    {
-      "title": "TOKYO BURST-犯罪都市-(PG12)",
-      "duration_min": 117,
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
       "screenings": []
     },
     {
       "title": "【字幕】マテリアリスト 結婚の条件",
       "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
       "screenings": []
     },
     {
@@ -1017,5 +982,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-05-31T10:40:53.085314"
+  "scraped_at": "2026-05-31T12:20:55.691705"
 }
