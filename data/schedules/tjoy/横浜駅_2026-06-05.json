@@ -9,13 +9,8 @@
   "date": "2026-06-05",
   "movies": [
     {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 133,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
@@ -24,8 +19,8 @@
       "screenings": []
     },
     {
-      "title": "映画『正直不動産』",
-      "duration_min": 119,
+      "title": "箱の中の羊",
+      "duration_min": 126,
       "screenings": []
     },
     {
@@ -34,37 +29,40 @@
       "screenings": []
     },
     {
-      "title": "ミステリー・アリーナ",
-      "duration_min": 117,
+      "title": "君のクイズ",
+      "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
+      "title": "【DolbyCinema・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 133,
       "screenings": []
     },
     {
-      "title": "[スペシャル上映会イベント]ヒプノシスマイク -Division Rap Battle-",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "13:00",
-          "end_time": "15:25",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "18:16",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "【発声OK応援上映】HAMAツアーズpresents “おもてなしライブ” -Sparkle-",
+      "duration_min": 122,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-05-30T12:17:52.874343"
+  "scraped_at": "2026-05-31T08:08:45.126464"
 }
