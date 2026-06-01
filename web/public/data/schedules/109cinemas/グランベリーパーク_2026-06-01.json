@@ -18,7 +18,7 @@
           "screen": "シアター8",
           "format": "4DX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:30",
@@ -40,7 +40,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:30",
@@ -86,7 +86,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "screen": "シアター9",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:25",
@@ -182,7 +182,7 @@
           "screen": "シアター8",
           "format": "4DX",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:35",
@@ -190,7 +190,7 @@
           "screen": "シアター8",
           "format": "4DX",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -218,7 +218,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -330,7 +330,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -416,7 +416,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -444,7 +444,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -458,10 +458,10 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     }
   ],
-  "scraped_at": "2026-05-31T11:37:11.530061"
+  "scraped_at": "2026-06-01T01:00:34.411153"
 }
