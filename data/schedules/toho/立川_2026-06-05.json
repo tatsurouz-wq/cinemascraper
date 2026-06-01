@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ立川立飛",
+    "area": "立川",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/085/TNPI2000J01.do"
+  },
+  "date": "2026-06-05",
+  "movies": [
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル　先行上映（ＩＭＡＸ・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:20",
+          "screen": "SCREEN1",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-01T11:09:55.336121"
+}

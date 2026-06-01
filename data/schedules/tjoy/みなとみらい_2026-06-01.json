@@ -42,7 +42,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -102,7 +102,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -170,7 +170,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -208,7 +208,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -244,7 +244,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -368,7 +368,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -440,7 +440,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -476,7 +476,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -532,7 +532,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -582,7 +582,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -596,7 +596,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -646,7 +646,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -856,7 +856,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -897,23 +897,23 @@
       ]
     },
     {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
       "screenings": []
     },
     {
-      "title": "【字幕】マテリアリスト 結婚の条件",
-      "duration_min": 117,
+      "title": "【字幕】THE MUMMY／ザ・マミー 棺の中の少女[R15+]",
+      "duration_min": 135,
       "screenings": []
     },
     {
-      "title": "【IMAX】名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 134,
       "screenings": []
     },
     {
-      "title": "劇場版総集編メイドインアビス【後編】放浪する黄昏 リバイバル上映(PG12)",
-      "duration_min": 105,
+      "title": "箱の中の羊",
+      "duration_min": 126,
       "screenings": []
     },
     {
@@ -922,48 +922,33 @@
       "screenings": []
     },
     {
-      "title": "映画『正直不動産』",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "Perfume“コールドスリープ”-25 years Document-",
+      "title": "【字幕】マテリアリスト 結婚の条件",
       "duration_min": 117,
       "screenings": []
     },
     {
-      "title": "【字幕】ザ・フー / アメイジング・ジャーニー",
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "チェイサーゲームW 水魚の交わり",
+      "duration_min": 85,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　前編",
       "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "【字幕】グランド・イリュージョン／ダイヤモンド・ミッション",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トムとジェリー 時をこえる魔法の羅針盤(コンパス)",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【2D字幕】EPiC／エピック エルヴィス・プレスリー・イン・コンサート",
-      "duration_min": 97,
-      "screenings": []
-    },
-    {
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "duration_min": 88,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】トップガン マーヴェリック",
-      "duration_min": 131,
+      "title": "【字幕】スマッシング・マシーン",
+      "duration_min": 124,
       "screenings": []
     },
     {
@@ -1009,5 +994,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-01T08:39:43.003594"
+  "scraped_at": "2026-06-01T11:34:01.523383"
 }
