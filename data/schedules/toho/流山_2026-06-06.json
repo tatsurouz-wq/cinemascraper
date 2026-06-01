@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ流山おおたかの森",
+    "area": "流山",
+    "prefecture": "千葉県",
+    "url": "https://www.tohotheater.jp/net/schedule/035/TNPI2000J01.do"
+  },
+  "date": "2026-06-06",
+  "movies": [
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル　先行上映（ＩＭＡＸレーザー・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "16:55",
+          "screen": "SCREEN6",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-01T08:23:59.414026"
+}
