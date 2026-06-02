@@ -18,7 +18,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:40",
@@ -156,7 +156,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:30",
@@ -244,7 +244,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:20",
@@ -304,7 +304,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:40",
@@ -366,7 +366,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -402,7 +402,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -416,7 +416,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -458,7 +458,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:30",
@@ -494,26 +494,12 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:20",
           "end_time": "18:30",
           "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ミステリー・アリーナ",
-      "duration_min": 116,
-      "screenings": [
-        {
-          "start_time": "11:10",
-          "end_time": "13:20",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -543,20 +529,6 @@
       ]
     },
     {
-      "title": "人はなぜラブレターを書くのか",
-      "duration_min": 122,
-      "screenings": [
-        {
-          "start_time": "17:50",
-          "end_time": "20:05",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
       "duration_min": 129,
       "screenings": [
@@ -579,6 +551,34 @@
       ]
     },
     {
+      "title": "ミステリー・アリーナ",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "11:10",
+          "end_time": "13:20",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": [
+        {
+          "start_time": "17:50",
+          "end_time": "20:05",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "アギト－超能力戦争－",
       "duration_min": 97,
       "screenings": [
@@ -588,7 +588,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -607,5 +607,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-01T17:17:56.611219"
+  "scraped_at": "2026-06-02T01:20:55.872518"
 }
