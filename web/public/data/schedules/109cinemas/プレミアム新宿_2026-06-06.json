@@ -1,0 +1,383 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-06-06",
+  "movies": [
+    {
+      "title": "名探偵コナン ハイウェイの堕天使[英語字幕[ENG SUB",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:35",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:55",
+          "end_time": "19:00",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "トップガン[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "22:55",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "マスターズ・オブ・ユニバース[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "12:10",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:35",
+          "end_time": "15:05",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "アン・リー/はじまりの物語[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:50",
+          "end_time": "20:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:15",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "アン・リー/はじまりの物語[35mm・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:05",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "14:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "24:15",
+          "end_time": "26:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン…[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "12:05",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン…[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:50",
+          "end_time": "18:15",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY… [ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "16:35",
+          "end_time": "18:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "Stray Kids:The dominATE …[SCREENX[ODS",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "15:05",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔2[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "11:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔2[字幕][Dolby Atmos]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:30",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:15",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "21:00",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:45",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "サンキュー、チャック[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:25",
+          "end_time": "21:25",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "16:15",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "10:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:50",
+          "end_time": "23:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "ウィキッド 永遠の約束[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:10",
+          "end_time": "20:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-06T11:33:42.286448"
+}

@@ -1,0 +1,157 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-06-12",
+  "movies": [
+    {
+      "title": "【字幕】シャオ・メイ　ローマ大決戦(PG12)",
+      "duration_min": 138,
+      "screenings": []
+    },
+    {
+      "title": "山口くんはワルくない",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "モブ子の恋",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】アン・リー／はじまりの物語(PG12)",
+      "duration_min": 136,
+      "screenings": []
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 126,
+      "screenings": []
+    },
+    {
+      "title": "人はなぜラブレターを書くのか",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "TOKYO BURST-犯罪都市-(PG12)",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "duration_min": 88,
+      "screenings": []
+    },
+    {
+      "title": "【公開記念舞台挨拶中継】山口くんはワルくない",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "11:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "「TVアニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』ジャパンプレミア」ライブビューイング",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:45",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:05",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第1戦】FIFAワールドカップ2026 パブリックビューイング オランダvs日本",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "05:00",
+          "end_time": "07:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第2戦】FIFAワールドカップ2026 パブリックビューイング チュニジアvs日本",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第3戦】FIFAワールドカップ2026 パブリックビューイング 日本vsスウェーデン",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-06T12:18:03.668442"
+}

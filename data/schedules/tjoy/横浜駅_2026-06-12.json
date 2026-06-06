@@ -1,0 +1,70 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "T・ジョイ横浜",
+    "area": "横浜駅",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/t-joy_yokohama"
+  },
+  "date": "2026-06-12",
+  "movies": [
+    {
+      "title": "箱の中の羊",
+      "duration_min": 126,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "ミステリー・アリーナ",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "山口くんはワルくない",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "【公開記念舞台挨拶中継】山口くんはワルくない",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "11:40",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:26",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-06T12:18:49.264344"
+}
