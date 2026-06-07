@@ -1,0 +1,160 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-06-13",
+  "movies": [
+    {
+      "title": "【SCREENX】Stray Kids : The dominATE Experience",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】マスターズ・オブ・ユニバース",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トムとジェリー 時をこえる魔法の羅針盤(コンパス)",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "Perfume“コールドスリープ”-25 years Document-",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "Never After Dark／ネバーアフターダーク(PG12)",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【先行上映】【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】マテリアリスト 結婚の条件",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】ひつじ探偵団",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "duration_min": 88,
+      "screenings": []
+    },
+    {
+      "title": "劇場版総集編メイドインアビス【後編】放浪する黄昏 リバイバル上映(PG12)",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "「TVアニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』ジャパンプレミア」ライブビューイング",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:45",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:05",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第1戦】FIFAワールドカップ2026 パブリックビューイング オランダvs日本",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "05:00",
+          "end_time": "07:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第2戦】FIFAワールドカップ2026 パブリックビューイング チュニジアvs日本",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第3戦】FIFAワールドカップ2026 パブリックビューイング 日本vsスウェーデン",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-07T05:20:36.615533"
+}
