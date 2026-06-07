@@ -567,6 +567,20 @@
       ]
     },
     {
+      "title": "ＳＵＰＥＲ　ＢＥＡＶＥＲ　ＬＩＶＥ　＆　ＤＯＣＵＭＥＮＴＡＲＹ　－現在地－",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "18:50",
+          "end_time": "21:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ミステリー・アリーナ",
       "duration_min": 116,
       "screenings": [
@@ -587,20 +601,6 @@
         {
           "start_time": "21:40",
           "end_time": "23:50",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ＳＵＰＥＲ　ＢＥＡＶＥＲ　ＬＩＶＥ　＆　ＤＯＣＵＭＥＮＴＡＲＹ　－現在地－",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "18:50",
-          "end_time": "21:00",
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
@@ -659,5 +659,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-07T04:58:09.677560"
+  "scraped_at": "2026-06-07T12:00:09.424379"
 }
