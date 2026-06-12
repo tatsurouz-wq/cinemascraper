@@ -1,0 +1,207 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-06-14",
+  "movies": [
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "12:10",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "シラート[字幕]",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "18:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 旅人検視官 道場修作",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:40",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "尋秦記 バック・トゥ・ザ・パスト[字幕]",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "13:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:35",
+          "end_time": "21:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君と僕の5分[字幕]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:15",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[字幕]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "16:15",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[吹替]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:10",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "14:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "19:05",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-12T12:11:45.441481"
+}

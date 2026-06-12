@@ -1,0 +1,545 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ六本木ヒルズ",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/009/TNPI2000J01.do"
+  },
+  "date": "2026-06-13",
+  "movies": [
+    {
+      "title": "ＢＴＳ　ＷＯＲＬＤ　ＴＯＵＲ　ＡＲＩＲＡＮＧ　ＩＮ　ＢＵＳＡＮ　ライブビューイング",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:15",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "9:20",
+          "end_time": "11:45",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:45",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:20",
+          "end_time": "17:45",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:15",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:45",
+          "end_time": "14:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "17:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:45",
+          "end_time": "20:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＸ４Ｄ・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "15:15",
+          "end_time": "17:40",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:35",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画　おそ松さん　人類クズ化計画！！！！！？",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "10:55",
+          "end_time": "12:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "17:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:20",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "22:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "臨時増発　ミルキー☆サブウェイ　各駅停車劇場行き",
+      "duration_min": 46,
+      "screenings": [
+        {
+          "start_time": "16:55",
+          "end_time": "17:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "臨時増発　ミルキー☆サブウェイ　各駅停車劇場行き（ＭＸ４Ｄ）",
+      "duration_min": 46,
+      "screenings": [
+        {
+          "start_time": "9:10",
+          "end_time": "10:10",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　鬼滅の刃　無限城編　第一章　猗窩座再来",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:35",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ｎｅｖｅｒ　Ａｆｔｅｒ　Ｄａｒｋ／ネバーアフターダーク",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:20",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "モータルコンバット／ネクストラウンド（字幕版）",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:40",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "21:00",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "マスターズ・オブ・ユニバース（字幕版）",
+      "duration_min": 141,
+      "screenings": [
+        {
+          "start_time": "13:35",
+          "end_time": "16:10",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "21:10",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "24:00",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　モノノ怪　蛇神",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（吹替版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "14:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（ＭＸ４Ｄ・３Ｄ・字幕版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "23:45",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:15",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:35",
+          "end_time": "10:50",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:20",
+          "end_time": "13:35",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:20",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名無し",
+      "duration_min": 81,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "12:40",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君のクイズ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "15:55",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "21:05",
+          "end_time": "23:15",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ひつじ探偵団（字幕版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:25",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "10:55",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:05",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（字幕版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "16:35",
+          "end_time": "18:25",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "13:10",
+          "end_time": "15:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使（英語字幕版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "15:40",
+          "end_time": "17:40",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-12T12:21:24.856850"
+}
