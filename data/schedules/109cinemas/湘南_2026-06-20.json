@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ湘南",
+    "area": "湘南",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/shonan/"
+  },
+  "date": "2026-06-20",
+  "movies": [
+    {
+      "title": "ハイスクール・ミュージカル20周年 ザ・ムービー上映会[字幕",
+      "duration_min": 112,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-14T04:38:57.610959"
+}

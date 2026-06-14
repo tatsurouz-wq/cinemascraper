@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-06-19",
+  "movies": [
+    {
+      "title": "君は映画（舞台挨拶）",
+      "duration_min": 68,
+      "screenings": [
+        {
+          "start_time": "17:25",
+          "end_time": "19:20",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-14T04:42:54.325067"
+}

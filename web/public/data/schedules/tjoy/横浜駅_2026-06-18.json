@@ -575,8 +575,23 @@
       ]
     },
     {
-      "title": "Never After Dark／ネバーアフターダーク(PG12)",
-      "duration_min": 105,
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【照れキュン応援上映】山口くんはワルくない",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
+      "duration_min": 104,
       "screenings": []
     },
     {
@@ -585,18 +600,34 @@
       "screenings": []
     },
     {
-      "title": "【初日舞台挨拶中継】映画『おそ松さん 人類クズ化計画!!!!!?』",
-      "duration_min": 139,
-      "screenings": [
-        {
-          "start_time": "16:50",
-          "end_time": "19:09",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "「B’z LIVE-GYM 2026 -FYOP＋-」ライブビューイング",
+      "duration_min": 165,
+      "screenings": []
+    },
+    {
+      "title": "「B’z LIVE-GYM 2026 -FYOP＋-」ライブビューイング",
+      "duration_min": 165,
+      "screenings": []
     },
     {
       "title": "【照れキュン応援上映】山口くんはワルくない",
@@ -611,7 +642,29 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "「B’z LIVE-GYM 2026 -FYOP＋-」ライブビューイング",
+      "duration_min": 165,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:45",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-06-12T12:52:37.563684"
+  "scraped_at": "2026-06-14T05:19:52.236004"
 }

@@ -1,0 +1,65 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-06-20",
+  "movies": [
+    {
+      "title": "ハイスクール・ミュージカル20周年 ザ・ムービー上映会[字幕",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:10",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "17:50",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハイスクール・ミュージカル20周年 ザ・ムービー[字幕[応援",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:50",
+          "end_time": "15:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-14T04:35:06.334949"
+}
