@@ -597,20 +597,6 @@
       ]
     },
     {
-      "title": "ＳＵＰＥＲ　ＢＥＡＶＥＲ　ＬＩＶＥ　＆　ＤＯＣＵＭＥＮＴＡＲＹ　－現在地－",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:55",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "サッカー日本代表（ＳＡＭＵＲＡＩ　ＢＬＵＥ）映画『ＯＮＥ　ＣＲＥＡＴＵＲＥ』",
       "duration_min": 118,
       "screenings": [
@@ -618,6 +604,20 @@
           "start_time": "16:45",
           "end_time": "18:55",
           "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＳＵＰＥＲ　ＢＥＡＶＥＲ　ＬＩＶＥ　＆　ＤＯＣＵＭＥＮＴＡＲＹ　－現在地－",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:55",
+          "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -653,5 +653,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-15T08:31:02.763782"
+  "scraped_at": "2026-06-15T11:33:40.693935"
 }
