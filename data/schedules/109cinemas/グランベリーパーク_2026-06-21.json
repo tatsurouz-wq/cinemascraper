@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズグランベリーパーク",
+    "area": "グランベリーパーク",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/grandberrypark/"
+  },
+  "date": "2026-06-21",
+  "movies": [
+    {
+      "title": "ハイスクール・ミュージカル20周年 ザ・ムービー上映会[字幕",
+      "duration_min": 112,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:10",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-15T01:04:49.037071"
+}

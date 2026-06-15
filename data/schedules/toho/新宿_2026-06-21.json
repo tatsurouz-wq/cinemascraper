@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ新宿",
+    "area": "新宿",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/076/TNPI2000J01.do"
+  },
+  "date": "2026-06-21",
+  "movies": [
+    {
+      "title": "「ＦＩＦＡワールドカップ２０２６」パブリックビューイング　Ｐｒｅｓｅｎｔｅｄ　ｂｙ　ＤＡＺＮ",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:30",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-15T01:12:01.497341"
+}
