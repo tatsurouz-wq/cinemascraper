@@ -23,39 +23,15 @@
       ]
     },
     {
-      "title": "【IMAX・字幕】Michael／マイケル",
-      "duration_min": 127,
+      "title": "「青春ブタ野郎はゆめみる少女の夢を見ない」リバイバル上映",
+      "duration_min": 90,
       "screenings": [
         {
-          "start_time": "10:30",
-          "end_time": "12:50",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "13:10",
-          "end_time": "15:30",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "sold_out"
-        },
-        {
           "start_time": "18:35",
-          "end_time": "20:55",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:35",
-          "screen": "シアター７",
-          "format": "IMAX",
-          "language": "字幕",
+          "end_time": "20:15",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -78,7 +54,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:15",
@@ -140,7 +116,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:20",
@@ -148,7 +124,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:00",
@@ -194,7 +170,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -232,7 +208,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:15",
@@ -240,7 +216,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:40",
@@ -267,20 +243,6 @@
       ]
     },
     {
-      "title": "「青春ブタ野郎はゆめみる少女の夢を見ない」リバイバル上映",
-      "duration_min": 90,
-      "screenings": [
-        {
-          "start_time": "18:35",
-          "end_time": "20:15",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "劇場版『魔法少女リリカルなのは Reflection』リバイバル上映",
       "duration_min": 107,
       "screenings": [
@@ -290,7 +252,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -369,6 +331,44 @@
       ]
     },
     {
+      "title": "【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:50",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "15:30",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:55",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:35",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【IMAX・字幕】モータルコンバット／ネクストラウンド[R15+]",
       "duration_min": 117,
       "screenings": [
@@ -392,7 +392,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -436,7 +436,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -450,7 +450,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -544,7 +544,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -566,7 +566,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:15",
@@ -588,7 +588,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -680,7 +680,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -764,7 +764,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -820,7 +820,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -940,28 +940,13 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "【字幕】DIE MY LOVE／ダイ・マイ・ラブ(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】エレノアってグレイト。",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
-      "duration_min": 104,
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
       "screenings": []
     },
     {
@@ -970,13 +955,38 @@
       "screenings": []
     },
     {
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "duration_min": 88,
+      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
       "screenings": []
     },
     {
-      "title": "【字幕】アン・リー／はじまりの物語(PG12)",
-      "duration_min": 136,
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "「青春ブタ野郎はゆめみる少女の夢を見ない」リバイバル上映",
+      "duration_min": 90,
+      "screenings": []
+    },
+    {
+      "title": "モブ子の恋",
+      "duration_min": 122,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】DIE MY LOVE／ダイ・マイ・ラブ(PG12)",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
       "screenings": []
     },
     {
@@ -985,48 +995,33 @@
       "screenings": []
     },
     {
-      "title": "【IMAX・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 134,
+      "title": "【字幕】エレノアってグレイト。",
+      "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
-      "duration_min": 116,
+      "title": "NEW GROUP(PG12)",
+      "duration_min": 82,
+      "screenings": []
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】シラート(PG12)",
+      "duration_min": 115,
       "screenings": []
     },
     {
       "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "機動警察パトレイバー EZY File 1",
-      "duration_min": 72,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『魔法少女リリカルなのは Reflection』リバイバル上映",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "山口くんはワルくない",
-      "duration_min": 96,
-      "screenings": []
-    },
-    {
-      "title": "Never After Dark／ネバーアフターダーク(PG12)",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX】Stray Kids : The dominATE Experience",
-      "duration_min": 146,
-      "screenings": []
-    },
-    {
-      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
-      "duration_min": 104,
       "screenings": []
     },
     {
@@ -1108,5 +1103,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-15T05:20:43.127584"
+  "scraped_at": "2026-06-15T08:50:08.560534"
 }

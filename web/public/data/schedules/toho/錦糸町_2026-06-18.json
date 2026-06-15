@@ -299,14 +299,6 @@
           "availability": "unknown"
         },
         {
-          "start_time": "17:40",
-          "end_time": "20:05",
-          "screen": "オリナスSCREEN2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "20:40",
           "end_time": "23:05",
           "screen": "オリナスSCREEN2",
@@ -353,14 +345,6 @@
         {
           "start_time": "15:15",
           "end_time": "17:30",
-          "screen": "オリナスSCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:05",
-          "end_time": "20:20",
           "screen": "オリナスSCREEN3",
           "format": "2D",
           "language": "日本語",
@@ -493,7 +477,7 @@
       ]
     },
     {
-      "title": "劇場版　モノノ怪　蛇神",
+      "title": "劇場版　モノノ怪　第三章　蛇神",
       "duration_min": 87,
       "screenings": [
         {
@@ -737,5 +721,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-15T04:59:11.642122"
+  "scraped_at": "2026-06-15T08:29:44.184966"
 }
