@@ -1,0 +1,174 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-06-22",
+  "movies": [
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "METライブビューイング2025-26 チャイコフスキー《エフゲニー・オネーギン》",
+      "duration_min": 235,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】マスターズ・オブ・ユニバース",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "ラプソディ・ラプソディ",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】The Amazing Digital Circus ザ・ラストアクト",
+      "duration_min": 94,
+      "screenings": []
+    },
+    {
+      "title": "臨時増発 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "duration_min": 48,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "NEW GROUP(PG12)",
+      "duration_min": 82,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 126,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "BEYOOOOONDS CONCERT 2026 SPRING [HIGH! TENSION BEYOSCOOOOOPE",
+      "duration_min": 190,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第2戦】FIFAワールドカップ2026 パブリックビューイング チュニジアvs日本",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[プレミア舞台挨拶中継]TVアニメ『BLEACH 千年血戦篇-禍進譚-』劇場先行上映",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "15:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ANGERME 2026 Spring final 陰と陽 DUALITY　ライブビューイング",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【第3戦】FIFAワールドカップ2026 パブリックビューイング 日本vsスウェーデン",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "10:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-16T01:51:55.148376"
+}
