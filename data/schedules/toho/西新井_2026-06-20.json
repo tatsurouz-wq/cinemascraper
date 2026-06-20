@@ -23,6 +23,20 @@
       ]
     },
     {
+      "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ　Ｂｌｏｏｍ　Ｇａｒｄｅｎ　Ｐａｒｔｙ（舞台挨拶中継）",
+      "duration_min": 75,
+      "screenings": [
+        {
+          "start_time": "18:25",
+          "end_time": "20:25",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "急に具合が悪くなる",
       "duration_min": 196,
       "screenings": [
@@ -94,7 +108,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:10",
@@ -140,7 +154,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:20",
@@ -170,7 +184,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:25",
@@ -258,7 +272,7 @@
           "screen": "SCREEN8",
           "format": "MX4D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -296,7 +310,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:30",
@@ -304,20 +318,6 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ　Ｂｌｏｏｍ　Ｇａｒｄｅｎ　Ｐａｒｔｙ（舞台挨拶中継）",
-      "duration_min": 75,
-      "screenings": [
-        {
-          "start_time": "18:25",
-          "end_time": "20:25",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -384,7 +384,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:00",
@@ -582,7 +582,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -643,5 +643,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-20T07:43:12.368133"
+  "scraped_at": "2026-06-20T10:20:43.134679"
 }

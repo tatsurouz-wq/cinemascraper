@@ -122,7 +122,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -242,7 +242,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -310,7 +310,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -434,7 +434,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -538,7 +538,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -574,7 +574,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -588,7 +588,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -602,7 +602,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -644,7 +644,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -736,7 +736,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -806,7 +806,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -867,43 +867,33 @@
       ]
     },
     {
+      "title": "急に具合が悪くなる",
+      "duration_min": 197,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "マジカル・シークレット・ツアー",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
       "title": "黒牢城",
       "duration_min": 148,
       "screenings": []
     },
     {
-      "title": "免許返納!?（PG-12）",
+      "title": "【字幕】マスターズ・オブ・ユニバース",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "君のクイズ",
       "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "【大ヒット御礼舞台挨拶生中継】映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "duration_min": 115,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】DIE MY LOVE／ダイ・マイ・ラブ(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】Michael／マイケル",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スクリーム 7[R15+]",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "山口くんはワルくない",
-      "duration_min": 96,
       "screenings": []
     },
     {
@@ -912,23 +902,28 @@
       "screenings": []
     },
     {
-      "title": "君は映画",
-      "duration_min": 68,
+      "title": "【字幕】アン・リー／はじまりの物語(PG12)",
+      "duration_min": 136,
       "screenings": []
     },
     {
-      "title": "NEW GROUP(PG12)",
-      "duration_min": 82,
+      "title": "GENERATIONS “6IX SENSE” LIVE IN CINEMA",
+      "duration_min": 125,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
+      "title": "【字幕】スクリーム 7[R15+]",
+      "duration_min": 114,
       "screenings": []
     },
     {
-      "title": "急に具合が悪くなる",
-      "duration_min": 197,
+      "title": "【IMAX】魔女の宅急便　デジタルリマスター",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
       "screenings": []
     },
     {
@@ -1102,5 +1097,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-20T08:11:00.065053"
+  "scraped_at": "2026-06-20T10:47:27.795266"
 }

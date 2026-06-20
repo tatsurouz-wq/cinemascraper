@@ -58,7 +58,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -104,7 +104,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -172,7 +172,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -270,7 +270,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:40",
@@ -278,7 +278,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -338,7 +338,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -482,7 +482,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -598,7 +598,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -606,19 +606,9 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
-      "screenings": []
-    },
-    {
-      "title": "免許返納!?(PG12)",
-      "duration_min": 119,
-      "screenings": []
     },
     {
       "title": "黒牢城",
@@ -626,7 +616,7 @@
       "screenings": []
     },
     {
-      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
       "duration_min": 132,
       "screenings": []
     },
@@ -636,13 +626,18 @@
       "screenings": []
     },
     {
+      "title": "【字幕】マスターズ・オブ・ユニバース",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
       "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
       "screenings": []
     },
     {
-      "title": "【字幕】プラダを着た悪魔２",
-      "duration_min": 119,
+      "title": "箱の中の羊",
+      "duration_min": 126,
       "screenings": []
     },
     {
@@ -651,15 +646,15 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "マジカル・シークレット・ツアー",
+      "duration_min": 116,
       "screenings": []
     },
     {
-      "title": "免許返納!?(PG12)",
-      "duration_min": 119,
+      "title": "山口くんはワルくない",
+      "duration_min": 96,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-06-20T08:12:07.199525"
+  "scraped_at": "2026-06-20T10:48:30.545383"
 }
