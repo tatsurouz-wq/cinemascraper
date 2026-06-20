@@ -9,6 +9,20 @@
   "date": "2026-06-20",
   "movies": [
     {
+      "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ　Ｂｌｏｏｍ　Ｇａｒｄｅｎ　Ｐａｒｔｙ（舞台挨拶中継）",
+      "duration_min": 75,
+      "screenings": [
+        {
+          "start_time": "18:25",
+          "end_time": "20:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "黒牢城",
       "duration_min": 147,
       "screenings": [
@@ -42,7 +56,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:00",
@@ -50,7 +64,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -80,7 +94,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:25",
@@ -88,7 +102,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -126,7 +140,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:15",
@@ -134,7 +148,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -172,7 +186,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -210,7 +224,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:30",
@@ -218,7 +232,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -256,7 +270,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:30",
@@ -264,7 +278,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -276,262 +290,6 @@
           "start_time": "16:35",
           "end_time": "17:35",
           "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "Ｎｅｖｅｒ　Ａｆｔｅｒ　Ｄａｒｋ／ネバーアフターダーク",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "8:25",
-          "end_time": "10:25",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "山口くんはワルくない（発声ＯＫ）",
-      "duration_min": 96,
-      "screenings": [
-        {
-          "start_time": "19:05",
-          "end_time": "20:50",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "マスターズ・オブ・ユニバース（吹替版）",
-      "duration_min": 141,
-      "screenings": [
-        {
-          "start_time": "21:10",
-          "end_time": "23:45",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モータルコンバット／ネクストラウンド（字幕版）",
-      "duration_min": 116,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:10",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "サッカー日本代表（ＳＡＭＵＲＡＩ　ＢＬＵＥ）映画『ＯＮＥ　ＣＲＥＡＴＵＲＥ』",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:55",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "箱の中の羊",
-      "duration_min": 125,
-      "screenings": [
-        {
-          "start_time": "11:05",
-          "end_time": "13:25",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "18:40",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＴＯＫＹＯ　ＢＵＲＳＴ－犯罪都市－",
-      "duration_min": 116,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:20",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　モノノ怪　第三章　蛇神",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "9:55",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
-      "duration_min": 132,
-      "screenings": [
-        {
-          "start_time": "14:10",
-          "end_time": "16:35",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "24:00",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（吹替版）",
-      "duration_min": 132,
-      "screenings": [
-        {
-          "start_time": "11:20",
-          "end_time": "13:45",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "名無し",
-      "duration_min": 81,
-      "screenings": [
-        {
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画『正直不動産』",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "8:25",
-          "end_time": "10:40",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ　Ｂｌｏｏｍ　Ｇａｒｄｅｎ　Ｐａｒｔｙ（舞台挨拶中継）",
-      "duration_min": 75,
-      "screenings": [
-        {
-          "start_time": "18:25",
-          "end_time": "20:25",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
-      "duration_min": 103,
-      "screenings": [
-        {
-          "start_time": "8:55",
-          "end_time": "10:50",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "プラダを着た悪魔２（字幕版）",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "11:15",
-          "end_time": "13:30",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:55",
-          "end_time": "16:10",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:55",
-          "end_time": "23:10",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "18:35",
-          "end_time": "20:55",
-          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -573,7 +331,249 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "18:35",
+          "end_time": "20:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔２（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "16:10",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "23:10",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "13:25",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　モノノ怪　第三章　蛇神",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "9:55",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:35",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "24:00",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（吹替版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名無し",
+      "duration_min": 81,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "18:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "劇場版　魔法科高校の劣等生　四葉継承編",
+      "duration_min": 103,
+      "screenings": [
+        {
+          "start_time": "8:55",
+          "end_time": "10:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "マスターズ・オブ・ユニバース（吹替版）",
+      "duration_min": 141,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:45",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "モータルコンバット／ネクストラウンド（字幕版）",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "サッカー日本代表（ＳＡＭＵＲＡＩ　ＢＬＵＥ）映画『ＯＮＥ　ＣＲＥＡＴＵＲＥ』",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:55",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＴＯＫＹＯ　ＢＵＲＳＴ－犯罪都市－",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "山口くんはワルくない（発声ＯＫ）",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "19:05",
+          "end_time": "20:50",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Ｎｅｖｅｒ　Ａｆｔｅｒ　Ｄａｒｋ／ネバーアフターダーク",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "8:25",
+          "end_time": "10:25",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画『正直不動産』",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "8:25",
+          "end_time": "10:40",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-06-16T08:24:48.114312"
+  "scraped_at": "2026-06-20T07:45:58.872625"
 }

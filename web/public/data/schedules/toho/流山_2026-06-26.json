@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ流山おおたかの森",
+    "area": "流山",
+    "prefecture": "千葉県",
+    "url": "https://www.tohotheater.jp/net/schedule/035/TNPI2000J01.do"
+  },
+  "date": "2026-06-26",
+  "movies": [
+    {
+      "title": "舞台『あんさんぶるスターズ！ＴＨＥ　ＳＴＡＧＥ』－Ｒｅｑｕｉｅｍ　ｆｒｏｍ　Ｋｎｉｇｈｔｓ（発声ＯＫ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-20T07:56:57.274928"
+}
