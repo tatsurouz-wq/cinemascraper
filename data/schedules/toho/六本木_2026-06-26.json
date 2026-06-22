@@ -21,7 +21,29 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "陳情令　イベント上映２０２６",
+      "duration_min": 232,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "22:52",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "22:52",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-06-22T04:51:35.031525"
+  "scraped_at": "2026-06-22T08:29:50.968528"
 }
