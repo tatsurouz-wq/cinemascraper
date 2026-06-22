@@ -27,16 +27,16 @@
       "duration_min": 232,
       "screenings": [
         {
-          "start_time": "19:00",
-          "end_time": "22:52",
+          "start_time": "18:30",
+          "end_time": "22:22",
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "19:00",
-          "end_time": "22:52",
+          "start_time": "18:30",
+          "end_time": "22:22",
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
@@ -45,5 +45,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-22T08:29:50.968528"
+  "scraped_at": "2026-06-22T11:13:56.539585"
 }
