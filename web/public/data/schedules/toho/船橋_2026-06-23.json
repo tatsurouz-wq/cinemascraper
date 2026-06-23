@@ -46,7 +46,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:40",
@@ -92,7 +92,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:20",
@@ -154,7 +154,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:40",
@@ -176,7 +176,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:40",
@@ -258,7 +258,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:20",
@@ -280,7 +280,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:30",
@@ -302,7 +302,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:00",
@@ -404,7 +404,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -459,20 +459,6 @@
       ]
     },
     {
-      "title": "サッカー日本代表（ＳＡＭＵＲＡＩ　ＢＬＵＥ）映画『ＯＮＥ　ＣＲＥＡＴＵＲＥ』",
-      "duration_min": 118,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "21:10",
-          "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画　おそ松さん　人類クズ化計画！！！！！？",
       "duration_min": 104,
       "screenings": [
@@ -482,7 +468,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:20",
@@ -542,7 +528,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -556,7 +542,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -603,14 +589,14 @@
       ]
     },
     {
-      "title": "臨時増発　ミルキー☆サブウェイ　各駅停車劇場行き（ＭＸ４Ｄ）",
-      "duration_min": 46,
+      "title": "サッカー日本代表（ＳＡＭＵＲＡＩ　ＢＬＵＥ）映画『ＯＮＥ　ＣＲＥＡＴＵＲＥ』",
+      "duration_min": 118,
       "screenings": [
         {
-          "start_time": "11:45",
-          "end_time": "12:45",
-          "screen": "SCREEN1",
-          "format": "MX4D",
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "SCREEN10",
+          "format": "2D",
           "language": "日本語",
           "availability": "available"
         }
@@ -629,7 +615,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "臨時増発　ミルキー☆サブウェイ　各駅停車劇場行き（ＭＸ４Ｄ）",
+      "duration_min": 46,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "12:45",
+          "screen": "SCREEN1",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-06-22T11:22:52.500494"
+  "scraped_at": "2026-06-23T01:15:29.872246"
 }

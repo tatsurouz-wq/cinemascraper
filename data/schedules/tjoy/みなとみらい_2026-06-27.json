@@ -9,18 +9,23 @@
   "date": "2026-06-27",
   "movies": [
     {
-      "title": "【字幕】アン・リー／はじまりの物語(PG12)",
-      "duration_min": 136,
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "君のクイズ",
-      "duration_min": 119,
+      "title": "【字幕】さよなら、僕の英雄(PG12)",
+      "duration_min": 116,
       "screenings": []
     },
     {
-      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
-      "duration_min": 109,
+      "title": "【字幕】スクリーム 7[R15+]",
+      "duration_min": 114,
+      "screenings": []
+    },
+    {
+      "title": "劇場版『魔法少女リリカルなのは Detonation』リバイバル上映(PG12)",
+      "duration_min": 111,
       "screenings": []
     },
     {
@@ -29,13 +34,38 @@
       "screenings": []
     },
     {
-      "title": "GENERATIONS “6IX SENSE” LIVE IN CINEMA",
-      "duration_min": 125,
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "【字幕】マテリアリスト 結婚の条件",
-      "duration_min": 117,
+      "title": "【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "NEW GROUP(PG12)",
+      "duration_min": 82,
+      "screenings": []
+    },
+    {
+      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
+      "duration_min": 103,
       "screenings": []
     },
     {
@@ -44,18 +74,19 @@
       "screenings": []
     },
     {
-      "title": "［6月21日昼公演］「RK Music Fes. 2026」DELAY VIEWING",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "18:30",
-          "end_time": "22:00",
-          "screen": "シアター１３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【字幕】スクリーム 7[R15+]",
+      "duration_min": 114,
+      "screenings": []
+    },
+    {
+      "title": "君は映画",
+      "duration_min": 68,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": []
     },
     {
       "title": "ANGERME 2026 Spring final 陰と陽 DUALITY　ライブビューイング",
@@ -86,6 +117,20 @@
       ]
     },
     {
+      "title": "シークレットシネマ",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【第3戦】FIFAワールドカップ2026 パブリックビューイング 日本vsスウェーデン",
       "duration_min": 160,
       "screenings": [
@@ -93,6 +138,14 @@
           "start_time": "08:00",
           "end_time": "10:40",
           "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "08:00",
+          "end_time": "10:40",
+          "screen": "シアター１２",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -114,5 +167,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-22T11:43:57.800718"
+  "scraped_at": "2026-06-23T01:36:25.208096"
 }

@@ -9,6 +9,28 @@
   "date": "2026-06-26",
   "movies": [
     {
+      "title": "陳情令　イベント上映２０２６",
+      "duration_min": 232,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "22:22",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "22:22",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "「ＦＩＦＡワールドカップ２０２６」パブリックビューイング　Ｐｒｅｓｅｎｔｅｄ　ｂｙ　ＤＡＺＮ",
       "duration_min": 150,
       "screenings": [
@@ -21,29 +43,7 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "陳情令　イベント上映２０２６",
-      "duration_min": 232,
-      "screenings": [
-        {
-          "start_time": "18:30",
-          "end_time": "22:22",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "22:22",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-06-22T11:13:56.539585"
+  "scraped_at": "2026-06-23T01:06:40.011161"
 }
