@@ -46,7 +46,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:20",
@@ -98,7 +98,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -106,7 +106,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -144,7 +144,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:40",
@@ -212,7 +212,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:35",
@@ -250,7 +250,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:05",
@@ -308,7 +308,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -322,7 +322,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:15",
@@ -330,7 +330,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:05",
@@ -360,7 +360,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -382,7 +382,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:45",
@@ -404,7 +404,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -536,7 +536,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -732,7 +732,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -754,7 +754,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -810,7 +810,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -852,7 +852,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -880,52 +880,22 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】さよなら、僕の英雄(PG12)",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スクリーム 7[R15+]",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "劇場版『魔法少女リリカルなのは Detonation』リバイバル上映(PG12)",
-      "duration_min": 111,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX】魔女の宅急便　デジタルリマスター",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "title": "SUPER BEAVER LIVE & DOCUMENTARY -現在地-",
       "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
-      "duration_min": 128,
+      "title": "【字幕】シラート(PG12)",
+      "duration_min": 115,
       "screenings": []
     },
     {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "免許返納!?（PG-12）",
+      "title": "【字幕】DIE MY LOVE／ダイ・マイ・ラブ(PG12)",
       "duration_min": 119,
       "screenings": []
     },
@@ -935,23 +905,43 @@
       "screenings": []
     },
     {
-      "title": "NEW GROUP(PG12)",
-      "duration_min": 82,
+      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
+      "duration_min": 109,
       "screenings": []
     },
     {
-      "title": "劇場版「魔法科高校の劣等生 四葉継承編」",
-      "duration_min": 103,
+      "title": "劇場版 山崎一門Ⅱ～日本統一～(PG12)",
+      "duration_min": 89,
       "screenings": []
     },
     {
-      "title": "マジカル・シークレット・ツアー",
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "GENERATIONS “6IX SENSE” LIVE IN CINEMA",
+      "duration_min": 125,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
       "duration_min": 116,
       "screenings": []
     },
     {
-      "title": "【字幕】スクリーム 7[R15+]",
-      "duration_min": 114,
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】魔女の宅急便　デジタルリマスター",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -960,8 +950,23 @@
       "screenings": []
     },
     {
-      "title": "【IMAX・字幕】Michael／マイケル",
-      "duration_min": 127,
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "山口くんはワルくない",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "モブ子の恋",
+      "duration_min": 122,
       "screenings": []
     },
     {
@@ -1043,5 +1048,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-23T01:35:50.653077"
+  "scraped_at": "2026-06-23T05:11:35.227050"
 }
