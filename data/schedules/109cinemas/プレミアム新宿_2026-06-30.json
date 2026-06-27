@@ -1,0 +1,405 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-06-30",
+  "movies": [
+    {
+      "title": "シラート[字幕][DolbyAtmos]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "17:30",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:00",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・フー アメイジング・ジャーニー[字幕][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:10",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔/プラダを着た悪魔2…[字幕",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "19:00",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "GENERATIONS 6IX SENSE…[応援上映[ODS",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:50",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハイスクール・ミュージカル20周年 ザ・ムービー上映会[字幕",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:10",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:45",
+          "end_time": "14:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:25",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "23:10",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:05",
+          "end_time": "15:25",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:55",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "12:05",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:35",
+          "end_time": "14:55",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:50",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕][応援上映]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:10",
+          "end_time": "20:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使[英語字幕[ENG SUB",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "マスターズ・オブ・ユニバース[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "23:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:45",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "17:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "プラダを着た悪魔2[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "23:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー[日本語版]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:50",
+          "end_time": "23:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-27T00:52:48.624538"
+}

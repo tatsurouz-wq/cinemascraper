@@ -1,0 +1,67 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ渋谷",
+    "area": "渋谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/043/TNPI2000J01.do"
+  },
+  "date": "2026-07-03",
+  "movies": [
+    {
+      "title": "トイ・ストーリー５（吹替版・トイ・ストーリーシアター）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:45",
+          "end_time": "13:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "18:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:15",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-27T01:10:18.306204"
+}
