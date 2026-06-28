@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-07-04",
+  "movies": [
+    {
+      "title": "黒の牛[舞台挨拶]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-28T04:34:31.874675"
+}
