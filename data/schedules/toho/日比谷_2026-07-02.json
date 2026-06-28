@@ -9,6 +9,20 @@
   "date": "2026-07-02",
   "movies": [
     {
+      "title": "新劇場版☆ケロロ軍曹　復活して速攻地球滅亡の危機であります！（舞台挨拶）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:35",
+          "screen": "SCREEN12（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スーパーガール（ＩＭＡＸレーザー・字幕版）",
       "duration_min": 109,
       "screenings": [
@@ -959,5 +973,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-06-28T04:42:13.300312"
+  "scraped_at": "2026-06-28T07:34:53.605635"
 }
