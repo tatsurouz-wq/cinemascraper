@@ -1,0 +1,100 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-07-05",
+  "movies": [
+    {
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ロングウォーク[R15+]",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】スーパーガール",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】最終絶叫計画 令和！[R15+]",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スクリーム 7[R15+]",
+      "duration_min": 114,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "Never After Dark／ネバーアフターダーク(PG12)",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】DIE MY LOVE／ダイ・マイ・ラブ(PG12)",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】モータルコンバット／ネクストラウンド[R15+]",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "【ラウンド32】FIFAワールドカップ2026 パブリックビューイング ブラジルvs日本",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "02:00",
+          "end_time": "05:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "02:00",
+          "end_time": "05:00",
+          "screen": "シアター１２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-06-29T11:23:34.107863"
+}
