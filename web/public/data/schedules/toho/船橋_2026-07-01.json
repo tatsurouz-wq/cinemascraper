@@ -40,7 +40,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:45",
@@ -84,7 +84,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:10",
@@ -106,7 +106,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:40",
@@ -114,7 +114,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:10",
@@ -152,7 +152,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:10",
@@ -160,7 +160,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:50",
@@ -168,7 +168,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -176,7 +176,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:10",
@@ -198,7 +198,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:00",
@@ -219,48 +219,6 @@
       ]
     },
     {
-      "title": "名探偵コナン　ハイウェイの堕天使",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "15:40",
-          "end_time": "17:40",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ザ・スーパーマリオギャラクシー・ムービー（ＭＸ４Ｄ・３Ｄ・日本語版※日本語吹替版）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "12:00",
-          "end_time": "14:00",
-          "screen": "SCREEN1",
-          "format": "MX4D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:25",
-          "screen": "SCREEN5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＸ４Ｄ・字幕版）",
       "duration_min": 127,
       "screenings": [
@@ -270,7 +228,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -284,7 +242,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:00",
@@ -350,7 +308,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:20",
@@ -372,7 +330,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -428,7 +386,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -442,7 +400,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:40",
@@ -450,7 +408,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:50",
@@ -480,7 +438,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:40",
@@ -488,7 +446,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:00",
@@ -518,7 +476,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:15",
@@ -540,7 +498,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -554,7 +512,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:00",
@@ -584,12 +542,26 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:20",
           "end_time": "18:40",
           "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:25",
+          "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -606,7 +578,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -639,16 +611,44 @@
       ]
     },
     {
-      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
-      "duration_min": 129,
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
       "screenings": [
         {
-          "start_time": "18:00",
-          "end_time": "20:25",
-          "screen": "SCREEN2",
+          "start_time": "15:40",
+          "end_time": "17:40",
+          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（ＭＸ４Ｄ・３Ｄ・日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:00",
+          "screen": "SCREEN1",
+          "format": "MX4D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "10:30",
+          "end_time": "12:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
         }
       ]
     },
@@ -676,10 +676,10 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-06-29T11:03:32.768543"
+  "scraped_at": "2026-07-01T04:56:55.780803"
 }
