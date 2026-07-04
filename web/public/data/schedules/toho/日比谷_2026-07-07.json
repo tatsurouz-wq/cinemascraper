@@ -547,14 +547,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "23:35",
-          "screen": "SCREEN13（東京宝塚地下）",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -781,6 +773,20 @@
       ]
     },
     {
+      "title": "ＳＡＫＡＭＯＴＯ　ＤＡＹＳ",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "21:35",
+          "end_time": "23:55",
+          "screen": "SCREEN13（東京宝塚地下）",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "箱の中の羊",
       "duration_min": 125,
       "screenings": [
@@ -955,5 +961,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-01T04:42:32.623403"
+  "scraped_at": "2026-07-04T00:50:38.585723"
 }

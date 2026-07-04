@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-07-10",
+  "movies": [
+    {
+      "title": "Perfume コールドスリープ 25…[舞台挨拶][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:50",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-04T00:42:55.531824"
+}

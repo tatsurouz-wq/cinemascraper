@@ -23,6 +23,28 @@
       ]
     },
     {
+      "title": "トイ・ストーリー5[SCREENX・吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "16:25",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:50",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ビトゥーカ ミルトン・ナシメント フェアウェルツアー[字幕]",
       "duration_min": null,
       "screenings": [
@@ -30,28 +52,6 @@
           "start_time": "11:40",
           "end_time": "13:45",
           "screen": "シアター5",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "トイ・ストーリー5[字幕]",
-      "duration_min": null,
-      "screenings": [
-        {
-          "start_time": "11:45",
-          "end_time": "13:40",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:35",
-          "end_time": "18:30",
-          "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -71,8 +71,24 @@
           "availability": "unknown"
         },
         {
+          "start_time": "11:45",
+          "end_time": "13:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
           "start_time": "14:10",
           "end_time": "16:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:30",
           "screen": "シアター2",
           "format": "2D",
           "language": "吹替",
@@ -101,24 +117,8 @@
       "duration_min": null,
       "screenings": [
         {
-          "start_time": "14:30",
-          "end_time": "16:25",
-          "screen": "シアター6",
-          "format": "ScreenX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "19:35",
           "end_time": "21:30",
-          "screen": "シアター6",
-          "format": "ScreenX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:55",
-          "end_time": "23:50",
           "screen": "シアター6",
           "format": "ScreenX",
           "language": "字幕",
@@ -443,5 +443,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-01T04:35:13.894377"
+  "scraped_at": "2026-07-04T00:42:37.538668"
 }

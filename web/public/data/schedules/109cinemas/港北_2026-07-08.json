@@ -1,0 +1,363 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ港北",
+    "area": "港北",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/kohoku/"
+  },
+  "date": "2026-07-08",
+  "movies": [
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "12:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "16:50",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:10",
+          "end_time": "19:05",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "21:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "12:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:15",
+          "end_time": "14:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "16:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:15",
+          "end_time": "18:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻…",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:20",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[字幕]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "12:10",
+          "end_time": "14:10",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:05",
+          "end_time": "21:05",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[吹替]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "11:50",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "18:45",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ロングウォーク[字幕]",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "16:25",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "それいけ!アンパンマン パンタンと約束の星",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "10:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "それいけ!アンパンマン パンタンと…[アンパンマンナイト]",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "19:45",
+          "end_time": "20:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "免許返納!?",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "11:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 147,
+      "screenings": [
+        {
+          "start_time": "09:55",
+          "end_time": "12:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "遺愛",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "さよなら、僕の英雄[字幕]",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "19:15",
+          "end_time": "21:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "15:00",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[字幕]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "12:50",
+          "end_time": "15:15",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "21:15",
+          "end_time": "23:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版『名探偵コナン ハイウェイの堕天使』",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "23:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-04T00:46:07.908428"
+}
