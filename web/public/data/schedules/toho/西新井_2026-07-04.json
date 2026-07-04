@@ -124,7 +124,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "22:05",
@@ -196,7 +196,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -272,7 +272,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:15",
@@ -430,7 +430,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -641,5 +641,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-04T10:02:36.293067"
+  "scraped_at": "2026-07-04T11:50:01.382957"
 }
