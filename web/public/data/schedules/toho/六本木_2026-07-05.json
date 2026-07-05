@@ -70,7 +70,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:20",
@@ -154,7 +154,7 @@
           "screen": "SCREEN8",
           "format": "MX4D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:45",
@@ -559,5 +559,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-05T10:05:33.806919"
+  "scraped_at": "2026-07-05T11:47:12.941187"
 }

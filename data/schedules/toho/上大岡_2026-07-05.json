@@ -120,7 +120,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:55",
@@ -256,7 +256,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:15",
@@ -565,5 +565,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-05T10:28:26.570194"
+  "scraped_at": "2026-07-05T12:10:09.223493"
 }
