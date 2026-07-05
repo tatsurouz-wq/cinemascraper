@@ -154,7 +154,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -162,7 +162,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:45",
@@ -170,7 +170,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:10",
@@ -178,7 +178,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:30",
@@ -186,7 +186,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:50",
@@ -240,7 +240,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -392,7 +392,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:25",
@@ -422,7 +422,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -538,7 +538,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -602,7 +602,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -663,18 +663,8 @@
       ]
     },
     {
-      "title": "【DolbyCinema・吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
+      "title": "【字幕】スーパーガール",
+      "duration_min": 108,
       "screenings": []
     },
     {
@@ -688,22 +678,12 @@
       "screenings": []
     },
     {
-      "title": "魔女の宅急便　４Ｋデジタルリマスター",
-      "duration_min": 103,
-      "screenings": []
-    },
-    {
-      "title": "黒牢城",
-      "duration_min": 148,
-      "screenings": []
-    },
-    {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
       "screenings": []
     },
     {
-      "title": "【DolbyCinema・字幕】Michael／マイケル",
+      "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
       "screenings": []
     },
@@ -713,18 +693,33 @@
       "screenings": []
     },
     {
-      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
+      "title": "免許返納!?(PG12)",
+      "duration_min": 119,
       "screenings": []
     },
     {
-      "title": "【字幕】スーパーガール",
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
       "duration_min": 108,
       "screenings": []
     },
     {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema】魔女の宅急便　４Ｋデジタルリマスター",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 108,
       "screenings": []
     },
     {
@@ -742,5 +737,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-05T07:54:52.843195"
+  "scraped_at": "2026-07-05T10:36:13.047848"
 }
