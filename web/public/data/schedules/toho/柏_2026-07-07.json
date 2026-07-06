@@ -141,112 +141,6 @@
       ]
     },
     {
-      "title": "口に関するアンケート",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "10:55",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:15",
-          "end_time": "12:55",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:20",
-          "end_time": "15:00",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:25",
-          "end_time": "17:05",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:20",
-          "end_time": "22:00",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ラブ≠コメディ",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "9:20",
-          "end_time": "11:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:30",
-          "end_time": "15:40",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:40",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "サヨナラの引力（字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "9:25",
-          "end_time": "11:35",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:05",
-          "end_time": "21:15",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "23:45",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "Ｍｉｃｈａｅｌ／マイケル（Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
       "duration_min": 127,
       "screenings": [
@@ -360,6 +254,112 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "10:55",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:15",
+          "end_time": "12:55",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:20",
+          "end_time": "15:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:25",
+          "end_time": "17:05",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:20",
+          "end_time": "22:00",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ラブ≠コメディ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "9:20",
+          "end_time": "11:30",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:40",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:40",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "サヨナラの引力（字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "9:25",
+          "end_time": "11:35",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:05",
+          "end_time": "21:15",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:45",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -543,5 +543,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-06T01:10:51.070636"
+  "scraped_at": "2026-07-06T04:56:28.197602"
 }
