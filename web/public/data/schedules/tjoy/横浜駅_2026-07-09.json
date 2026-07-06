@@ -9,6 +9,28 @@
   "date": "2026-07-09",
   "movies": [
     {
+      "title": "劇団☆新感線『アケチコ！』ライブビューイング",
+      "duration_min": 245,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "16:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "22:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
       "screenings": [
@@ -571,8 +593,13 @@
       ]
     },
     {
-      "title": "黒牢城",
-      "duration_min": 148,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "【2D日本語版】ザ・スーパーマリオギャラクシー・ムービー",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -581,13 +608,28 @@
       "screenings": []
     },
     {
+      "title": "【DolbyCinema・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
       "screenings": []
     },
     {
-      "title": "【字幕】スーパーガール",
-      "duration_min": 108,
+      "title": "マジカル・シークレット・ツアー",
+      "duration_min": 116,
       "screenings": []
     },
     {
@@ -596,30 +638,20 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
       "title": "魔女の宅急便　４Ｋデジタルリマスター",
       "duration_min": 103,
       "screenings": []
     },
     {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
+      "title": "【字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-07-06T05:14:43.703973"
+  "scraped_at": "2026-07-06T08:22:51.173385"
 }
