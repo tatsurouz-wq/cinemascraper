@@ -114,7 +114,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -376,7 +376,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -434,7 +434,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -462,7 +462,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -490,7 +490,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -578,7 +578,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -617,52 +617,7 @@
           "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "【DolbyCinema・吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "箱の中の羊",
-      "duration_min": 126,
-      "screenings": []
-    },
-    {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スーパーガール",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "免許返納!?(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "映画『おそ松さん 人類クズ化計画!!!!!?』",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-      "duration_min": 108,
-      "screenings": []
     }
   ],
-  "scraped_at": "2026-07-06T11:19:26.044885"
+  "scraped_at": "2026-07-06T13:02:31.892106"
 }

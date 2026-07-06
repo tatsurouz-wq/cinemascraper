@@ -78,7 +78,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -148,7 +148,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -262,7 +262,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -292,7 +292,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -380,7 +380,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -394,7 +394,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -474,7 +474,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -674,7 +674,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -688,7 +688,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -702,7 +702,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -776,7 +776,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -938,7 +938,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -971,71 +971,6 @@
       ]
     },
     {
-      "title": "急に具合が悪くなる",
-      "duration_min": 197,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】スーパーガール",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スクリーム 7[R15+]",
-      "duration_min": 114,
-      "screenings": []
-    },
-    {
-      "title": "ラブ≠コメディ",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "SAKAMOTO DAYS",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
-      "title": "マジカル・シークレット・ツアー",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "口に関するアンケート",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "THE ORIGIN OF ULTRAMAN",
-      "duration_min": 106,
-      "screenings": []
-    },
-    {
       "title": "ちゃんみな「AREA OF DIAMOND FINAL」 LIVE VIEWING",
       "duration_min": 180,
       "screenings": [
@@ -1050,5 +985,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-06T11:18:32.844365"
+  "scraped_at": "2026-07-06T13:01:42.220148"
 }
