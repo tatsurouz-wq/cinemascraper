@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズグランベリーパーク",
+    "area": "グランベリーパーク",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/grandberrypark/"
+  },
+  "date": "2026-07-12",
+  "movies": [
+    {
+      "title": "ちゃんみな AREA OF DIAMOND…[ODS]",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-06T00:47:45.000245"
+}
