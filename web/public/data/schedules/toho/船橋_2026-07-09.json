@@ -569,20 +569,6 @@
       ]
     },
     {
-      "title": "君は映画",
-      "duration_min": 68,
-      "screenings": [
-        {
-          "start_time": "7:55",
-          "end_time": "9:20",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "急に具合が悪くなる",
       "duration_min": 196,
       "screenings": [
@@ -639,6 +625,20 @@
       ]
     },
     {
+      "title": "君は映画",
+      "duration_min": 68,
+      "screenings": [
+        {
+          "start_time": "7:55",
+          "end_time": "9:20",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "名探偵コナン　ハイウェイの堕天使",
       "duration_min": 109,
       "screenings": [
@@ -653,5 +653,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-07T01:07:54.374933"
+  "scraped_at": "2026-07-07T04:48:59.470573"
 }
