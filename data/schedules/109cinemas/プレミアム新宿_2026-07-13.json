@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-07-13",
+  "movies": [
+    {
+      "title": "劇場版「ふた花」",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:45",
+          "end_time": "21:15",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-07T00:46:23.968507"
+}

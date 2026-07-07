@@ -9,6 +9,155 @@
   "date": "2026-07-11",
   "movies": [
     {
+      "title": "サッカー日本代表（SAMURAI BLUE）映画『ONE CREATURE』",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "劇場版モノノ怪 第三章 蛇神",
+      "duration_min": 88,
+      "screenings": []
+    },
+    {
+      "title": "『劇場版アイカツスターズ！』-Anniversary Stars-",
+      "duration_min": 87,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "魔女の宅急便　デジタルリマスター",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "ラブ≠コメディ",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "THE ORIGIN OF ULTRAMAN",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】Michael／マイケル",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】プラダを着た悪魔２",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "THE ORIGIN OF ULTRAMAN",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "NEW GROUP(PG12)",
+      "duration_min": 82,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "映画「それいけ！アンパンマン　パンタンと約束の星」",
+      "duration_min": 62,
+      "screenings": []
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "劇団☆新感線『アケチコ！』ライブビューイング",
+      "duration_min": 245,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "16:35",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "22:05",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[公開記念舞台挨拶]死亡遊戯で飯を食う。 44:CLOUDY BEACH",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "11:35",
+          "end_time": "13:45",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:20",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ちゃんみな「AREA OF DIAMOND FINAL」 LIVE VIEWING",
       "duration_min": 180,
       "screenings": [
@@ -23,5 +172,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-06T13:02:18.984991"
+  "scraped_at": "2026-07-07T01:27:01.899343"
 }
