@@ -1,0 +1,170 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-07-17",
+  "movies": [
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】大統領のケーキ(PG12)",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【応援上映】【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・吹替】トイ・ストーリー５",
+      "duration_min": 103,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ザ・レイジ(PG12)",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ヌーヴェルヴァーグ",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "氷血(PG12)",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】シラート(PG12)",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】魔女の宅急便　デジタルリマスター",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "MELLOW DEAR US 1st JAPAN Tour Final「NICE to meet YOU !!」",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "19:30",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "MELLOW DEAR US 1st JAPAN Tour Final「NICE to meet YOU !!」",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[公開記念舞台挨拶]死亡遊戯で飯を食う。 44:CLOUDY BEACH",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "11:35",
+          "end_time": "13:45",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:20",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ちゃんみな「AREA OF DIAMOND FINAL」 LIVE VIEWING",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-11T04:50:06.170492"
+}
