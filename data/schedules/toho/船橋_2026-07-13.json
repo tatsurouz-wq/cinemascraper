@@ -499,20 +499,6 @@
       ]
     },
     {
-      "title": "箱の中の羊",
-      "duration_min": 125,
-      "screenings": [
-        {
-          "start_time": "16:20",
-          "end_time": "18:40",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画　おそ松さん　人類クズ化計画！！！！！？",
       "duration_min": 104,
       "screenings": [
@@ -520,6 +506,20 @@
           "start_time": "20:20",
           "end_time": "22:20",
           "screen": "SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "箱の中の羊",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:40",
+          "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -611,5 +611,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-11T04:29:48.116361"
+  "scraped_at": "2026-07-12T04:38:01.825479"
 }

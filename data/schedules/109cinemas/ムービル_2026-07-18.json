@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-07-18",
+  "movies": [
+    {
+      "title": "赤い糸 輪廻のひみつ[0718[イベント上映[字幕",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "13:50",
+          "end_time": "16:45",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-12T04:18:10.898029"
+}
