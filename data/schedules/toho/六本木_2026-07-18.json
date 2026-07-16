@@ -1,0 +1,499 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ六本木ヒルズ",
+    "area": "六本木",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/009/TNPI2000J01.do"
+  },
+  "date": "2026-07-18",
+  "movies": [
+    {
+      "title": "キングダム　魂の決戦（Ｄｏｌｂｙ－ＡＴＭＯＳ）",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:35",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:05",
+          "end_time": "14:40",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "17:50",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:25",
+          "end_time": "21:00",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "24:05",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "11:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "14:10",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "17:15",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:45",
+          "end_time": "20:20",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:25",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦（ＭＸ４Ｄ）",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "14:05",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:35",
+          "end_time": "17:10",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "20:15",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:20",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オブセッション　災愛（字幕版）",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "15:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:20",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:45",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:10",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（字幕版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "17:50",
+          "end_time": "19:50",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:20",
+          "end_time": "22:20",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "8:55",
+          "end_time": "10:55",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "10:35",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:05",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:40",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:15",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:50",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:20",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "14:25",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "16:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（ＭＸ４Ｄ・３Ｄ・吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:45",
+          "screen": "SCREEN8",
+          "format": "MX4D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "サヨナラの引力（字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ラブ≠コメディ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "10:55",
+          "end_time": "13:05",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ＴＨＥ　ＯＲＩＧＩＮ　ＯＦ　ＵＬＴＲＡＭＡＮ",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール（字幕版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "15:55",
+          "end_time": "17:55",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "急に具合が悪くなる",
+      "duration_min": 196,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "24:10",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:25",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:55",
+          "end_time": "14:20",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "17:15",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:25",
+          "end_time": "13:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "19:15",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "9:30",
+          "end_time": "11:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画　おそ松さん　人類クズ化計画！！！！！？",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:15",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（字幕版）",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "20:00",
+          "end_time": "22:25",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ザ・スーパーマリオギャラクシー・ムービー（日本語版※日本語吹替版）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:40",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン　ハイウェイの堕天使",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:30",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-16T04:18:44.739861"
+}

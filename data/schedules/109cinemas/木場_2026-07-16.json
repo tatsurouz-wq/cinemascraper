@@ -9,6 +9,20 @@
   "date": "2026-07-16",
   "movies": [
     {
+      "title": "劇場版 魔法少女まどか☆マギカ 前編始まり…",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "18:45",
+          "end_time": "21:05",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "トロフィー",
       "duration_min": 102,
       "screenings": [
@@ -37,20 +51,6 @@
       ]
     },
     {
-      "title": "劇場版 魔法少女まどか☆マギカ 前編始まり…",
-      "duration_min": 131,
-      "screenings": [
-        {
-          "start_time": "18:45",
-          "end_time": "21:05",
-          "screen": "シアター7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "トイ・ストーリー5[字幕]",
       "duration_min": 102,
       "screenings": [
@@ -74,7 +74,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:35",
@@ -82,7 +82,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -150,7 +150,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -164,7 +164,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:30",
@@ -236,7 +236,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -264,7 +264,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -292,7 +292,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:25",
@@ -322,7 +322,7 @@
           "screen": "シアター2",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:20",
@@ -399,5 +399,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-14T00:35:32.041989"
+  "scraped_at": "2026-07-16T04:04:17.469795"
 }

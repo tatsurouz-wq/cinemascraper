@@ -32,7 +32,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:10",
@@ -62,7 +62,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:00",
@@ -108,7 +108,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:10",
@@ -116,7 +116,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:40",
@@ -148,7 +148,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:30",
@@ -156,7 +156,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:00",
@@ -164,7 +164,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:30",
@@ -196,7 +196,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:50",
@@ -223,28 +223,6 @@
       ]
     },
     {
-      "title": "魔女の宅急便（４Ｋ）",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "8:50",
-          "end_time": "10:50",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:15",
-          "end_time": "19:15",
-          "screen": "SCREEN3",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "それいけ！アンパンマン　パンタンと約束の星",
       "duration_min": 62,
       "screenings": [
@@ -254,7 +232,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:00",
@@ -262,42 +240,28 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
     {
-      "title": "スーパーガール（字幕版）",
-      "duration_min": 109,
+      "title": "魔女の宅急便（４Ｋ）",
+      "duration_min": 102,
       "screenings": [
         {
-          "start_time": "9:10",
-          "end_time": "11:15",
-          "screen": "SCREEN8",
+          "start_time": "8:50",
+          "end_time": "10:50",
+          "screen": "SCREEN3",
           "format": "2D",
-          "language": "字幕",
-          "availability": "available"
+          "language": "日本語",
+          "availability": "unknown"
         },
         {
-          "start_time": "21:20",
-          "end_time": "23:25",
-          "screen": "SCREEN8",
+          "start_time": "17:15",
+          "end_time": "19:15",
+          "screen": "SCREEN3",
           "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スーパーガール（吹替版）",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "13:45",
-          "end_time": "15:50",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "吹替",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -312,7 +276,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -356,6 +320,56 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール（字幕版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "9:10",
+          "end_time": "11:15",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:25",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール（吹替版）",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "15:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "サヨナラの引力（字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "20:40",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -370,7 +384,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:30",
@@ -397,20 +411,6 @@
       ]
     },
     {
-      "title": "サヨナラの引力（字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "18:30",
-          "end_time": "20:40",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ラブ≠コメディ",
       "duration_min": 119,
       "screenings": [
@@ -420,7 +420,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -442,7 +442,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -542,7 +542,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -556,7 +556,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -570,7 +570,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -598,7 +598,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -617,5 +617,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-14T00:58:42.218820"
+  "scraped_at": "2026-07-16T04:27:44.142081"
 }
