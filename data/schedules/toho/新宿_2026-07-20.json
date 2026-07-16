@@ -9,6 +9,20 @@
   "date": "2026-07-20",
   "movies": [
     {
+      "title": "「ＦＩＦＡワールドカップ２０２６」決勝パブリックビューイング　Ｐｒｅｓｅｎｔｅｄ　ｂｙ　ＤＡＺＮ",
+      "duration_min": 270,
+      "screenings": [
+        {
+          "start_time": "4:00",
+          "end_time": "8:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "キングダム　魂の決戦（ＩＭＡＸレーザー）",
       "duration_min": 134,
       "screenings": [
@@ -691,5 +705,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-16T04:13:27.303533"
+  "scraped_at": "2026-07-16T11:44:06.416235"
 }
