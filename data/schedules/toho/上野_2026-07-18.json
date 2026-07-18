@@ -9,6 +9,20 @@
   "date": "2026-07-18",
   "movies": [
     {
+      "title": "プロジェクトセカイ　ＣＯＬＯＲＦＵＬ　ＬＩＶＥ　５ｔｈ　－Ｆｒｏｎｔｉｅｒ－（発声ＯＫ）",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:30",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "（轟音上映）キングダム　魂の決戦",
       "duration_min": 134,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -56,7 +70,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:05",
@@ -126,7 +140,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:30",
@@ -172,7 +186,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:10",
@@ -266,7 +280,7 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -344,7 +358,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -452,7 +466,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -466,7 +480,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -485,5 +499,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-16T11:47:50.589395"
+  "scraped_at": "2026-07-18T00:48:04.580855"
 }

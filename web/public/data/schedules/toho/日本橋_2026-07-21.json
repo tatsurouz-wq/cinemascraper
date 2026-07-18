@@ -511,7 +511,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "ＫＹＯＳＵＫＥ　ＨＩＭＵＲＯ　ＴＨＥ　ＣＯＭＰＬＥＴＥ　ＦＩＬＭ　ＯＦ　ＬＡＳＴ　ＧＩＧＳ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-07-16T11:47:05.622515"
+  "scraped_at": "2026-07-18T00:47:19.900195"
 }

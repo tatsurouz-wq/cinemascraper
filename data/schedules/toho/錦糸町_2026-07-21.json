@@ -9,6 +9,20 @@
   "date": "2026-07-21",
   "movies": [
     {
+      "title": "ＫＹＯＳＵＫＥ　ＨＩＭＵＲＯ　ＴＨＥ　ＣＯＭＰＬＥＴＥ　ＦＩＬＭ　ＯＦ　ＬＡＳＴ　ＧＩＧＳ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:30",
+          "screen": "楽天地SCREEN12",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "キングダム　魂の決戦",
       "duration_min": 134,
       "screenings": [
@@ -665,5 +679,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-16T11:58:23.980687"
+  "scraped_at": "2026-07-18T00:58:18.451036"
 }

@@ -9,6 +9,20 @@
   "date": "2026-07-18",
   "movies": [
     {
+      "title": "プロジェクトセカイ　ＣＯＬＯＲＦＵＬ　ＬＩＶＥ　５ｔｈ　－Ｆｒｏｎｔｉｅｒ－（発声ＯＫ）",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:30",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "キングダム　魂の決戦（ＩＭＡＸレーザー）",
       "duration_min": 134,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "SCREEN6",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:00",
@@ -64,7 +78,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:30",
@@ -174,7 +188,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:30",
@@ -214,7 +228,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:50",
@@ -282,7 +296,7 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:45",
@@ -328,7 +342,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:45",
@@ -366,7 +380,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:55",
@@ -396,7 +410,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:10",
@@ -418,7 +432,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -474,7 +488,7 @@
           "screen": "PREMIER",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -516,7 +530,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -544,7 +558,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -633,5 +647,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-16T12:04:40.121822"
+  "scraped_at": "2026-07-18T01:04:35.145664"
 }
