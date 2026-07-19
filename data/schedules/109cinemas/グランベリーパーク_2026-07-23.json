@@ -9,6 +9,20 @@
   "date": "2026-07-23",
   "movies": [
     {
+      "title": "トイ・ストーリー5[字幕][団体]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:15",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "キングダム 魂の決戦",
       "duration_min": 134,
       "screenings": [
@@ -533,5 +547,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-18T00:37:14.888465"
+  "scraped_at": "2026-07-19T04:14:40.036030"
 }

@@ -215,6 +215,30 @@
       "duration_min": 102,
       "screenings": [
         {
+          "start_time": "10:35",
+          "end_time": "12:35",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:25",
+          "end_time": "17:25",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
           "start_time": "9:20",
           "end_time": "11:20",
           "screen": "SCREEN7",
@@ -337,6 +361,14 @@
       "duration_min": 127,
       "screenings": [
         {
+          "start_time": "17:50",
+          "end_time": "20:15",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
           "start_time": "21:25",
           "end_time": "23:50",
           "screen": "SCREEN9",
@@ -454,6 +486,20 @@
           "start_time": "18:50",
           "end_time": "20:55",
           "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "8:55",
+          "end_time": "10:10",
+          "screen": "SCREEN3",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -587,5 +633,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-18T00:45:43.177292"
+  "scraped_at": "2026-07-19T04:22:44.481242"
 }
