@@ -9,30 +9,68 @@
   "date": "2026-07-19",
   "movies": [
     {
-      "title": "【DolbyAtmos】キングダム 魂の決戦",
-      "duration_min": 134,
+      "title": "【字幕】デッドマンズ・ワイヤー",
+      "duration_min": 105,
       "screenings": [
         {
-          "start_time": "10:50",
+          "start_time": "09:00",
+          "end_time": "10:55",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:40",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "11:30",
           "end_time": "13:20",
-          "screen": "シアター１２",
-          "format": "Dolby Atmos",
+          "screen": "シアター３",
+          "format": "2D",
           "language": "日本語",
           "availability": "sold_out"
         },
         {
-          "start_time": "16:40",
-          "end_time": "19:10",
-          "screen": "シアター１２",
-          "format": "Dolby Atmos",
+          "start_time": "13:40",
+          "end_time": "15:30",
+          "screen": "シアター３",
+          "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
-          "start_time": "20:50",
-          "end_time": "23:20",
-          "screen": "シアター１２",
-          "format": "Dolby Atmos",
+          "start_time": "16:35",
+          "end_time": "18:25",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:20",
+          "screen": "シアター１１",
+          "format": "2D",
           "language": "日本語",
           "availability": "available"
         }
@@ -71,6 +109,36 @@
           "end_time": "23:50",
           "screen": "シアター７",
           "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "13:20",
+          "screen": "シアター１２",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "19:10",
+          "screen": "シアター１２",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:20",
+          "screen": "シアター１２",
+          "format": "Dolby Atmos",
           "language": "日本語",
           "availability": "available"
         }
@@ -126,7 +194,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:20",
@@ -134,7 +202,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:20",
@@ -142,7 +210,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -174,74 +242,6 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "君と花火と約束と",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "13:20",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "13:40",
-          "end_time": "15:30",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "16:35",
-          "end_time": "18:25",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:30",
-          "end_time": "22:20",
-          "screen": "シアター１１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】デッドマンズ・ワイヤー",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "10:55",
-          "screen": "シアター１３",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "12:50",
-          "end_time": "14:45",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "18:45",
-          "end_time": "20:40",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -314,7 +314,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -336,7 +336,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -510,7 +510,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:45",
@@ -518,7 +518,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:45",
@@ -600,7 +600,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -614,7 +614,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -740,7 +740,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -820,7 +820,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -881,71 +881,6 @@
       ]
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "劇場版モノノ怪 第三章 蛇神",
-      "duration_min": 88,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "口に関するアンケート",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】大統領のケーキ(PG12)",
-      "duration_min": 106,
-      "screenings": []
-    },
-    {
-      "title": "ラブ≠コメディ",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【IMAX・字幕】Michael／マイケル",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "死亡遊戯で飯を食う。 44:CLOUDY BEACH",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】シラート(PG12)",
-      "duration_min": 115,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "君と花火と約束と",
-      "duration_min": 97,
-      "screenings": []
-    },
-    {
       "title": "【DolbyAtmos】キングダム 魂の決戦",
       "duration_min": 134,
       "screenings": []
@@ -953,6 +888,76 @@
     {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ブリング・ハー・バック[R15+]",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【日本語字幕付】THE ORIGIN OF ULTRAMAN",
+      "duration_min": 106,
+      "screenings": []
+    },
+    {
+      "title": "「劇場版 魔法少女まどか☆マギカ [前編]始まりの物語」リバイバル上映",
+      "duration_min": 131,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 109,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】キングダム 魂の決戦",
+      "duration_min": 135,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】デッドマンズ・ワイヤー",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ザ・レイジ(PG12)",
+      "duration_min": 111,
+      "screenings": []
+    },
+    {
+      "title": "【発声OK!! ENGENE Connect♪】【SCREENX】ENHYPEN: IMMERSION IN CINEM",
+      "duration_min": 54,
       "screenings": []
     },
     {
@@ -984,5 +989,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-19T04:56:23.958398"
+  "scraped_at": "2026-07-19T07:38:34.757615"
 }
