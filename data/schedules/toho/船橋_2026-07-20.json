@@ -26,7 +26,7 @@
           "screen": "SCREEN1",
           "format": "MX4D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:40",
@@ -57,6 +57,38 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
+        },
+        {
+          "start_time": "11:10",
+          "end_time": "13:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:10",
+          "end_time": "19:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:10",
+          "end_time": "22:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -78,7 +110,7 @@
           "screen": "SCREEN9",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:10",
@@ -116,7 +148,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:15",
@@ -154,7 +186,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:20",
@@ -192,7 +224,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:20",
@@ -200,7 +232,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -248,7 +280,7 @@
           "screen": "SCREEN7",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:20",
@@ -288,7 +320,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:50",
@@ -296,20 +328,6 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "劇場版アイカツスターズ！－Ａｎｎｉｖｅｒｓａｒｙ　Ｓｔａｒｓ－",
-      "duration_min": 87,
-      "screenings": [
-        {
-          "start_time": "10:20",
-          "end_time": "12:00",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -346,7 +364,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:40",
@@ -389,20 +407,6 @@
       ]
     },
     {
-      "title": "サヨナラの引力（字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "20:00",
-          "end_time": "22:10",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "スター・ウォーズ／マンダロリアン・アンド・グローグー（ＭＸ４Ｄ・３Ｄ・字幕版）",
       "duration_min": 132,
       "screenings": [
@@ -426,21 +430,21 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
     {
-      "title": "ラブ≠コメディ",
-      "duration_min": 119,
+      "title": "サヨナラの引力（字幕版）",
+      "duration_min": 115,
       "screenings": [
         {
-          "start_time": "9:15",
-          "end_time": "11:25",
-          "screen": "SCREEN10",
+          "start_time": "20:00",
+          "end_time": "22:10",
+          "screen": "SCREEN6",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
@@ -495,6 +499,20 @@
       ]
     },
     {
+      "title": "ラブ≠コメディ",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:25",
+          "screen": "SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画　おそ松さん　人類クズ化計画！！！！！？",
       "duration_min": 104,
       "screenings": [
@@ -502,34 +520,6 @@
           "start_time": "21:00",
           "end_time": "23:00",
           "screen": "SCREEN10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "新劇場版☆ケロロ軍曹　復活して速攻地球滅亡の危機であります！",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "12:30",
-          "end_time": "14:35",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ヤマトよ永遠に　ＲＥＢＥＬ３１９９　第六章　碧い迷宮",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "21:00",
-          "end_time": "22:55",
-          "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -563,7 +553,49 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "劇場版アイカツスターズ！－Ａｎｎｉｖｅｒｓａｒｙ　Ｓｔａｒｓ－",
+      "duration_min": 87,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:00",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版☆ケロロ軍曹　復活して速攻地球滅亡の危機であります！",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "14:35",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ヤマトよ永遠に　ＲＥＢＥＬ３１９９　第六章　碧い迷宮",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "22:55",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-07-20T01:02:24.020768"
+  "scraped_at": "2026-07-20T04:42:50.502568"
 }
