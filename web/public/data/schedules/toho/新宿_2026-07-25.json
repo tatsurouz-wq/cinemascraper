@@ -469,6 +469,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "16:10",
+          "end_time": "18:10",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "9:20",
           "end_time": "11:20",
           "screen": "SCREEN11",
@@ -563,6 +571,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "9:00",
+          "end_time": "11:00",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
           "start_time": "14:10",
           "end_time": "16:10",
           "screen": "SCREEN11",
@@ -574,6 +590,14 @@
           "start_time": "16:35",
           "end_time": "18:35",
           "screen": "SCREEN11",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:35",
+          "screen": "SCREEN12",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -713,5 +737,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T00:46:00.459868"
+  "scraped_at": "2026-07-21T04:14:41.543549"
 }

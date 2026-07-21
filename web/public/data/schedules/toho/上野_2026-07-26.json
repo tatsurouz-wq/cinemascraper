@@ -9,6 +9,20 @@
   "date": "2026-07-26",
   "movies": [
     {
+      "title": "（轟音上映・字）トワイライト・ウォリアーズ＆シャドウズ・エッジ（イッキミ）",
+      "duration_min": 266,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "20:40",
+          "screen": "SCREEN8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -455,5 +469,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T00:50:13.724076"
+  "scraped_at": "2026-07-21T04:19:11.742783"
 }

@@ -187,6 +187,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "22:10",
+          "end_time": "23:55",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
           "start_time": "10:10",
           "end_time": "11:55",
           "screen": "SCREEN5",
@@ -224,20 +232,6 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー（字幕版）",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "22:10",
-          "end_time": "23:55",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -599,5 +593,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T00:47:46.160095"
+  "scraped_at": "2026-07-21T04:16:34.523246"
 }

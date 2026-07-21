@@ -339,6 +339,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "12:30",
+          "end_time": "14:30",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
           "start_time": "9:25",
           "end_time": "11:25",
           "screen": "SCREEN7",
@@ -489,5 +497,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T01:09:56.281288"
+  "scraped_at": "2026-07-21T04:40:10.888138"
 }
