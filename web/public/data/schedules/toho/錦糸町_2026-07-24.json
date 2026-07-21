@@ -1,0 +1,139 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ錦糸町",
+    "area": "錦糸町",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/029/TNPI2000J01.do"
+  },
+  "date": "2026-07-24",
+  "movies": [
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:10",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:55",
+          "end_time": "12:50",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:25",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:05",
+          "end_time": "18:00",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:35",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:10",
+          "screen": "楽天地SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:55",
+          "end_time": "14:50",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:10",
+          "end_time": "20:05",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:40",
+          "screen": "楽天地SCREEN10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "7:00",
+          "end_time": "8:55",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "9:30",
+          "end_time": "11:25",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:15",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "17:00",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:50",
+          "end_time": "19:45",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:15",
+          "end_time": "22:10",
+          "screen": "楽天地SCREEN11",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-21T00:59:08.768581"
+}

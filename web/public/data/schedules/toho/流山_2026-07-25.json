@@ -35,6 +35,14 @@
           "format": "IMAX",
           "language": "日本語",
           "availability": "unknown"
+        },
+        {
+          "start_time": "18:05",
+          "end_time": "20:00",
+          "screen": "SCREEN6",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -99,16 +107,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "17:30",
-          "end_time": "19:25",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:00",
-          "end_time": "21:55",
+          "start_time": "20:15",
+          "end_time": "22:10",
           "screen": "SCREEN4",
           "format": "2D",
           "language": "日本語",
@@ -233,8 +233,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "20:50",
-          "end_time": "23:20",
+          "start_time": "20:25",
+          "end_time": "22:55",
           "screen": "SCREEN6",
           "format": "IMAX",
           "language": "日本語",
@@ -451,23 +451,17 @@
       ]
     },
     {
-      "title": "Ｍｉｃｈａｅｌ／マイケル（ＩＭＡＸレーザー・字幕版）",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "18:05",
-          "end_time": "20:25",
-          "screen": "SCREEN6",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "Ｍｉｃｈａｅｌ／マイケル（字幕版）",
       "duration_min": 127,
       "screenings": [
+        {
+          "start_time": "17:30",
+          "end_time": "19:50",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
         {
           "start_time": "10:15",
           "end_time": "12:35",
@@ -655,5 +649,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-20T07:40:29.866028"
+  "scraped_at": "2026-07-21T01:05:59.936925"
 }

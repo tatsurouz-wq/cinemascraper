@@ -18,7 +18,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:55",
@@ -134,7 +134,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:05",
@@ -260,7 +260,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -274,7 +274,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:20",
@@ -410,7 +410,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -496,7 +496,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -524,7 +524,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -552,7 +552,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -566,23 +566,13 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
+      "title": "【DolbyCinema】「劇場版 魔法少女まどか☆マギカ [後編]永遠の物語」リバイバル上映",
+      "duration_min": 111,
       "screenings": []
     },
     {
@@ -591,33 +581,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 133,
+      "title": "口に関するアンケート",
+      "duration_min": 89,
       "screenings": []
     },
     {
@@ -626,8 +591,13 @@
       "screenings": []
     },
     {
-      "title": "死亡遊戯で飯を食う。 44:CLOUDY BEACH",
-      "duration_min": 90,
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 108,
       "screenings": []
     },
     {
@@ -641,10 +611,35 @@
       "screenings": []
     },
     {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
       "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
+      "title": "免許返納!?(PG12)",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-07-20T07:55:59.857372"
+  "scraped_at": "2026-07-21T01:20:31.714786"
 }

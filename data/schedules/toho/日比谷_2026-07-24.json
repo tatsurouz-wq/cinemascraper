@@ -1,0 +1,201 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-07-24",
+  "movies": [
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ（ＩＭＡＸレーザー）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:40",
+          "screen": "SCREEN4",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:00",
+          "screen": "SCREEN4",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:30",
+          "screen": "SCREEN4",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "20:50",
+          "screen": "SCREEN4",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "9:45",
+          "end_time": "11:40",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:10",
+          "end_time": "14:05",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "16:35",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "18:55",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "21:20",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "23:45",
+          "screen": "SCREEN1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "9:10",
+          "end_time": "11:05",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "22:50",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "9:30",
+          "end_time": "11:25",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:50",
+          "end_time": "13:45",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:10",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:45",
+          "screen": "SCREEN7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:00",
+          "end_time": "11:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:35",
+          "end_time": "14:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:05",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:00",
+          "end_time": "23:55",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-21T00:44:29.863721"
+}
