@@ -431,6 +431,30 @@
       "duration_min": 102,
       "screenings": [
         {
+          "start_time": "11:25",
+          "end_time": "13:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "15:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
           "start_time": "8:45",
           "end_time": "10:45",
           "screen": "SCREEN9",
@@ -553,5 +577,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T04:38:47.691325"
+  "scraped_at": "2026-07-21T07:28:36.488584"
 }

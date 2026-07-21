@@ -723,20 +723,6 @@
       ]
     },
     {
-      "title": "カプリコン・１（字幕版）",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "10:00",
-          "end_time": "12:20",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "急に具合が悪くなる",
       "duration_min": 196,
       "screenings": [
@@ -749,7 +735,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "カプリコン・１（字幕版）",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:20",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-07-21T04:42:51.094573"
+  "scraped_at": "2026-07-21T07:32:36.744805"
 }
