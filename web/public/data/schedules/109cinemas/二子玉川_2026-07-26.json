@@ -1,0 +1,423 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ二子玉川",
+    "area": "二子玉川",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/futakotamagawa/"
+  },
+  "date": "2026-07-26",
+  "movies": [
+    {
+      "title": "仮面ライダーゼッツ/超宇宙刑ギャ…[おこさまシネマ]",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "12:35",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "パウ・パトロール ザ・ダイノ・ムービー[吹替]",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "08:15",
+          "end_time": "09:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "仮面ライダーゼッツ/超宇宙刑事ギャバン",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "08:15",
+          "end_time": "10:00",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "だぁれかさんとアソぼ?",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "08:20",
+          "end_time": "10:20",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "シネマ歌舞伎 風の谷のナウシカ 後編[ODS]",
+      "duration_min": 192,
+      "screenings": [
+        {
+          "start_time": "10:05",
+          "end_time": "13:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "08:20",
+          "end_time": "10:10",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:35",
+          "end_time": "12:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "16:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:10",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:35",
+          "end_time": "21:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "23:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ[IMAXレーザー]",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "10:35",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:00",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:25",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:45",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:55",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:35",
+          "end_time": "16:00",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦[IMAXレーザー]",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "15:55",
+          "end_time": "18:25",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:45",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "13:25",
+          "end_time": "15:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:50",
+          "end_time": "21:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オブセッション 災愛[字幕]",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "18:55",
+          "end_time": "20:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "大統領のケーキ[字幕]",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "08:10",
+          "end_time": "10:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:25",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:55",
+          "end_time": "12:50",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:20",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:55",
+          "end_time": "17:50",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "17:50",
+          "end_time": "19:30",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スーパーガール[字幕]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "21:55",
+          "end_time": "23:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "それいけ!アンパンマン パンタンと約束の星",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "09:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 147,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "13:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "13:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:10",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "24:00",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン・アンド・グローグー[字幕]",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "21:35",
+          "end_time": "24:00",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-21T11:38:40.499186"
+}

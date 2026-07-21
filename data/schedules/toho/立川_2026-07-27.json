@@ -51,6 +51,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "11:50",
+          "end_time": "13:45",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "14:15",
           "end_time": "16:10",
           "screen": "SCREEN3",
@@ -253,6 +261,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "13:55",
+          "end_time": "15:55",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "16:20",
           "end_time": "18:20",
           "screen": "SCREEN4",
@@ -280,6 +296,84 @@
           "screen": "SCREEN4",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "14:25",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "16:55",
+          "screen": "SCREEN5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:00",
+          "end_time": "11:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:00",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:30",
+          "screen": "SCREEN9",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -345,47 +439,15 @@
       ]
     },
     {
-      "title": "トイ・ストーリー５（吹替版）",
-      "duration_min": 102,
+      "title": "Ｍｉｃｈａｅｌ／マイケル（ＩＭＡＸ・字幕版）",
+      "duration_min": 127,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "11:00",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:30",
-          "end_time": "13:30",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:30",
-          "end_time": "18:30",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "21:00",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:30",
-          "screen": "SCREEN9",
-          "format": "2D",
-          "language": "吹替",
+          "start_time": "13:30",
+          "end_time": "15:50",
+          "screen": "SCREEN1",
+          "format": "IMAX",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -477,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T07:17:55.987586"
+  "scraped_at": "2026-07-21T11:59:47.462533"
 }

@@ -357,66 +357,6 @@
       ]
     },
     {
-      "title": "キングダム　魂の決戦（ＩＭＡＸ）",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "7:50",
-          "end_time": "10:20",
-          "screen": "SCREEN1",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:40",
-          "end_time": "18:10",
-          "screen": "SCREEN1",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "14:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:20",
-          "end_time": "20:50",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:50",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "9:50",
-          "end_time": "12:20",
-          "screen": "SCREEN6",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "トイ・ストーリー５（吹替版）",
       "duration_min": 102,
       "screenings": [
@@ -474,6 +414,66 @@
           "screen": "SCREEN6",
           "format": "2D",
           "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦（ＩＭＡＸ）",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "7:50",
+          "end_time": "10:20",
+          "screen": "SCREEN1",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "18:10",
+          "screen": "SCREEN1",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "14:10",
+          "screen": "SCREEN2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:50",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:50",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:50",
+          "end_time": "12:20",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -559,5 +559,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T07:17:19.745456"
+  "scraped_at": "2026-07-21T11:59:11.378159"
 }
