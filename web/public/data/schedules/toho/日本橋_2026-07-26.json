@@ -9,6 +9,20 @@
   "date": "2026-07-26",
   "movies": [
     {
+      "title": "映画ちいかわ　人魚の島のひみつ　グリーティング付き上映",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:50",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -521,5 +535,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-21T11:50:00.039869"
+  "scraped_at": "2026-07-22T00:48:50.779305"
 }

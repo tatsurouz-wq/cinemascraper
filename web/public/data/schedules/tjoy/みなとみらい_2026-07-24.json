@@ -35,6 +35,14 @@
           "format": "IMAX",
           "language": "日本語",
           "availability": "available"
+        },
+        {
+          "start_time": "17:45",
+          "end_time": "19:35",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -51,9 +59,33 @@
           "availability": "available"
         },
         {
+          "start_time": "08:30",
+          "end_time": "10:20",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
           "start_time": "09:15",
           "end_time": "11:05",
           "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "09:45",
+          "end_time": "11:35",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:45",
+          "end_time": "12:35",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -67,9 +99,41 @@
           "availability": "available"
         },
         {
+          "start_time": "12:00",
+          "end_time": "13:50",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "14:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
           "start_time": "13:45",
           "end_time": "15:35",
           "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:05",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "17:05",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -83,9 +147,41 @@
           "availability": "available"
         },
         {
+          "start_time": "16:30",
+          "end_time": "18:20",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:20",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
           "start_time": "18:15",
           "end_time": "20:05",
           "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:35",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:45",
+          "end_time": "21:35",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -97,8 +193,585 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "22:50",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:20",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "22:00",
+          "end_time": "23:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
+    },
+    {
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "10:15",
+          "end_time": "12:00",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:10",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "18:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:10",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "10:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:40",
+          "end_time": "12:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "14:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "16:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "だぁれかさんとアソぼ？",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:20",
+          "end_time": "13:20",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:20",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】デッドマンズ・ワイヤー",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "19:10",
+          "end_time": "21:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:40",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【IMAX】キングダム 魂の決戦",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "14:45",
+          "end_time": "17:15",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:00",
+          "end_time": "22:30",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "10:10",
+          "end_time": "12:40",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "18:10",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "21:00",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "11:10",
+          "end_time": "13:40",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "16:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "19:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "「劇場版 魔法少女まどか☆マギカ [後編]永遠の物語」リバイバル上映",
+      "duration_min": 111,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "23:00",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】オブセッション　災愛[R15+]",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:20",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】大統領のケーキ(PG12)",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "10:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】パッセンジャー[R15+]",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "16:45",
+          "end_time": "18:30",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ブリング・ハー・バック[R15+]",
+      "duration_min": 104,
+      "screenings": [
+        {
+          "start_time": "21:05",
+          "end_time": "23:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "10:50",
+          "end_time": "12:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:00",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:20",
+          "end_time": "17:15",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:40",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "18:45",
+          "end_time": "20:40",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "14:20",
+          "end_time": "16:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】スーパーガール",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:50",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画「それいけ！アンパンマン　パンタンと約束の星」",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "09:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 148,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "14:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【応援上映】【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:20",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:40",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:20",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】シラート(PG12)",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
+      "duration_min": 132,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:25",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": [
+        {
+          "start_time": "18:40",
+          "end_time": "20:45",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": []
     },
     {
       "title": "【字幕】パッセンジャー[R15+]",
@@ -106,19 +779,75 @@
       "screenings": []
     },
     {
-      "title": "KYOSUKE HIMURO THE COMPLETE FILM OF LAST GIGS",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "21:30",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】デッドマンズ・ワイヤー",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】キングダム 魂の決戦",
+      "duration_min": 135,
+      "screenings": []
+    },
+    {
+      "title": "氷血(PG12)",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-07-21T12:22:52.221115"
+  "scraped_at": "2026-07-22T01:20:25.430736"
 }

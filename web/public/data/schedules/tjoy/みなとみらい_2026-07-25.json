@@ -9,24 +9,169 @@
   "date": "2026-07-25",
   "movies": [
     {
+      "title": "【IMAX】映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "09:50",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "10:15",
+          "end_time": "12:05",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:30",
+          "end_time": "14:20",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:05",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:20",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "15:35",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "17:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:05",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "22:20",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "免許返納!?（PG-12）",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
       "title": "【字幕】パッセンジャー[R15+]",
       "duration_min": 95,
       "screenings": []
     },
     {
-      "title": "KYOSUKE HIMURO THE COMPLETE FILM OF LAST GIGS",
-      "duration_min": 210,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "21:30",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "ヤマトよ永遠に REBEL3199 第六章 碧い迷宮",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "黒牢城",
+      "duration_min": 148,
+      "screenings": []
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】デッドマンズ・ワイヤー",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX】キングダム 魂の決戦",
+      "duration_min": 135,
+      "screenings": []
+    },
+    {
+      "title": "氷血(PG12)",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-07-21T12:22:57.925657"
+  "scraped_at": "2026-07-22T01:20:29.984490"
 }
