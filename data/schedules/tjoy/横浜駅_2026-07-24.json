@@ -106,7 +106,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:25",
@@ -274,7 +274,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:55",
@@ -471,28 +471,6 @@
       ]
     },
     {
-      "title": "君と花火と約束と",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "06:30",
-          "end_time": "08:15",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:40",
-          "end_time": "22:25",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "キングダム 魂の決戦",
       "duration_min": 133,
       "screenings": [
@@ -637,6 +615,28 @@
       ]
     },
     {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": [
+        {
+          "start_time": "06:30",
+          "end_time": "08:15",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:25",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "口に関するアンケート",
       "duration_min": 89,
       "screenings": [
@@ -679,18 +679,13 @@
       ]
     },
     {
-      "title": "【DolbyCinema】「劇場版 魔法少女まどか☆マギカ [後編]永遠の物語」リバイバル上映",
-      "duration_min": 111,
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     },
     {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
-      "title": "口に関するアンケート",
-      "duration_min": 89,
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     },
     {
@@ -699,23 +694,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スーパーガール",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
       "screenings": []
     },
     {
@@ -724,30 +704,40 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
       "title": "【DolbyAtmos】キングダム 魂の決戦",
       "duration_min": 133,
-      "screenings": []
-    },
-    {
-      "title": "免許返納!?(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
       "screenings": []
     },
     {
       "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
       "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "死亡遊戯で飯を食う。 44:CLOUDY BEACH",
+      "duration_min": 90,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-07-22T01:21:03.018548"
+  "scraped_at": "2026-07-22T07:41:01.667656"
 }

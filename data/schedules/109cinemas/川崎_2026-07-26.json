@@ -9,6 +9,82 @@
   "date": "2026-07-26",
   "movies": [
     {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "08:20",
+          "end_time": "10:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:10",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "20:50",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ[IMAXレーザー]",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "11:05",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:30",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "15:55",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:10",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "パウ・パトロール ザ・ダイノ・ムービー[吹替]",
       "duration_min": 89,
       "screenings": [
@@ -121,82 +197,6 @@
           "end_time": "20:40",
           "screen": "シアター1",
           "format": "ScreenX",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "08:20",
-          "end_time": "10:15",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:15",
-          "end_time": "16:10",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "20:50",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "23:20",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ[IMAXレーザー]",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "09:10",
-          "end_time": "11:05",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "13:30",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "15:55",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:15",
-          "end_time": "21:10",
-          "screen": "シアター7",
-          "format": "IMAX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -395,5 +395,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-22T00:39:32.053321"
+  "scraped_at": "2026-07-22T06:59:47.489120"
 }
