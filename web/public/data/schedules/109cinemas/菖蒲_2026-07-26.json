@@ -211,14 +211,22 @@
       ]
     },
     {
-      "title": "[後編]魔法少女まどか☆マギカ 永遠…",
-      "duration_min": 111,
+      "title": "キングダム 魂の決戦[IMAXレーザー]",
+      "duration_min": 134,
       "screenings": [
         {
-          "start_time": "21:00",
-          "end_time": "23:00",
-          "screen": "シアター5",
-          "format": "2D",
+          "start_time": "13:55",
+          "end_time": "16:20",
+          "screen": "シアター11",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:45",
+          "screen": "シアター11",
+          "format": "IMAX",
           "language": "日本語",
           "availability": "available"
         }
@@ -241,28 +249,6 @@
           "end_time": "22:45",
           "screen": "シアター9",
           "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "キングダム 魂の決戦[IMAXレーザー]",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "13:55",
-          "end_time": "16:20",
-          "screen": "シアター11",
-          "format": "IMAX",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:45",
-          "screen": "シアター11",
-          "format": "IMAX",
           "language": "日本語",
           "availability": "available"
         }
@@ -335,6 +321,42 @@
       ]
     },
     {
+      "title": "[後編]魔法少女まどか☆マギカ 永遠…",
+      "duration_min": 111,
+      "screenings": [
+        {
+          "start_time": "21:00",
+          "end_time": "23:00",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[4DX3D・吹替]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "10:10",
+          "end_time": "12:00",
+          "screen": "シアター3",
+          "format": "4DX",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:25",
+          "screen": "シアター3",
+          "format": "4DX",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "トイ・ストーリー5[吹替]",
       "duration_min": 102,
       "screenings": [
@@ -359,28 +381,6 @@
           "end_time": "22:25",
           "screen": "シアター8",
           "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "トイ・ストーリー5[4DX3D・吹替]",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "10:10",
-          "end_time": "12:00",
-          "screen": "シアター3",
-          "format": "4DX",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:35",
-          "end_time": "20:25",
-          "screen": "シアター3",
-          "format": "4DX",
           "language": "吹替",
           "availability": "available"
         }
@@ -501,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-25T11:34:38.514399"
+  "scraped_at": "2026-07-25T15:31:32.127248"
 }
