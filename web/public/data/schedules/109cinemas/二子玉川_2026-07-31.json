@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ二子玉川",
+    "area": "二子玉川",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/futakotamagawa/"
+  },
+  "date": "2026-07-31",
+  "movies": [
+    {
+      "title": "スパイダーマン:ブランド…[IMAXレーザー・字[最速上映",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:25",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-25T04:05:32.526853"
+}
