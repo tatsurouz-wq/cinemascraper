@@ -76,7 +76,7 @@
           "screen": "SCREEN4",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:10",
@@ -122,7 +122,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:30",
@@ -178,7 +178,7 @@
           "screen": "SCREEN8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:40",
@@ -224,7 +224,7 @@
           "screen": "SCREEN2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:40",
@@ -292,7 +292,7 @@
           "screen": "SCREEN10",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:35",
@@ -332,7 +332,7 @@
           "screen": "SCREEN12（東京宝塚地下）",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:25",
@@ -546,7 +546,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "8:35",
@@ -586,7 +586,7 @@
           "screen": "SCREEN11",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:20",
@@ -636,7 +636,7 @@
           "screen": "SCREEN13（東京宝塚地下）",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -744,7 +744,7 @@
           "screen": "SCREEN5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -796,7 +796,7 @@
           "screen": "SCREEN1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:30",
@@ -870,7 +870,7 @@
           "screen": "SCREEN3",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -903,5 +903,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-26T07:06:14.832378"
+  "scraped_at": "2026-07-26T09:49:38.671455"
 }
