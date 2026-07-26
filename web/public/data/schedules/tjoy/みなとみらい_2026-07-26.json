@@ -164,7 +164,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -172,7 +172,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -226,7 +226,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -318,7 +318,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -438,7 +438,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -570,7 +570,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -584,7 +584,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -646,7 +646,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -688,7 +688,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -821,56 +821,6 @@
       ]
     },
     {
-      "title": "【IMAX】キングダム 魂の決戦",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
-      "duration_min": 96,
-      "screenings": []
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ブリング・ハー・バック[R15+]",
-      "duration_min": 104,
-      "screenings": []
-    },
-    {
-      "title": "&TEAM VR CONCERT : BOUNDLESS",
-      "duration_min": 80,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】パッセンジャー[R15+]",
-      "duration_min": 95,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スーパーガール",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
       "title": "【応援上映】【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
       "duration_min": 128,
       "screenings": []
@@ -942,5 +892,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-26T10:25:24.438857"
+  "scraped_at": "2026-07-26T12:14:39.335860"
 }
