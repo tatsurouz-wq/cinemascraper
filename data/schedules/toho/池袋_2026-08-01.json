@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ池袋",
+    "area": "池袋",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/084/TNPI2000J01.do"
+  },
+  "date": "2026-08-01",
+  "movies": [
+    {
+      "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
+      "duration_min": 131,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "14:05",
+          "screen": "SCREEN6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！（発声ＯＫ）",
+      "duration_min": 71,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "19:50",
+          "screen": "SCREEN3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-26T00:52:31.777743"
+}
