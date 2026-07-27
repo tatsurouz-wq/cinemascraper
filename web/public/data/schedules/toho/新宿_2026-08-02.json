@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ新宿",
+    "area": "新宿",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/076/TNPI2000J01.do"
+  },
+  "date": "2026-08-02",
+  "movies": [
+    {
+      "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
+      "duration_min": 156,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:40",
+          "screen": "SCREEN4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-27T00:50:56.089841"
+}
