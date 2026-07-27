@@ -9,6 +9,20 @@
   "date": "2026-07-30",
   "movies": [
     {
+      "title": "スパイダーマン：ブランド・ニュー・デイ　最速上映（ＩＭＡＸレーザー・字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "24:00",
+          "end_time": "26:45",
+          "screen": "SCREEN4",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ（ＩＭＡＸレーザー）",
       "duration_min": 99,
       "screenings": [
@@ -891,5 +905,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-27T00:48:54.978716"
+  "scraped_at": "2026-07-27T04:25:08.364352"
 }
