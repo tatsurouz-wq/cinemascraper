@@ -15,47 +15,7 @@
         {
           "start_time": "8:30",
           "end_time": "10:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:30",
-          "end_time": "15:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "18:00",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "20:30",
-          "screen": "SCREEN1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "23:00",
-          "screen": "SCREEN1",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -63,7 +23,15 @@
         {
           "start_time": "9:00",
           "end_time": "11:00",
-          "screen": "SCREEN5",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -71,7 +39,15 @@
         {
           "start_time": "11:30",
           "end_time": "13:30",
-          "screen": "SCREEN5",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -79,7 +55,15 @@
         {
           "start_time": "14:00",
           "end_time": "16:00",
-          "screen": "SCREEN5",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -87,7 +71,15 @@
         {
           "start_time": "16:30",
           "end_time": "18:30",
-          "screen": "SCREEN5",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -95,7 +87,15 @@
         {
           "start_time": "19:00",
           "end_time": "21:00",
-          "screen": "SCREEN5",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "23:00",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -103,7 +103,7 @@
         {
           "start_time": "21:30",
           "end_time": "23:30",
-          "screen": "SCREEN5",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -117,7 +117,7 @@
         {
           "start_time": "9:50",
           "end_time": "11:40",
-          "screen": "SCREEN7",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -125,7 +125,7 @@
         {
           "start_time": "12:05",
           "end_time": "13:55",
-          "screen": "SCREEN7",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -133,7 +133,7 @@
         {
           "start_time": "16:25",
           "end_time": "18:15",
-          "screen": "SCREEN7",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -141,7 +141,7 @@
         {
           "start_time": "20:50",
           "end_time": "22:40",
-          "screen": "SCREEN7",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -155,7 +155,7 @@
         {
           "start_time": "9:10",
           "end_time": "10:55",
-          "screen": "SCREEN2",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -163,15 +163,7 @@
         {
           "start_time": "11:20",
           "end_time": "13:05",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:35",
-          "end_time": "23:20",
-          "screen": "SCREEN2",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -179,7 +171,7 @@
         {
           "start_time": "14:20",
           "end_time": "16:05",
-          "screen": "SCREEN7",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -187,7 +179,15 @@
         {
           "start_time": "18:40",
           "end_time": "20:25",
-          "screen": "SCREEN7",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:20",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -199,9 +199,17 @@
       "duration_min": 109,
       "screenings": [
         {
+          "start_time": "8:10",
+          "end_time": "10:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
           "start_time": "13:30",
           "end_time": "15:35",
-          "screen": "SCREEN2",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -209,15 +217,7 @@
         {
           "start_time": "19:05",
           "end_time": "21:10",
-          "screen": "SCREEN2",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "8:10",
-          "end_time": "10:15",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -225,7 +225,7 @@
         {
           "start_time": "21:40",
           "end_time": "23:45",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -239,39 +239,7 @@
         {
           "start_time": "8:35",
           "end_time": "11:10",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "14:10",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:35",
-          "end_time": "17:10",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:35",
-          "end_time": "20:10",
-          "screen": "SCREEN4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:35",
-          "end_time": "23:10",
-          "screen": "SCREEN4",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -279,7 +247,31 @@
         {
           "start_time": "10:15",
           "end_time": "12:50",
-          "screen": "SCREEN9",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "14:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:35",
+          "end_time": "17:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:35",
+          "end_time": "20:10",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -287,7 +279,15 @@
         {
           "start_time": "18:15",
           "end_time": "20:50",
-          "screen": "SCREEN9",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "23:10",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -301,7 +301,7 @@
         {
           "start_time": "8:30",
           "end_time": "10:35",
-          "screen": "SCREEN8",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -309,39 +309,7 @@
         {
           "start_time": "11:05",
           "end_time": "13:10",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:40",
-          "end_time": "15:45",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:15",
-          "end_time": "18:20",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:50",
-          "end_time": "20:55",
-          "screen": "SCREEN8",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "23:30",
-          "screen": "SCREEN8",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -349,7 +317,15 @@
         {
           "start_time": "13:15",
           "end_time": "15:20",
-          "screen": "SCREEN9",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:45",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -357,7 +333,31 @@
         {
           "start_time": "15:45",
           "end_time": "17:50",
-          "screen": "SCREEN9",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:20",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:55",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:30",
+          "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -371,7 +371,7 @@
         {
           "start_time": "10:35",
           "end_time": "12:55",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -379,7 +379,7 @@
         {
           "start_time": "13:30",
           "end_time": "15:50",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -387,7 +387,7 @@
         {
           "start_time": "16:15",
           "end_time": "18:35",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -395,7 +395,7 @@
         {
           "start_time": "19:00",
           "end_time": "21:20",
-          "screen": "SCREEN6",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -409,7 +409,7 @@
         {
           "start_time": "9:05",
           "end_time": "11:25",
-          "screen": "SCREEN3",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -423,7 +423,7 @@
         {
           "start_time": "8:35",
           "end_time": "9:50",
-          "screen": "SCREEN9",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -437,7 +437,7 @@
         {
           "start_time": "21:10",
           "end_time": "23:10",
-          "screen": "SCREEN9",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -451,7 +451,7 @@
         {
           "start_time": "11:50",
           "end_time": "13:40",
-          "screen": "SCREEN3",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -465,7 +465,7 @@
         {
           "start_time": "14:00",
           "end_time": "15:40",
-          "screen": "SCREEN3",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -479,7 +479,7 @@
         {
           "start_time": "20:25",
           "end_time": "22:25",
-          "screen": "SCREEN3",
+          "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "available"
@@ -493,7 +493,7 @@
         {
           "start_time": "16:05",
           "end_time": "18:45",
-          "screen": "SCREEN2",
+          "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -501,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-27T04:41:19.539495"
+  "scraped_at": "2026-07-27T07:39:41.602776"
 }
