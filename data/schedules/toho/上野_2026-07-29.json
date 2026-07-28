@@ -9,6 +9,20 @@
   "date": "2026-07-29",
   "movies": [
     {
+      "title": "宝塚歌劇　花組全国ツアー梅田芸術劇場メインホール公演『マジシャンの憂鬱』『ＥＸＣＩＴＥＲ！！２０２６",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -461,5 +475,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-28T04:16:46.754625"
+  "scraped_at": "2026-07-28T07:09:57.714538"
 }
