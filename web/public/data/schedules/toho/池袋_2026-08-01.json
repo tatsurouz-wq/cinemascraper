@@ -9,6 +9,20 @@
   "date": "2026-08-01",
   "movies": [
     {
+      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（発声ＯＫ）",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "20:20",
+          "end_time": "22:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
       "duration_min": 131,
       "screenings": [
@@ -37,29 +51,179 @@
       ]
     },
     {
-      "title": "映画「ヒプノシスマイク　－Ｄｉｖｉｓｉｏｎ　Ｒａｐ　Ｂａｔｔｌｅ－」（発声ＯＫ）",
-      "duration_min": 106,
+      "title": "スパイダーマン：ブランド・ニュー・デイ（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
+      "duration_min": 145,
       "screenings": [
         {
-          "start_time": "20:20",
-          "end_time": "22:25",
+          "start_time": "14:10",
+          "end_time": "16:55",
           "screen": "",
           "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:10",
+          "end_time": "22:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
     },
     {
-      "title": "それいけ！アンパンマン　パンタンと約束の星",
-      "duration_min": 62,
+      "title": "（轟音上映）スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
       "screenings": [
         {
-          "start_time": "8:10",
-          "end_time": "9:25",
+          "start_time": "23:30",
+          "end_time": "26:15",
           "screen": "",
           "format": "2D",
-          "language": "日本語",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "11:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "14:45",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:25",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "24:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "22:50",
+          "end_time": "25:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海（ＳｃｒｅｅｎＸ・吹替版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "17:30",
+          "end_time": "19:40",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海（ＳｃｒｅｅｎＸ・字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "23:20",
+          "end_time": "25:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海（吹替版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "11:20",
+          "end_time": "13:30",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:10",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "18:45",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:25",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "24:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海（字幕版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "8:40",
+          "end_time": "10:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -111,74 +275,6 @@
         {
           "start_time": "20:40",
           "end_time": "22:35",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "Ｍｉｃｈａｅｌ／マイケル（字幕版）",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "9:50",
-          "end_time": "12:15",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "17:25",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "10:40",
-          "end_time": "13:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:45",
-          "end_time": "16:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:45",
-          "end_time": "19:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:45",
-          "end_time": "22:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "22:45",
-          "end_time": "25:20",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -281,6 +377,66 @@
       ]
     },
     {
+      "title": "キングダム　魂の決戦（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "11:05",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "10:40",
+          "end_time": "13:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:45",
+          "end_time": "16:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "19:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:45",
+          "end_time": "22:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "22:45",
+          "end_time": "25:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "トイ・ストーリー５（吹替版）",
       "duration_min": 102,
       "screenings": [
@@ -335,6 +491,72 @@
       ]
     },
     {
+      "title": "オブセッション　災愛（字幕版）",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "10:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:45",
+          "end_time": "14:45",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "23:10",
+          "end_time": "25:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "（轟音上映）Ｍｉｃｈａｅｌ／マイケル（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "20:35",
+          "end_time": "23:00",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "9:50",
+          "end_time": "12:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "17:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
       "duration_min": 89,
       "screenings": [
@@ -360,120 +582,6 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "10:50",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（吹替版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "11:20",
-          "end_time": "13:30",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:00",
-          "end_time": "16:10",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:35",
-          "end_time": "18:45",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:15",
-          "end_time": "21:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:50",
-          "end_time": "24:00",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "11:30",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:00",
-          "end_time": "14:45",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:10",
-          "end_time": "17:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:25",
-          "end_time": "21:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:40",
-          "end_time": "24:25",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "22:50",
-          "end_time": "25:35",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -531,127 +639,19 @@
       ]
     },
     {
-      "title": "（轟音上映）Ｍｉｃｈａｅｌ／マイケル（字幕版）",
-      "duration_min": 127,
+      "title": "それいけ！アンパンマン　パンタンと約束の星",
+      "duration_min": 62,
       "screenings": [
         {
-          "start_time": "20:35",
-          "end_time": "23:00",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "オブセッション　災愛（字幕版）",
-      "duration_min": 108,
-      "screenings": [
-        {
-          "start_time": "8:15",
-          "end_time": "10:15",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:45",
-          "end_time": "14:45",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "23:10",
-          "end_time": "25:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "キングダム　魂の決戦（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ）",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "11:05",
+          "start_time": "8:10",
+          "end_time": "9:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
       ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（ＳｃｒｅｅｎＸ・Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "14:10",
-          "end_time": "16:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:10",
-          "end_time": "22:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（ＳｃｒｅｅｎＸ・字幕版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "23:20",
-          "end_time": "25:30",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（ＳｃｒｅｅｎＸ・吹替版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "17:30",
-          "end_time": "19:40",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "（轟音上映）スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "23:30",
-          "end_time": "26:15",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-07-27T10:31:57.717305"
+  "scraped_at": "2026-07-28T00:46:44.965638"
 }
