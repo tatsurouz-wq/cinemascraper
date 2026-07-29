@@ -18,7 +18,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:45",
@@ -26,7 +26,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:10",
@@ -120,7 +120,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:55",
@@ -204,7 +204,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:20",
@@ -272,7 +272,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:45",
@@ -424,7 +424,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -452,7 +452,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -480,7 +480,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -497,7 +497,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "宝塚歌劇　花組全国ツアー梅田芸術劇場メインホール公演『マジシャンの憂鬱』『ＥＸＣＩＴＥＲ！！２０２６",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-07-28T07:08:44.460546"
+  "scraped_at": "2026-07-29T00:47:00.850429"
 }

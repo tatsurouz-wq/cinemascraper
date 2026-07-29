@@ -1,0 +1,361 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ木場",
+    "area": "木場",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/kiba/"
+  },
+  "date": "2026-08-04",
+  "movies": [
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[字幕]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "10:55",
+          "end_time": "13:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[吹替]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "16:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:50",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[IMAXレーザー・字幕]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "12:00",
+          "screen": "シアター2",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "17:30",
+          "screen": "シアター2",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:20",
+          "screen": "シアター2",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[字幕]",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "23:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[吹替]",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:05",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[IMAXレーザー・字幕]",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "12:25",
+          "end_time": "14:30",
+          "screen": "シアター2",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々!オラの妖怪…",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "11:35",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "13:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "パウ・パトロール ザ・ダイノ・ムービー[吹替]",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "09:35",
+          "end_time": "11:15",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "仮面ライダーゼッツ/超宇宙刑事ギャバン",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "13:35",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:10",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "15:40",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:00",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦[IMAXレーザー]",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "17:55",
+          "end_time": "20:20",
+          "screen": "シアター2",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オブセッション 災愛[字幕]",
+      "duration_min": 108,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "20:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "だぁれかさんとアソぼ?",
+      "duration_min": 109,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "11:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:55",
+          "end_time": "13:45",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "口に関するアンケート",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "16:55",
+          "end_time": "18:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "それいけ!アンパンマン パンタンと約束の星",
+      "duration_min": 62,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "10:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:20",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-07-29T00:36:44.995098"
+}

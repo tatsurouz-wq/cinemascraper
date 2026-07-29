@@ -9,6 +9,20 @@
   "date": "2026-07-29",
   "movies": [
     {
+      "title": "宝塚歌劇　花組全国ツアー梅田芸術劇場メインホール公演『マジシャンの憂鬱』『ＥＸＣＩＴＥＲ！！２０２６",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:30",
+          "end_time": "20:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "9:45",
@@ -26,7 +40,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:55",
@@ -120,7 +134,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:50",
@@ -250,7 +264,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:00",
@@ -326,7 +340,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:05",
@@ -410,7 +424,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -452,7 +466,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:55",
@@ -482,7 +496,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -496,7 +510,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -515,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-28T07:15:02.532646"
+  "scraped_at": "2026-07-29T00:53:48.138268"
 }

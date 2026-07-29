@@ -9,6 +9,20 @@
   "date": "2026-08-02",
   "movies": [
     {
+      "title": "スパイダーマン…[SCREENX・字幕][グリーティング付]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "14:45",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スパイダーマン:ブランド・ニュー・デイ[字幕]",
       "duration_min": 145,
       "screenings": [
@@ -105,20 +119,6 @@
         {
           "start_time": "21:05",
           "end_time": "23:40",
-          "screen": "シアター1",
-          "format": "ScreenX",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン…[SCREENX・字幕][グリーティング付]",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "11:25",
-          "end_time": "14:45",
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
@@ -545,5 +545,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-28T07:00:13.141008"
+  "scraped_at": "2026-07-29T00:38:27.422985"
 }
