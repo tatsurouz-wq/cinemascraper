@@ -108,7 +108,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:15",
@@ -116,7 +116,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "24:20",
@@ -401,5 +401,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-30T06:57:53.744608"
+  "scraped_at": "2026-07-30T09:52:45.782187"
 }
