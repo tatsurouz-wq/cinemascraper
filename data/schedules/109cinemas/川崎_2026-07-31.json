@@ -86,7 +86,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:10",
@@ -529,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-29T00:38:16.561979"
+  "scraped_at": "2026-07-30T07:00:36.101234"
 }

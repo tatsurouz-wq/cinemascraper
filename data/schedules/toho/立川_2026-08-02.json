@@ -39,7 +39,7 @@
       ]
     },
     {
-      "title": "（轟音上映）スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
       "duration_min": 145,
       "screenings": [
         {
@@ -61,12 +61,20 @@
       ]
     },
     {
-      "title": "（轟音上映）スパイダーマン：ブランド・ニュー・デイ（吹替版）",
+      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
       "duration_min": 145,
       "screenings": [
         {
           "start_time": "8:55",
           "end_time": "11:35",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:00",
+          "end_time": "13:40",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -83,20 +91,6 @@
         {
           "start_time": "21:15",
           "end_time": "23:55",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "11:00",
-          "end_time": "13:40",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -545,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-29T00:57:22.568720"
+  "scraped_at": "2026-07-30T07:20:09.842017"
 }
