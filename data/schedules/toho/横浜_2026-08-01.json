@@ -9,6 +9,20 @@
   "date": "2026-08-01",
   "movies": [
     {
+      "title": "吉田拓郎　ＳＰＥＣＩＡＬ　ＬＩＶＥ　春だったね２０２６　ｓｕｐｐｏｒｔｅｄ　ｂｙ　Ｕ－ＮＥＸＴ",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スパイダーマン：ブランド・ニュー・デイ（ＩＭＡＸ・字幕版）",
       "duration_min": 145,
       "screenings": [
@@ -727,5 +741,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-31T04:47:24.043408"
+  "scraped_at": "2026-07-31T10:31:51.279774"
 }

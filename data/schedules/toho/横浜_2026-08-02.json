@@ -9,6 +9,20 @@
   "date": "2026-08-02",
   "movies": [
     {
+      "title": "２０２６　ＳＵＰＥＲ　ＪＵＮＩＯＲ　８３ｚ　ＦＡＮ－ＣＯＮ　ＴＯＵＲ　［１９８３］　ＩＮ　ＪＡＰＡＮ",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スパイダーマン：ブランド・ニュー・デイ（ＩＭＡＸ・字幕版）",
       "duration_min": 145,
       "screenings": [
@@ -703,5 +717,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-31T04:47:37.139477"
+  "scraped_at": "2026-07-31T10:32:04.005904"
 }
