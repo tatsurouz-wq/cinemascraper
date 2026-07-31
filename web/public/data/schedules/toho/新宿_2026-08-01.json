@@ -9,6 +9,20 @@
   "date": "2026-08-01",
   "movies": [
     {
+      "title": "吉田拓郎　ＳＰＥＣＩＡＬ　ＬＩＶＥ　春だったね２０２６　ｓｕｐｐｏｒｔｅｄ　ｂｙ　Ｕ－ＮＥＸＴ",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
       "duration_min": 131,
       "screenings": [
@@ -392,7 +406,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -552,7 +566,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:50",
@@ -761,5 +775,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-31T10:05:27.638023"
+  "scraped_at": "2026-07-31T11:52:23.656445"
 }

@@ -9,6 +9,20 @@
   "date": "2026-08-02",
   "movies": [
     {
+      "title": "２０２６　ＳＵＰＥＲ　ＪＵＮＩＯＲ　８３ｚ　ＦＡＮ－ＣＯＮ　ＴＯＵＲ　［１９８３］　ＩＮ　ＪＡＰＡＮ",
+      "duration_min": 150,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
       "duration_min": 156,
       "screenings": [
@@ -673,5 +687,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-07-31T10:05:39.469492"
+  "scraped_at": "2026-07-31T11:52:35.539718"
 }
