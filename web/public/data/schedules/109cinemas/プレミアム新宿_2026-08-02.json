@@ -78,7 +78,7 @@
           "screen": "シアター6",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -100,7 +100,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:45",
@@ -320,7 +320,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -353,5 +353,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-01T06:54:06.228325"
+  "scraped_at": "2026-08-01T11:29:09.309569"
 }
