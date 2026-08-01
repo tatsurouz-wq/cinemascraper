@@ -250,7 +250,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:00",
@@ -354,7 +354,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:55",
@@ -529,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-01T04:14:17.790919"
+  "scraped_at": "2026-08-01T06:58:16.659536"
 }
