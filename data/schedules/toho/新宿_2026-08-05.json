@@ -9,6 +9,20 @@
   "date": "2026-08-05",
   "movies": [
     {
+      "title": "キングダム　魂の決戦（舞台挨拶中継）",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "キングダム　魂の決戦（ＩＭＡＸレーザー）",
       "duration_min": 134,
       "screenings": [
@@ -659,5 +673,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-01T00:48:33.078796"
+  "scraped_at": "2026-08-01T04:20:03.406907"
 }
