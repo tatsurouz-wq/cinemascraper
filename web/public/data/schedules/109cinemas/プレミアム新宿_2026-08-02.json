@@ -18,7 +18,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -26,7 +26,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -92,7 +92,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:00",
@@ -164,7 +164,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:10",
@@ -238,7 +238,7 @@
           "screen": "シアター6",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -266,7 +266,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:20",
@@ -312,7 +312,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:35",
@@ -348,10 +348,10 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     }
   ],
-  "scraped_at": "2026-08-01T15:25:16.690706"
+  "scraped_at": "2026-08-02T00:40:20.908194"
 }
