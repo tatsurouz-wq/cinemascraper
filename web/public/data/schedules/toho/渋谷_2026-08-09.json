@@ -1,0 +1,59 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ渋谷",
+    "area": "渋谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/043/TNPI2000J01.do"
+  },
+  "date": "2026-08-09",
+  "movies": [
+    {
+      "title": "ミニオンズシアター（ミニオンズ＆モンスターズ・吹替版）",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:45",
+          "end_time": "13:30",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "18:30",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-03T00:56:33.782784"
+}
