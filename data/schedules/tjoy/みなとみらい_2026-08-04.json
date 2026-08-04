@@ -26,7 +26,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:00",
@@ -64,7 +64,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -94,7 +94,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:10",
@@ -140,7 +140,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:30",
@@ -298,7 +298,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:40",
@@ -344,7 +344,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -428,7 +428,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -436,7 +436,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -444,7 +444,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -474,7 +474,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:05",
@@ -512,7 +512,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -628,7 +628,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -708,7 +708,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -786,7 +786,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -814,7 +814,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -828,7 +828,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -838,18 +838,13 @@
       "screenings": []
     },
     {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
       "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 115,
       "screenings": []
     },
     {
@@ -863,28 +858,23 @@
       "screenings": []
     },
     {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
       "duration_min": 145,
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
+      "title": "だぁれかさんとアソぼ？",
+      "duration_min": 109,
       "screenings": []
     },
     {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
+      "title": "【SCREENX with DolbyAtmos】キングダム 魂の決戦",
+      "duration_min": 135,
       "screenings": []
     },
     {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 100,
       "screenings": []
     },
     {
@@ -893,30 +883,20 @@
       "screenings": []
     },
     {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 115,
+      "title": "開戦前夜",
+      "duration_min": 138,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【字幕】モアナと伝説の海",
+      "duration_min": 115,
       "screenings": []
     },
     {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
       "screenings": []
-    },
-    {
-      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "&TEAM VR CONCERT : BOUNDLESS",
-      "duration_min": 80,
-      "screenings": []
     }
   ],
-  "scraped_at": "2026-08-04T07:41:12.975581"
+  "scraped_at": "2026-08-04T10:40:38.725668"
 }

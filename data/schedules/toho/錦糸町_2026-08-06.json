@@ -9,6 +9,20 @@
   "date": "2026-08-06",
   "movies": [
     {
+      "title": "（赤ちゃん連れ限定）映画ちいかわ　人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "10:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -191,20 +205,6 @@
         {
           "start_time": "8:15",
           "end_time": "10:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "（赤ちゃん連れ限定）映画ちいかわ　人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "8:35",
-          "end_time": "10:30",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -637,5 +637,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-04T07:19:50.378601"
+  "scraped_at": "2026-08-04T10:19:05.512088"
 }
