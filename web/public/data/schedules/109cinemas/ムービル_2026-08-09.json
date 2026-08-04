@@ -1,0 +1,205 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-08-09",
+  "movies": [
+    {
+      "title": "ブルーロック",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "11:40",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "16:25",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:45",
+          "end_time": "19:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[字幕]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "15:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "21:15",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[吹替]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "12:25",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "18:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々!オラの妖怪…",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:40",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:25",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "15:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:35",
+          "end_time": "16:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:10",
+          "end_time": "16:30",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "21:20",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-04T04:08:58.601456"
+}
