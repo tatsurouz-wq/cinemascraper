@@ -9,20 +9,6 @@
   "date": "2026-08-08",
   "movies": [
     {
-      "title": "パウ・パトロール…[吹替[パウっと!ファミリーシアター",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "10:10",
-          "end_time": "11:50",
-          "screen": "シアター10",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ブルーロック",
       "duration_min": 128,
       "screenings": [
@@ -419,6 +405,20 @@
       ]
     },
     {
+      "title": "パウ・パトロール…[吹替[パウっと!ファミリーシアター",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "10:10",
+          "end_time": "11:50",
+          "screen": "シアター10",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "仮面ライダーゼッツ/超宇宙刑事ギャバン",
       "duration_min": 96,
       "screenings": [
@@ -551,5 +551,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-04T09:58:59.986923"
+  "scraped_at": "2026-08-05T00:39:16.576897"
 }

@@ -9,13 +9,58 @@
   "date": "2026-08-10",
   "movies": [
     {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】モアナと伝説の海",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": []
+    },
+    {
       "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
       "duration_min": 145,
       "screenings": []
     },
     {
-      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
-      "duration_min": 95,
+      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
+      "duration_min": 89,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
       "screenings": []
     },
     {
@@ -29,28 +74,13 @@
       "screenings": []
     },
     {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "duration_min": 109,
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
       "screenings": []
     },
     {
       "title": "【DolbyCinema・字幕】スパイダーマン：ブランド・ニュー・デイ",
       "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "口に関するアンケート",
-      "duration_min": 89,
       "screenings": []
     },
     {
@@ -66,7 +96,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "【初日舞台挨拶全国同時生中継】ブルーロック",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "16:10",
+          "end_time": "19:10",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-08-04T10:42:10.746148"
+  "scraped_at": "2026-08-05T01:22:39.260031"
 }
