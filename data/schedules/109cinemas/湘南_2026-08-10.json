@@ -43,16 +43,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "18:00",
-          "end_time": "20:20",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:45",
-          "end_time": "23:05",
+          "start_time": "20:15",
+          "end_time": "22:35",
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
@@ -347,14 +339,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "20:50",
-          "screen": "シアター9",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -363,8 +347,8 @@
       "duration_min": 109,
       "screenings": [
         {
-          "start_time": "21:15",
-          "end_time": "23:15",
+          "start_time": "21:40",
+          "end_time": "23:40",
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
@@ -543,5 +527,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-05T00:40:45.744380"
+  "scraped_at": "2026-08-07T11:49:10.918812"
 }

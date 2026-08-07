@@ -161,8 +161,32 @@
       "duration_min": 90,
       "screenings": [
         {
+          "start_time": "8:30",
+          "end_time": "10:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "10:40",
           "end_time": "12:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "16:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -177,49 +201,11 @@
           "availability": "unknown"
         },
         {
-          "start_time": "21:55",
-          "end_time": "23:40",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ミニオンズ＆モンスターズ（吹替版）",
-      "duration_min": 90,
-      "screenings": [
-        {
-          "start_time": "8:30",
-          "end_time": "10:15",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "12:50",
-          "end_time": "14:35",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "16:45",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
           "start_time": "19:20",
           "end_time": "21:05",
           "screen": "",
           "format": "2D",
-          "language": "吹替",
+          "language": "字幕",
           "availability": "unknown"
         },
         {
@@ -227,7 +213,15 @@
           "end_time": "23:25",
           "screen": "",
           "format": "2D",
-          "language": "吹替",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:40",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -274,14 +268,6 @@
       "title": "モアナと伝説の海（字幕版）",
       "duration_min": 115,
       "screenings": [
-        {
-          "start_time": "8:25",
-          "end_time": "10:35",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
         {
           "start_time": "11:00",
           "end_time": "13:10",
@@ -441,6 +427,22 @@
       "duration_min": 99,
       "screenings": [
         {
+          "start_time": "8:35",
+          "end_time": "10:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "9:05",
+          "end_time": "11:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "9:20",
           "end_time": "11:15",
           "screen": "",
@@ -508,14 +510,6 @@
       "title": "キングダム　魂の決戦",
       "duration_min": 134,
       "screenings": [
-        {
-          "start_time": "8:40",
-          "end_time": "11:10",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
         {
           "start_time": "11:35",
           "end_time": "14:05",
@@ -777,32 +771,32 @@
       "duration_min": 84,
       "screenings": [
         {
-          "start_time": "10:45",
-          "end_time": "12:20",
+          "start_time": "10:50",
+          "end_time": "12:25",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "13:00",
-          "end_time": "14:35",
+          "start_time": "12:55",
+          "end_time": "14:30",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "15:15",
-          "end_time": "16:50",
+          "start_time": "15:10",
+          "end_time": "16:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "17:25",
-          "end_time": "19:00",
+          "start_time": "17:20",
+          "end_time": "18:55",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -823,16 +817,16 @@
       "duration_min": 94,
       "screenings": [
         {
-          "start_time": "9:35",
-          "end_time": "11:20",
+          "start_time": "9:55",
+          "end_time": "11:40",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "11:55",
-          "end_time": "13:40",
+          "start_time": "12:05",
+          "end_time": "13:50",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -861,8 +855,8 @@
       "duration_min": 115,
       "screenings": [
         {
-          "start_time": "14:10",
-          "end_time": "16:15",
+          "start_time": "14:15",
+          "end_time": "16:20",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -875,8 +869,8 @@
       "duration_min": 105,
       "screenings": [
         {
-          "start_time": "13:40",
-          "end_time": "15:35",
+          "start_time": "13:20",
+          "end_time": "15:15",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -897,16 +891,16 @@
       "duration_min": 183,
       "screenings": [
         {
-          "start_time": "10:00",
-          "end_time": "13:15",
+          "start_time": "9:30",
+          "end_time": "12:55",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "16:10",
-          "end_time": "19:25",
+          "start_time": "15:55",
+          "end_time": "19:20",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -915,5 +909,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-05T00:44:49.279311"
+  "scraped_at": "2026-08-07T11:53:24.917807"
 }

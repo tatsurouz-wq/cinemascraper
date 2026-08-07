@@ -21,8 +21,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "19:00",
-          "end_time": "21:20",
+          "start_time": "19:05",
+          "end_time": "21:25",
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
@@ -37,7 +37,7 @@
         {
           "start_time": "10:50",
           "end_time": "13:10",
-          "screen": "シアター3",
+          "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -45,7 +45,7 @@
         {
           "start_time": "13:30",
           "end_time": "15:50",
-          "screen": "シアター3",
+          "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -73,7 +73,7 @@
         {
           "start_time": "12:40",
           "end_time": "14:45",
-          "screen": "シアター5",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -115,7 +115,7 @@
         {
           "start_time": "08:15",
           "end_time": "10:05",
-          "screen": "シアター5",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -123,7 +123,7 @@
         {
           "start_time": "10:30",
           "end_time": "12:20",
-          "screen": "シアター5",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -131,9 +131,23 @@
         {
           "start_time": "15:05",
           "end_time": "16:55",
-          "screen": "シアター5",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[字幕]",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "23:50",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -201,14 +215,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "16:55",
-          "end_time": "18:40",
-          "screen": "シアター7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -233,7 +239,7 @@
         {
           "start_time": "21:35",
           "end_time": "23:20",
-          "screen": "シアター5",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -247,7 +253,7 @@
         {
           "start_time": "08:35",
           "end_time": "10:25",
-          "screen": "シアター3",
+          "screen": "シアター5",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -283,5 +289,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-05T00:40:05.611477"
+  "scraped_at": "2026-08-07T11:48:26.104439"
 }

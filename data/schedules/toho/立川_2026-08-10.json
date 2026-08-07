@@ -27,40 +27,32 @@
       "duration_min": 90,
       "screenings": [
         {
-          "start_time": "10:25",
-          "end_time": "12:10",
+          "start_time": "10:20",
+          "end_time": "12:05",
           "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "12:35",
-          "end_time": "14:20",
+          "start_time": "14:55",
+          "end_time": "16:40",
           "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "14:45",
-          "end_time": "16:30",
+          "start_time": "17:10",
+          "end_time": "18:55",
           "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "17:00",
-          "end_time": "18:45",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:15",
-          "end_time": "21:00",
+          "start_time": "19:20",
+          "end_time": "21:05",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -165,8 +157,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "17:10",
-          "end_time": "19:30",
+          "start_time": "17:05",
+          "end_time": "19:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -241,6 +233,14 @@
         {
           "start_time": "11:15",
           "end_time": "13:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:30",
+          "end_time": "14:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -439,8 +439,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "14:45",
-          "end_time": "16:40",
+          "start_time": "14:40",
+          "end_time": "16:35",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -521,6 +521,20 @@
       ]
     },
     {
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "19:10",
+          "end_time": "20:50",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "それいけ！アンパンマン　パンタンと約束の星",
       "duration_min": 62,
       "screenings": [
@@ -553,29 +567,15 @@
       "duration_min": 109,
       "screenings": [
         {
-          "start_time": "21:25",
-          "end_time": "23:25",
+          "start_time": "21:30",
+          "end_time": "23:30",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         }
       ]
-    },
-    {
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "19:10",
-          "end_time": "20:50",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-08-05T00:58:41.772616"
+  "scraped_at": "2026-08-07T12:07:00.064576"
 }

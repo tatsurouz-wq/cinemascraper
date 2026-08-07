@@ -361,14 +361,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
-        {
-          "start_time": "19:40",
-          "end_time": "21:25",
-          "screen": "シアター10",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
         }
       ]
     },
@@ -427,8 +419,8 @@
       "duration_min": 96,
       "screenings": [
         {
-          "start_time": "21:45",
-          "end_time": "23:35",
+          "start_time": "21:55",
+          "end_time": "23:45",
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
@@ -495,5 +487,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-05T00:38:53.420041"
+  "scraped_at": "2026-08-07T11:47:02.384253"
 }

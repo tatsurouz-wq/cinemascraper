@@ -21,8 +21,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "11:50",
-          "end_time": "14:15",
+          "start_time": "12:00",
+          "end_time": "14:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -207,14 +207,6 @@
       "duration_min": 145,
       "screenings": [
         {
-          "start_time": "8:05",
-          "end_time": "10:45",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "11:10",
           "end_time": "13:50",
           "screen": "",
@@ -252,6 +244,14 @@
       "title": "開戦前夜",
       "duration_min": 138,
       "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:35",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
         {
           "start_time": "18:00",
           "end_time": "20:35",
@@ -573,8 +573,8 @@
       "duration_min": 147,
       "screenings": [
         {
-          "start_time": "8:40",
-          "end_time": "11:20",
+          "start_time": "8:05",
+          "end_time": "10:45",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-05T00:49:17.365473"
+  "scraped_at": "2026-08-07T11:57:49.726887"
 }
