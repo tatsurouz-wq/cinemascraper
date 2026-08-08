@@ -130,7 +130,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -280,7 +280,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -332,7 +332,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -460,7 +460,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -498,7 +498,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -596,7 +596,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -718,7 +718,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -855,51 +855,6 @@
       ]
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "&TEAM VR CONCERT : BOUNDLESS",
-      "duration_min": 80,
-      "screenings": []
-    },
-    {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 115,
-      "screenings": []
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "&TEAM VR CONCERT : BOUNDLESS",
-      "duration_min": 80,
-      "screenings": []
-    },
-    {
       "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
       "screenings": []
@@ -930,13 +885,13 @@
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "【2D字幕】ミニオンズ＆モンスターズ",
+      "duration_min": 90,
       "screenings": []
     },
     {
-      "title": "【2D字幕】ミニオンズ＆モンスターズ",
-      "duration_min": 90,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     },
     {
@@ -954,5 +909,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-08T10:22:10.225465"
+  "scraped_at": "2026-08-08T12:09:27.878736"
 }
