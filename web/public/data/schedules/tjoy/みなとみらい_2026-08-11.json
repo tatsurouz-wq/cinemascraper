@@ -9,6 +9,20 @@
   "date": "2026-08-11",
   "movies": [
     {
+      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:55",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【IMAX】ブルーロック",
       "duration_min": 129,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:45",
@@ -26,7 +40,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -40,7 +54,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "12:50",
@@ -48,7 +62,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:35",
@@ -56,7 +70,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:35",
@@ -64,7 +78,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -78,7 +92,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -92,7 +106,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -106,7 +120,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:10",
@@ -114,7 +128,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:15",
@@ -122,7 +136,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:35",
@@ -130,7 +144,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -144,7 +158,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:30",
@@ -152,7 +166,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:40",
@@ -160,7 +174,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -174,7 +188,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "10:50",
@@ -182,7 +196,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:30",
@@ -190,7 +204,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:10",
@@ -198,7 +212,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:50",
@@ -206,7 +220,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:30",
@@ -214,21 +228,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "20:55",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -242,7 +242,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:25",
@@ -250,7 +250,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -264,7 +264,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:00",
@@ -272,7 +272,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:15",
@@ -280,7 +280,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -294,7 +294,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:30",
@@ -302,7 +302,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -316,7 +316,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:25",
@@ -324,7 +324,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:35",
@@ -332,7 +332,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:45",
@@ -340,7 +340,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -368,7 +368,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -382,7 +382,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:10",
@@ -390,7 +390,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:30",
@@ -398,7 +398,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -412,7 +412,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:10",
@@ -420,7 +420,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:20",
@@ -428,7 +428,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:35",
@@ -436,7 +436,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -450,7 +450,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:40",
@@ -458,7 +458,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -472,7 +472,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -486,7 +486,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "09:30",
@@ -494,7 +494,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "10:30",
@@ -502,7 +502,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:45",
@@ -510,7 +510,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "12:45",
@@ -518,7 +518,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:00",
@@ -526,7 +526,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:00",
@@ -534,7 +534,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:15",
@@ -542,7 +542,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:15",
@@ -550,7 +550,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:25",
@@ -558,7 +558,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:45",
@@ -566,7 +566,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -580,7 +580,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -594,7 +594,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:30",
@@ -602,7 +602,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -630,7 +630,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -644,7 +644,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -658,7 +658,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:20",
@@ -666,7 +666,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:40",
@@ -674,7 +674,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:15",
@@ -682,7 +682,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -696,7 +696,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -710,7 +710,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "11:50",
@@ -718,7 +718,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "14:05",
@@ -726,7 +726,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:20",
@@ -734,7 +734,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:20",
@@ -742,7 +742,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:15",
@@ -750,7 +750,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -764,7 +764,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:20",
@@ -772,7 +772,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:10",
@@ -780,7 +780,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -794,7 +794,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -808,7 +808,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -822,33 +822,48 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
     {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 128,
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
       "screenings": []
     },
     {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     },
     {
-      "title": "【IMAX】映画ちいかわ 人魚の島のひみつ",
+      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【IMAX・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
+      "title": "&TEAM VR CONCERT : BOUNDLESS",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
       "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
-      "duration_min": 96,
-      "screenings": []
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 130,
       "screenings": []
     },
     {
@@ -857,13 +872,33 @@
       "screenings": []
     },
     {
-      "title": "【2D字幕】ミニオンズ＆モンスターズ",
-      "duration_min": 90,
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
       "screenings": []
     },
     {
-      "title": "名探偵コナン ハイウェイの堕天使",
-      "duration_min": 113,
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": []
+    },
+    {
+      "title": "開戦前夜",
+      "duration_min": 138,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
       "screenings": []
     },
     {
@@ -881,5 +916,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-08T12:09:51.205752"
+  "scraped_at": "2026-08-09T02:28:07.194199"
 }
