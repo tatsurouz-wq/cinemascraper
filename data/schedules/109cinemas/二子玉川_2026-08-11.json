@@ -196,7 +196,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -276,7 +276,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -474,7 +474,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:50",
@@ -518,7 +518,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:25",
@@ -531,5 +531,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-09T11:30:14.062978"
+  "scraped_at": "2026-08-10T01:47:20.566662"
 }
