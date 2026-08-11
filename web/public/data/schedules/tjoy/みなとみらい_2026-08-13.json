@@ -9,20 +9,6 @@
   "date": "2026-08-13",
   "movies": [
     {
-      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "20:55",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【IMAX】ブルーロック",
       "duration_min": 129,
       "screenings": [
@@ -226,6 +212,20 @@
           "start_time": "21:30",
           "end_time": "23:50",
           "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:55",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -839,18 +839,18 @@
       ]
     },
     {
+      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【2D字幕】ミニオンズ＆モンスターズ",
-      "duration_min": 90,
       "screenings": []
     },
     {
@@ -859,33 +859,13 @@
       "screenings": []
     },
     {
-      "title": "【SCREENX with DolbyAtmos・吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
       "screenings": []
     },
     {
-      "title": "【IMAX・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "【日本語字幕付】映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
-      "duration_min": 89,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スター・ウォーズ／マンダロリアン・アンド・グローグー",
-      "duration_min": 132,
-      "screenings": []
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 127,
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     },
     {
@@ -894,30 +874,35 @@
       "screenings": []
     },
     {
+      "title": "【IMAX】映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
       "title": "あの星が降る丘で、君とまた出会いたい。",
       "duration_min": 130,
       "screenings": []
     },
     {
-      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
-      "duration_min": 105,
+      "title": "ブルーロック",
+      "duration_min": 127,
       "screenings": []
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
+      "title": "【2D字幕】ミニオンズ＆モンスターズ",
+      "duration_min": 90,
       "screenings": []
     },
     {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": []
-    },
-    {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 100,
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-08-11T07:49:57.242410"
+  "scraped_at": "2026-08-11T10:40:48.629635"
 }
