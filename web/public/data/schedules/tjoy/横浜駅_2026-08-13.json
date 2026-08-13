@@ -9,278 +9,6 @@
   "date": "2026-08-13",
   "movies": [
     {
-      "title": "ブルーロック",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "11:35",
-          "end_time": "13:50",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "16:20",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:15",
-          "end_time": "19:30",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:10",
-          "end_time": "21:25",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:40",
-          "end_time": "23:55",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": [
-        {
-          "start_time": "08:35",
-          "end_time": "10:15",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "10:30",
-          "end_time": "12:10",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:25",
-          "end_time": "14:05",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "15:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:55",
-          "end_time": "19:35",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:50",
-          "end_time": "23:30",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【DolbyCinema・吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": [
-        {
-          "start_time": "09:10",
-          "end_time": "10:55",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "09:30",
-          "end_time": "11:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:10",
-          "end_time": "13:25",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:20",
-          "end_time": "16:35",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "18:35",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "21:10",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "23:40",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "19:45",
-          "end_time": "21:35",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【DolbyCinema・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "11:15",
-          "end_time": "13:50",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "18:55",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "24:00",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "13:30",
-          "end_time": "16:05",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:50",
-          "end_time": "21:25",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "08:45",
-          "end_time": "11:20",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "10:40",
-          "end_time": "13:15",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:00",
-          "end_time": "18:35",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:25",
-          "end_time": "24:00",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -290,7 +18,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "09:20",
@@ -298,7 +26,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:25",
@@ -306,7 +34,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:00",
@@ -314,7 +42,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -322,7 +50,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:45",
@@ -330,7 +58,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:10",
@@ -338,7 +66,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:35",
@@ -346,7 +74,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:50",
@@ -354,7 +82,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -362,7 +90,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:40",
@@ -407,6 +135,316 @@
       ]
     },
     {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": [
+        {
+          "start_time": "08:35",
+          "end_time": "10:15",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "10:30",
+          "end_time": "12:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:25",
+          "end_time": "14:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "15:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "19:35",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "23:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "10:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "吹替",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "11:10",
+          "end_time": "13:25",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:20",
+          "end_time": "16:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:35",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "21:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:40",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "16:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "21:25",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:50",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "24:00",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "11:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "10:40",
+          "end_time": "13:15",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "16:00",
+          "end_time": "18:35",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "24:00",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "11:35",
+          "end_time": "13:50",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:15",
+          "end_time": "19:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:25",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:55",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "19:45",
+          "end_time": "21:35",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "07:00",
+          "end_time": "08:50",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "11:00",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "14:55",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
       "title": "【字幕】モアナと伝説の海",
       "duration_min": 115,
       "screenings": [
@@ -416,7 +454,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:55",
@@ -438,7 +476,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:10",
@@ -446,7 +484,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:35",
@@ -459,40 +497,72 @@
       ]
     },
     {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 101,
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
+      "duration_min": 95,
       "screenings": [
         {
-          "start_time": "07:00",
-          "end_time": "08:50",
+          "start_time": "09:10",
+          "end_time": "10:55",
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        },
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
+      "duration_min": 89,
+      "screenings": [
         {
-          "start_time": "11:00",
-          "end_time": "12:50",
+          "start_time": "06:30",
+          "end_time": "08:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【パウっと！ファミリーシアター】【吹替】パウ・パトロール ザ・ダイノ・ムービー",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "10:45",
           "screen": "シアター１",
           "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
+          "language": "吹替",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "だぁれかさんとアソぼ？",
+      "duration_min": 109,
+      "screenings": [
         {
-          "start_time": "13:05",
-          "end_time": "14:55",
-          "screen": "シアター１",
+          "start_time": "08:50",
+          "end_time": "10:45",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        },
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "君と花火と約束と",
+      "duration_min": 97,
+      "screenings": [
         {
-          "start_time": "15:10",
-          "end_time": "17:00",
-          "screen": "シアター１",
+          "start_time": "07:15",
+          "end_time": "09:00",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -506,7 +576,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:35",
@@ -514,7 +584,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -535,76 +605,6 @@
       ]
     },
     {
-      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
-      "duration_min": 95,
-      "screenings": [
-        {
-          "start_time": "09:10",
-          "end_time": "10:55",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【吹替】パウ・パトロール ザ・ダイノ・ムービー",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "06:30",
-          "end_time": "08:05",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【パウっと！ファミリーシアター】【吹替】パウ・パトロール ザ・ダイノ・ムービー",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "09:10",
-          "end_time": "10:45",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "duration_min": 109,
-      "screenings": [
-        {
-          "start_time": "08:50",
-          "end_time": "10:45",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "君と花火と約束と",
-      "duration_min": 97,
-      "screenings": [
-        {
-          "start_time": "07:15",
-          "end_time": "09:00",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
       "screenings": [
@@ -614,7 +614,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:00",
@@ -622,7 +622,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:05",
@@ -630,7 +630,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:30",
@@ -660,7 +660,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -674,48 +674,18 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
-      "duration_min": 105,
+      "title": "ブルーロック",
+      "duration_min": 127,
       "screenings": []
     },
     {
       "title": "【吹替】トイ・ストーリー５",
       "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 127,
       "screenings": []
     },
     {
@@ -734,10 +704,45 @@
       "screenings": []
     },
     {
-      "title": "【字幕】モアナと伝説の海",
-      "duration_min": 115,
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "「劇場版メイドインアビス 深き魂の黎明」リバイバル上映[R15+]",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-08-11T10:41:28.805880"
+  "scraped_at": "2026-08-13T08:12:31.859166"
 }
