@@ -9,6 +9,28 @@
   "date": "2026-08-20",
   "movies": [
     {
+      "title": "すとろべりーめもりー　Ｖｏｌ．１０ｔｈ　ａｎｎｉｖｅｒｓａｒｙ　～すとぷり　ＡＲＥＮＡ（発声ＯＫ）",
+      "duration_min": 240,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "16:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "12:00",
+          "end_time": "16:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "劇場版　魔法少女まどか☆マギカ〔新編〕叛逆の物語",
       "duration_min": 116,
       "screenings": [
@@ -337,5 +359,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-14T05:05:28.736877"
+  "scraped_at": "2026-08-15T01:29:42.499407"
 }

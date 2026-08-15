@@ -9,6 +9,20 @@
   "date": "2026-08-20",
   "movies": [
     {
+      "title": "すとろべりーめもりー Vol.10th anni…[ODS]",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "16:00",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画クレヨンしんちゃん 奇々…[ふれあいシネマ",
       "duration_min": 101,
       "screenings": [
@@ -539,5 +553,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-14T04:51:22.933390"
+  "scraped_at": "2026-08-15T01:15:48.863405"
 }
