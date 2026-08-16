@@ -40,7 +40,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:15",
@@ -84,7 +84,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:05",
@@ -120,7 +120,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -166,7 +166,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:05",
@@ -196,7 +196,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:20",
@@ -226,7 +226,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:40",
@@ -262,7 +262,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:55",
@@ -352,7 +352,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:00",
@@ -426,7 +426,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -448,7 +448,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -470,7 +470,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:05",
@@ -506,7 +506,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:40",
@@ -528,7 +528,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:50",
@@ -586,7 +586,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:30",
@@ -594,7 +594,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:45",
@@ -648,7 +648,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -662,7 +662,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -690,7 +690,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:30",
@@ -750,7 +750,7 @@
           "screen": "シアター７",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -805,23 +805,8 @@
       ]
     },
     {
-      "title": "キングダム 魂の決戦",
-      "duration_min": 134,
-      "screenings": []
-    },
-    {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 130,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
+      "title": "開戦前夜",
+      "duration_min": 138,
       "screenings": []
     },
     {
@@ -830,17 +815,32 @@
       "screenings": []
     },
     {
+      "title": "[アンコール上映]山下達郎　シアター・ライブ　PERFORMANCE1984-2012",
+      "duration_min": 92,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": []
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": []
+    },
+    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "TOMORROW X TOGETHER VR CONCERT：ENDLESS RIDE",
-      "duration_min": 75,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】オークストリートの異変",
+      "title": "【SCREENX with DolbyAtmos・字幕】オークストリートの異変",
       "duration_min": 100,
       "screenings": []
     },
@@ -855,8 +855,28 @@
       "screenings": []
     },
     {
+      "title": "機動警察パトレイバー EZY File 2",
+      "duration_min": 70,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
       "title": "【字幕】Michael／マイケル",
       "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
       "screenings": []
     },
     {
@@ -865,33 +885,8 @@
       "screenings": []
     },
     {
-      "title": "【字幕】モアナと伝説の海",
-      "duration_min": 115,
-      "screenings": []
-    },
-    {
-      "title": "[アンコール上映]山下達郎　シアター・ライブ　PERFORMANCE1984-2012",
-      "duration_min": 92,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】オークストリートの異変",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【2D字幕】ミニオンズ＆モンスターズ",
-      "duration_min": 90,
-      "screenings": []
-    },
-    {
-      "title": "【日本語字幕付】映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "機動警察パトレイバー EZY File 2",
-      "duration_min": 70,
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 130,
       "screenings": []
     },
     {
@@ -917,5 +912,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-15T07:21:40.890809"
+  "scraped_at": "2026-08-16T02:02:10.803711"
 }

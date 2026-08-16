@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ湘南",
+    "area": "湘南",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/shonan/"
+  },
+  "date": "2026-08-22",
+  "movies": [
+    {
+      "title": "アニメ「青春ブタ野郎」シリーズオールナイト上映会",
+      "duration_min": 445,
+      "screenings": [
+        {
+          "start_time": "21:30",
+          "end_time": "28:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-16T01:21:25.534599"
+}
