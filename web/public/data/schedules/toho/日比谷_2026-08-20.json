@@ -13,6 +13,22 @@
       "duration_min": 65,
       "screenings": [
         {
+          "start_time": "9:30",
+          "end_time": "10:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:50",
+          "end_time": "16:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "17:10",
           "end_time": "18:30",
           "screen": "",
@@ -49,14 +65,6 @@
       "duration_min": 100,
       "screenings": [
         {
-          "start_time": "9:10",
-          "end_time": "11:05",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
           "start_time": "14:20",
           "end_time": "16:15",
           "screen": "",
@@ -89,6 +97,14 @@
         {
           "start_time": "10:20",
           "end_time": "12:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:20",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -423,24 +439,16 @@
           "availability": "unknown"
         },
         {
-          "start_time": "14:45",
-          "end_time": "17:30",
+          "start_time": "16:40",
+          "end_time": "19:25",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "17:55",
-          "end_time": "20:40",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:50",
+          "start_time": "19:50",
+          "end_time": "22:35",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -635,14 +643,6 @@
         {
           "start_time": "14:00",
           "end_time": "15:55",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:25",
-          "end_time": "18:20",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -915,5 +915,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-17T01:21:05.446812"
+  "scraped_at": "2026-08-17T03:58:05.375063"
 }
