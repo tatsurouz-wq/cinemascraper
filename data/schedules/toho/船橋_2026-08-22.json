@@ -1,0 +1,55 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズららぽーと船橋",
+    "area": "船橋",
+    "prefecture": "千葉県",
+    "url": "https://www.tohotheater.jp/net/schedule/018/TNPI2000J01.do"
+  },
+  "date": "2026-08-22",
+  "movies": [
+    {
+      "title": "ＡＴＥＥＺ：ＬＩＧＨＴ　ＴＨＥ　ＷＡＹ　ＩＮ　ＣＩＮＥＭＡＳ（発声ＯＫ・字幕版）",
+      "duration_min": 65,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:20",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "22:40",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "20:10",
+          "end_time": "22:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-17T11:49:48.209433"
+}

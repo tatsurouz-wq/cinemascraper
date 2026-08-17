@@ -9,6 +9,20 @@
   "date": "2026-08-19",
   "movies": [
     {
+      "title": "ＡＴＥＥＺ：ＬＩＧＨＴ　ＴＨＥ　ＷＡＹ　ＩＮ　ＣＩＮＥＭＡＳ（発声ＯＫ・字幕版）",
+      "duration_min": 65,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:20",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "オークストリートの異変（ＭＸ４Ｄ・吹替版）",
       "duration_min": 100,
       "screenings": [
@@ -595,5 +609,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-17T10:04:29.478019"
+  "scraped_at": "2026-08-17T11:49:11.977776"
 }
