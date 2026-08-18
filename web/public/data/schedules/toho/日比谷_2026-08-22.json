@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-08-22",
+  "movies": [
+    {
+      "title": "ＡＴＥＥＺ：ＬＩＧＨＴ　ＴＨＥ　ＷＡＹ　ＩＮ　ＣＩＮＥＭＡＳ（発声ＯＫ・字幕版）",
+      "duration_min": 65,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:20",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-18T01:18:54.289604"
+}
