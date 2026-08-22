@@ -1,0 +1,150 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-08-28",
+  "movies": [
+    {
+      "title": "【IMAX・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "しらぬひ",
+      "duration_min": 36,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Mirai 運命の戦士",
+      "duration_min": 167,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】オークストリートの異変",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "＜ライブビューイング＞アイドリッシュセブン VISIBLIVE TOUR 4WARD JOURNEY",
+      "duration_min": 140,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "TOMORROW X TOGETHER VR CONCERT：ENDLESS RIDE",
+      "duration_min": 75,
+      "screenings": []
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "「大長編 タローマン 万博大爆発」復刻上映",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【応援上映】【SCREENX with DolbyAtmos・字幕】Michael／マイケル",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "TOMORROW X TOGETHER VR CONCERT：ENDLESS RIDE",
+      "duration_min": 75,
+      "screenings": []
+    },
+    {
+      "title": "＜ライブビューイング＞アイドリッシュセブン VISIBLIVE TOUR 4WARD JOURNEY",
+      "duration_min": 140,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:20",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "3SKM 1st LIVE “One-Off” ライブビューイング",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-22T04:26:39.109393"
+}

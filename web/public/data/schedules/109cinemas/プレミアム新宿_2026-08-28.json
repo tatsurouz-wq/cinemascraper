@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-08-28",
+  "movies": [
+    {
+      "title": "魔法少女まどか…[最速上映[DolbyAtmos",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:00",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-22T03:41:53.421159"
+}

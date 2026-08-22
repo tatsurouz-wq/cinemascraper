@@ -1,0 +1,459 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-08-24",
+  "movies": [
+    {
+      "title": "グレイ・ミッション[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:15",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "新感染 ファイナル・エクスプレス 4K[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "14:00",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "海辺の一日 4Kレストア[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:10",
+          "end_time": "15:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オークストリートの異変[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "16:50",
+          "end_time": "18:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:05",
+          "end_time": "20:55",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オークストリートの異変[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:30",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オークストリートの異変[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "11:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "戦いの向こう 侍たちの記録 2026…[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:10",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "[新編]魔法少女まどか☆マギカ 叛逆の物語",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:20",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ミニオンズ&モンスターズ[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ミニオンズ&モンスターズ[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "15:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プリミティヴ・ウォー 恐竜戦争[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:25",
+          "end_time": "23:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:35",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:35",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[Dolby Atmos・字",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:15",
+          "end_time": "17:50",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:40",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "16:45",
+          "end_time": "18:50",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:25",
+          "end_time": "13:30",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:05",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:20",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "15:40",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:10",
+          "end_time": "18:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:25",
+          "end_time": "20:15",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦[SCREENX]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:05",
+          "end_time": "23:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オブセッション 災愛[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "23:20",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:25",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "16:20",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:35",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:35",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スター・ウォーズ/マンダロリアン…[SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:05",
+          "end_time": "17:30",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "プロジェクト・ヘイル・メアリー[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:45",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-08-22T03:41:25.752061"
+}
