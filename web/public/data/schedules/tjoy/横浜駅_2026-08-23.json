@@ -62,7 +62,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -170,7 +170,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:40",
@@ -178,7 +178,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:00",
@@ -186,7 +186,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:20",
@@ -310,7 +310,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -340,7 +340,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -392,7 +392,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -436,7 +436,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -530,7 +530,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -584,7 +584,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:45",
@@ -606,7 +606,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -625,18 +625,8 @@
       ]
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema・字幕】Michael／マイケル",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 127,
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
       "screenings": []
     },
     {
@@ -645,8 +635,8 @@
       "screenings": []
     },
     {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
+      "title": "【DolbyCinema・字幕】オークストリートの異変",
+      "duration_min": 100,
       "screenings": []
     },
     {
@@ -660,13 +650,8 @@
       "screenings": []
     },
     {
-      "title": "【吹替】オークストリートの異変",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -675,23 +660,33 @@
       "screenings": []
     },
     {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
+      "title": "「劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語」リバイバル上映",
+      "duration_min": 122,
       "screenings": []
     },
     {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 116,
+      "title": "【DolbyCinema】ブルーロック",
+      "duration_min": 127,
       "screenings": []
     },
     {
-      "title": "【DolbyCinema・字幕】オークストリートの異変",
+      "title": "【字幕】オークストリートの異変",
       "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -700,5 +695,5 @@
       "screenings": []
     }
   ],
-  "scraped_at": "2026-08-23T07:24:09.811226"
+  "scraped_at": "2026-08-23T10:12:13.200136"
 }
