@@ -9,6 +9,20 @@
   "date": "2026-08-26",
   "movies": [
     {
+      "title": "GHOST 黒キネマ 2Big To…[IMAXレーザー[ODS",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "21:00",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "新感染 ファイナル・エクスプレス 4K[字幕]",
       "duration_min": 118,
       "screenings": [
@@ -549,5 +563,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-24T09:49:09.642045"
+  "scraped_at": "2026-08-25T11:29:27.041648"
 }
