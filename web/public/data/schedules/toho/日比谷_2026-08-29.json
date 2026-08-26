@@ -45,6 +45,20 @@
       ]
     },
     {
+      "title": "劇場版　魔法少女まどか☆マギカ〈ワルプルギスの廻天〉（Ｄｏｌｂｙ－ＡＴＭＯＳ）",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "16:10",
+          "end_time": "18:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版　魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
       "duration_min": 120,
       "screenings": [
@@ -59,6 +73,14 @@
         {
           "start_time": "19:10",
           "end_time": "21:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:30",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -167,6 +189,14 @@
       "duration_min": 119,
       "screenings": [
         {
+          "start_time": "13:25",
+          "end_time": "15:40",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "21:40",
           "end_time": "23:55",
           "screen": "",
@@ -191,6 +221,14 @@
         {
           "start_time": "11:35",
           "end_time": "13:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:30",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -733,5 +771,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-26T01:24:53.767181"
+  "scraped_at": "2026-08-26T04:00:12.048813"
 }
