@@ -43,6 +43,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "14:15",
+          "end_time": "16:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "16:00",
           "end_time": "18:15",
           "screen": "",
@@ -81,8 +89,8 @@
       "duration_min": 119,
       "screenings": [
         {
-          "start_time": "11:50",
-          "end_time": "14:00",
+          "start_time": "9:00",
+          "end_time": "11:10",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -105,8 +113,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "21:10",
-          "end_time": "23:20",
+          "start_time": "21:45",
+          "end_time": "23:55",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -143,8 +151,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "21:15",
-          "end_time": "23:35",
+          "start_time": "21:10",
+          "end_time": "23:30",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -229,16 +237,16 @@
       "duration_min": 90,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "10:45",
+          "start_time": "9:10",
+          "end_time": "10:55",
           "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "13:40",
-          "end_time": "15:25",
+          "start_time": "13:45",
+          "end_time": "15:30",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -295,16 +303,8 @@
       "duration_min": 145,
       "screenings": [
         {
-          "start_time": "8:45",
-          "end_time": "11:25",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:50",
-          "end_time": "16:30",
+          "start_time": "10:50",
+          "end_time": "13:30",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -353,40 +353,40 @@
       "duration_min": 99,
       "screenings": [
         {
-          "start_time": "9:20",
-          "end_time": "11:10",
+          "start_time": "9:30",
+          "end_time": "11:20",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "11:35",
-          "end_time": "13:25",
+          "start_time": "11:55",
+          "end_time": "13:45",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "14:15",
-          "end_time": "16:05",
+          "start_time": "14:00",
+          "end_time": "15:50",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "16:35",
-          "end_time": "18:25",
+          "start_time": "16:25",
+          "end_time": "18:15",
           "screen": "",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "18:50",
-          "end_time": "20:40",
+          "start_time": "19:45",
+          "end_time": "21:35",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -399,25 +399,11 @@
       "duration_min": 89,
       "screenings": [
         {
-          "start_time": "9:20",
-          "end_time": "11:00",
+          "start_time": "8:45",
+          "end_time": "10:25",
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "（轟音上映）キングダム　魂の決戦",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "21:20",
-          "end_time": "23:45",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -427,8 +413,16 @@
       "duration_min": 134,
       "screenings": [
         {
-          "start_time": "11:25",
-          "end_time": "13:50",
+          "start_time": "11:35",
+          "end_time": "14:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "21:15",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -441,8 +435,8 @@
       "duration_min": 102,
       "screenings": [
         {
-          "start_time": "11:15",
-          "end_time": "13:10",
+          "start_time": "11:25",
+          "end_time": "13:20",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -451,14 +445,6 @@
         {
           "start_time": "14:25",
           "end_time": "16:20",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:40",
-          "end_time": "21:35",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -479,7 +465,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "（轟音上映）スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "24:00",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-08-25T11:40:52.416492"
+  "scraped_at": "2026-08-26T01:30:46.971608"
 }

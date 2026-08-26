@@ -9,6 +9,220 @@
   "date": "2026-08-27",
   "movies": [
     {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "12:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "15:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "17:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "18:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:10",
+          "end_time": "21:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "21:15",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:10",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "23:20",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】ブルーロック",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "13:45",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:30",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:35",
+          "end_time": "16:50",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:30",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "12:55",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "14:50",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "16:45",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "18:40",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:15",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:20",
+          "end_time": "15:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "18:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "【字幕】オークストリートの異変",
       "duration_min": 100,
       "screenings": [
@@ -109,85 +323,21 @@
       ]
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
       "screenings": [
         {
           "start_time": "09:00",
           "end_time": "10:50",
-          "screen": "シアター６",
+          "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
         },
         {
-          "start_time": "11:05",
-          "end_time": "12:55",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:10",
-          "end_time": "15:00",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:15",
-          "end_time": "17:05",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:05",
-          "end_time": "18:55",
+          "start_time": "12:30",
+          "end_time": "14:20",
           "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:20",
-          "end_time": "19:10",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:10",
-          "end_time": "21:00",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:25",
-          "end_time": "21:15",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:10",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:20",
-          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -195,85 +345,23 @@
       ]
     },
     {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
       "screenings": [
-        {
-          "start_time": "11:15",
-          "end_time": "12:55",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
         {
           "start_time": "13:10",
-          "end_time": "14:50",
-          "screen": "シアター２",
+          "end_time": "15:15",
+          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
         },
         {
-          "start_time": "15:05",
-          "end_time": "16:45",
-          "screen": "シアター２",
+          "start_time": "19:40",
+          "end_time": "21:45",
+          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:00",
-          "end_time": "18:40",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "10:00",
-          "end_time": "12:15",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:20",
-          "end_time": "15:35",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:50",
-          "end_time": "18:05",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:20",
-          "end_time": "20:35",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:10",
-          "end_time": "23:25",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -346,94 +434,6 @@
           "start_time": "19:40",
           "end_time": "22:15",
           "screen": "シアター３",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【DolbyCinema】ブルーロック",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "13:45",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:15",
-          "end_time": "21:30",
-          "screen": "シアター４",
-          "format": "Dolby Atmos",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "14:35",
-          "end_time": "16:50",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:30",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "duration_min": 101,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "10:50",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:30",
-          "end_time": "14:20",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 116,
-      "screenings": [
-        {
-          "start_time": "13:10",
-          "end_time": "15:15",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "19:40",
-          "end_time": "21:45",
-          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
           "availability": "available"
@@ -595,35 +595,70 @@
       ]
     },
     {
-      "title": "ブルーロック",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 121,
       "screenings": []
     },
     {
       "title": "【字幕】オークストリートの異変",
       "duration_min": 100,
       "screenings": []
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema】ブルーロック",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 116,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": []
     }
   ],
-  "scraped_at": "2026-08-25T12:13:03.844592"
+  "scraped_at": "2026-08-26T02:03:15.875298"
 }
