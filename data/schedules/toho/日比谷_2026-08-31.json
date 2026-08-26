@@ -35,6 +35,14 @@
       "duration_min": 120,
       "screenings": [
         {
+          "start_time": "16:20",
+          "end_time": "18:35",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "19:00",
           "end_time": "21:15",
           "screen": "",
@@ -59,6 +67,14 @@
         {
           "start_time": "15:00",
           "end_time": "17:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:20",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -185,6 +201,20 @@
         {
           "start_time": "21:40",
           "end_time": "23:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラスト・サバイバー（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:35",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -775,5 +805,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-26T04:00:36.114942"
+  "scraped_at": "2026-08-26T09:49:36.157142"
 }
