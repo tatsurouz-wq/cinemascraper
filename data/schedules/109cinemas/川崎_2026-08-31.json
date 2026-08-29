@@ -18,7 +18,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:35",
@@ -40,7 +40,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -68,7 +68,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:15",
@@ -76,7 +76,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:50",
@@ -84,7 +84,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -98,35 +98,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "25周年記念 『ハリー・ポッターと賢者の石』[吹替]",
-      "duration_min": 152,
-      "screenings": [
-        {
-          "start_time": "09:05",
-          "end_time": "12:05",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ハリー・ポッターと賢者の石[IMAXレーザー3D・吹替",
-      "duration_min": 152,
-      "screenings": [
-        {
-          "start_time": "17:55",
-          "end_time": "20:55",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -140,7 +112,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:25",
@@ -148,7 +120,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:45",
@@ -156,7 +128,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -170,7 +142,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -184,7 +156,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -198,7 +170,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -212,7 +184,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -226,7 +198,35 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "25周年記念 『ハリー・ポッターと賢者の石』[吹替]",
+      "duration_min": 152,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "12:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ハリー・ポッターと賢者の石[IMAXレーザー3D・吹替",
+      "duration_min": 152,
+      "screenings": [
+        {
+          "start_time": "17:55",
+          "end_time": "20:55",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "吹替",
+          "availability": "available"
         }
       ]
     },
@@ -240,7 +240,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -254,7 +254,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -268,7 +268,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:55",
@@ -290,7 +290,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -304,7 +304,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:40",
@@ -312,7 +312,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -340,7 +340,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "screen": "シアター7",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -368,7 +368,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:15",
@@ -376,7 +376,7 @@
           "screen": "シアター1",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -390,7 +390,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:30",
@@ -398,7 +398,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -412,7 +412,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -426,7 +426,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -440,7 +440,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:25",
@@ -448,7 +448,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -462,7 +462,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -476,7 +476,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:10",
@@ -484,7 +484,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -498,7 +498,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:45",
@@ -506,7 +506,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -520,10 +520,10 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-08-26T09:43:47.560339"
+  "scraped_at": "2026-08-29T05:54:27.263907"
 }

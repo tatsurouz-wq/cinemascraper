@@ -9,44 +9,12 @@
   "date": "2026-08-29",
   "movies": [
     {
-      "title": "時には懺悔を",
-      "duration_min": 128,
+      "title": "劇場版　魔法少女まどか☆マギカ〈ワルプルギスの廻天〉（舞台挨拶中継）",
+      "duration_min": 120,
       "screenings": [
         {
-          "start_time": "8:55",
-          "end_time": "11:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:45",
-          "end_time": "14:05",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:30",
-          "end_time": "16:50",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:20",
-          "end_time": "19:40",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:05",
-          "end_time": "22:25",
+          "start_time": "11:30",
+          "end_time": "14:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -80,7 +48,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:25",
@@ -88,45 +56,53 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
     {
-      "title": "シェルター（字幕版）",
-      "duration_min": 107,
+      "title": "時には懺悔を",
+      "duration_min": 128,
       "screenings": [
         {
-          "start_time": "8:45",
-          "end_time": "10:45",
+          "start_time": "8:55",
+          "end_time": "11:15",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "15:50",
-          "end_time": "17:50",
+          "start_time": "11:45",
+          "end_time": "14:05",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "17:55",
-          "end_time": "19:55",
+          "start_time": "14:30",
+          "end_time": "16:50",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
           "availability": "unknown"
         },
         {
-          "start_time": "20:35",
-          "end_time": "22:35",
+          "start_time": "17:20",
+          "end_time": "19:40",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:05",
+          "end_time": "22:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -148,7 +124,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:05",
@@ -156,7 +132,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -178,6 +154,196 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "シェルター（字幕版）",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:45",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "17:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "19:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "22:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "グレイ・ミッション（字幕版）",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "八月の声を運ぶ男",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "オークストリートの異変（字幕版）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "10:40",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:05",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ミニオンズ＆モンスターズ（吹替版）",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:25",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:10",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "15:35",
+          "end_time": "17:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "22:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "14:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:50",
+          "end_time": "23:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "14:50",
+          "end_time": "17:30",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:20",
+          "end_time": "23:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "9:10",
+          "end_time": "11:50",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -200,42 +366,20 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
     {
-      "title": "ドラキュラ（４Ｋ・字幕版）",
-      "duration_min": 127,
+      "title": "モアナと伝説の海（吹替版）",
+      "duration_min": 115,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "11:15",
+          "start_time": "12:15",
+          "end_time": "14:25",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "9:20",
-          "end_time": "11:50",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:05",
-          "end_time": "17:35",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -274,7 +418,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:35",
@@ -282,11 +426,47 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:55",
           "end_time": "22:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
+      "duration_min": 89,
+      "screenings": [
+        {
+          "start_time": "8:45",
+          "end_time": "10:25",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "9:20",
+          "end_time": "11:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "17:35",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -320,201 +500,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
-      "duration_min": 89,
-      "screenings": [
-        {
-          "start_time": "8:45",
-          "end_time": "10:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（吹替版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "14:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "9:10",
-          "end_time": "11:50",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "14:50",
-          "end_time": "17:30",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:20",
-          "end_time": "23:00",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "15:35",
-          "end_time": "17:55",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:35",
-          "end_time": "22:55",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "14:40",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:50",
-          "end_time": "23:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "オークストリートの異変（字幕版）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "8:50",
-          "end_time": "10:40",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:15",
-          "end_time": "23:05",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "グレイ・ミッション（字幕版）",
-      "duration_min": 98,
-      "screenings": [
-        {
-          "start_time": "18:20",
-          "end_time": "20:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "八月の声を運ぶ男",
-      "duration_min": 102,
-      "screenings": [
-        {
-          "start_time": "19:00",
-          "end_time": "20:55",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ミニオンズ＆モンスターズ（吹替版）",
-      "duration_min": 90,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "13:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:25",
-          "end_time": "15:10",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "劇場版　魔法少女まどか☆マギカ〈ワルプルギスの廻天〉（舞台挨拶中継）",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "11:30",
-          "end_time": "14:25",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -528,7 +514,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -545,7 +531,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "ドラキュラ（４Ｋ・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-08-26T10:00:00.154891"
+  "scraped_at": "2026-08-29T06:10:03.923701"
 }

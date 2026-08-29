@@ -63,7 +63,7 @@
         {
           "start_time": "18:50",
           "end_time": "21:00",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -115,7 +115,7 @@
         {
           "start_time": "11:35",
           "end_time": "13:40",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -123,7 +123,7 @@
         {
           "start_time": "18:45",
           "end_time": "20:50",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -151,7 +151,7 @@
         {
           "start_time": "11:05",
           "end_time": "14:00",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -173,7 +173,7 @@
         {
           "start_time": "09:05",
           "end_time": "11:15",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -181,7 +181,7 @@
         {
           "start_time": "16:15",
           "end_time": "18:25",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -189,7 +189,7 @@
         {
           "start_time": "18:40",
           "end_time": "20:50",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -241,7 +241,7 @@
         {
           "start_time": "14:15",
           "end_time": "16:00",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -323,7 +323,7 @@
         {
           "start_time": "14:20",
           "end_time": "16:00",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -361,7 +361,7 @@
         {
           "start_time": "21:15",
           "end_time": "23:30",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -375,7 +375,7 @@
         {
           "start_time": "09:00",
           "end_time": "10:50",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -383,7 +383,7 @@
         {
           "start_time": "16:40",
           "end_time": "18:30",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -405,7 +405,7 @@
         {
           "start_time": "09:30",
           "end_time": "11:20",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -419,7 +419,7 @@
         {
           "start_time": "21:05",
           "end_time": "23:10",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -433,7 +433,7 @@
         {
           "start_time": "13:55",
           "end_time": "16:25",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
@@ -461,7 +461,7 @@
         {
           "start_time": "11:30",
           "end_time": "14:05",
-          "screen": "シアター８",
+          "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
@@ -519,7 +519,7 @@
         {
           "start_time": "16:15",
           "end_time": "18:35",
-          "screen": "シアター９",
+          "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -577,7 +577,7 @@
         {
           "start_time": "21:05",
           "end_time": "23:05",
-          "screen": "シアター１",
+          "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -585,18 +585,28 @@
       ]
     },
     {
-      "title": "【吹替】モアナと伝説の海",
-      "duration_min": 116,
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
+      "title": "【DolbyAtmos】劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
       "screenings": []
     },
     {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
+      "title": "【字幕】ラスト・サバイバー(PG12)",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
       "screenings": []
     },
     {
@@ -605,35 +615,44 @@
       "screenings": []
     },
     {
-      "title": "ブルーロック",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "だぁれかさんとアソぼ？",
-      "duration_min": 109,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】最終楽章 響け！ユーフォニアム　前編",
-      "duration_min": 121,
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
       "screenings": []
     },
     {
       "title": "【字幕】オークストリートの異変",
       "duration_min": 100,
       "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema3D・字幕】25周年記念 『ハリー・ポッターと賢者の石』",
+      "duration_min": 166,
+      "screenings": []
+    },
+    {
+      "title": "[公開記念舞台挨拶中継]劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 165,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "14:25",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-08-26T10:27:31.959775"
+  "scraped_at": "2026-08-29T06:37:32.565356"
 }

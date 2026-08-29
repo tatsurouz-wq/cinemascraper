@@ -103,34 +103,6 @@
       ]
     },
     {
-      "title": "25周年記念 『ハリー・ポッターと賢者の石』[吹替]",
-      "duration_min": 152,
-      "screenings": [
-        {
-          "start_time": "09:05",
-          "end_time": "12:05",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ハリー・ポッターと賢者の石[IMAXレーザー3D・吹替",
-      "duration_min": 152,
-      "screenings": [
-        {
-          "start_time": "17:55",
-          "end_time": "20:55",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ラスト・サバイバー[字幕]",
       "duration_min": 119,
       "screenings": [
@@ -226,6 +198,34 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "25周年記念 『ハリー・ポッターと賢者の石』[吹替]",
+      "duration_min": 152,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "12:05",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハリー・ポッターと賢者の石[IMAXレーザー3D・吹替",
+      "duration_min": 152,
+      "screenings": [
+        {
+          "start_time": "17:55",
+          "end_time": "20:55",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -525,5 +525,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-26T09:43:54.375043"
+  "scraped_at": "2026-08-29T05:54:33.101250"
 }
