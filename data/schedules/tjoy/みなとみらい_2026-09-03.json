@@ -391,56 +391,6 @@
       ]
     },
     {
-      "title": "しらぬひ",
-      "duration_min": 36,
-      "screenings": [
-        {
-          "start_time": "08:15",
-          "end_time": "09:00",
-          "screen": "シアター９",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:05",
-          "end_time": "17:50",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "アニメ「幻想水滸伝」 第1話〜第3話＜2週間先行プレミアム上映＞",
-      "duration_min": 94,
-      "screenings": [
-        {
-          "start_time": "21:45",
-          "end_time": "23:30",
-          "screen": "シアター１１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "「大長編 タローマン 万博大爆発」復刻上映",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "08:45",
-          "end_time": "10:40",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "TOMORROW X TOGETHER VR CONCERT：ENDLESS RIDE",
       "duration_min": 75,
       "screenings": [
@@ -504,6 +454,56 @@
           "start_time": "21:05",
           "end_time": "22:20",
           "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "しらぬひ",
+      "duration_min": 36,
+      "screenings": [
+        {
+          "start_time": "08:15",
+          "end_time": "09:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "17:50",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アニメ「幻想水滸伝」 第1話〜第3話＜2週間先行プレミアム上映＞",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "23:30",
+          "screen": "シアター１１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "「大長編 タローマン 万博大爆発」復刻上映",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "10:40",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -869,13 +869,28 @@
       ]
     },
     {
+      "title": "TOMORROW X TOGETHER VR CONCERT：ENDLESS RIDE",
+      "duration_min": 75,
+      "screenings": []
+    },
+    {
       "title": "平行と垂直",
       "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
+      "title": "【SCREENX with DolbyAtmos・字幕】ラスト・サバイバー(PG12)",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "名探偵コナン ハイウェイの堕天使",
+      "duration_min": 113,
+      "screenings": []
+    },
+    {
+      "title": "時には懺悔を",
+      "duration_min": 130,
       "screenings": []
     },
     {
@@ -884,43 +899,23 @@
       "screenings": []
     },
     {
-      "title": "[STAGE2]『hololive 7th fes. Ridin’ on Dreams』アフター上映",
-      "duration_min": 140,
+      "title": "アニメ「幻想水滸伝」 第1話〜第3話＜2週間先行プレミアム上映＞",
+      "duration_min": 94,
       "screenings": []
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "[アンコール上映]山下達郎　シアター・ライブ　PERFORMANCE1984-2012",
-      "duration_min": 92,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyAtmos】劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
       "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "【字幕】シェルター(PG12)",
+      "title": "【字幕】レディ・オア・ノット2[R15+]",
       "duration_min": 108,
       "screenings": []
     },
     {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】ラスト・サバイバー(PG12)",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "平行と垂直",
-      "duration_min": 118,
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
+      "duration_min": 96,
       "screenings": []
     },
     {
@@ -933,7 +928,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -947,10 +942,10 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     }
   ],
-  "scraped_at": "2026-08-30T04:39:34.304140"
+  "scraped_at": "2026-08-30T12:03:38.817173"
 }
