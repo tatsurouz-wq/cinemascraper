@@ -431,6 +431,20 @@
       ]
     },
     {
+      "title": "グレイ・ミッション（字幕版）",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "16:10",
+          "end_time": "18:00",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "オークストリートの異変（字幕版）",
       "duration_min": 100,
       "screenings": [
@@ -454,20 +468,6 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "グレイ・ミッション（字幕版）",
-      "duration_min": 98,
-      "screenings": [
-        {
-          "start_time": "16:10",
-          "end_time": "18:00",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -573,5 +573,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-08-31T04:22:01.448266"
+  "scraped_at": "2026-08-31T21:02:51.258787"
 }
