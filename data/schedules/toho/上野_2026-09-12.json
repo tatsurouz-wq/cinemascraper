@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ上野",
+    "area": "上野",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/080/TNPI2000J01.do"
+  },
+  "date": "2026-09-12",
+  "movies": [
+    {
+      "title": "（轟音上映）うたの☆プリンスさまっ♪　ＡＬＬ　ＳＴＡＲ　ＳＴＡＧＥ（Ａ公演）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "15:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "（轟音上映）うたの☆プリンスさまっ♪　ＡＬＬ　ＳＴＡＲ　ＳＴＡＧＥ（Ｂ公演）",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "16:15",
+          "end_time": "18:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-06T10:35:46.180806"
+}

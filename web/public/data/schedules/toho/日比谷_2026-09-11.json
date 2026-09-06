@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日比谷",
+    "area": "日比谷",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/081/TNPI2000J01.do"
+  },
+  "date": "2026-09-11",
+  "movies": [
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ（発声ＯＫ）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-06T10:30:18.050168"
+}

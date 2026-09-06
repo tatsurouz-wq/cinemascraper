@@ -9,6 +9,20 @@
   "date": "2026-09-06",
   "movies": [
     {
+      "title": "宝塚歌劇　宙組東京宝塚劇場公演『黒蜥蜴』『Ｄｉａｍｏｎｄ　ＩＭＰＵＬＳＥ（ダイヤモンド　インパルス）",
+      "duration_min": 270,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "18:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "白鳥とコウモリ",
       "duration_min": 145,
       "screenings": [
@@ -50,7 +64,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -136,6 +150,50 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（字幕版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "15:35",
+          "end_time": "17:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（吹替版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "8:35",
+          "end_time": "10:55",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "13:55",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -210,7 +268,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -238,7 +296,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -266,7 +324,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -324,7 +382,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -410,7 +468,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -452,7 +510,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -499,5 +557,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-01T04:15:24.291062"
+  "scraped_at": "2026-09-06T10:47:49.741376"
 }

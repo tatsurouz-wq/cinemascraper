@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズゆめが丘",
+    "area": "ゆめが丘",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/yumegaoka/"
+  },
+  "date": "2026-09-08",
+  "movies": [
+    {
+      "title": "休館のお知らせ",
+      "duration_min": 960,
+      "screenings": [
+        {
+          "start_time": "08:00",
+          "end_time": "24:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-06T10:27:19.255210"
+}

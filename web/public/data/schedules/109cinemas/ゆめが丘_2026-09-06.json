@@ -18,7 +18,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:50",
@@ -26,7 +26,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -34,7 +34,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:05",
@@ -42,7 +42,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -78,7 +78,7 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:55",
@@ -86,13 +86,35 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ[字幕]",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "12:55",
+          "end_time": "15:10",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:50",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
         }
       ]
     },
     {
       "title": "バックルームズ[吹替]",
-      "duration_min": 110,
+      "duration_min": 127,
       "screenings": [
         {
           "start_time": "10:55",
@@ -100,7 +122,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:40",
@@ -108,7 +130,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -138,7 +160,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -157,6 +179,20 @@
       ]
     },
     {
+      "title": "水曜どうでしょう祭UNITE2026…[0906[ODS",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "17:30",
+          "end_time": "21:00",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "劇場版 魔法少女まどか☆マギカ ワルプルギス…",
       "duration_min": 120,
       "screenings": [
@@ -166,7 +202,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:50",
@@ -174,7 +210,7 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:30",
@@ -182,13 +218,13 @@
           "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
     {
       "title": "劇場版 魔法少女まどか☆マギカ…[IMAXレーザー",
-      "duration_min": 120,
+      "duration_min": 121,
       "screenings": [
         {
           "start_time": "18:20",
@@ -196,13 +232,13 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
     {
       "title": "時には懺悔を",
-      "duration_min": 128,
+      "duration_min": 129,
       "screenings": [
         {
           "start_time": "11:05",
@@ -210,7 +246,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -224,7 +260,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -233,12 +269,20 @@
       "duration_min": 119,
       "screenings": [
         {
+          "start_time": "08:25",
+          "end_time": "10:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
           "start_time": "21:30",
           "end_time": "23:40",
           "screen": "シアター4",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -252,7 +296,7 @@
           "screen": "シアター8",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -266,7 +310,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -280,7 +324,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -294,7 +338,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -308,7 +352,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:05",
@@ -316,7 +360,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -330,7 +374,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -344,7 +388,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -358,7 +402,7 @@
           "screen": "シアター8",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -372,7 +416,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -386,7 +430,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -422,7 +466,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:15",
@@ -452,7 +496,7 @@
           "screen": "シアター1",
           "format": "IMAX",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -466,7 +510,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -480,7 +524,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -494,7 +538,7 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -508,13 +552,13 @@
           "screen": "シアター10",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
     {
       "title": "Michael/マイケル[字幕]",
-      "duration_min": 127,
+      "duration_min": 133,
       "screenings": [
         {
           "start_time": "15:35",
@@ -522,10 +566,10 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     }
   ],
-  "scraped_at": "2026-09-01T03:55:12.881240"
+  "scraped_at": "2026-09-06T10:27:07.674392"
 }

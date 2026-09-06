@@ -1,0 +1,123 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-09-12",
+  "movies": [
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "SEKIRO:NO DEFEAT(PG12)",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "平行と垂直",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】モアナと伝説の海",
+      "duration_min": 115,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】グレイ・ミッション",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "時には懺悔を",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画『仮面ライダーゼッツ さよならのミッション』／映画『超宇宙刑事ギャバン インフィニティ 太陽が泣いた日』",
+      "duration_min": 96,
+      "screenings": []
+    },
+    {
+      "title": "[STAGE4]『hololive 7th fes. Ridin’ on Dreams』アフター上映",
+      "duration_min": 155,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:35",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "水曜どうでしょう祭UNITE2026 ライブ・ビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "17:30",
+          "end_time": "21:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "[公開記念舞台挨拶]最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 157,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:20",
+          "end_time": "16:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-06T11:07:18.298963"
+}

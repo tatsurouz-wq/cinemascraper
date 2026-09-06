@@ -9,6 +9,20 @@
   "date": "2026-09-06",
   "movies": [
     {
+      "title": "宝塚歌劇　宙組東京宝塚劇場公演『黒蜥蜴』『Ｄｉａｍｏｎｄ　ＩＭＰＵＬＳＥ（ダイヤモンド　インパルス）",
+      "duration_min": 270,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "18:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "白鳥とコウモリ",
       "duration_min": 145,
       "screenings": [
@@ -50,7 +64,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -80,7 +94,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -156,7 +170,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -178,7 +192,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -192,7 +206,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -248,7 +262,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -298,7 +312,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -442,7 +456,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -472,7 +486,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -529,5 +543,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-01T04:10:07.019224"
+  "scraped_at": "2026-09-06T10:41:06.062825"
 }
