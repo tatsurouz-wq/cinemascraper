@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-09-13",
+  "movies": [
+    {
+      "title": "FREDERHYTHM THE MOVIE…[ODS]",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "15:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-07T03:14:24.730806"
+}
