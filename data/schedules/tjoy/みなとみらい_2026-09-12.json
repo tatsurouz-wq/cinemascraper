@@ -9,16 +9,6 @@
   "date": "2026-09-12",
   "movies": [
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
       "title": "【字幕】バックルームズ",
       "duration_min": 127,
       "screenings": []
@@ -29,13 +19,13 @@
       "screenings": []
     },
     {
-      "title": "時には懺悔を",
-      "duration_min": 130,
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
+      "title": "時には懺悔を",
+      "duration_min": 130,
       "screenings": []
     },
     {
@@ -84,6 +74,30 @@
       "screenings": []
     },
     {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "THE ALFEE 3000PREMIUM～トラベリングバンドが刻んだ3000本の奇跡と軌跡～",
+      "duration_min": 123,
+      "screenings": []
+    },
+    {
+      "title": "[公開記念舞台挨拶]マッチモンド(PG12)",
+      "duration_min": 139,
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "15:05",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "[公開記念舞台挨拶]最終楽章 響け！ユーフォニアム　後編",
       "duration_min": 157,
       "screenings": [
@@ -106,5 +120,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-07T03:54:54.539021"
+  "scraped_at": "2026-09-08T04:02:14.854206"
 }
