@@ -443,12 +443,12 @@
       ]
     },
     {
-      "title": "グレイ・ミッション（字幕版）",
-      "duration_min": 98,
+      "title": "オークストリートの異変（字幕版）",
+      "duration_min": 100,
       "screenings": [
         {
-          "start_time": "18:45",
-          "end_time": "20:35",
+          "start_time": "15:10",
+          "end_time": "17:05",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -457,12 +457,12 @@
       ]
     },
     {
-      "title": "オークストリートの異変（字幕版）",
-      "duration_min": 100,
+      "title": "グレイ・ミッション（字幕版）",
+      "duration_min": 98,
       "screenings": [
         {
-          "start_time": "15:10",
-          "end_time": "17:05",
+          "start_time": "18:45",
+          "end_time": "20:35",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -493,20 +493,6 @@
         {
           "start_time": "17:50",
           "end_time": "20:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "見えない娘　ＴＨＥ　ＩＮＶＩＳＩＢＬＥＳ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "14:30",
-          "end_time": "16:35",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -573,6 +559,20 @@
       ]
     },
     {
+      "title": "見えない娘　ＴＨＥ　ＩＮＶＩＳＩＢＬＥＳ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "16:35",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "パウ・パトロール　ザ・ダイノ・ムービー（吹替版）",
       "duration_min": 89,
       "screenings": [
@@ -587,5 +587,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-08T03:41:51.699561"
+  "scraped_at": "2026-09-09T03:45:39.081735"
 }
