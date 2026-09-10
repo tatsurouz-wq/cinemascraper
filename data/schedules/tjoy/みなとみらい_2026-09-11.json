@@ -823,86 +823,6 @@
     {
       "title": "TWS VR CONCERT：RUSH ROAD",
       "duration_min": 80,
-      "screenings": []
-    },
-    {
-      "title": "THE ALFEE 3000PREMIUM～トラベリングバンドが刻んだ3000本の奇跡と軌跡～",
-      "duration_min": 123,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "時には懺悔を",
-      "duration_min": 130,
-      "screenings": []
-    },
-    {
-      "title": "【応援上映】劇場版 TUBE 40th Anniversary Live & Documentary ～40周年の航海記",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "THE RIBBON HERO リボンヒーロー",
-      "duration_min": 110,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "【声出しOK！Welcome to My Day上映会】【SCREENX】6DAYS",
-      "duration_min": 86,
-      "screenings": []
-    },
-    {
-      "title": "白鳥とコウモリ",
-      "duration_min": 146,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】「カーズ」劇場公開20周年記念上映",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "TWS VR CONCERT：RUSH ROAD",
-      "duration_min": 80,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】バックルームズ",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "TWS VR CONCERT：RUSH ROAD",
-      "duration_min": 80,
       "screenings": [
         {
           "start_time": "17:55",
@@ -911,6 +831,28 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[公開記念舞台挨拶中継]最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "12:30",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:15",
+          "end_time": "16:05",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -951,5 +893,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-09T04:06:02.241123"
+  "scraped_at": "2026-09-10T15:36:03.674907"
 }

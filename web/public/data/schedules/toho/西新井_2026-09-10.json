@@ -9,114 +9,32 @@
   "date": "2026-09-10",
   "movies": [
     {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
+      "title": "時には懺悔を",
+      "duration_min": 128,
       "screenings": [
         {
-          "start_time": "9:15",
-          "end_time": "11:55",
+          "start_time": "11:40",
+          "end_time": "14:00",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
-          "start_time": "15:25",
-          "end_time": "18:05",
+          "start_time": "16:45",
+          "end_time": "19:05",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
-          "start_time": "17:05",
-          "end_time": "19:45",
+          "start_time": "21:50",
+          "end_time": "24:10",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:30",
-          "end_time": "21:10",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:10",
-          "end_time": "22:50",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "（赤ちゃん連れ限定）白鳥とコウモリ",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "12:20",
-          "end_time": "15:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "バックルームズ（字幕版）",
-      "duration_min": 126,
-      "screenings": [
-        {
-          "start_time": "9:35",
-          "end_time": "11:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:50",
-          "end_time": "20:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "バックルームズ（吹替版）",
-      "duration_min": 126,
-      "screenings": [
-        {
-          "start_time": "12:20",
-          "end_time": "14:40",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:05",
-          "end_time": "17:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:35",
-          "end_time": "22:55",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -130,7 +48,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:55",
@@ -138,7 +56,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:35",
@@ -146,7 +64,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:15",
@@ -154,7 +72,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:55",
@@ -162,313 +80,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "時には懺悔を",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "14:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:45",
-          "end_time": "19:05",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:50",
-          "end_time": "24:10",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ハリー・ポッターと賢者の石（ＭＸ４Ｄ・３Ｄ・吹替版）",
-      "duration_min": 152,
-      "screenings": [
-        {
-          "start_time": "17:35",
-          "end_time": "20:35",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "映画ちいかわ　人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "9:25",
-          "end_time": "11:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "11:45",
-          "end_time": "13:40",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:05",
-          "end_time": "16:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "16:25",
-          "end_time": "18:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:45",
-          "end_time": "20:40",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "23:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ラスト・サバイバー（字幕版）",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "20:45",
-          "end_time": "22:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ラスト・サバイバー（吹替版）",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "14:25",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "シェルター（字幕版）",
-      "duration_min": 107,
-      "screenings": [
-        {
-          "start_time": "9:25",
-          "end_time": "11:25",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "15:10",
-          "end_time": "17:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:20",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "見えない娘　ＴＨＥ　ＩＮＶＩＳＩＢＬＥＳ",
-      "duration_min": 110,
-      "screenings": [
-        {
-          "start_time": "19:25",
-          "end_time": "21:30",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ミニオンズ＆モンスターズ（吹替版）",
-      "duration_min": 90,
-      "screenings": [
-        {
-          "start_time": "9:15",
-          "end_time": "11:00",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "14:55",
-          "end_time": "16:40",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "14:50",
-          "end_time": "17:30",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "12:30",
-          "end_time": "15:10",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:25",
-          "end_time": "21:05",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "グレイ・ミッション（字幕版）",
-      "duration_min": 98,
-      "screenings": [
-        {
-          "start_time": "21:35",
-          "end_time": "23:25",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "オークストリートの異変（吹替版）",
-      "duration_min": 100,
-      "screenings": [
-        {
-          "start_time": "9:45",
-          "end_time": "11:40",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "9:30",
-          "end_time": "11:50",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:55",
-          "end_time": "20:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ブルーロック（ＭＸ４Ｄ）",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "12:00",
-          "end_time": "14:25",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "16:40",
-          "end_time": "19:05",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -482,7 +94,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:30",
@@ -490,7 +102,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:30",
@@ -498,21 +110,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "モアナと伝説の海（吹替版）",
-      "duration_min": 115,
-      "screenings": [
-        {
-          "start_time": "11:50",
-          "end_time": "14:00",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -526,7 +124,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:35",
@@ -534,7 +132,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:35",
@@ -542,7 +140,61 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "9:25",
+          "end_time": "11:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:45",
+          "end_time": "13:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "16:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "18:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -556,7 +208,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:20",
@@ -564,7 +216,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "21:55",
@@ -572,7 +224,341 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "モアナと伝説の海（吹替版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "14:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "14:50",
+          "end_time": "17:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（吹替版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "15:10",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:25",
+          "end_time": "21:05",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "9:30",
+          "end_time": "11:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "16:40",
+          "end_time": "19:05",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラスト・サバイバー（字幕版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オークストリートの異変（吹替版）",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "9:45",
+          "end_time": "11:40",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "シェルター（字幕版）",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "9:25",
+          "end_time": "11:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:10",
+          "end_time": "17:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:20",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:25",
+          "end_time": "18:05",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:05",
+          "end_time": "19:45",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:10",
+          "end_time": "22:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "グレイ・ミッション（字幕版）",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "21:35",
+          "end_time": "23:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハリー・ポッターと賢者の石（ＭＸ４Ｄ・３Ｄ・吹替版）",
+      "duration_min": 152,
+      "screenings": [
+        {
+          "start_time": "17:35",
+          "end_time": "20:35",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "見えない娘　ＴＨＥ　ＩＮＶＩＳＩＢＬＥＳ",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "19:25",
+          "end_time": "21:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ミニオンズ＆モンスターズ（吹替版）",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "9:15",
+          "end_time": "11:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "16:40",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（字幕版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "9:35",
+          "end_time": "11:55",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:50",
+          "end_time": "20:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（吹替版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "14:40",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:05",
+          "end_time": "17:25",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "22:55",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック（ＭＸ４Ｄ）",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "14:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラスト・サバイバー（吹替版）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "14:25",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
         }
       ]
     },
@@ -586,10 +572,24 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "（赤ちゃん連れ限定）白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "12:20",
+          "end_time": "15:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-09-09T03:38:36.395032"
+  "scraped_at": "2026-09-10T15:08:49.659846"
 }
