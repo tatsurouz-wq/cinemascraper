@@ -46,7 +46,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "11:15",
@@ -54,7 +54,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -92,7 +92,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:30",
@@ -130,7 +130,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:50",
@@ -160,7 +160,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:25",
@@ -226,7 +226,7 @@
           "screen": "シアター１２",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -324,7 +324,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:10",
@@ -362,7 +362,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -390,7 +390,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:35",
@@ -412,7 +412,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:10",
@@ -434,7 +434,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -504,7 +504,7 @@
           "screen": "シアター１２",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -548,7 +548,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -590,7 +590,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -632,7 +632,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -660,7 +660,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -674,7 +674,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -702,7 +702,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -716,7 +716,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -730,7 +730,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -744,7 +744,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:40",
@@ -752,7 +752,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -774,7 +774,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -802,7 +802,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -819,6 +819,76 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "【吹替】「カーズ」劇場公開20周年記念上映",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】ルックバック",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "5秒で完全犯罪を生成する方法",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "マッチモンド(PG12)",
+      "duration_min": 104,
+      "screenings": []
+    },
+    {
+      "title": "THE ALFEE 3000PREMIUM～トラベリングバンドが刻んだ3000本の奇跡と軌跡～",
+      "duration_min": 123,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
+      "screenings": []
     },
     {
       "title": "TWS VR CONCERT：RUSH ROAD",
@@ -893,5 +963,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-10T15:36:03.674907"
+  "scraped_at": "2026-09-11T03:58:56.645429"
 }
