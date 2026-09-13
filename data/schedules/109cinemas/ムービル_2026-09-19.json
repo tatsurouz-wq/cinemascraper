@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-09-19",
+  "movies": [
+    {
+      "title": "ヨコハマメリー[トーク付上映]",
+      "duration_min": 92,
+      "screenings": [
+        {
+          "start_time": "15:00",
+          "end_time": "17:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-13T03:32:24.264372"
+}

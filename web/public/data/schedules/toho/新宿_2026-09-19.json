@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ新宿",
+    "area": "新宿",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/076/TNPI2000J01.do"
+  },
+  "date": "2026-09-19",
+  "movies": [
+    {
+      "title": "Ｕ－ＮＥＸＴ　Ｐｒｅｓｅｎｔｓ　Ｐｒｅｍｉｅｒ　Ｌｅａｇｕｅ　ライブビューイング",
+      "duration_min": 300,
+      "screenings": [
+        {
+          "start_time": "20:30",
+          "end_time": "25:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-13T03:37:27.852680"
+}

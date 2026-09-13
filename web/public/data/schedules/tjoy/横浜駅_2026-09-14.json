@@ -9,6 +9,106 @@
   "date": "2026-09-14",
   "movies": [
     {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "11:00",
+          "end_time": "12:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "14:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "16:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "18:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:00",
+          "end_time": "22:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:15",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:05",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "16:05",
+          "end_time": "18:20",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "ルックバック",
       "duration_min": 100,
       "screenings": [
@@ -18,7 +118,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:30",
@@ -26,7 +126,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "17:40",
@@ -34,7 +134,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:40",
@@ -42,7 +142,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:55",
@@ -50,7 +150,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -64,45 +164,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "11:15",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:50",
-          "end_time": "16:05",
-          "screen": "シアター２",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:05",
-          "end_time": "18:20",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:10",
-          "end_time": "23:25",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -116,7 +178,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "12:15",
@@ -124,7 +186,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:30",
@@ -132,7 +194,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "20:45",
@@ -140,7 +202,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -154,7 +216,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:10",
@@ -162,7 +224,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -176,7 +238,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -190,7 +252,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:45",
@@ -198,7 +260,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:30",
@@ -206,7 +268,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "21:40",
@@ -214,7 +276,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -228,7 +290,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:45",
@@ -236,7 +298,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:35",
@@ -244,7 +306,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:20",
@@ -252,7 +314,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -266,7 +328,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "16:10",
@@ -274,7 +336,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "19:05",
@@ -282,7 +344,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -296,7 +358,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -310,7 +372,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -324,7 +386,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "13:40",
@@ -332,7 +394,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "15:55",
@@ -340,7 +402,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         },
         {
           "start_time": "18:20",
@@ -348,7 +410,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -362,7 +424,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -376,7 +438,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -390,111 +452,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "10:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:00",
-          "end_time": "12:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:00",
-          "end_time": "14:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:00",
-          "end_time": "16:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:00",
-          "end_time": "18:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:00",
-          "end_time": "20:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:00",
-          "end_time": "22:45",
-          "screen": "シアター７",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ブルーロック",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "11:15",
-          "screen": "シアター８",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "【2D吹替】ミニオンズ＆モンスターズ",
-      "duration_min": 91,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "10:40",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "13:40",
-          "end_time": "15:55",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -508,7 +466,49 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "ブルーロック",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:15",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【2D吹替】ミニオンズ＆モンスターズ",
+      "duration_min": 91,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "13:40",
+          "end_time": "15:55",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -522,7 +522,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -536,7 +536,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -550,7 +550,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -578,7 +578,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
@@ -592,17 +592,17 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
+          "availability": "available"
         }
       ]
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【DolbyAtmos】劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
       "duration_min": 119,
       "screenings": []
     },
@@ -612,13 +612,8 @@
       "screenings": []
     },
     {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "ルックバック",
-      "duration_min": 100,
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -627,47 +622,65 @@
       "screenings": []
     },
     {
-      "title": "5秒で完全犯罪を生成する方法",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
       "title": "あの星が降る丘で、君とまた出会いたい。",
       "duration_min": 129,
       "screenings": []
     },
     {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
+      "title": "ルックバック",
+      "duration_min": 100,
       "screenings": []
     },
     {
-      "title": "【吹替】オデュッセイア",
-      "duration_min": 173,
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
       "screenings": []
     },
     {
-      "title": "[公開記念舞台挨拶中継]最終楽章 響け！ユーフォニアム　後編",
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】オデュッセイア",
       "duration_min": 172,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【“また会う日まで”お見送り上映会】映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 134,
       "screenings": [
         {
-          "start_time": "09:30",
-          "end_time": "12:30",
-          "screen": "シアター１",
+          "start_time": "09:00",
+          "end_time": "11:25",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
-          "start_time": "13:15",
-          "end_time": "16:03",
-          "screen": "シアター１",
+          "start_time": "11:45",
+          "end_time": "14:10",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "16:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-09-11T04:00:09.940116"
+  "scraped_at": "2026-09-13T04:12:43.352849"
 }
