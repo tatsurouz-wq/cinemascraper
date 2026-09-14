@@ -23,6 +23,76 @@
       ]
     },
     {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:20",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "12:55",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "14:30",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "16:05",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "17:40",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "19:15",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "20:50",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "22:25",
+          "screen": "シアター４",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ルックバック",
       "duration_min": 99,
       "screenings": [
@@ -247,76 +317,6 @@
       ]
     },
     {
-      "title": "TWS VR CONCERT：RUSH ROAD",
-      "duration_min": 80,
-      "screenings": [
-        {
-          "start_time": "10:00",
-          "end_time": "11:20",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "11:35",
-          "end_time": "12:55",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:10",
-          "end_time": "14:30",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:45",
-          "end_time": "16:05",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "16:20",
-          "end_time": "17:40",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:55",
-          "end_time": "19:15",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:30",
-          "end_time": "20:50",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:05",
-          "end_time": "22:25",
-          "screen": "シアター４",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "白鳥とコウモリ",
       "duration_min": 146,
       "screenings": [
@@ -455,6 +455,20 @@
       ]
     },
     {
+      "title": "【字幕】ラスト・サバイバー(PG12)",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:00",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "スワロウテイル 4Kリマスター[R15+]",
       "duration_min": 149,
       "screenings": [
@@ -536,20 +550,6 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】ラスト・サバイバー(PG12)",
-      "duration_min": 119,
-      "screenings": [
-        {
-          "start_time": "08:50",
-          "end_time": "11:00",
-          "screen": "シアター１０",
-          "format": "2D",
-          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -653,6 +653,20 @@
       ]
     },
     {
+      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "21:10",
+          "end_time": "23:50",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "【2D吹替】ミニオンズ＆モンスターズ",
       "duration_min": 91,
       "screenings": [
@@ -676,20 +690,6 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "21:10",
-          "end_time": "23:50",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -837,11 +837,6 @@
       ]
     },
     {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
       "title": "【字幕】オデュッセイア",
       "duration_min": 173,
       "screenings": []
@@ -857,16 +852,6 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 133,
-      "screenings": []
-    },
-    {
       "title": "【DolbyAtmos】ルックバック",
       "duration_min": 99,
       "screenings": []
@@ -874,6 +859,11 @@
     {
       "title": "5秒で完全犯罪を生成する方法",
       "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "マッチモンド(PG12)",
+      "duration_min": 104,
       "screenings": []
     },
     {
@@ -897,13 +887,13 @@
       "screenings": []
     },
     {
-      "title": "【字幕】バックルームズ",
-      "duration_min": 127,
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
       "screenings": []
     },
     {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 120,
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
       "screenings": []
     },
     {
@@ -917,28 +907,19 @@
       "screenings": []
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
       "title": "5秒で完全犯罪を生成する方法",
       "duration_min": 108,
       "screenings": []
     },
     {
-      "title": "[公開記念舞台挨拶]マッチモンド(PG12)",
-      "duration_min": 139,
-      "screenings": [
-        {
-          "start_time": "12:40",
-          "end_time": "15:05",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
     },
     {
       "title": "[公開記念舞台挨拶]最終楽章 響け！ユーフォニアム　後編",
@@ -963,5 +944,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-13T04:12:18.704846"
+  "scraped_at": "2026-09-14T04:21:25.342369"
 }
