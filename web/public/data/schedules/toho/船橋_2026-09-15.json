@@ -18,7 +18,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:40",
@@ -54,7 +54,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:10",
@@ -98,7 +98,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -112,7 +112,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:15",
@@ -134,7 +134,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:30",
@@ -142,7 +142,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -172,7 +172,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:50",
@@ -210,7 +210,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:40",
@@ -248,7 +248,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:50",
@@ -256,7 +256,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:50",
@@ -294,7 +294,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:20",
@@ -332,7 +332,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:10",
@@ -340,7 +340,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:30",
@@ -378,7 +378,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -392,7 +392,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -406,20 +406,48 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（ＭＸ４Ｄ・３Ｄ・吹替版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "15:10",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
           "availability": "available"
         }
       ]
     },
     {
-      "title": "モアナと伝説の海（吹替版）",
-      "duration_min": 115,
+      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
+      "duration_min": 127,
       "screenings": [
         {
-          "start_time": "16:20",
-          "end_time": "18:30",
+          "start_time": "17:30",
+          "end_time": "19:55",
           "screen": "",
           "format": "2D",
-          "language": "吹替",
+          "language": "字幕",
           "availability": "available"
         }
       ]
@@ -456,49 +484,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（ＭＸ４Ｄ・３Ｄ・吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "12:30",
-          "end_time": "15:10",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "18:30",
-          "end_time": "21:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
-      "duration_min": 127,
-      "screenings": [
-        {
-          "start_time": "17:30",
-          "end_time": "19:55",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -545,6 +531,20 @@
       ]
     },
     {
+      "title": "モアナと伝説の海（吹替版）",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "16:20",
+          "end_time": "18:30",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "時には懺悔を",
       "duration_min": 128,
       "screenings": [
@@ -568,7 +568,21 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "15:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     },
@@ -585,21 +599,7 @@
           "availability": "available"
         }
       ]
-    },
-    {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "12:45",
-          "end_time": "15:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
     }
   ],
-  "scraped_at": "2026-09-14T20:06:46.519253"
+  "scraped_at": "2026-09-15T04:02:48.815334"
 }
