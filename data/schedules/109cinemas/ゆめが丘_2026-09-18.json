@@ -141,6 +141,34 @@
       ]
     },
     {
+      "title": "オデュッセイア[字幕]",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア[吹替]",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "09:25",
+          "end_time": "12:25",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "オデュッセイア[IMAXレーザー・字幕]",
       "duration_min": 172,
       "screenings": [
@@ -238,34 +266,6 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "オデュッセイア[字幕]",
-      "duration_min": 172,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "21:00",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "オデュッセイア[吹替]",
-      "duration_min": 172,
-      "screenings": [
-        {
-          "start_time": "09:25",
-          "end_time": "12:25",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -467,5 +467,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-15T03:44:55.003490"
+  "scraped_at": "2026-09-15T18:49:43.063942"
 }

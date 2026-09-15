@@ -207,28 +207,6 @@
       ]
     },
     {
-      "title": "映画ちいかわ　人魚の島のひみつ（ＩＭＡＸ）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "15:35",
-          "end_time": "17:30",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "21:30",
-          "end_time": "23:25",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -287,24 +265,32 @@
       "duration_min": 172,
       "screenings": [
         {
-          "start_time": "8:30",
-          "end_time": "11:35",
+          "start_time": "9:10",
+          "end_time": "12:15",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "12:00",
-          "end_time": "15:05",
+          "start_time": "12:40",
+          "end_time": "15:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "18:00",
-          "end_time": "21:05",
+          "start_time": "16:10",
+          "end_time": "19:15",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:40",
+          "end_time": "22:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -543,5 +529,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-15T04:01:20.058629"
+  "scraped_at": "2026-09-15T19:06:21.913844"
 }

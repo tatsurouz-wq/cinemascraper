@@ -9,81 +9,6 @@
   "date": "2026-09-20",
   "movies": [
     {
-      "title": "【DolbyCinema・字幕】バックルームズ",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "ルックバック",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "5秒で完全犯罪を生成する方法",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "5秒で完全犯罪を生成する方法",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】ルックバック",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
       "title": "【“また会う日まで”お見送り上映会】映画ちいかわ 人魚の島のひみつ",
       "duration_min": 134,
       "screenings": [
@@ -112,7 +37,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "【初日舞台挨拶中継】踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 187,
+      "screenings": [
+        {
+          "start_time": "15:50",
+          "end_time": "19:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-09-15T04:23:42.945152"
+  "scraped_at": "2026-09-15T19:30:16.602246"
 }
