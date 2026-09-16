@@ -129,14 +129,6 @@
       "duration_min": 142,
       "screenings": [
         {
-          "start_time": "13:40",
-          "end_time": "16:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
           "start_time": "22:00",
           "end_time": "24:35",
           "screen": "",
@@ -153,6 +145,14 @@
         {
           "start_time": "8:20",
           "end_time": "10:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "16:15",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -707,5 +707,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-15T18:55:48.522722"
+  "scraped_at": "2026-09-16T03:47:23.764640"
 }

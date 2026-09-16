@@ -137,6 +137,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "11:25",
+          "end_time": "13:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "18:30",
           "end_time": "21:00",
           "screen": "",
@@ -150,14 +158,6 @@
       "title": "超かぐや姫！（発声ＯＫ・ＭＸ４Ｄ）",
       "duration_min": 142,
       "screenings": [
-        {
-          "start_time": "11:25",
-          "end_time": "13:55",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
         {
           "start_time": "21:25",
           "end_time": "23:55",
@@ -553,5 +553,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-15T19:19:14.962313"
+  "scraped_at": "2026-09-16T04:12:19.094296"
 }
