@@ -9,28 +9,6 @@
   "date": "2026-09-18",
   "movies": [
     {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
-      "duration_min": null,
-      "screenings": [
-        {
-          "start_time": "09:20",
-          "end_time": "11:55",
-          "screen": "シアター7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "12:20",
-          "end_time": "14:55",
-          "screen": "シアター7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "踊る大捜査線 N.E.W.…[舞台挨拶中継",
       "duration_min": null,
       "screenings": [
@@ -41,6 +19,28 @@
           "format": "2D",
           "language": "日本語",
           "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:20",
+          "end_time": "11:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:55",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:15",
@@ -142,7 +142,7 @@
           "screen": "シアター3",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:25",
@@ -180,7 +180,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:10",
@@ -224,7 +224,7 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -252,7 +252,7 @@
           "screen": "シアター4",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:50",
@@ -288,7 +288,7 @@
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -330,7 +330,7 @@
           "screen": "シアター6",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -363,5 +363,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-16T03:35:55.760107"
+  "scraped_at": "2026-09-18T03:26:31.248097"
 }

@@ -135,10 +135,16 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        },
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫！",
+      "duration_min": 142,
+      "screenings": [
         {
-          "start_time": "15:10",
-          "end_time": "17:50",
+          "start_time": "16:05",
+          "end_time": "18:45",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -371,8 +377,8 @@
       "duration_min": 123,
       "screenings": [
         {
-          "start_time": "16:10",
-          "end_time": "18:25",
+          "start_time": "15:20",
+          "end_time": "17:35",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -429,8 +435,8 @@
       "duration_min": 119,
       "screenings": [
         {
-          "start_time": "18:50",
-          "end_time": "21:05",
+          "start_time": "19:10",
+          "end_time": "21:25",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -607,8 +613,8 @@
       "duration_min": 100,
       "screenings": [
         {
-          "start_time": "21:30",
-          "end_time": "23:25",
+          "start_time": "21:50",
+          "end_time": "23:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -771,5 +777,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-16T03:44:43.545617"
+  "scraped_at": "2026-09-18T03:35:22.774695"
 }

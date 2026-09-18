@@ -1,0 +1,383 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-09-23",
+  "movies": [
+    {
+      "title": "アベンジャーズ/エンドゲーム…[IV・SCREENX・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "17:40",
+          "end_time": "20:55",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "アベンジャーズ/エンド…[IV・Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "15:00",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:55",
+          "end_time": "14:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "17:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:55",
+          "end_time": "23:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫![SCREENX][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:25",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:40",
+          "end_time": "17:15",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:55",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫![Dolby Atmos][ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:55",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "12:05",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:50",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア[35mm・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "14:30",
+          "end_time": "17:35",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "21:05",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オアシス ドンド・ルック・バック…[Dolby Atmos・字]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:30",
+          "end_time": "17:50",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:45",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ルックバック",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "13:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:30",
+          "end_time": "18:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版SEKIRO NO DEFEAT",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "11:40",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版SEKIRO NO DEFEAT[英語字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "14:05",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "15:40",
+          "end_time": "17:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ ワルプルギス…",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "09:05",
+          "end_time": "11:15",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:55",
+          "end_time": "16:05",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ラスト・サバイバー[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "23:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "スパイダーマン:ブランド・ニュー・デイ[字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "13:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:40",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:05",
+          "end_time": "15:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:35",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦[SCREENX]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "14:15",
+          "screen": "シアター6",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー5[吹替]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "21:30",
+          "end_time": "23:25",
+          "screen": "シアター8",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[Dolby Atmos・字幕]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "11:15",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:27:09.035986"
+}

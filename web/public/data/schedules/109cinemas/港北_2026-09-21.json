@@ -9,6 +9,28 @@
   "date": "2026-09-21",
   "movies": [
     {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "11:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:25",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画名探偵プリキュア!不思議な庭と2人の秘密",
       "duration_min": 71,
       "screenings": [
@@ -32,28 +54,6 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
-      "duration_min": 142,
-      "screenings": [
-        {
-          "start_time": "08:45",
-          "end_time": "11:20",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:50",
-          "end_time": "16:25",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -319,5 +319,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-16T03:39:43.576901"
+  "scraped_at": "2026-09-18T03:30:27.782952"
 }

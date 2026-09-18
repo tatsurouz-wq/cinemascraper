@@ -163,6 +163,14 @@
           "availability": "unknown"
         },
         {
+          "start_time": "11:30",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
           "start_time": "11:45",
           "end_time": "13:05",
           "screen": "シアター５",
@@ -655,33 +663,8 @@
       ]
     },
     {
-      "title": "【DolbyCinema・字幕】バックルームズ",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "ルックバック",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "5秒で完全犯罪を生成する方法",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
       "screenings": []
     },
     {
@@ -690,74 +673,54 @@
       "screenings": []
     },
     {
-      "title": "【“また会う日まで”お見送り上映会】映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 134,
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
       "screenings": []
     },
     {
-      "title": "5秒で完全犯罪を生成する方法",
-      "duration_min": 107,
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
-      "screenings": []
-    },
-    {
-      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
-      "duration_min": 119,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】ルックバック",
-      "duration_min": 100,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "title": "白鳥とコウモリ",
       "duration_min": 145,
       "screenings": []
     },
     {
-      "title": "【“また会う日まで”お見送り上映会】映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 134,
-      "screenings": [
-        {
-          "start_time": "09:00",
-          "end_time": "11:25",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "11:45",
-          "end_time": "14:10",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "14:30",
-          "end_time": "16:55",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
+      "title": "ルックバック",
+      "duration_min": 100,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】オデュッセイア",
+      "duration_min": 172,
+      "screenings": []
+    },
+    {
+      "title": "【初日舞台挨拶中継】踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 187,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": []
+    },
+    {
+      "title": "超かぐや姫！復活上映",
+      "duration_min": 145,
+      "screenings": []
     },
     {
       "title": "【初日舞台挨拶中継】踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
@@ -772,7 +735,35 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "【おこさまシネマ】映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【おこさまシネマ】映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "12:50",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-09-16T04:22:45.063078"
+  "scraped_at": "2026-09-18T04:12:51.127434"
 }

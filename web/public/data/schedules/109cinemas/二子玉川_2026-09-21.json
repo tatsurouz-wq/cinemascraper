@@ -15,7 +15,7 @@
         {
           "start_time": "08:20",
           "end_time": "10:55",
-          "screen": "シアター3",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -23,7 +23,7 @@
         {
           "start_time": "11:30",
           "end_time": "14:05",
-          "screen": "シアター3",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -31,7 +31,7 @@
         {
           "start_time": "14:35",
           "end_time": "17:10",
-          "screen": "シアター3",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -39,7 +39,7 @@
         {
           "start_time": "17:45",
           "end_time": "20:20",
-          "screen": "シアター3",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -47,7 +47,7 @@
         {
           "start_time": "20:50",
           "end_time": "23:25",
-          "screen": "シアター3",
+          "screen": "シアター9",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -99,7 +99,7 @@
         {
           "start_time": "08:20",
           "end_time": "09:40",
-          "screen": "シアター9",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -107,7 +107,7 @@
         {
           "start_time": "14:40",
           "end_time": "16:00",
-          "screen": "シアター9",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -174,6 +174,44 @@
           "screen": "シアター8",
           "format": "2D",
           "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア[IMAXレーザー・字幕]",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "09:10",
+          "end_time": "12:10",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:40",
+          "end_time": "15:40",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:05",
+          "end_time": "19:05",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "22:30",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -405,7 +443,7 @@
         {
           "start_time": "10:05",
           "end_time": "11:55",
-          "screen": "シアター9",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -413,7 +451,7 @@
         {
           "start_time": "12:20",
           "end_time": "14:10",
-          "screen": "シアター9",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -421,7 +459,7 @@
         {
           "start_time": "16:30",
           "end_time": "18:20",
-          "screen": "シアター9",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -429,7 +467,15 @@
         {
           "start_time": "18:45",
           "end_time": "20:35",
-          "screen": "シアター9",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:00",
+          "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
@@ -479,5 +525,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-16T03:37:43.104177"
+  "scraped_at": "2026-09-18T03:28:20.728065"
 }

@@ -9,6 +9,36 @@
   "date": "2026-09-18",
   "movies": [
     {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "11:20",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "13:20",
+          "end_time": "15:55",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:55",
+          "end_time": "21:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画名探偵プリキュア!不思議な庭と2人の秘密",
       "duration_min": 71,
       "screenings": [
@@ -18,7 +48,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "10:25",
@@ -26,12 +56,26 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:05",
           "end_time": "13:25",
           "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "踊る大捜査線 N.E.W.…[舞台挨拶中継",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "15:50",
+          "end_time": "19:10",
+          "screen": "シアター1",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -53,50 +97,6 @@
       ]
     },
     {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
-      "duration_min": 142,
-      "screenings": [
-        {
-          "start_time": "08:45",
-          "end_time": "11:20",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "13:20",
-          "end_time": "15:55",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:55",
-          "end_time": "21:30",
-          "screen": "シアター4",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "踊る大捜査線 N.E.W.…[舞台挨拶中継",
-      "duration_min": 142,
-      "screenings": [
-        {
-          "start_time": "15:50",
-          "end_time": "19:10",
-          "screen": "シアター1",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "オデュッセイア[字幕]",
       "duration_min": 172,
       "screenings": [
@@ -106,7 +106,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -148,7 +148,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "13:20",
@@ -170,7 +170,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -206,7 +206,7 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -262,7 +262,7 @@
           "screen": "シアター7",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -290,7 +290,7 @@
           "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "14:05",
@@ -334,7 +334,7 @@
           "screen": "シアター5",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -353,5 +353,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-16T03:39:26.781374"
+  "scraped_at": "2026-09-18T03:30:10.253853"
 }
