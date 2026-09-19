@@ -564,7 +564,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:00",
@@ -572,7 +572,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:25",
@@ -580,7 +580,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:15",
@@ -588,7 +588,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:15",
@@ -669,13 +669,8 @@
       ]
     },
     {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
+      "title": "八つ墓村",
+      "duration_min": 118,
       "screenings": []
     },
     {
@@ -684,23 +679,23 @@
       "screenings": []
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "ルックバック",
-      "duration_min": 100,
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
       "screenings": []
     },
     {
       "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
       "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
       "screenings": []
     },
     {
@@ -714,33 +709,24 @@
       "screenings": []
     },
     {
-      "title": "【初日舞台挨拶中継】踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 187,
+      "title": "SEKIRO:NO DEFEAT(PG12)",
+      "duration_min": 107,
       "screenings": []
     },
     {
-      "title": "あの星が降る丘で、君とまた出会いたい。",
-      "duration_min": 129,
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
       "screenings": []
     },
     {
-      "title": "超かぐや姫！復活上映",
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
       "duration_min": 145,
       "screenings": []
-    },
-    {
-      "title": "【初日舞台挨拶中継】踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 187,
-      "screenings": [
-        {
-          "start_time": "15:50",
-          "end_time": "19:10",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
     },
     {
       "title": "【おこさまシネマ】映画名探偵プリキュア！不思議な庭と2人の秘密",
@@ -752,7 +738,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -771,5 +757,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-18T04:12:42.847503"
+  "scraped_at": "2026-09-19T04:04:46.451905"
 }

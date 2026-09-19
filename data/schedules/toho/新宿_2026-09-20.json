@@ -9,6 +9,20 @@
   "date": "2026-09-20",
   "movies": [
     {
+      "title": "ＮＣＴ　１２７　５ＴＨ　ＴＯＵＲ　ＮＥＯ　ＣＩＴＹ：　ＳＥＯＵＬ　－　ＴＨＥ　ＲＥＤＬＩＮＥ",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "19:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "踊る大捜査線　Ｎ．Ｅ．Ｗ．　メトロポリスを駆け抜けろ！",
       "duration_min": 142,
       "screenings": [
@@ -773,5 +787,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-18T03:36:23.146627"
+  "scraped_at": "2026-09-19T03:31:35.255953"
 }

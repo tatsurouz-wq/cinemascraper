@@ -9,6 +9,28 @@
   "date": "2026-09-24",
   "movies": [
     {
+      "title": "アベンジャーズ／エンドゲーム：アンコール（インフィニティビジョン・字幕版）",
+      "duration_min": 186,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "15:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "22:45",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "踊る大捜査線　Ｎ．Ｅ．Ｗ．　メトロポリスを駆け抜けろ！",
       "duration_min": 142,
       "screenings": [
@@ -180,28 +202,6 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "アベンジャーズ／エンドゲーム：アンコール（インフィニティビジョン・字幕版）",
-      "duration_min": 186,
-      "screenings": [
-        {
-          "start_time": "12:15",
-          "end_time": "15:30",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "19:25",
-          "end_time": "22:40",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
           "availability": "unknown"
         }
       ]
@@ -533,5 +533,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-18T03:46:40.049651"
+  "scraped_at": "2026-09-19T03:40:57.714069"
 }
