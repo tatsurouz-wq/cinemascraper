@@ -130,7 +130,7 @@
           "screen": "シアター７",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:15",
@@ -138,7 +138,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -208,7 +208,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -250,7 +250,7 @@
           "screen": "シアター４",
           "format": "Dolby Atmos",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -332,7 +332,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -434,7 +434,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -628,7 +628,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         },
         {
           "start_time": "22:15",
@@ -636,7 +636,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -669,56 +669,6 @@
       ]
     },
     {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
-      "screenings": []
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "八つ墓村",
-      "duration_min": 118,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyAtmos】超かぐや姫！",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
-    },
-    {
       "title": "【おこさまシネマ】映画名探偵プリキュア！不思議な庭と2人の秘密",
       "duration_min": 73,
       "screenings": [
@@ -747,5 +697,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-19T11:10:16.322011"
+  "scraped_at": "2026-09-19T14:54:05.964554"
 }
