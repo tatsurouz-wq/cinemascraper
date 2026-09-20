@@ -9,26 +9,84 @@
   "date": "2026-09-25",
   "movies": [
     {
-      "title": "[公開記念舞台挨拶]最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 157,
-      "screenings": [
-        {
-          "start_time": "10:00",
-          "end_time": "12:50",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "13:20",
-          "end_time": "16:00",
-          "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "【吹替】「カーズ」劇場公開20周年記念上映",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "八つ墓村",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】Michael／マイケル",
+      "duration_min": 133,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos】超かぐや姫！",
+      "duration_min": 143,
+      "screenings": []
+    },
+    {
+      "title": "SEKIRO:NO DEFEAT(PG12)",
+      "duration_min": 108,
+      "screenings": []
+    },
+    {
+      "title": "NCT 127 5TH TOUR 'NEO CITY: SEOUL - THE REDLINE' in CINEMAS",
+      "duration_min": 210,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
     },
     {
       "title": "NCT 127 5TH TOUR 'NEO CITY: SEOUL - THE REDLINE' in CINEMAS",
@@ -87,5 +145,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-19T14:53:59.511939"
+  "scraped_at": "2026-09-20T04:23:41.851037"
 }

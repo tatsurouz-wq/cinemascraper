@@ -1,0 +1,41 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズムービル",
+    "area": "ムービル",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/movil/"
+  },
+  "date": "2026-09-26",
+  "movies": [
+    {
+      "title": "赤い糸輪廻のひみつ[トーク付き上映][字幕]",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "14:20",
+          "end_time": "17:10",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "鯨が消えた入り江[トーク付き上映][字幕]",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:40",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-20T03:44:56.619661"
+}

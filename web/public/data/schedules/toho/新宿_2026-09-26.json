@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ新宿",
+    "area": "新宿",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/076/TNPI2000J01.do"
+  },
+  "date": "2026-09-26",
+  "movies": [
+    {
+      "title": "アニメ「葬送のフリーレン」放送３周年記念第２期６話上映（舞台挨拶中継）",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "12:10",
+          "end_time": "15:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-20T03:49:41.897942"
+}
