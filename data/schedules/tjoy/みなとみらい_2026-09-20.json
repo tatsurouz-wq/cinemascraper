@@ -18,37 +18,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos】超かぐや姫！",
-      "duration_min": 143,
-      "screenings": [
-        {
-          "start_time": "10:05",
-          "end_time": "12:40",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "日本語",
           "availability": "sold_out"
-        },
-        {
-          "start_time": "15:35",
-          "end_time": "18:10",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "20:40",
-          "end_time": "23:15",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "日本語",
-          "availability": "available"
         }
       ]
     },
@@ -94,7 +64,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:20",
@@ -102,7 +72,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:35",
@@ -110,7 +80,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -118,7 +88,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:30",
@@ -133,6 +103,36 @@
           "end_time": "23:50",
           "screen": "シアター９",
           "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos】超かぐや姫！",
+      "duration_min": 143,
+      "screenings": [
+        {
+          "start_time": "10:05",
+          "end_time": "12:40",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "15:35",
+          "end_time": "18:10",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "日本語",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "23:15",
+          "screen": "シアター１２",
+          "format": "ScreenX",
           "language": "日本語",
           "availability": "available"
         }
@@ -164,7 +164,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "15:20",
@@ -172,7 +172,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:05",
@@ -180,7 +180,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -216,7 +216,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "16:50",
@@ -224,7 +224,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "19:15",
@@ -232,7 +232,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -254,7 +254,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -290,7 +290,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:45",
@@ -320,7 +320,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:30",
@@ -350,7 +350,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -372,7 +372,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:25",
@@ -380,7 +380,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:50",
@@ -448,7 +448,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "17:55",
@@ -494,7 +494,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -530,7 +530,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -544,7 +544,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -558,7 +558,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -572,7 +572,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -594,7 +594,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -636,7 +636,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -730,7 +730,7 @@
           "screen": "シアター１２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:00",
@@ -738,7 +738,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -766,7 +766,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -780,28 +780,38 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
     {
-      "title": "【吹替】「カーズ」劇場公開20周年記念上映",
-      "duration_min": 117,
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
       "screenings": []
     },
     {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
+      "title": "【SCREENX with DolbyAtmos】超かぐや姫！",
+      "duration_min": 143,
       "screenings": []
     },
     {
-      "title": "八つ墓村",
-      "duration_min": 117,
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
       "screenings": []
     },
     {
-      "title": "【字幕】Michael／マイケル",
-      "duration_min": 133,
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "TWS VR CONCERT：RUSH ROAD",
+      "duration_min": 80,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
       "screenings": []
     },
     {
@@ -815,53 +825,18 @@
       "screenings": []
     },
     {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
+      "title": "時には懺悔を",
+      "duration_min": 130,
       "screenings": []
     },
     {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 142,
+      "title": "平行と垂直",
+      "duration_min": 118,
       "screenings": []
     },
     {
-      "title": "TWS VR CONCERT：RUSH ROAD",
-      "duration_min": 80,
-      "screenings": []
-    },
-    {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
-      "screenings": []
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos】超かぐや姫！",
-      "duration_min": 143,
-      "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 108,
-      "screenings": []
-    },
-    {
-      "title": "NCT 127 5TH TOUR 'NEO CITY: SEOUL - THE REDLINE' in CINEMAS",
-      "duration_min": 210,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】バックルームズ",
-      "duration_min": 127,
-      "screenings": []
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 142,
-      "screenings": []
-    },
-    {
-      "title": "TWS VR CONCERT：RUSH ROAD",
-      "duration_min": 80,
+      "title": "ルックバック",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -874,7 +849,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -921,5 +896,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-20T04:23:06.210453"
+  "scraped_at": "2026-09-20T11:27:08.727111"
 }
