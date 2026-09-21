@@ -502,7 +502,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -793,18 +793,34 @@
       ]
     },
     {
-      "title": "フライング・キスは現行犯逮捕！『キスは捜査のあとで』最終話・全国一斉ガサ入れSP",
-      "duration_min": 105,
-      "screenings": [
-        {
-          "start_time": "17:00",
-          "end_time": "18:45",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "sold_out"
-        }
-      ]
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "ルックバック",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 130,
+      "screenings": []
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 100,
+      "screenings": []
     },
     {
       "title": "GHOST黒キネマ『2 BIG TO RIG』終幕典礼！＿昇天の儀",
@@ -835,5 +851,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-21T12:46:35.167758"
+  "scraped_at": "2026-09-21T20:37:40.450859"
 }
