@@ -9,6 +9,20 @@
   "date": "2026-09-24",
   "movies": [
     {
+      "title": "アベンジャーズ/エンドゲーム:アンコール[字幕]",
+      "duration_min": 183,
+      "screenings": [
+        {
+          "start_time": "17:15",
+          "end_time": "20:25",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
       "duration_min": 142,
       "screenings": [
@@ -67,20 +81,6 @@
         {
           "start_time": "20:50",
           "end_time": "23:45",
-          "screen": "シアター1",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "アベンジャーズ/エンドゲーム:アンコール[字幕]",
-      "duration_min": 183,
-      "screenings": [
-        {
-          "start_time": "17:15",
-          "end_time": "20:25",
           "screen": "シアター1",
           "format": "2D",
           "language": "字幕",
@@ -339,5 +339,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-22T03:34:52.595441"
+  "scraped_at": "2026-09-22T11:03:46.622527"
 }

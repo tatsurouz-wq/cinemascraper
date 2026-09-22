@@ -169,7 +169,7 @@
       ]
     },
     {
-      "title": "縁の手紙（字幕版）",
+      "title": "縁の手紙（吹替版）",
       "duration_min": 97,
       "screenings": [
         {
@@ -177,15 +177,9 @@
           "end_time": "10:45",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "吹替",
           "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "縁の手紙（吹替版）",
-      "duration_min": 97,
-      "screenings": [
+        },
         {
           "start_time": "14:10",
           "end_time": "16:00",
@@ -745,5 +739,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-22T03:42:58.997409"
+  "scraped_at": "2026-09-22T11:11:20.166838"
 }

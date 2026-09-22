@@ -9,6 +9,20 @@
   "date": "2026-09-26",
   "movies": [
     {
+      "title": "栄光のバックホーム",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "8:55",
+          "end_time": "11:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "シャドウワーク",
       "duration_min": 129,
       "screenings": [
@@ -161,7 +175,7 @@
       ]
     },
     {
-      "title": "縁の手紙（字幕版）",
+      "title": "縁の手紙（吹替版）",
       "duration_min": 97,
       "screenings": [
         {
@@ -169,15 +183,9 @@
           "end_time": "11:05",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "吹替",
           "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "縁の手紙（吹替版）",
-      "duration_min": 97,
-      "screenings": [
+        },
         {
           "start_time": "14:10",
           "end_time": "16:00",
@@ -715,5 +723,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-22T03:42:30.942700"
+  "scraped_at": "2026-09-22T11:10:56.252814"
 }

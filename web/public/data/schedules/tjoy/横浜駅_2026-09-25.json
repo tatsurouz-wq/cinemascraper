@@ -9,13 +9,608 @@
   "date": "2026-09-25",
   "movies": [
     {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "11:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:15",
+          "end_time": "12:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:05",
+          "end_time": "13:35",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "15:30",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:50",
+          "end_time": "16:20",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "18:15",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "21:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:45",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:10",
+          "end_time": "15:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:25",
+          "end_time": "23:20",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【初日舞台挨拶中継】マッチング TRUE LOVE(PG12)",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "15:25",
+          "end_time": "18:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:57",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "藁にもすがる獣たち(PG12)",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "10:45",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:35",
+          "end_time": "12:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:45",
+          "end_time": "20:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:40",
+          "end_time": "15:30",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:20",
+          "end_time": "19:10",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "12:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-＜超炎上版＞(PG12)",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:30",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【INFINITY VISION・DolbyCinema・字幕】アベンジャーズ／エンドゲーム：アンコール",
+      "duration_min": 186,
+      "screenings": [
+        {
+          "start_time": "13:15",
+          "end_time": "16:35",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:20",
+          "end_time": "23:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
       "duration_min": 73,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "08:40",
+          "end_time": "10:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:30",
+          "end_time": "11:50",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:05",
+          "end_time": "13:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:45",
+          "end_time": "17:05",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:35",
+          "end_time": "20:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "超かぐや姫！復活上映",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "八つ墓村",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "12:35",
+          "end_time": "14:40",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "21:30",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ルックバック",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:15",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "16:15",
+          "end_time": "18:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】オデュッセイア",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "16:55",
+          "end_time": "20:00",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "5秒で完全犯罪を生成する方法",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "08:45",
+          "end_time": "10:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "11:30",
+          "end_time": "14:00",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:15",
+          "end_time": "16:45",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:35",
+          "end_time": "19:05",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "14:55",
+          "end_time": "17:10",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:25",
+          "end_time": "21:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
       "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
       "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "17:15",
+          "end_time": "19:20",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:45",
+          "end_time": "23:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "あの星が降る丘で、君とまた出会いたい。",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "21:45",
+          "end_time": "24:00",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "23:15",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "11:15",
+          "end_time": "13:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:15",
+          "end_time": "15:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:15",
+          "end_time": "17:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:25",
+          "end_time": "19:10",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:45",
+          "end_time": "21:30",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "22:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
       "screenings": []
     },
     {
@@ -24,18 +619,28 @@
       "screenings": []
     },
     {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "八つ墓村",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos】超かぐや姫！",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
-      "screenings": []
-    },
-    {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
       "screenings": []
     },
     {
@@ -44,35 +649,10 @@
       "screenings": []
     },
     {
-      "title": "【DolbyCinema・字幕】オデュッセイア",
-      "duration_min": 172,
-      "screenings": []
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
-      "screenings": []
-    },
-    {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
-    },
-    {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 73,
-      "screenings": []
-    },
-    {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
       "screenings": []
     }
   ],
-  "scraped_at": "2026-09-22T04:20:04.338796"
+  "scraped_at": "2026-09-22T11:46:38.869318"
 }

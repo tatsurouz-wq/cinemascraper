@@ -9,6 +9,220 @@
   "date": "2026-09-26",
   "movies": [
     {
+      "title": "我々は宇宙人",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "9:25",
+          "end_time": "11:35",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:05",
+          "end_time": "14:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "16:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:40",
+          "end_time": "19:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "22:45",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "8:30",
+          "end_time": "10:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:00",
+          "end_time": "12:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:30",
+          "end_time": "15:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:05",
+          "end_time": "18:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "20:30",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "23:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "新劇場版　銀魂　－吉原大炎上－（舞台挨拶中継）",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア（字幕版）",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "15:45",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:25",
+          "end_time": "19:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:20",
+          "end_time": "23:25",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア（吹替版）",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "8:15",
+          "end_time": "11:20",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（字幕版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "20:00",
+          "end_time": "22:20",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バックルームズ（吹替版）",
+      "duration_min": 126,
+      "screenings": [
+        {
+          "start_time": "16:55",
+          "end_time": "19:15",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "トイ・ストーリー５（吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "14:20",
+          "end_time": "16:15",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画クレヨンしんちゃん　奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "13:45",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "踊る大捜査線　Ｎ．Ｅ．Ｗ．　メトロポリスを駆け抜けろ！",
       "duration_min": 142,
       "screenings": [
@@ -467,5 +681,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-22T03:57:51.344232"
+  "scraped_at": "2026-09-22T11:25:36.196992"
 }

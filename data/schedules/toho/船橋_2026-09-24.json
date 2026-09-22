@@ -423,12 +423,12 @@
       ]
     },
     {
-      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
-      "duration_min": 145,
+      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
+      "duration_min": 127,
       "screenings": [
         {
-          "start_time": "8:15",
-          "end_time": "10:55",
+          "start_time": "17:50",
+          "end_time": "20:15",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -437,12 +437,12 @@
       ]
     },
     {
-      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
-      "duration_min": 127,
+      "title": "スパイダーマン：ブランド・ニュー・デイ（字幕版）",
+      "duration_min": 145,
       "screenings": [
         {
-          "start_time": "17:50",
-          "end_time": "20:15",
+          "start_time": "8:15",
+          "end_time": "10:55",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -525,20 +525,6 @@
       ]
     },
     {
-      "title": "時には懺悔を",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "17:00",
-          "end_time": "19:25",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "ブルーロック",
       "duration_min": 128,
       "screenings": [
@@ -559,6 +545,20 @@
         {
           "start_time": "12:50",
           "end_time": "15:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "時には懺悔を",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "17:00",
+          "end_time": "19:25",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -617,5 +617,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-22T03:58:52.346453"
+  "scraped_at": "2026-09-22T11:26:31.956491"
 }
