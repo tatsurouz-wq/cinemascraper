@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ新宿",
+    "area": "新宿",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/076/TNPI2000J01.do"
+  },
+  "date": "2026-09-28",
+  "movies": [
+    {
+      "title": "我々は宇宙人（舞台挨拶）",
+      "duration_min": 118,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "20:45",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-22T03:44:21.298267"
+}
