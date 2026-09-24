@@ -793,23 +793,8 @@
       ]
     },
     {
-      "title": "【INFINITY VISION・SCREENX with DolbyAtmos・字幕】アベンジャーズ／エンドゲーム：ア",
-      "duration_min": 186,
-      "screenings": []
-    },
-    {
       "title": "白鳥とコウモリ",
       "duration_min": 146,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
-      "duration_min": 145,
       "screenings": []
     },
     {
@@ -823,13 +808,13 @@
       "screenings": []
     },
     {
-      "title": "最終楽章 響け！ユーフォニアム　後編",
-      "duration_min": 128,
+      "title": "時には懺悔を",
+      "duration_min": 130,
       "screenings": []
     },
     {
-      "title": "時には懺悔を",
-      "duration_min": 130,
+      "title": "最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
       "screenings": []
     },
     {
@@ -843,16 +828,24 @@
       "screenings": []
     },
     {
-      "title": "GHOST黒キネマ『2 BIG TO RIG』終幕典礼！＿昇天の儀",
-      "duration_min": 115,
+      "title": "【上映記念舞台挨拶中継】新劇場版 銀魂 -吉原大炎上-＜超炎上版＞(PG12)",
+      "duration_min": 154,
       "screenings": [
         {
-          "start_time": "16:30",
-          "end_time": "18:25",
-          "screen": "シアター１３",
+          "start_time": "09:00",
+          "end_time": "11:50",
+          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "sold_out"
+          "availability": "available"
+        },
+        {
+          "start_time": "12:20",
+          "end_time": "14:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
         }
       ]
     },
@@ -871,5 +864,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-23T11:36:09.357894"
+  "scraped_at": "2026-09-24T11:54:52.409650"
 }
