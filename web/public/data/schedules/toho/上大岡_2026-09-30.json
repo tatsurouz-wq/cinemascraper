@@ -9,52 +9,6 @@
   "date": "2026-09-30",
   "movies": [
     {
-      "title": "マッチング　ＴＲＵＥ　ＬＯＶＥ",
-      "duration_min": 106,
-      "screenings": [
-        {
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "13:25",
-          "end_time": "15:25",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "15:50",
-          "end_time": "17:50",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:15",
-          "end_time": "20:15",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:40",
-          "end_time": "22:40",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "ハート・オブ・ビースト（字幕版）",
       "duration_min": 102,
       "screenings": [
@@ -96,6 +50,52 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "マッチング　ＴＲＵＥ　ＬＯＶＥ",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:25",
+          "end_time": "15:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:50",
+          "end_time": "17:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:15",
+          "end_time": "20:15",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:40",
+          "end_time": "22:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -555,5 +555,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-24T11:49:23.935693"
+  "scraped_at": "2026-09-26T04:27:01.616035"
 }

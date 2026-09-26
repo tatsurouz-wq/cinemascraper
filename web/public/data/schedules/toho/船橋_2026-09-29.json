@@ -569,20 +569,6 @@
       ]
     },
     {
-      "title": "ブルーロック",
-      "duration_min": 128,
-      "screenings": [
-        {
-          "start_time": "20:40",
-          "end_time": "23:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "キングダム　魂の決戦",
       "duration_min": 134,
       "screenings": [
@@ -597,15 +583,15 @@
       ]
     },
     {
-      "title": "トイ・ストーリー５（吹替版）",
-      "duration_min": 102,
+      "title": "ブルーロック",
+      "duration_min": 128,
       "screenings": [
         {
-          "start_time": "8:20",
-          "end_time": "10:15",
+          "start_time": "20:40",
+          "end_time": "23:00",
           "screen": "",
           "format": "2D",
-          "language": "吹替",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -637,7 +623,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "トイ・ストーリー５（吹替版）",
+      "duration_min": 102,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "10:15",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-09-24T11:35:58.219423"
+  "scraped_at": "2026-09-26T04:12:42.857928"
 }

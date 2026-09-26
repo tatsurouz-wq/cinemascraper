@@ -9,6 +9,20 @@
   "date": "2026-09-29",
   "movies": [
     {
+      "title": "『CASA』アナログ盤特別試聴会[ODS]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "20:45",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "KATY PERRY: THE LIFETIMES TOUR…[ODS",
       "duration_min": null,
       "screenings": [
@@ -93,20 +107,6 @@
           "format": "2D",
           "language": "日本語",
           "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "『CASA』アナログ盤特別試聴会[ODS]",
-      "duration_min": null,
-      "screenings": [
-        {
-          "start_time": "19:30",
-          "end_time": "20:45",
-          "screen": "シアター7",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
         }
       ]
     },
@@ -441,5 +441,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-24T11:12:30.199624"
+  "scraped_at": "2026-09-26T03:48:08.498822"
 }

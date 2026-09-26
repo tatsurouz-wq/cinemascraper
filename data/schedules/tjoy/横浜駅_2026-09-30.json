@@ -621,8 +621,48 @@
       ]
     },
     {
-      "title": "【字幕】スパイダーマン：ブランド・ニュー・デイ",
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema・字幕】オデュッセイア",
+      "duration_min": 172,
+      "screenings": []
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": []
+    },
+    {
+      "title": "藁にもすがる獣たち(PG12)",
+      "duration_min": 94,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
       "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
       "screenings": []
     },
     {
@@ -631,41 +671,14 @@
       "screenings": []
     },
     {
-      "title": "【吹替】トイ・ストーリー５",
-      "duration_min": 102,
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
       "screenings": []
     },
     {
-      "title": "八つ墓村",
-      "duration_min": 118,
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
       "screenings": []
-    },
-    {
-      "title": "SEKIRO:NO DEFEAT(PG12)",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "【初日舞台挨拶中継】マッチング TRUE LOVE(PG12)",
-      "duration_min": 142,
-      "screenings": [
-        {
-          "start_time": "15:25",
-          "end_time": "18:00",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        },
-        {
-          "start_time": "18:40",
-          "end_time": "20:57",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
     },
     {
       "title": "【上映記念舞台挨拶中継】新劇場版 銀魂 -吉原大炎上-＜超炎上版＞(PG12)",
@@ -677,7 +690,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "12:20",
@@ -685,10 +698,24 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【“なんとかなれーッ！”応援上映】映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:45",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
           "availability": "available"
         }
       ]
     }
   ],
-  "scraped_at": "2026-09-24T11:56:19.204944"
+  "scraped_at": "2026-09-26T04:34:38.199517"
 }
