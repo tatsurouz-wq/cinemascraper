@@ -1,0 +1,107 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-10-03",
+  "movies": [
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 120,
+      "screenings": []
+    },
+    {
+      "title": "【INFINITY VISION・SCREENX with DolbyAtmos・字幕】アベンジャーズ／エンドゲーム：ア",
+      "duration_min": 186,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】縁の手紙(PG12)",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "TVアニメ『薬屋のひとりごと』第３期 舞台挨拶付き先行上映会ライブビューイング",
+      "duration_min": 95,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "藁にもすがる獣たち(PG12)",
+      "duration_min": 95,
+      "screenings": []
+    },
+    {
+      "title": "襲名",
+      "duration_min": 97,
+      "screenings": []
+    },
+    {
+      "title": "【吹替】トイ・ストーリー５",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "八つ墓村",
+      "duration_min": 117,
+      "screenings": []
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": []
+    },
+    {
+      "title": "我々は宇宙人(PG12)",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "劇場版『RE:cycle of the PENGUINDRUM ［前編］君の列車は生存戦略』",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "TVアニメ『薬屋のひとりごと』第３期 舞台挨拶付き先行上映会ライブビューイング",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "14:00",
+          "end_time": "15:35",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T04:43:00.502757"
+}
