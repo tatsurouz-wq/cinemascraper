@@ -1,0 +1,99 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "T・ジョイ横浜",
+    "area": "横浜駅",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/t-joy_yokohama"
+  },
+  "date": "2026-10-04",
+  "movies": [
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "藁にもすがる獣たち(PG12)",
+      "duration_min": 94,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "[完成披露舞台挨拶中継]Vシネクスト「仮面ライダーカブト20th 天を継ぐもの」",
+      "duration_min": 100,
+      "screenings": [
+        {
+          "start_time": "17:30",
+          "end_time": "19:10",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "19:40",
+          "end_time": "21:12",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【“なんとかなれーッ！”応援上映】映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "19:00",
+          "end_time": "20:45",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-28T04:43:23.918625"
+}

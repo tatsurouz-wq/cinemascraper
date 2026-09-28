@@ -21,8 +21,24 @@
           "availability": "unknown"
         },
         {
+          "start_time": "11:50",
+          "end_time": "14:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "14:55",
           "end_time": "17:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:00",
+          "end_time": "20:40",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -34,28 +50,6 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ディスクロージャー・デイ（吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "11:50",
-          "end_time": "14:30",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:00",
-          "end_time": "20:40",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -547,5 +541,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-27T19:12:38.532245"
+  "scraped_at": "2026-09-28T04:16:06.338228"
 }
