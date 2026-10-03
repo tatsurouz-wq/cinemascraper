@@ -1,0 +1,27 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズプレミアム新宿",
+    "area": "プレミアム新宿",
+    "prefecture": "東京都",
+    "url": "https://109cinemas.net/premiumshinjuku/"
+  },
+  "date": "2026-10-09",
+  "movies": [
+    {
+      "title": "ガールズ&パンツァー…[最速上映][DolbyAtmos]",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "01:00",
+          "screen": "シアター3",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-03T04:02:04.155615"
+}

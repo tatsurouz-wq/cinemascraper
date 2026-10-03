@@ -9,6 +9,20 @@
   "date": "2026-10-03",
   "movies": [
     {
+      "title": "プロジェクトセカイ　６ｔｈ　Ａｎｎｉｖｅｒｓａｒｙ　感謝祭　ライブビューイング",
+      "duration_min": 210,
+      "screenings": [
+        {
+          "start_time": "12:30",
+          "end_time": "16:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "時給三〇〇円の死神",
       "duration_min": 119,
       "screenings": [
@@ -18,7 +32,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:10",
@@ -26,7 +40,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -64,7 +78,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "18:10",
@@ -94,7 +108,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:25",
@@ -140,7 +154,7 @@
           "screen": "",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:30",
@@ -162,7 +176,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:55",
@@ -200,7 +214,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:00",
@@ -208,7 +222,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:00",
@@ -260,7 +274,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:40",
@@ -268,7 +282,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:40",
@@ -298,7 +312,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -312,7 +326,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -354,7 +368,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:05",
@@ -362,7 +376,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -376,7 +390,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -418,7 +432,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -432,7 +446,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -474,7 +488,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:20",
@@ -496,7 +510,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:00",
@@ -534,10 +548,10 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-10-01T12:53:34.056643"
+  "scraped_at": "2026-10-03T04:21:29.255723"
 }

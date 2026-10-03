@@ -1,0 +1,148 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-10-09",
+  "movies": [
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ディスクロージャー・デイ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": []
+    },
+    {
+      "title": "沖晴くんの涙を殺して",
+      "duration_min": 123,
+      "screenings": []
+    },
+    {
+      "title": "時給三〇〇円の死神",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "我々は宇宙人(PG12)",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】バックルームズ",
+      "duration_min": 127,
+      "screenings": []
+    },
+    {
+      "title": "ママがもうこの世界にいなくても　私の命の日記",
+      "duration_min": 124,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 142,
+      "screenings": []
+    },
+    {
+      "title": "ファーストボイス",
+      "duration_min": 105,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyAtmos・字幕】ディスクロージャー・デイ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
+      "title": "ヒプノシスマイク -Division Rap Battle- 12th LIVE≪MIC AS ONE≫LV",
+      "duration_min": 195,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:15",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[DAY公演]からぴちパラダイスARENA TOUR 2026 ～シンフォニーエクスプレス～in Kアリーナ ライブビュ",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "12:00",
+          "end_time": "15:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "中島健人 ”IDOL1ST KENTY” ASIA TOUR 2026 全国47都道府県 映画館ライブビューイング",
+      "duration_min": 160,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "18:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[NIGHT公演]からぴちパラダイスARENA TOUR 2026 ～シンフォニーエクスプレス～in Kアリーナ ライブ",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター１３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【初日最速上映】【IMAX】ゴジラ-0.0",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:15",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-03T04:48:07.534412"
+}
