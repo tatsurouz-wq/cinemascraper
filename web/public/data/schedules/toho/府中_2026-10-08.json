@@ -85,6 +85,28 @@
       ]
     },
     {
+      "title": "ディスクロージャー・デイ（吹替版）",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "11:00",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "17:10",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ママがもうこの世界にいなくても　私の命の日記",
       "duration_min": 124,
       "screenings": [
@@ -126,28 +148,6 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ディスクロージャー・デイ（吹替版）",
-      "duration_min": 145,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "11:00",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:30",
-          "end_time": "17:10",
-          "screen": "",
-          "format": "2D",
-          "language": "吹替",
           "availability": "unknown"
         }
       ]
@@ -555,5 +555,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-05T04:40:14.515911"
+  "scraped_at": "2026-10-05T14:03:46.539103"
 }
