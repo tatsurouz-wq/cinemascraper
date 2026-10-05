@@ -9,6 +9,51 @@
   "date": "2026-10-11",
   "movies": [
     {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": []
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 73,
+      "screenings": []
+    },
+    {
+      "title": "八つ墓村",
+      "duration_min": 118,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ハート・オブ・ビースト",
+      "duration_min": 102,
+      "screenings": []
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": []
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": []
+    },
+    {
+      "title": "【DolbyCinema】最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": []
+    },
+    {
+      "title": "時給三〇〇円の死神",
+      "duration_min": 119,
+      "screenings": []
+    },
+    {
+      "title": "【字幕】ディスクロージャー・デイ",
+      "duration_min": 146,
+      "screenings": []
+    },
+    {
       "title": "【先行上映舞台挨拶中継】【DolbyCinema・字幕】DIGGER／ディガー",
       "duration_min": 184,
       "screenings": [
@@ -21,7 +66,21 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "『ガールズ＆パンツァー 最終章』第5話上映記念『最終章』第1話～第4話一挙上映＋第5話最速上映前夜祭",
+      "duration_min": 291,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "22:58",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-10-05T14:27:46.251817"
+  "scraped_at": "2026-10-05T22:33:33.341059"
 }
