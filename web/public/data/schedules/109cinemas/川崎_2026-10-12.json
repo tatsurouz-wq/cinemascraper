@@ -9,75 +9,15 @@
   "date": "2026-10-12",
   "movies": [
     {
-      "title": "DIGGER/ディガー[字幕]",
-      "duration_min": 129,
+      "title": "ALWAYS LALISA[ODS]",
+      "duration_min": 98,
       "screenings": [
         {
-          "start_time": "08:55",
-          "end_time": "11:15",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:25",
-          "end_time": "16:45",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:15",
-          "end_time": "22:35",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "DIGGER/ディガー[吹替]",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "14:00",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:30",
-          "end_time": "19:50",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "DIGGER/ディガー[IMAXレーザー・字幕]",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "11:55",
-          "end_time": "14:20",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "17:10",
-          "end_time": "19:35",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
+          "start_time": "14:30",
+          "end_time": "16:20",
+          "screen": "シアター1",
+          "format": "ScreenX",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -171,6 +111,80 @@
       ]
     },
     {
+      "title": "DIGGER/ディガー[字幕]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:15",
+          "end_time": "22:35",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[吹替]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "14:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:50",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[IMAXレーザー・字幕]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "11:55",
+          "end_time": "14:20",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:10",
+          "end_time": "19:35",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "汝、星のごとく",
       "duration_min": 135,
       "screenings": [
@@ -241,20 +255,6 @@
           "end_time": "21:05",
           "screen": "シアター9",
           "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "ALWAYS LALISA[ODS]",
-      "duration_min": 98,
-      "screenings": [
-        {
-          "start_time": "14:30",
-          "end_time": "16:20",
-          "screen": "シアター1",
-          "format": "ScreenX",
           "language": "日本語",
           "availability": "unknown"
         }
@@ -623,5 +623,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-06T05:11:48.366092"
+  "scraped_at": "2026-10-06T12:54:23.828741"
 }

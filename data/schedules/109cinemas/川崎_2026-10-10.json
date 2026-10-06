@@ -9,72 +9,6 @@
   "date": "2026-10-10",
   "movies": [
     {
-      "title": "DIGGER/ディガー[字幕]",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "08:55",
-          "end_time": "11:15",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "14:25",
-          "end_time": "16:45",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:35",
-          "end_time": "22:55",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "DIGGER/ディガー[吹替]",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "11:40",
-          "end_time": "14:00",
-          "screen": "シアター2",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
-      "title": "DIGGER/ディガー[IMAXレーザー・字幕]",
-      "duration_min": 129,
-      "screenings": [
-        {
-          "start_time": "13:05",
-          "end_time": "15:30",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:20",
-          "end_time": "20:45",
-          "screen": "シアター7",
-          "format": "IMAX",
-          "language": "字幕",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "バイオハザード[字幕]",
       "duration_min": 94,
       "screenings": [
@@ -157,6 +91,72 @@
           "end_time": "20:50",
           "screen": "シアター1",
           "format": "ScreenX",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[字幕]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:45",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "22:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[吹替]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "11:40",
+          "end_time": "14:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[IMAXレーザー・字幕]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "13:05",
+          "end_time": "15:30",
+          "screen": "シアター7",
+          "format": "IMAX",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:20",
+          "end_time": "20:45",
+          "screen": "シアター7",
+          "format": "IMAX",
           "language": "字幕",
           "availability": "unknown"
         }
@@ -585,5 +585,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-06T05:11:36.630557"
+  "scraped_at": "2026-10-06T12:54:12.997166"
 }
