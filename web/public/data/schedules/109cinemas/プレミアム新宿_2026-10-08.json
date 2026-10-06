@@ -9,6 +9,20 @@
   "date": "2026-10-08",
   "movies": [
     {
+      "title": "ガールズ&パンツァー…[前夜祭一挙上映[最速上映",
+      "duration_min": null,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "23:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "開戦前夜",
       "duration_min": null,
       "screenings": [
@@ -30,20 +44,6 @@
           "start_time": "14:35",
           "end_time": "17:00",
           "screen": "シアター8",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "ガールズ&パンツァー…[前夜祭一挙上映[最速上映",
-      "duration_min": null,
-      "screenings": [
-        {
-          "start_time": "18:00",
-          "end_time": "23:00",
-          "screen": "シアター2",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -389,5 +389,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-05T21:50:56.070101"
+  "scraped_at": "2026-10-06T05:08:29.445748"
 }

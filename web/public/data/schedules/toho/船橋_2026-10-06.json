@@ -32,7 +32,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:00",
@@ -40,7 +40,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:50",
@@ -78,7 +78,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:30",
@@ -86,7 +86,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:20",
@@ -94,7 +94,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:10",
@@ -124,7 +124,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "20:20",
@@ -160,7 +160,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "15:20",
@@ -212,7 +212,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "13:50",
@@ -220,7 +220,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "19:00",
@@ -250,7 +250,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "11:40",
@@ -258,7 +258,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:50",
@@ -296,7 +296,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "16:30",
@@ -318,21 +318,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "藁にもすがる獣たち",
-      "duration_min": 94,
-      "screenings": [
-        {
-          "start_time": "10:30",
-          "end_time": "12:20",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -346,7 +332,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "10:30",
@@ -354,7 +340,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:50",
@@ -362,7 +348,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:50",
@@ -384,7 +370,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "12:50",
@@ -392,7 +378,7 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -434,7 +420,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -448,7 +434,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -462,7 +448,7 @@
           "screen": "",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "17:40",
@@ -497,20 +483,6 @@
       ]
     },
     {
-      "title": "バックルームズ（字幕版）",
-      "duration_min": 126,
-      "screenings": [
-        {
-          "start_time": "18:10",
-          "end_time": "20:30",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
       "duration_min": 127,
       "screenings": [
@@ -525,16 +497,30 @@
       ]
     },
     {
-      "title": "さとこはいつも",
-      "duration_min": 138,
+      "title": "バックルームズ（字幕版）",
+      "duration_min": 126,
       "screenings": [
         {
-          "start_time": "8:50",
-          "end_time": "11:25",
+          "start_time": "18:10",
+          "end_time": "20:30",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "9:00",
+          "end_time": "11:40",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -553,16 +539,16 @@
       ]
     },
     {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "11:40",
+          "start_time": "11:10",
+          "end_time": "13:40",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -576,24 +562,38 @@
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
     {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
+      "title": "藁にもすがる獣たち",
+      "duration_min": 94,
       "screenings": [
         {
-          "start_time": "11:10",
-          "end_time": "13:40",
+          "start_time": "10:30",
+          "end_time": "12:20",
           "screen": "",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "さとこはいつも",
+      "duration_min": 138,
+      "screenings": [
+        {
+          "start_time": "8:50",
+          "end_time": "11:25",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
         }
       ]
     }
   ],
-  "scraped_at": "2026-10-05T22:12:21.241764"
+  "scraped_at": "2026-10-06T05:32:02.257973"
 }

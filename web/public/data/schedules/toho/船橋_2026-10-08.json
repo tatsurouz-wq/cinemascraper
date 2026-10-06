@@ -323,20 +323,6 @@
       ]
     },
     {
-      "title": "藁にもすがる獣たち",
-      "duration_min": 94,
-      "screenings": [
-        {
-          "start_time": "8:10",
-          "end_time": "10:00",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -517,6 +503,20 @@
       ]
     },
     {
+      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "20:10",
+          "end_time": "22:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "バックルームズ（字幕版）",
       "duration_min": 126,
       "screenings": [
@@ -531,15 +531,15 @@
       ]
     },
     {
-      "title": "Ｍｉｃｈａｅｌ／マイケル（ＭＶ付・字幕版）",
-      "duration_min": 127,
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
       "screenings": [
         {
-          "start_time": "20:10",
-          "end_time": "22:35",
+          "start_time": "9:00",
+          "end_time": "11:40",
           "screen": "",
           "format": "2D",
-          "language": "字幕",
+          "language": "日本語",
           "availability": "available"
         }
       ]
@@ -559,12 +559,12 @@
       ]
     },
     {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
+      "title": "キングダム　魂の決戦",
+      "duration_min": 134,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "11:40",
+          "start_time": "11:10",
+          "end_time": "13:40",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -587,12 +587,12 @@
       ]
     },
     {
-      "title": "キングダム　魂の決戦",
-      "duration_min": 134,
+      "title": "藁にもすがる獣たち",
+      "duration_min": 94,
       "screenings": [
         {
-          "start_time": "11:10",
-          "end_time": "13:40",
+          "start_time": "8:10",
+          "end_time": "10:00",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -601,5 +601,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-05T22:12:45.345210"
+  "scraped_at": "2026-10-06T05:32:27.008083"
 }
