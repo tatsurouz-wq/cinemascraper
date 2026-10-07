@@ -427,20 +427,6 @@
       ]
     },
     {
-      "title": "八つ墓村",
-      "duration_min": 117,
-      "screenings": [
-        {
-          "start_time": "8:20",
-          "end_time": "10:30",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "unknown"
-        }
-      ]
-    },
-    {
       "title": "オデュッセイア（字幕版）",
       "duration_min": 172,
       "screenings": [
@@ -531,7 +517,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "最終楽章　響け！ユーフォニアム　後編",
+      "duration_min": 127,
+      "screenings": [
+        {
+          "start_time": "8:20",
+          "end_time": "10:40",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-10-06T13:16:44.092893"
+  "scraped_at": "2026-10-07T05:02:21.537772"
 }
