@@ -181,14 +181,6 @@
       "duration_min": 145,
       "screenings": [
         {
-          "start_time": "09:50",
-          "end_time": "12:25",
-          "screen": "シアター5",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
           "start_time": "18:15",
           "end_time": "20:50",
           "screen": "シアター5",
@@ -208,6 +200,20 @@
           "screen": "シアター6",
           "format": "2D",
           "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナギダイアリー",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "12:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
           "availability": "unknown"
         }
       ]
@@ -371,5 +377,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-07T04:39:30.665612"
+  "scraped_at": "2026-10-09T12:43:57.448175"
 }

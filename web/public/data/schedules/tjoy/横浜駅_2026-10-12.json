@@ -9,68 +9,679 @@
   "date": "2026-10-12",
   "movies": [
     {
-      "title": "【字幕】ハート・オブ・ビースト",
-      "duration_min": 102,
-      "screenings": []
+      "title": "ガールズ＆パンツァー 最終章 第5話",
+      "duration_min": 56,
+      "screenings": [
+        {
+          "start_time": "14:40",
+          "end_time": "15:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:35",
+          "end_time": "18:35",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:50",
+          "end_time": "22:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "映画ちいかわ 人魚の島のひみつ",
-      "duration_min": 99,
-      "screenings": []
+      "title": "【DolbyCinema】ガールズ＆パンツァー 最終章 第5話",
+      "duration_min": 56,
+      "screenings": [
+        {
+          "start_time": "07:30",
+          "end_time": "08:35",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:35",
+          "end_time": "12:40",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "【字幕】Michael／マイケル",
+      "title": "汝、星のごとく(PG12)",
       "duration_min": 134,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "10:35",
+          "end_time": "13:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:15",
+          "end_time": "15:40",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:55",
+          "end_time": "18:20",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:35",
+          "end_time": "21:00",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:40",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "白鳥とコウモリ",
-      "duration_min": 145,
-      "screenings": []
+      "title": "どこよりも遠い場所にいる君へ",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "10:20",
+          "end_time": "12:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:50",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "ファーストボイス",
-      "duration_min": 105,
-      "screenings": []
+      "title": "【字幕】バイオハザード[R15+]",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "11:10",
+          "end_time": "12:50",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:30",
+          "end_time": "17:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:25",
+          "end_time": "19:05",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:20",
+          "end_time": "21:00",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "22:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】バイオハザード[R15+]",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "14:45",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[4K リバイバル上映]あぶない刑事",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "10:10",
+          "end_time": "12:00",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】DIGGER／ディガー",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "13:45",
+          "end_time": "16:05",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:20",
+          "end_time": "18:40",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:35",
+          "end_time": "23:55",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】DIGGER／ディガー",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "11:15",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【吹替】DIGGER／ディガー",
+      "duration_min": 130,
+      "screenings": [
+        {
+          "start_time": "07:45",
+          "end_time": "10:05",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
     },
     {
       "title": "ママがもうこの世界にいなくても　私の命の日記",
       "duration_min": 124,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "09:30",
+          "end_time": "11:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:55",
+          "end_time": "14:05",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:05",
+          "end_time": "15:15",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:25",
+          "end_time": "16:35",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "17:10",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "19:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:15",
+          "end_time": "21:25",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:50",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
-      "duration_min": 141,
-      "screenings": []
+      "title": "時給三〇〇円の死神",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "18:55",
+          "end_time": "21:00",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ファーストボイス",
+      "duration_min": 105,
+      "screenings": [
+        {
+          "start_time": "09:40",
+          "end_time": "11:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
       "title": "【字幕】ディスクロージャー・デイ",
       "duration_min": 146,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "12:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:45",
+          "end_time": "17:20",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:40",
+          "end_time": "19:15",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema・字幕】ディスクロージャー・デイ",
+      "duration_min": 146,
+      "screenings": [
+        {
+          "start_time": "21:20",
+          "end_time": "23:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "マッチング TRUE LOVE(PG12)",
+      "duration_min": 107,
+      "screenings": [
+        {
+          "start_time": "07:50",
+          "end_time": "09:40",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
       "title": "【字幕】ハート・オブ・ビースト",
       "duration_min": 102,
-      "screenings": []
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "14:30",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:05",
+          "end_time": "22:55",
+          "screen": "シアター２",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
     },
     {
-      "title": "【DolbyCinema・字幕】オデュッセイア",
-      "duration_min": 172,
-      "screenings": []
+      "title": "【INFINITY VISION・DolbyCinema・字幕】アベンジャーズ／エンドゲーム：アンコール",
+      "duration_min": 186,
+      "screenings": [
+        {
+          "start_time": "15:05",
+          "end_time": "18:25",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
+      "duration_min": 77,
+      "screenings": [
+        {
+          "start_time": "07:45",
+          "end_time": "09:10",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "09:30",
+          "end_time": "10:55",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "13:00",
+          "end_time": "14:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:00",
+          "end_time": "16:25",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
+      "duration_min": 141,
+      "screenings": [
+        {
+          "start_time": "07:30",
+          "end_time": "10:00",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "10:15",
+          "end_time": "12:45",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "15:55",
+          "end_time": "18:25",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:15",
+          "end_time": "23:45",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【DolbyCinema】最終楽章 響け！ユーフォニアム　後編",
+      "duration_min": 128,
+      "screenings": [
+        {
+          "start_time": "18:45",
+          "end_time": "21:00",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】オデュッセイア",
+      "duration_min": 173,
+      "screenings": [
+        {
+          "start_time": "18:40",
+          "end_time": "21:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "12:15",
+          "end_time": "14:45",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "08:15",
+          "end_time": "10:20",
+          "screen": "シアター７",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:35",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "07:30",
+          "end_time": "09:20",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
     },
     {
       "title": "映画ちいかわ 人魚の島のひみつ",
       "duration_min": 99,
-      "screenings": []
-    },
-    {
-      "title": "『ガールズ＆パンツァー 最終章』第5話上映記念『最終章』第1話～第4話一挙上映＋第5話最速上映前夜祭",
-      "duration_min": 291,
       "screenings": [
         {
-          "start_time": "18:00",
-          "end_time": "22:58",
-          "screen": "シアター７",
+          "start_time": "07:30",
+          "end_time": "09:15",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "11:45",
+          "end_time": "13:30",
+          "screen": "シアター１",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "12:50",
+          "end_time": "14:35",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:30",
+          "end_time": "19:15",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:15",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:55",
+          "end_time": "23:40",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 133,
+      "screenings": [
+        {
+          "start_time": "07:30",
+          "end_time": "09:50",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "[上映記念舞台挨拶中継]ガールズ＆パンツァー 最終章 第5話",
+      "duration_min": 96,
+      "screenings": [
+        {
+          "start_time": "08:55",
+          "end_time": "10:40",
+          "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
           "availability": "available"
@@ -90,7 +701,29 @@
           "availability": "available"
         }
       ]
+    },
+    {
+      "title": "【声優舞台挨拶中継】【吹替】バイオハザード[R15+]",
+      "duration_min": 124,
+      "screenings": [
+        {
+          "start_time": "14:40",
+          "end_time": "16:55",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        },
+        {
+          "start_time": "17:35",
+          "end_time": "19:39",
+          "screen": "シアター８",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-10-07T05:22:16.769342"
+  "scraped_at": "2026-10-09T13:26:49.185562"
 }

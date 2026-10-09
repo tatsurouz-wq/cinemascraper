@@ -1,0 +1,381 @@
+{
+  "theater": {
+    "chain": "109cinemas",
+    "name": "109シネマズ港北",
+    "area": "港北",
+    "prefecture": "神奈川県",
+    "url": "https://109cinemas.net/kohoku/"
+  },
+  "date": "2026-10-14",
+  "movies": [
+    {
+      "title": "バイオハザード[字幕]",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:45",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:10",
+          "end_time": "15:55",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:40",
+          "end_time": "23:25",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "バイオハザード[吹替]",
+      "duration_min": 94,
+      "screenings": [
+        {
+          "start_time": "12:05",
+          "end_time": "13:50",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "16:15",
+          "end_time": "18:00",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[字幕]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "10:15",
+          "end_time": "12:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:30",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "DIGGER/ディガー[吹替]",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "12:35",
+          "end_time": "14:55",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:55",
+          "end_time": "20:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "汝、星のごとく",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "09:50",
+          "end_time": "12:15",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:35",
+          "end_time": "23:00",
+          "screen": "シアター2",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ファーストボイス",
+      "duration_min": 106,
+      "screenings": [
+        {
+          "start_time": "12:40",
+          "end_time": "14:35",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ママがもうこの世界にいなくても…",
+      "duration_min": 125,
+      "screenings": [
+        {
+          "start_time": "12:45",
+          "end_time": "15:00",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "21:10",
+          "end_time": "23:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ディスクロージャー・デイ[字幕]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "15:20",
+          "end_time": "17:55",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ディスクロージャー・デイ[吹替]",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "18:15",
+          "end_time": "20:50",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ハート・オブ・ビースト[字幕]",
+      "duration_min": 101,
+      "screenings": [
+        {
+          "start_time": "11:45",
+          "end_time": "13:35",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ナギダイアリー",
+      "duration_min": 110,
+      "screenings": [
+        {
+          "start_time": "10:25",
+          "end_time": "12:25",
+          "screen": "シアター5",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ファーストライド[字幕]",
+      "duration_min": 116,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "20:25",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ!",
+      "duration_min": 142,
+      "screenings": [
+        {
+          "start_time": "09:45",
+          "end_time": "12:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "14:55",
+          "end_time": "17:30",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "17:50",
+          "end_time": "20:25",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "23:20",
+          "screen": "シアター3",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画名探偵プリキュア!不思議な庭と2人の秘密",
+      "duration_min": 71,
+      "screenings": [
+        {
+          "start_time": "10:00",
+          "end_time": "11:25",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "オデュッセイア[字幕]",
+      "duration_min": 172,
+      "screenings": [
+        {
+          "start_time": "18:20",
+          "end_time": "21:20",
+          "screen": "シアター1",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ルックバック",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "20:45",
+          "end_time": "22:35",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "白鳥とコウモリ",
+      "duration_min": 145,
+      "screenings": [
+        {
+          "start_time": "09:55",
+          "end_time": "12:30",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "13:55",
+          "end_time": "15:45",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "18:40",
+          "end_time": "20:30",
+          "screen": "シアター6",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "duration_min": 134,
+      "screenings": [
+        {
+          "start_time": "12:50",
+          "end_time": "15:15",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "Michael/マイケル[字幕]",
+      "duration_min": 133,
+      "screenings": [
+        {
+          "start_time": "15:35",
+          "end_time": "18:00",
+          "screen": "シアター7",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-09T12:44:03.961193"
+}

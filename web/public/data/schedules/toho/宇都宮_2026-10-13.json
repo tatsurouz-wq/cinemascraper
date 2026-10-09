@@ -9,6 +9,20 @@
   "date": "2026-10-13",
   "movies": [
     {
+      "title": "Ｔ－ＢＯＬＡＮ　ＬＡＳＴ　ＬＩＶＥ　ＦＩＮＡＬ　ＣＨＡＰＴＥＲ　２０２６．０８．１０",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "汝、星のごとく",
       "duration_min": 135,
       "screenings": [
@@ -617,5 +631,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-07T05:17:46.011051"
+  "scraped_at": "2026-10-09T13:22:02.451947"
 }

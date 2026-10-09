@@ -9,6 +9,20 @@
   "date": "2026-10-13",
   "movies": [
     {
+      "title": "Ｔ－ＢＯＬＡＮ　ＬＡＳＴ　ＬＩＶＥ　ＦＩＮＡＬ　ＣＨＡＰＴＥＲ　２０２６．０８．１０",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "（轟音上映）ガールズ＆パンツァー　最終章　第５話",
       "duration_min": 55,
       "screenings": [
@@ -487,5 +501,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-07T04:50:15.097815"
+  "scraped_at": "2026-10-09T12:54:26.183774"
 }
