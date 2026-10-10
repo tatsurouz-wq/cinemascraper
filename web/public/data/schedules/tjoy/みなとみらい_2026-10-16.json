@@ -1,0 +1,60 @@
+{
+  "theater": {
+    "chain": "tjoy",
+    "name": "横浜ブルク13",
+    "area": "みなとみらい",
+    "prefecture": "神奈川県",
+    "url": "https://tjoy.jp/yokohama_burg13"
+  },
+  "date": "2026-10-16",
+  "movies": [
+    {
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "duration_min": 99,
+      "screenings": []
+    },
+    {
+      "title": "T-BOLAN LAST LIVE FINAL CHAPTER 2026.08.10 NIPPON BUDOKAN",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "シアター１０",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "『僕のヒーローアカデミア』キャラクターマッチアップ名エピソード上映【轟焦凍×荼毘(轟燈矢)×エンデヴァー】",
+      "duration_min": 144,
+      "screenings": [
+        {
+          "start_time": "13:30",
+          "end_time": "16:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "title": "【初日最速上映】【IMAX】ゴジラ-0.0",
+      "duration_min": 135,
+      "screenings": [
+        {
+          "start_time": "00:00",
+          "end_time": "02:15",
+          "screen": "シアター７",
+          "format": "IMAX",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-10T12:43:38.093421"
+}

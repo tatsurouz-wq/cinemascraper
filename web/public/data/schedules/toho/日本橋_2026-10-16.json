@@ -1,0 +1,35 @@
+{
+  "theater": {
+    "chain": "toho",
+    "name": "TOHOシネマズ日本橋",
+    "area": "日本橋",
+    "prefecture": "東京都",
+    "url": "https://www.tohotheater.jp/net/schedule/073/TNPI2000J01.do"
+  },
+  "date": "2026-10-16",
+  "movies": [
+    {
+      "title": "ポケモン・ザ・ムービー「光輪（リング）の超魔神フーパ」",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "13:00",
+          "end_time": "14:50",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        },
+        {
+          "start_time": "18:30",
+          "end_time": "20:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-10T12:11:53.849749"
+}

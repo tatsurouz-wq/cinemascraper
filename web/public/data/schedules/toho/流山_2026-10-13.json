@@ -9,6 +9,20 @@
   "date": "2026-10-13",
   "movies": [
     {
+      "title": "Ｔ－ＢＯＬＡＮ　ＬＡＳＴ　ＬＩＶＥ　ＦＩＮＡＬ　ＣＨＡＰＴＥＲ　２０２６．０８．１０",
+      "duration_min": 180,
+      "screenings": [
+        {
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
+    },
+    {
       "title": "映画ちいかわ　人魚の島のひみつ",
       "duration_min": 99,
       "screenings": [
@@ -661,5 +675,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-09T13:10:54.103731"
+  "scraped_at": "2026-10-10T12:28:45.267940"
 }
