@@ -18,7 +18,73 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【SCREENX with DolbyAtmos・字幕】バイオハザード[R15+]",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "11:05",
+          "end_time": "12:55",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "21:20",
+          "end_time": "23:10",
+          "screen": "シアター１２",
+          "format": "ScreenX",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【字幕】バイオハザード[R15+]",
+      "duration_min": 95,
+      "screenings": [
+        {
+          "start_time": "08:50",
+          "end_time": "10:40",
+          "screen": "シアター５",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "18:50",
+          "end_time": "20:40",
+          "screen": "シアター３",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "【声優舞台挨拶中継】【吹替】バイオハザード[R15+]",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "14:40",
+          "end_time": "16:55",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
+        },
+        {
+          "start_time": "17:35",
+          "end_time": "19:40",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "sold_out"
         }
       ]
     },
@@ -48,7 +114,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:30",
@@ -56,7 +122,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:20",
@@ -64,7 +130,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -100,7 +166,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -122,73 +188,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "吹替",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【SCREENX with DolbyAtmos・字幕】バイオハザード[R15+]",
-      "duration_min": 95,
-      "screenings": [
-        {
-          "start_time": "11:05",
-          "end_time": "12:55",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "字幕",
           "availability": "sold_out"
-        },
-        {
-          "start_time": "21:20",
-          "end_time": "23:10",
-          "screen": "シアター１２",
-          "format": "ScreenX",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【字幕】バイオハザード[R15+]",
-      "duration_min": 95,
-      "screenings": [
-        {
-          "start_time": "08:50",
-          "end_time": "10:40",
-          "screen": "シアター５",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "sold_out"
-        },
-        {
-          "start_time": "18:50",
-          "end_time": "20:40",
-          "screen": "シアター３",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "【声優舞台挨拶中継】【吹替】バイオハザード[R15+]",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "14:40",
-          "end_time": "16:55",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
-        },
-        {
-          "start_time": "17:35",
-          "end_time": "19:40",
-          "screen": "シアター６",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "available"
         }
       ]
     },
@@ -232,7 +232,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "18:50",
@@ -240,7 +240,7 @@
           "screen": "シアター１１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "20:00",
@@ -248,7 +248,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:20",
@@ -286,7 +286,21 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
+        }
+      ]
+    },
+    {
+      "title": "『ミッシェル・ガン・エレファント “THEE MOVIE” -LAST HEAVEN 031011-』幕張ブーストver",
+      "duration_min": 120,
+      "screenings": [
+        {
+          "start_time": "11:50",
+          "end_time": "14:00",
+          "screen": "シアター６",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "sold_out"
         }
       ]
     },
@@ -306,20 +320,6 @@
           "start_time": "17:30",
           "end_time": "19:25",
           "screen": "シアター１",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
-      "title": "『ミッシェル・ガン・エレファント “THEE MOVIE” -LAST HEAVEN 031011-』幕張ブーストver",
-      "duration_min": 120,
-      "screenings": [
-        {
-          "start_time": "11:50",
-          "end_time": "14:00",
-          "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
           "availability": "sold_out"
@@ -344,7 +344,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -358,7 +358,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -396,7 +396,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:25",
@@ -404,7 +404,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -426,7 +426,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -454,7 +454,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -484,7 +484,7 @@
           "screen": "シアター２",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -492,7 +492,7 @@
           "screen": "シアター３",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -506,7 +506,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -534,7 +534,7 @@
           "screen": "シアター５",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -590,7 +590,7 @@
           "screen": "シアター４",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -604,7 +604,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -634,7 +634,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         },
         {
           "start_time": "21:00",
@@ -642,7 +642,7 @@
           "screen": "シアター１３",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -656,7 +656,7 @@
           "screen": "シアター１２",
           "format": "ScreenX",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -678,7 +678,7 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -692,7 +692,7 @@
           "screen": "シアター９",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -734,7 +734,7 @@
           "screen": "シアター６",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -748,7 +748,7 @@
           "screen": "シアター１",
           "format": "2D",
           "language": "字幕",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
     },
@@ -806,7 +806,7 @@
           "screen": "シアター１０",
           "format": "2D",
           "language": "日本語",
-          "availability": "unknown"
+          "availability": "sold_out"
         }
       ]
     },
@@ -820,69 +820,9 @@
           "screen": "シアター８",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "sold_out"
         }
       ]
-    },
-    {
-      "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
-      "duration_min": 77,
-      "screenings": []
-    },
-    {
-      "title": "【声優舞台挨拶中継】【吹替】バイオハザード[R15+]",
-      "duration_min": 120,
-      "screenings": []
-    },
-    {
-      "title": "【INFINITY VISION・SCREENX with DolbyAtmos・字幕】アベンジャーズ／エンドゲーム：ア",
-      "duration_min": 186,
-      "screenings": []
-    },
-    {
-      "title": "汝、星のごとく(PG12)",
-      "duration_min": 135,
-      "screenings": []
-    },
-    {
-      "title": "【日本語字幕付】我々は宇宙人(PG12)",
-      "duration_min": 118,
-      "screenings": []
-    },
-    {
-      "title": "どこよりも遠い場所にいる君へ",
-      "duration_min": 117,
-      "screenings": []
-    },
-    {
-      "title": "【吹替】DIGGER／ディガー",
-      "duration_min": 130,
-      "screenings": []
-    },
-    {
-      "title": "ママがもうこの世界にいなくても　私の命の日記",
-      "duration_min": 124,
-      "screenings": []
-    },
-    {
-      "title": "ファーストボイス",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "マッチング TRUE LOVE(PG12)",
-      "duration_min": 107,
-      "screenings": []
-    },
-    {
-      "title": "ガールズ＆パンツァー 最終章 第5話",
-      "duration_min": 56,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ディスクロージャー・デイ",
-      "duration_min": 146,
-      "screenings": []
     },
     {
       "title": "T-BOLAN LAST LIVE FINAL CHAPTER 2026.08.10 NIPPON BUDOKAN",
@@ -927,5 +867,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-11T05:02:45.011041"
+  "scraped_at": "2026-10-11T12:55:19.175305"
 }
