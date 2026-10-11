@@ -464,7 +464,7 @@
           "screen": "シアター10",
           "format": "IMAX",
           "language": "字幕",
-          "availability": "available"
+          "availability": "unknown"
         }
       ]
     },
@@ -534,7 +534,7 @@
           "screen": "シアター3",
           "format": "2D",
           "language": "日本語",
-          "availability": "available"
+          "availability": "unknown"
         },
         {
           "start_time": "14:25",
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-10T12:03:30.572981"
+  "scraped_at": "2026-10-11T04:22:59.350190"
 }
