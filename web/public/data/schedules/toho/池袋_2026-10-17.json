@@ -9,20 +9,6 @@
   "date": "2026-10-17",
   "movies": [
     {
-      "title": "映画ちいかわ　人魚の島のひみつ（自動制御ペンライト演出付き）（発声ＯＫ）",
-      "duration_min": 99,
-      "screenings": [
-        {
-          "start_time": "16:00",
-          "end_time": "17:55",
-          "screen": "",
-          "format": "2D",
-          "language": "日本語",
-          "availability": "available"
-        }
-      ]
-    },
-    {
       "title": "僕のヒーローアカデミア　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　１０ｔｈ",
       "duration_min": 150,
       "screenings": [
@@ -35,7 +21,21 @@
           "availability": "unknown"
         }
       ]
+    },
+    {
+      "title": "映画ちいかわ　人魚の島のひみつ（自動制御ペンライト演出付き）（発声ＯＫ）",
+      "duration_min": 99,
+      "screenings": [
+        {
+          "start_time": "16:00",
+          "end_time": "17:55",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-10-11T19:32:43.476896"
+  "scraped_at": "2026-10-12T04:45:26.937504"
 }
