@@ -9,6 +9,36 @@
   "date": "2026-10-14",
   "movies": [
     {
+      "title": "東京ドーム公演記念　乗車準備会　僕たちは、超特急です！！！！！！！！！",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "バイオハザード（字幕版）",
       "duration_min": 94,
       "screenings": [
@@ -509,5 +539,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-12T22:47:06.950681"
+  "scraped_at": "2026-10-13T06:06:28.285355"
 }

@@ -9,6 +9,20 @@
   "date": "2026-10-14",
   "movies": [
     {
+      "title": "東京ドーム公演記念　乗車準備会　僕たちは、超特急です！！！！！！！！！",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:08",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "バイオハザード（ＩＭＡＸレーザー・字幕版）",
       "duration_min": 94,
       "screenings": [
@@ -749,5 +763,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-12T22:32:41.946327"
+  "scraped_at": "2026-10-13T05:50:09.336742"
 }

@@ -209,6 +209,20 @@
       ]
     },
     {
+      "title": "[1014]東京ドーム公演記念 乗車…[ODS",
+      "duration_min": 90,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "シアター9",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ファーストボイス",
       "duration_min": 106,
       "screenings": [
@@ -519,5 +533,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-12T22:29:20.306356"
+  "scraped_at": "2026-10-13T05:46:42.819404"
 }

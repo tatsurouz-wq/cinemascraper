@@ -9,6 +9,36 @@
   "date": "2026-10-14",
   "movies": [
     {
+      "title": "東京ドーム公演記念　乗車準備会　僕たちは、超特急です！！！！！！！！！",
+      "duration_min": 98,
+      "screenings": [
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "19:30",
+          "end_time": "21:10",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ＤＩＧＧＥＲ／ディガー（Ｄｏｌｂｙ－ＡＴＭＯＳ・字幕版）",
       "duration_min": 129,
       "screenings": [
@@ -485,5 +515,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-12T22:37:30.707127"
+  "scraped_at": "2026-10-13T05:55:35.864329"
 }
