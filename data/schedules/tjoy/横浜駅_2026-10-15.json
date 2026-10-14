@@ -661,50 +661,33 @@
       ]
     },
     {
-      "title": "汝、星のごとく(PG12)",
-      "duration_min": 134,
-      "screenings": []
+      "title": "【DolbyAtmos】椎名林檎 党大会 令和八年列島巡回",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "09:55",
+          "end_time": "11:55",
+          "screen": "シアター４",
+          "format": "Dolby Atmos",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     },
     {
-      "title": "【字幕】オデュッセイア",
-      "duration_min": 173,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】DIGGER／ディガー",
-      "duration_min": 129,
-      "screenings": []
-    },
-    {
-      "title": "ママがもうこの世界にいなくても　私の命の日記",
-      "duration_min": 124,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】ディスクロージャー・デイ",
-      "duration_min": 146,
-      "screenings": []
-    },
-    {
-      "title": "ファーストボイス",
-      "duration_min": 105,
-      "screenings": []
-    },
-    {
-      "title": "どこよりも遠い場所にいる君へ",
-      "duration_min": 116,
-      "screenings": []
-    },
-    {
-      "title": "【字幕】バイオハザード[R15+]",
-      "duration_min": 94,
-      "screenings": []
-    },
-    {
-      "title": "【DolbyCinema】ガールズ＆パンツァー 最終章 第5話",
-      "duration_min": 56,
-      "screenings": []
+      "title": "椎名林檎 党大会 令和八年列島巡回",
+      "duration_min": 115,
+      "screenings": [
+        {
+          "start_time": "09:15",
+          "end_time": "11:15",
+          "screen": "シアター９",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "available"
+        }
+      ]
     }
   ],
-  "scraped_at": "2026-10-13T06:26:44.258811"
+  "scraped_at": "2026-10-14T19:56:05.275266"
 }

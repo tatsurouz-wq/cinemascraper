@@ -59,16 +59,16 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "12:35",
-          "end_time": "14:50",
+          "start_time": "13:00",
+          "end_time": "15:15",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "17:30",
-          "end_time": "19:45",
+          "start_time": "18:00",
+          "end_time": "20:15",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -111,8 +111,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "11:10",
-          "end_time": "13:25",
+          "start_time": "11:15",
+          "end_time": "13:30",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -245,16 +245,8 @@
       "duration_min": 94,
       "screenings": [
         {
-          "start_time": "15:15",
-          "end_time": "17:05",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:10",
-          "end_time": "22:00",
+          "start_time": "15:45",
+          "end_time": "17:35",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -267,16 +259,16 @@
       "duration_min": 94,
       "screenings": [
         {
-          "start_time": "8:55",
-          "end_time": "10:45",
+          "start_time": "9:00",
+          "end_time": "10:50",
           "screen": "",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "16:05",
-          "end_time": "17:55",
+          "start_time": "16:15",
+          "end_time": "18:05",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -289,16 +281,24 @@
       "duration_min": 94,
       "screenings": [
         {
-          "start_time": "13:50",
-          "end_time": "15:40",
+          "start_time": "14:00",
+          "end_time": "15:50",
           "screen": "",
           "format": "2D",
           "language": "吹替",
           "availability": "unknown"
         },
         {
-          "start_time": "21:00",
-          "end_time": "22:50",
+          "start_time": "18:30",
+          "end_time": "20:20",
+          "screen": "",
+          "format": "2D",
+          "language": "吹替",
+          "availability": "unknown"
+        },
+        {
+          "start_time": "20:45",
+          "end_time": "22:35",
           "screen": "",
           "format": "2D",
           "language": "吹替",
@@ -313,14 +313,6 @@
         {
           "start_time": "14:45",
           "end_time": "17:10",
-          "screen": "",
-          "format": "2D",
-          "language": "字幕",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "20:20",
-          "end_time": "22:45",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -437,8 +429,8 @@
       "duration_min": 119,
       "screenings": [
         {
-          "start_time": "18:20",
-          "end_time": "20:35",
+          "start_time": "17:35",
+          "end_time": "19:50",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -589,8 +581,8 @@
       "duration_min": 172,
       "screenings": [
         {
-          "start_time": "9:00",
-          "end_time": "12:10",
+          "start_time": "9:25",
+          "end_time": "12:35",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -661,8 +653,22 @@
       "duration_min": 127,
       "screenings": [
         {
-          "start_time": "17:35",
-          "end_time": "19:55",
+          "start_time": "20:15",
+          "end_time": "22:35",
+          "screen": "",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "ＤＩＧＧＥＲ／ディガー（ＩＭＡＸレーザー・字幕版）",
+      "duration_min": 129,
+      "screenings": [
+        {
+          "start_time": "20:40",
+          "end_time": "23:05",
           "screen": "",
           "format": "2D",
           "language": "字幕",
@@ -671,5 +677,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-13T06:11:53.106987"
+  "scraped_at": "2026-10-14T19:40:16.047855"
 }
