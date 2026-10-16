@@ -164,7 +164,7 @@
       "screenings": [
         {
           "start_time": "08:45",
-          "end_time": "11:00",
+          "end_time": "11:05",
           "screen": "シアター9",
           "format": "IMAX",
           "language": "字幕",
@@ -349,6 +349,14 @@
       "duration_min": 145,
       "screenings": [
         {
+          "start_time": "08:55",
+          "end_time": "11:35",
+          "screen": "シアター4",
+          "format": "2D",
+          "language": "字幕",
+          "availability": "unknown"
+        },
+        {
           "start_time": "15:00",
           "end_time": "17:40",
           "screen": "シアター4",
@@ -529,5 +537,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-14T19:14:15.127282"
+  "scraped_at": "2026-10-16T15:16:38.134210"
 }

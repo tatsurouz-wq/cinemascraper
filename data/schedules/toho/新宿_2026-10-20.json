@@ -9,6 +9,20 @@
   "date": "2026-10-20",
   "movies": [
     {
+      "title": "時給三〇〇円の死神（舞台挨拶）",
+      "duration_min": 119,
+      "screenings": [
+        {
+          "start_time": "18:30",
+          "end_time": "21:20",
+          "screen": "",
+          "format": "2D",
+          "language": "日本語",
+          "availability": "unknown"
+        }
+      ]
+    },
+    {
       "title": "ストリートファイター／ザ・ムービー（ＩＭＡＸレーザー・字幕版）",
       "duration_min": 120,
       "screenings": [
@@ -733,5 +747,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-14T19:21:50.155128"
+  "scraped_at": "2026-10-16T15:23:37.973680"
 }

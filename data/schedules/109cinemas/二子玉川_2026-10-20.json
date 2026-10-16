@@ -27,16 +27,16 @@
       "duration_min": 120,
       "screenings": [
         {
-          "start_time": "15:40",
-          "end_time": "17:50",
+          "start_time": "15:45",
+          "end_time": "17:55",
           "screen": "シアター3",
           "format": "2D",
           "language": "字幕",
           "availability": "unknown"
         },
         {
-          "start_time": "20:50",
-          "end_time": "23:00",
+          "start_time": "20:55",
+          "end_time": "23:05",
           "screen": "シアター3",
           "format": "2D",
           "language": "字幕",
@@ -57,16 +57,8 @@
           "availability": "unknown"
         },
         {
-          "start_time": "13:05",
-          "end_time": "15:15",
-          "screen": "シアター3",
-          "format": "2D",
-          "language": "吹替",
-          "availability": "unknown"
-        },
-        {
-          "start_time": "18:15",
-          "end_time": "20:25",
+          "start_time": "18:20",
+          "end_time": "20:30",
           "screen": "シアター3",
           "format": "2D",
           "language": "吹替",
@@ -565,5 +557,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-14T19:13:30.514321"
+  "scraped_at": "2026-10-16T15:15:57.434965"
 }

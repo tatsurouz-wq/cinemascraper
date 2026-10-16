@@ -253,8 +253,8 @@
       "duration_min": 150,
       "screenings": [
         {
-          "start_time": "9:30",
-          "end_time": "12:15",
+          "start_time": "9:15",
+          "end_time": "12:00",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -575,8 +575,8 @@
       "duration_min": 142,
       "screenings": [
         {
-          "start_time": "12:30",
-          "end_time": "15:05",
+          "start_time": "12:20",
+          "end_time": "14:55",
           "screen": "",
           "format": "2D",
           "language": "日本語",
@@ -799,5 +799,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-10-14T19:46:54.636912"
+  "scraped_at": "2026-10-16T15:49:24.857015"
 }
